@@ -1,0 +1,158 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-01-07T20:32:39.013Z",
+  "tiers": [
+    {
+      "id": "basic",
+      "name": "Survival Core",
+      "description": "Essential knowledge for immediate survival scenarios.",
+      "sizeBytes": 6898196,
+      "articleCount": 13,
+      "packages": [
+        "survival-essentials",
+        "first-aid-field",
+        "water-purification",
+        "stoic-wisdom"
+      ],
+      "minAppVersion": "1.0.0"
+    },
+    {
+      "id": "medium",
+      "name": "Knowledge Base",
+      "description": "Expanded library with philosophy, history, and deeper scientific texts.",
+      "sizeBytes": 7042074,
+      "articleCount": 12,
+      "packages": [
+        "civic-foundations",
+        "scientific-canon"
+      ],
+      "minAppVersion": "1.0.0",
+      "requiresTier": "basic"
+    },
+    {
+      "id": "large",
+      "name": "Comprehensive",
+      "description": "In-depth technical manuals, complete classic texts, and specialized knowledge.",
+      "sizeBytes": 0,
+      "articleCount": 0,
+      "packages": [],
+      "minAppVersion": "1.0.0",
+      "requiresTier": "medium"
+    },
+    {
+      "id": "max",
+      "name": "Complete Vault",
+      "description": "The entire Codex collection.",
+      "sizeBytes": 0,
+      "articleCount": 0,
+      "packages": [],
+      "minAppVersion": "1.0.0",
+      "requiresTier": "large"
+    }
+  ],
+  "packages": [
+    {
+      "id": "survival-essentials",
+      "name": "Survival Essentials",
+      "description": "Core texts on shelter, agriculture, and self-reliance.",
+      "category": "survival",
+      "icon": "tent",
+      "sizeBytes": 297516,
+      "articleCount": 1,
+      "articleIds": [
+        "28255"
+      ],
+      "bundleUrl": "/bundles/survival-essentials.zip",
+      "sha256": ""
+    },
+    {
+      "id": "first-aid-field",
+      "name": "Field First Aid",
+      "description": "Emergency medical procedures with minimal equipment.",
+      "category": "survival",
+      "icon": "heart-pulse",
+      "sizeBytes": 297516,
+      "articleCount": 1,
+      "articleIds": [
+        "28255"
+      ],
+      "bundleUrl": "/bundles/first-aid-field.zip",
+      "sha256": ""
+    },
+    {
+      "id": "water-purification",
+      "name": "Water Purification",
+      "description": "Comprehensive guide to safe water in any environment.",
+      "category": "survival",
+      "icon": "droplet",
+      "sizeBytes": 297516,
+      "articleCount": 1,
+      "articleIds": [
+        "28255"
+      ],
+      "bundleUrl": "/bundles/water-purification.zip",
+      "sha256": ""
+    },
+    {
+      "id": "stoic-wisdom",
+      "name": "Stoic Wisdom",
+      "description": "Timeless philosophy for maintaining resilience in crisis.",
+      "category": "philosophy",
+      "icon": "scroll",
+      "sizeBytes": 6005648,
+      "articleCount": 10,
+      "articleIds": [
+        "1228",
+        "14339",
+        "14753",
+        "1497",
+        "2680",
+        "30155",
+        "45109",
+        "4705",
+        "5669",
+        "5827"
+      ],
+      "bundleUrl": "/bundles/stoic-wisdom.zip",
+      "sha256": ""
+    },
+    {
+      "id": "civic-foundations",
+      "name": "Civic Foundations",
+      "description": "Blueprints for governance, law, and social order.",
+      "category": "governance",
+      "icon": "columns",
+      "sizeBytes": 6078985,
+      "articleCount": 10,
+      "articleIds": [
+        "1232",
+        "12668",
+        "1404",
+        "1656",
+        "17405",
+        "3207",
+        "4217",
+        "7370",
+        "815",
+        "8492"
+      ],
+      "bundleUrl": "/bundles/civic-foundations.zip",
+      "sha256": ""
+    },
+    {
+      "id": "scientific-canon",
+      "name": "Scientific Canon",
+      "description": "Foundational works that defined modern science.",
+      "category": "science",
+      "icon": "flask",
+      "sizeBytes": 963089,
+      "articleCount": 2,
+      "articleIds": [
+        "10616",
+        "14725"
+      ],
+      "bundleUrl": "/bundles/scientific-canon.zip",
+      "sha256": ""
+    }
+  ]
+}
