@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "lastUpdated": "2026-01-08T15:54:54.581Z",
+  "lastUpdated": "2026-01-08T16:32:25.927Z",
   "availableLanguages": [
     "en",
     "es"
@@ -67,6 +67,12 @@
         "20795",
         "28255"
       ],
+      "articleIdsByLanguage": {
+        "es": [
+          "27738",
+          "69552"
+        ]
+      },
       "availableLanguages": [
         "en",
         "es"
@@ -86,6 +92,12 @@
         "20795",
         "28255"
       ],
+      "articleIdsByLanguage": {
+        "es": [
+          "27738",
+          "69552"
+        ]
+      },
       "availableLanguages": [
         "en",
         "es"
@@ -105,6 +117,12 @@
         "20795",
         "28255"
       ],
+      "articleIdsByLanguage": {
+        "es": [
+          "27738",
+          "69552"
+        ]
+      },
       "availableLanguages": [
         "en",
         "es"
@@ -132,6 +150,13 @@
         "5669",
         "5827"
       ],
+      "articleIdsByLanguage": {
+        "es": [
+          "5201",
+          "57303",
+          "67092"
+        ]
+      },
       "availableLanguages": [
         "en",
         "es"
@@ -160,6 +185,12 @@
         "815",
         "8492"
       ],
+      "articleIdsByLanguage": {
+        "es": [
+          "15725",
+          "2000"
+        ]
+      },
       "availableLanguages": [
         "en",
         "es"
@@ -181,6 +212,11 @@
         "14725",
         "30155"
       ],
+      "articleIdsByLanguage": {
+        "es": [
+          "58221"
+        ]
+      },
       "availableLanguages": [
         "en",
         "es"
