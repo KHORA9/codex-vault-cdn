@@ -1,13 +1,16 @@
 {
-  "version": 2,
-  "lastUpdated": "2026-01-07T20:32:39.013Z",
+  "version": 3,
+  "lastUpdated": "2026-01-08T15:04:09.368Z",
+  "availableLanguages": [
+    "en"
+  ],
   "tiers": [
     {
       "id": "basic",
       "name": "Survival Core",
       "description": "Essential knowledge for immediate survival scenarios.",
-      "sizeBytes": 6898196,
-      "articleCount": 13,
+      "sizeBytes": 7478570,
+      "articleCount": 16,
       "packages": [
         "survival-essentials",
         "first-aid-field",
@@ -20,8 +23,8 @@
       "id": "medium",
       "name": "Knowledge Base",
       "description": "Expanded library with philosophy, history, and deeper scientific texts.",
-      "sizeBytes": 7042074,
-      "articleCount": 12,
+      "sizeBytes": 9497968,
+      "articleCount": 15,
       "packages": [
         "civic-foundations",
         "scientific-canon"
@@ -57,10 +60,14 @@
       "description": "Core texts on shelter, agriculture, and self-reliance.",
       "category": "survival",
       "icon": "tent",
-      "sizeBytes": 297516,
-      "articleCount": 1,
+      "sizeBytes": 490974,
+      "articleCount": 2,
       "articleIds": [
+        "gutenberg-20795",
         "28255"
+      ],
+      "availableLanguages": [
+        "en"
       ],
       "bundleUrl": "/bundles/survival-essentials.zip",
       "sha256": ""
@@ -71,10 +78,14 @@
       "description": "Emergency medical procedures with minimal equipment.",
       "category": "survival",
       "icon": "heart-pulse",
-      "sizeBytes": 297516,
-      "articleCount": 1,
+      "sizeBytes": 490974,
+      "articleCount": 2,
       "articleIds": [
+        "gutenberg-20795",
         "28255"
+      ],
+      "availableLanguages": [
+        "en"
       ],
       "bundleUrl": "/bundles/first-aid-field.zip",
       "sha256": ""
@@ -85,10 +96,14 @@
       "description": "Comprehensive guide to safe water in any environment.",
       "category": "survival",
       "icon": "droplet",
-      "sizeBytes": 297516,
-      "articleCount": 1,
+      "sizeBytes": 490974,
+      "articleCount": 2,
       "articleIds": [
+        "gutenberg-20795",
         "28255"
+      ],
+      "availableLanguages": [
+        "en"
       ],
       "bundleUrl": "/bundles/water-purification.zip",
       "sha256": ""
@@ -113,6 +128,9 @@
         "5669",
         "5827"
       ],
+      "availableLanguages": [
+        "en"
+      ],
       "bundleUrl": "/bundles/stoic-wisdom.zip",
       "sha256": ""
     },
@@ -122,12 +140,13 @@
       "description": "Blueprints for governance, law, and social order.",
       "category": "governance",
       "icon": "columns",
-      "sizeBytes": 6078985,
-      "articleCount": 10,
+      "sizeBytes": 7352793,
+      "articleCount": 11,
       "articleIds": [
         "1232",
         "12668",
         "1404",
+        "gutenberg-1497",
         "1656",
         "17405",
         "3207",
@@ -135,6 +154,9 @@
         "7370",
         "815",
         "8492"
+      ],
+      "availableLanguages": [
+        "en"
       ],
       "bundleUrl": "/bundles/civic-foundations.zip",
       "sha256": ""
@@ -145,11 +167,16 @@
       "description": "Foundational works that defined modern science.",
       "category": "science",
       "icon": "flask",
-      "sizeBytes": 963089,
-      "articleCount": 2,
+      "sizeBytes": 2145175,
+      "articleCount": 4,
       "articleIds": [
         "10616",
-        "14725"
+        "gutenberg-1228",
+        "14725",
+        "gutenberg-30155"
+      ],
+      "availableLanguages": [
+        "en"
       ],
       "bundleUrl": "/bundles/scientific-canon.zip",
       "sha256": ""
