@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "lastUpdated": "2026-01-08T15:05:16.965Z",
+  "lastUpdated": "2026-01-08T15:16:40.976Z",
   "availableLanguages": [
     "en",
     "es"
@@ -64,7 +64,7 @@
       "sizeBytes": 490974,
       "articleCount": 2,
       "articleIds": [
-        "gutenberg-20795",
+        "20795",
         "28255"
       ],
       "availableLanguages": [
@@ -83,7 +83,7 @@
       "sizeBytes": 490974,
       "articleCount": 2,
       "articleIds": [
-        "gutenberg-20795",
+        "20795",
         "28255"
       ],
       "availableLanguages": [
@@ -102,7 +102,7 @@
       "sizeBytes": 490974,
       "articleCount": 2,
       "articleIds": [
-        "gutenberg-20795",
+        "20795",
         "28255"
       ],
       "availableLanguages": [
@@ -151,7 +151,7 @@
         "1232",
         "12668",
         "1404",
-        "gutenberg-1497",
+        "1497",
         "1656",
         "17405",
         "3207",
@@ -177,9 +177,9 @@
       "articleCount": 4,
       "articleIds": [
         "10616",
-        "gutenberg-1228",
+        "1228",
         "14725",
-        "gutenberg-30155"
+        "30155"
       ],
       "availableLanguages": [
         "en",
