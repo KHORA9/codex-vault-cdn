@@ -1,8 +1,9 @@
 {
   "version": 3,
-  "lastUpdated": "2026-01-08T15:04:09.368Z",
+  "lastUpdated": "2026-01-08T15:05:16.965Z",
   "availableLanguages": [
-    "en"
+    "en",
+    "es"
   ],
   "tiers": [
     {
@@ -67,7 +68,8 @@
         "28255"
       ],
       "availableLanguages": [
-        "en"
+        "en",
+        "es"
       ],
       "bundleUrl": "/bundles/survival-essentials.zip",
       "sha256": ""
@@ -85,7 +87,8 @@
         "28255"
       ],
       "availableLanguages": [
-        "en"
+        "en",
+        "es"
       ],
       "bundleUrl": "/bundles/first-aid-field.zip",
       "sha256": ""
@@ -103,7 +106,8 @@
         "28255"
       ],
       "availableLanguages": [
-        "en"
+        "en",
+        "es"
       ],
       "bundleUrl": "/bundles/water-purification.zip",
       "sha256": ""
@@ -129,7 +133,8 @@
         "5827"
       ],
       "availableLanguages": [
-        "en"
+        "en",
+        "es"
       ],
       "bundleUrl": "/bundles/stoic-wisdom.zip",
       "sha256": ""
@@ -156,7 +161,8 @@
         "8492"
       ],
       "availableLanguages": [
-        "en"
+        "en",
+        "es"
       ],
       "bundleUrl": "/bundles/civic-foundations.zip",
       "sha256": ""
@@ -176,7 +182,8 @@
         "gutenberg-30155"
       ],
       "availableLanguages": [
-        "en"
+        "en",
+        "es"
       ],
       "bundleUrl": "/bundles/scientific-canon.zip",
       "sha256": ""
