@@ -1,0 +1,5008 @@
+{
+  "category": "medicine",
+  "language": "en",
+  "count": 1000,
+  "generatedAt": "2026-01-13T22:13:43.556Z",
+  "books": [
+    {
+      "id": "747",
+      "title": "Anomalies and Curiosities of Medicine",
+      "author": "Gould, George M. (George Milbrey)"
+    },
+    {
+      "id": "65341",
+      "title": "Treatise on Poisons: In relation to medical jurisprudence, physiology, and the practice of physic",
+      "author": "Christison, Robert, Sir"
+    },
+    {
+      "id": "29362",
+      "title": "The Goat-gland Transplantation: As Originated and Successfully Performed by J. R. Brinkley, M. D., of Milford, Kansas, U. S. A., in Over 600 Operations Upon Men and Women",
+      "author": "Flower, Sydney Blanshard"
+    },
+    {
+      "id": "49513",
+      "title": "The Complete Herbal: To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic.",
+      "author": "Culpeper, Nicholas"
+    },
+    {
+      "id": "64931",
+      "title": "Psychopathia sexualis: With especial reference to contrary sexual instinct: A medico-legal study",
+      "author": "Krafft-Ebing, R. von (Richard)"
+    },
+    {
+      "id": "40058",
+      "title": "The Life of Florence Nightingale, vol. 2 of 2",
+      "author": "Cook, Edward Tyas, Sir"
+    },
+    {
+      "id": "10136",
+      "title": "The Book of Household Management",
+      "author": "Beeton, Mrs. (Isabella Mary)"
+    },
+    {
+      "id": "63052",
+      "title": "Knox Eat and Reduce Plan; Including Choice-of-Foods Chart",
+      "author": "Charles B. Knox Gelatine Co."
+    },
+    {
+      "id": "42709",
+      "title": "Poisons, Their Effects and Detection: A Manual for the Use of Analytical Chemists and Experts",
+      "author": "Blyth, Alexander Wynter"
+    },
+    {
+      "id": "40057",
+      "title": "The Life of Florence Nightingale, vol. 1 of 2",
+      "author": "Cook, Edward Tyas, Sir"
+    },
+    {
+      "id": "59822",
+      "title": "Epidemics Resulting from Wars",
+      "author": "Prinzing, Friedrich"
+    },
+    {
+      "id": "62300",
+      "title": "The Plague of Lust, Vol. 1 (of 2): Being a History of Venereal Disease in Classical Antiquity",
+      "author": "Rosenbaum, Julius"
+    },
+    {
+      "id": "19924",
+      "title": "Plain Facts for Old and Young",
+      "author": "Kellogg, John Harvey"
+    },
+    {
+      "id": "39074",
+      "title": "Curiosities of Medical Experience",
+      "author": "Millingen, J. G. (John Gideon)"
+    },
+    {
+      "id": "62704",
+      "title": "The Natural History of Pliny, Volume 6 (of 6)",
+      "author": "Pliny, the Elder"
+    },
+    {
+      "id": "43671",
+      "title": "A History of Epidemics in Britain, Volume 2 (of 2): From the Extinction of Plague to the Present Time",
+      "author": "Creighton, Charles"
+    },
+    {
+      "id": "26393",
+      "title": "The Medicinal Plants of the Philippines",
+      "author": "Pardo de Tavera, T. H. (Trinidad Hermenegildo)"
+    },
+    {
+      "id": "57713",
+      "title": "The Animal Parasites of Man",
+      "author": "Fantham, Harold Benjamin"
+    },
+    {
+      "id": "42686",
+      "title": "A History of Epidemics in Britain, Volume 1 (of 2): From A.D. 664 to the Extinction of Plague",
+      "author": "Creighton, Charles"
+    },
+    {
+      "id": "55593",
+      "title": "Travels in Peru and India: While Superintending the Collection of Chinchona Plants and Seeds in South America, and Their Introduction into India.",
+      "author": "Markham, Clements R. (Clements Robert), Sir"
+    },
+    {
+      "id": "41697",
+      "title": "Merck's 1899 Manual of the Materia Medica",
+      "author": "Merck & Co."
+    },
+    {
+      "id": "40505",
+      "title": "Scurvy, Past and Present",
+      "author": "Hess, Alfred F."
+    },
+    {
+      "id": "17921",
+      "title": "Manual of Surgery Volume First: General Surgery. Sixth Edition.",
+      "author": "Thomson, Alexis"
+    },
+    {
+      "id": "44325",
+      "title": "The Great American Fraud: The Patent Medicine Evil",
+      "author": "Adams, Samuel Hopkins"
+    },
+    {
+      "id": "23609",
+      "title": "Searchlights on Health: Light on Dark Corners: A Complete Sexual Science and a Guide to Purity and Physical Manhood, Advice To Maiden, Wife, And Mother, Love, Courtship, And Marriage",
+      "author": "Jefferis, B. G. (Benjamin Grant)"
+    },
+    {
+      "id": "37388",
+      "title": "Tobacco Leaves: Being a Book of Facts for Smokers",
+      "author": "Brennan, William Augustine"
+    },
+    {
+      "id": "64207",
+      "title": "Of Medicine, in Eight Books",
+      "author": "Celsus, Aulus Cornelius"
+    },
+    {
+      "id": "70667",
+      "title": "The diagnostics and treatment of tropical diseases",
+      "author": "Stitt, E. R. (Edward Rhodes)"
+    },
+    {
+      "id": "69392",
+      "title": "Eminent doctors: Their lives and their work; Vol. 2 of 2",
+      "author": "Bettany, G. T. (George Thomas)"
+    },
+    {
+      "id": "61809",
+      "title": "The Story of a Great Delusion in a Series of Matter-of-Fact Chapters",
+      "author": "White, William"
+    },
+    {
+      "id": "24001",
+      "title": "The Physical Life of Woman: Advice to the Maiden, Wife and Mother",
+      "author": "Napheys, George H. (George Henry)"
+    },
+    {
+      "id": "31352",
+      "title": "Sex-education: A series of lectures concerning knowledge of sex in its relation to human life",
+      "author": "Bigelow, Maurice A. (Maurice Alpheus)"
+    },
+    {
+      "id": "24440",
+      "title": "Surgical Anatomy",
+      "author": "Maclise, Joseph"
+    },
+    {
+      "id": "19352",
+      "title": "Herbal Simples Approved for Modern Uses of Cure",
+      "author": "Fernie, William Thomas"
+    },
+    {
+      "id": "50501",
+      "title": "The Mediæval Hospitals of England",
+      "author": "Clay, Rotha Mary"
+    },
+    {
+      "id": "23135",
+      "title": "History of circumcision from the earliest times to the present : $b Moral and physical reasons for its performance, with a history of eunuchism, hermaphrodism, etc., and of the different operations practiced upon the prepuce",
+      "author": "Remondino, P. C. (Peter Charles)"
+    },
+    {
+      "id": "45815",
+      "title": "The Great Pestilence (A.D. 1348-9), Now Commonly Known as the Black Death",
+      "author": "Gasquet, Francis Aidan"
+    },
+    {
+      "id": "40161",
+      "title": "A Book About Doctors",
+      "author": "Jeaffreson, John Cordy"
+    },
+    {
+      "id": "56610",
+      "title": "Margaret Sanger: an autobiography.",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "74693",
+      "title": "A Yankee doctor in paradise",
+      "author": "Lambert, S. M. (Sylvester Maxwell)"
+    },
+    {
+      "id": "21829",
+      "title": "A Treatise on Domestic Economy; For the Use of Young Ladies at Home and at School",
+      "author": "Beecher, Catharine Esther"
+    },
+    {
+      "id": "43383",
+      "title": "Galen: On the Natural Faculties",
+      "author": "Galen"
+    },
+    {
+      "id": "28458",
+      "title": "What a Young Woman Ought to Know",
+      "author": "Wood-Allen, Mary"
+    },
+    {
+      "id": "67504",
+      "title": "A Woman's Quest: The life of Marie E. Zakrzewska, M.D.",
+      "author": "Zakrzewska, Marie E. (Marie Elizabeth)"
+    },
+    {
+      "id": "23750",
+      "title": "The Woman Beautiful; or, The Art of Beauty Culture",
+      "author": "Jameson, Helen Follett"
+    },
+    {
+      "id": "47004",
+      "title": "The Mystery and Romance of Alchemy and Pharmacy",
+      "author": "Thompson, C. J. S. (Charles John Samuel)"
+    },
+    {
+      "id": "27932",
+      "title": "History of the Division of Medical Sciences: United States National Museum Bulletin 240, Contributions from the Museum of History and Technology, paper 43, 1964",
+      "author": "Hamarneh, Sami Khalaf"
+    },
+    {
+      "id": "24788",
+      "title": "The Sacred Formulas of the Cherokees: Seventh Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1885-1886, Government Printing Office, Washington, 1891, pages 301-398",
+      "author": "Mooney, James"
+    },
+    {
+      "id": "39733",
+      "title": "Cooley's Cyclopædia of Practical Receipts and Collateral Information in the Arts, Manufactures, Professions, and Trades..., Sixth Edition, Volume I",
+      "author": "Cooley, Arnold James"
+    },
+    {
+      "id": "42988",
+      "title": "Nursing as Caring: A Model for Transforming Practice",
+      "author": "Boykin, Anne"
+    },
+    {
+      "id": "65987",
+      "title": "Strength and How to Obtain It",
+      "author": "Sandow, Eugen"
+    },
+    {
+      "id": "66164",
+      "title": "Foods and Their Adulteration: Origin, Manufacture, and Composition of Food Products; Description of Common Adulterations, Food Standards, and National Food Laws and Regulations",
+      "author": "Wiley, Harvey Washington"
+    },
+    {
+      "id": "20216",
+      "title": "Old-Time Makers of Medicine: The Story of The Students And Teachers of the Sciences Related to Medicine During the Middle Ages",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "21840",
+      "title": "Woman: Her Sex and Love Life",
+      "author": "Robinson, William J. (William Josephus)"
+    },
+    {
+      "id": "12238",
+      "title": "Science in the Kitchen: A Scientific Treatise On Food Substances and Their Dietetic Properties, Together with a Practical Explanation of the Principles of Healthful Cookery, and a Large Number of Original, Palatable, and Wholesome Recipes",
+      "author": "Kellogg, E. E. (Ella Ervilla)"
+    },
+    {
+      "id": "21965",
+      "title": "Preventable Diseases",
+      "author": "Hutchinson, Woods"
+    },
+    {
+      "id": "63274",
+      "title": "The sexual life of woman in its physiological, pathological and hygienic aspects",
+      "author": "Kisch, E. Heinrich (Enoch Heinrich)"
+    },
+    {
+      "id": "42616",
+      "title": "The Medicine-Men of the Apache. (1892 N 09 / 1887-1888 (pages 443-604))",
+      "author": "Bourke, John Gregory"
+    },
+    {
+      "id": "65130",
+      "title": "The Power of Sexual Surrender",
+      "author": "Robinson, Marie Nyswander"
+    },
+    {
+      "id": "63232",
+      "title": "The Epidemics of the Middle Ages",
+      "author": "Hecker, J. F. C. (Justus Friedrich Carl)"
+    },
+    {
+      "id": "21325",
+      "title": "Outlines of Greek and Roman Medicine",
+      "author": "Elliott, James, Sir"
+    },
+    {
+      "id": "72583",
+      "title": "The genuine works of Hippocrates, Vol. 1 (of 2) : $b Translated from the Greek, with a preliminary discourse and annotations",
+      "author": "Hippocrates"
+    },
+    {
+      "id": "19600",
+      "title": "Jerome Cardan: A Biographical Study",
+      "author": "Waters, W. G. (William George)"
+    },
+    {
+      "id": "22775",
+      "title": "Psychotherapy",
+      "author": "Münsterberg, Hugo"
+    },
+    {
+      "id": "18467",
+      "title": "The People's Common Sense Medical Adviser in Plain English: or, Medicine Simplified, 54th ed., One Million, Six Hundred; and Fifty Thousand",
+      "author": "Pierce, Ray Vaughn"
+    },
+    {
+      "id": "63293",
+      "title": "The Fasting Cure",
+      "author": "Sinclair, Upton"
+    },
+    {
+      "id": "19406",
+      "title": "Scientific  American, Volume XXXVI., No. 8, February 24, 1877: A Weekly Journal of Practical Information, Art, Science,; Mechanics, Chemistry, and Manufactures.",
+      "author": "Various"
+    },
+    {
+      "id": "13615",
+      "title": "Studies in the Psychology of Sex, Volume 6: Sex in Relation to Society",
+      "author": "Ellis, Havelock"
+    },
+    {
+      "id": "40424",
+      "title": "Surgical Instruments in Greek and Roman Times",
+      "author": "Milne, John Stewart"
+    },
+    {
+      "id": "39670",
+      "title": "The Idiot: His Place in Creation, and His Claims on Society",
+      "author": "Bateman, Frederick, Sir"
+    },
+    {
+      "id": "12955",
+      "title": "Consanguineous Marriages in the American Population",
+      "author": "Arner, George B. Louis (George Byron Louis)"
+    },
+    {
+      "id": "65762",
+      "title": "Florence Nightingale: A Biography",
+      "author": "Matheson, Annie"
+    },
+    {
+      "id": "15484",
+      "title": "The Care and Feeding of Children: A Catechism for the Use of Mothers and Children's Nurses",
+      "author": "Holt, L. Emmett (Luther Emmett)"
+    },
+    {
+      "id": "17366",
+      "title": "Notes on Nursing: What It Is, and What It Is Not",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "59331",
+      "title": "The Origin and Growth of the Healing Art: A Popular History of Medicine in All Ages and Countries",
+      "author": "Berdoe, Edward"
+    },
+    {
+      "id": "50460",
+      "title": "Premature Burial and How It May Be Prevented",
+      "author": "Tebb, William"
+    },
+    {
+      "id": "29339",
+      "title": "The Practice of Autosuggestion",
+      "author": "Brooks, C. Harry (Cyrus Harry)"
+    },
+    {
+      "id": "27600",
+      "title": "Zoonomia; Or, the Laws of Organic Life, Vol. II",
+      "author": "Darwin, Erasmus"
+    },
+    {
+      "id": "19031",
+      "title": "A Treatise on Adulterations of Food, and Culinary Poisons: Exhibiting the Fraudulent Sophistications of Bread, Beer, Wine, Spiritous Liquors, Tea, Coffee, Cream, Confectionery, Vinegar, Mustard, Pepper, Cheese, Olive Oil, Pickles, and Other Articles Employed in Domestic Economy",
+      "author": "Accum, Friedrich Christian"
+    },
+    {
+      "id": "15707",
+      "title": "Zoonomia; Or, the Laws of Organic Life, Vol. I",
+      "author": "Darwin, Erasmus"
+    },
+    {
+      "id": "17439",
+      "title": "Mother's Remedies: Over One Thousand Tried and Tested Remedies from Mothers of the United States and Canada",
+      "author": "Ritter, Thomas Jefferson"
+    },
+    {
+      "id": "40373",
+      "title": "A Guide to Health",
+      "author": "Gandhi, Mahatma"
+    },
+    {
+      "id": "22771",
+      "title": "Cattle and Their Diseases: Embracing Their History and Breeds, Crossing and Breeding, and Feeding and Management; with the Diseases to Which They Are Subject, and the Remedies Best Adapted to Their Cure",
+      "author": "Jennings, Robert"
+    },
+    {
+      "id": "33102",
+      "title": "Bloodletting Instruments in the National Museum of History and Technology",
+      "author": "Davis, Audrey B."
+    },
+    {
+      "id": "19138",
+      "title": "Resonance in Singing and Speaking",
+      "author": "Fillebrown, Thomas"
+    },
+    {
+      "id": "27146",
+      "title": "Select Temperance Tracts",
+      "author": "American Tract Society"
+    },
+    {
+      "id": "46572",
+      "title": "Studies in the History and Method of Science, vol. 1 (of 2)",
+      "author": "Unknown"
+    },
+    {
+      "id": "52105",
+      "title": "Shell-shock and other neuropsychiatric problems : $b Presented in five hundred and eighty-nine case histories from the war literature, 1914-1918",
+      "author": "Southard, Elmer Ernest"
+    },
+    {
+      "id": "23101",
+      "title": "Three Thousand Years of Mental Healing",
+      "author": "Cutten, George Barton"
+    },
+    {
+      "id": "37389",
+      "title": "Chlorination of Water",
+      "author": "Race, Joseph"
+    },
+    {
+      "id": "29903",
+      "title": "The sexual question : $b A scientific, psychological, hygienic and sociological study",
+      "author": "Forel, Auguste"
+    },
+    {
+      "id": "70532",
+      "title": "The seven books of Paulus Ægineta, volume 2 (of 3) : $b translated from the Greek: with a commentary embracing a complete view of the knowledge possessed by the Greeks, Romans, and Arabians on all subjects connected with medicine and surgery",
+      "author": "Paulus, Aegineta"
+    },
+    {
+      "id": "31185",
+      "title": "Chapters in the History of the Insane in the British Isles",
+      "author": "Tuke, Daniel Hack"
+    },
+    {
+      "id": "63246",
+      "title": "The Plague of Lust, Vol. 2 (of 2): Being a History of Venereal Disease in Classical Antiquity",
+      "author": "Rosenbaum, Julius"
+    },
+    {
+      "id": "39960",
+      "title": "The Works of Sir Thomas Browne, Volume 1",
+      "author": "Browne, Thomas, Sir"
+    },
+    {
+      "id": "68412",
+      "title": "Philosophical transactions, Vol. L. Part II. For the year 1758.: Giving some account of the present undertakings, studies, and labours, of the ingenious, in many considerable parts of the world.",
+      "author": "Various"
+    },
+    {
+      "id": "49011",
+      "title": "The Annals of the Barber-Surgeons of London",
+      "author": "Unknown"
+    },
+    {
+      "id": "30162",
+      "title": "Old English Patent Medicines in America",
+      "author": "Griffenhagen, George B."
+    },
+    {
+      "id": "39157",
+      "title": "A system of practical medicine. By American authors. Vol. 1 : $b Pathology and general diseases",
+      "author": "Unknown"
+    },
+    {
+      "id": "12699",
+      "title": "The Works of Aristotle the Famous Philosopher: Containing his Complete Masterpiece and Family Physician; his Experienced Midwife, his Book of Problems and his Remarks on Physiognomy",
+      "author": "Unknown"
+    },
+    {
+      "id": "34279",
+      "title": "Handbook of Medical Entomology",
+      "author": "Riley, William A. (William Albert)"
+    },
+    {
+      "id": "49027",
+      "title": "Medical Jurisprudence, Forensic medicine and Toxicology. Vol. 1",
+      "author": "Witthaus, R. A. (Rudolph August)"
+    },
+    {
+      "id": "51991",
+      "title": "A History of Dentistry from the most Ancient Times until the end of the Eighteenth Century",
+      "author": "Guerini, Vincenzo"
+    },
+    {
+      "id": "31732",
+      "title": "The sex side of life : $b an explanation for young people",
+      "author": "Dennett, Mary Ware"
+    },
+    {
+      "id": "54646",
+      "title": "A supplementary report on the results of a special inquiry into the practice of interment in towns.",
+      "author": "Chadwick, Edwin"
+    },
+    {
+      "id": "21560",
+      "title": "Papers on Health",
+      "author": "Kirk, John"
+    },
+    {
+      "id": "49054",
+      "title": "Anatomy and Embalming: A Treatise on the Science and Art of Embalming, the Latest and Most Successful Methods of Treatment and the General Anatomy Relating to this Subject",
+      "author": "Nunnamaker, Albert John"
+    },
+    {
+      "id": "31691",
+      "title": "The Bacillus of Long Life: A Manual of the Preparation and Souring of Milk for Dietary Purposes, Together with an Historical Account of the Use of Fermented Milks, from the Earliest Times to the Present Day, and Their Wonderful Effect in the Prolonging of Human Existence",
+      "author": "Douglas, Loudon M."
+    },
+    {
+      "id": "7973",
+      "title": "Napoleon's Campaign in Russia, Anno 1812; Medico-Historical",
+      "author": "Rose, Achilles"
+    },
+    {
+      "id": "36450",
+      "title": "Psychotherapy: Including the History of the Use of Mental Influence, Directly and Indirectly, in Healing and the Principles for the Application of Energies Derived from the Mind to the Treatment of Disease",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "62958",
+      "title": "Pharmacologia: Fourth American, from the Seventh London Edition",
+      "author": "Paris, John Ayrton"
+    },
+    {
+      "id": "34019",
+      "title": "The Popes and Science: The History of the Papal Relations to Science During the Middle Ages and Down to Our Own Time",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "70533",
+      "title": "The seven books of Paulus Ægineta, volume 3 (of 3) : $b translated from the Greek: with a commentary embracing a complete view of the knowledge possessed by the Greeks, Romans, and Arabians on all subjects connected with medicine and surgery",
+      "author": "Paulus, Aegineta"
+    },
+    {
+      "id": "23403",
+      "title": "Special Report on Diseases of the Horse",
+      "author": "United States. Bureau of Animal Industry"
+    },
+    {
+      "id": "60104",
+      "title": "Pilgrimages to the Spas in Pursuit of Health and Recreation: With an inquiry into the comparative merits of different mineral waters: the maladies to which they are applicable, and those in which they are injurious",
+      "author": "Johnson, James"
+    },
+    {
+      "id": "22090",
+      "title": "The Task of Social Hygiene",
+      "author": "Ellis, Havelock"
+    },
+    {
+      "id": "42764",
+      "title": "The Ethics of Medical Homicide and Mutilation",
+      "author": "O'Malley, Austin"
+    },
+    {
+      "id": "68747",
+      "title": "Incwadi Yami; or, twenty years' personal experience in South Africa",
+      "author": "Matthews, J. W. (Josiah Wright)"
+    },
+    {
+      "id": "57545",
+      "title": "Letter on Corpulence, Addressed to the Public",
+      "author": "Banting, William"
+    },
+    {
+      "id": "21280",
+      "title": "Surgical Experiences in South Africa, 1899-1900: Being Mainly a Clinical Study of the Nature and Effects of Injuries Produced by Bullets of Small Calibre",
+      "author": "Makins, George Henry"
+    },
+    {
+      "id": "39962",
+      "title": "The Works of Sir Thomas Browne, Volume 3",
+      "author": "Browne, Thomas, Sir"
+    },
+    {
+      "id": "28428",
+      "title": "Manual of Surgery Volume Second: Extremities—Head—Neck. Sixth Edition.",
+      "author": "Thomson, Alexis"
+    },
+    {
+      "id": "47078",
+      "title": "A Manual of Clinical Diagnosis",
+      "author": "Todd, James Campbell"
+    },
+    {
+      "id": "54905",
+      "title": "Trials of war criminals before the Nuernberg military tribunals under control council law no. 10, volume II",
+      "author": "Various"
+    },
+    {
+      "id": "67954",
+      "title": "The Life of Clara Barton, Founder of the American Red Cross (Vol. 2 of 2)",
+      "author": "Barton, William E. (William Eleazar)"
+    },
+    {
+      "id": "65090",
+      "title": "Report to Her Majesty's Principal Secretary of State For the Home Department, from the Poor Law Commissioners, on an Inquiry Into the Sanitary Condition of the Labouring Population of Great Britain; With Appendices",
+      "author": "Chadwick, Edwin"
+    },
+    {
+      "id": "47836",
+      "title": "The Matron's Manual of Midwifery, and the Diseases of Women During Pregnancy and in Childbed: Being a Familiar and Practical Treatise, More Especially Intended for the Instruction of Females Themselves, but Adapted Also for Popular Use among Students and Practitioners of Medicine",
+      "author": "Hollick, Frederick"
+    },
+    {
+      "id": "70531",
+      "title": "The seven books of Paulus Ægineta, volume 1 (of 3) : $b translated from the Greek: with a commentary embracing a complete view of the knowledge possessed by the Greeks, Romans, and Arabians on all subjects connected with medicine and  surgery",
+      "author": "Paulus, Aegineta"
+    },
+    {
+      "id": "54215",
+      "title": "The Life of Sophia Jex-Blake",
+      "author": "Travers, Graham"
+    },
+    {
+      "id": "54713",
+      "title": "A Treatise on the Diseases Produced By Onanism, Masturbation, Self-Pollution, and Other Excesses.",
+      "author": "Deslandes, L. (Léopold)"
+    },
+    {
+      "id": "586",
+      "title": "Religio Medici, Hydriotaphia, and the Letter to a Friend",
+      "author": "Browne, Thomas, Sir"
+    },
+    {
+      "id": "21353",
+      "title": "Civics and Health",
+      "author": "Allen, William H. (WIlliam Harvey)"
+    },
+    {
+      "id": "47833",
+      "title": "Archæological Essays, Vol. 2",
+      "author": "Simpson, James Young"
+    },
+    {
+      "id": "26365",
+      "title": "Intestinal Ills: Chronic Constipation, Indigestion, Autogenetic Poisons, Diarrhea, Piles, Etc. Also Auto-Infection, Auto-Intoxication, Anemia, Emaciation, Etc. Due to Proctitis and Colitis",
+      "author": "Jamison, Alcinous B. (Alcinous Burton)"
+    },
+    {
+      "id": "26774",
+      "title": "Alcohol: A Dangerous and Unnecessary Medicine, How and Why: What Medical Writers Say",
+      "author": "Allen, Martha Meir"
+    },
+    {
+      "id": "27128",
+      "title": "The No Breakfast Plan and the Fasting-Cure",
+      "author": "Dewey, Edward Hooker"
+    },
+    {
+      "id": "4343",
+      "title": "How and When to Be Your Own Doctor",
+      "author": "Solomon, Steve"
+    },
+    {
+      "id": "13397",
+      "title": "History of the Comstock Patent Medicine Business and Dr. Morse's Indian Root Pills",
+      "author": "Shaw, Robert B."
+    },
+    {
+      "id": "2700",
+      "title": "Medical Essays, 1842-1882",
+      "author": "Holmes, Oliver Wendell"
+    },
+    {
+      "id": "25864",
+      "title": "Philosophy of Osteopathy",
+      "author": "Still, A. T. (Andrew Taylor)"
+    },
+    {
+      "id": "15069",
+      "title": "Diet and Health; With Key to the Calories",
+      "author": "Peters, Lulu Hunt"
+    },
+    {
+      "id": "36003",
+      "title": "Degeneracy: Its Causes, Signs and Results",
+      "author": "Talbot, Eugene S. (Eugene Solomon)"
+    },
+    {
+      "id": "21957",
+      "title": "The Psychology of Singing: A Rational Method of Voice Culture Based on a Scientific Analysis of All Systems, Ancient and Modern",
+      "author": "Taylor, David C. (David Clark)"
+    },
+    {
+      "id": "55546",
+      "title": "The Progress of the Century",
+      "author": "Unknown"
+    },
+    {
+      "id": "22372",
+      "title": "A Labrador Doctor: The Autobiography of Wilfred Thomason Grenfell",
+      "author": "Grenfell, Wilfred Thomason, Sir"
+    },
+    {
+      "id": "44006",
+      "title": "Warren Commission (06 of 26): Hearings Vol. VI (of 15)",
+      "author": "United States. Warren Commission"
+    },
+    {
+      "id": "36557",
+      "title": "How to Get Strong and How to Stay So",
+      "author": "Blaikie, William"
+    },
+    {
+      "id": "15417",
+      "title": "Scientific American Supplement, No. 388, June 9, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "3837",
+      "title": "Hospital Sketches",
+      "author": "Alcott, Louisa May"
+    },
+    {
+      "id": "41778",
+      "title": "Epitome of the Pharmacopeia of the United States and the National Formulary: With Comments",
+      "author": "Hewlett, Albion Walter"
+    },
+    {
+      "id": "30310",
+      "title": "Special report on diseases of cattle",
+      "author": "United States. Bureau of Animal Industry"
+    },
+    {
+      "id": "47505",
+      "title": "Louis Pasteur: His Life and Labours",
+      "author": "Vallery-Radot, René"
+    },
+    {
+      "id": "63456",
+      "title": "Andreas Vesalius, the Reformer of Anatomy",
+      "author": "Ball, James Moores"
+    },
+    {
+      "id": "38455",
+      "title": "ASCE 1193: The Water-Works and Sewerage of Monterrey, N. L., Mexico: The 4th article from the June, 1911, Volume LXXII, Transactions of the American Society of Civil Engineers. Paper No. 1193, Feb. 1, 1911.",
+      "author": "Conway, G. R. G. (George Robert Graham)"
+    },
+    {
+      "id": "13444",
+      "title": "Searchlights on Health: The Science of Eugenics",
+      "author": "Jefferis, B. G. (Benjamin Grant)"
+    },
+    {
+      "id": "1566",
+      "title": "The Evolution of Modern Medicine: A Series of Lectures Delivered at Yale University on the Silliman Foundation in April, 1913",
+      "author": "Osler, William, Sir"
+    },
+    {
+      "id": "27943",
+      "title": "The Home Medical Library, Volume 1 (of 6)",
+      "author": "Unknown"
+    },
+    {
+      "id": "32614",
+      "title": "The Diary of a Resurrectionist, 1811-1812: To Which Are Added an Account of the Resurrection Men in London and a Short History of the Passing of the Anatomy Act",
+      "author": "Bailey, James Blake"
+    },
+    {
+      "id": "74804",
+      "title": "Text-book of forensic medicine and toxicology",
+      "author": "Buchanan, R. J. M. (Robert James McLean)"
+    },
+    {
+      "id": "27203",
+      "title": "Self Mastery Through Conscious Autosuggestion",
+      "author": "Coué, Emile"
+    },
+    {
+      "id": "26368",
+      "title": "The Ladies Book of Useful Information: Compiled from many sources",
+      "author": "Anonymous"
+    },
+    {
+      "id": "67833",
+      "title": "The growth of medicine from the earliest times to about 1800",
+      "author": "Buck, Albert H. (Albert Henry)"
+    },
+    {
+      "id": "34128",
+      "title": "Sir James Young Simpson and Chloroform (1811-1870): Masters of Medicine",
+      "author": "Gordon, H. Laing (Henry Laing)"
+    },
+    {
+      "id": "58490",
+      "title": "The Apothecary in Eighteenth-Century Williamsburg: Being an Account of his medical and chirurgical Services, as well as of his trade Practices as a Chymist",
+      "author": "Ford, Thomas K."
+    },
+    {
+      "id": "52413",
+      "title": "The Black Death in the Fourteenth Century",
+      "author": "Hecker, J. F. C. (Justus Friedrich Carl)"
+    },
+    {
+      "id": "30444",
+      "title": "The Turkish Bath, Its Design and Construction",
+      "author": "Allsop, Robert Owen"
+    },
+    {
+      "id": "67182",
+      "title": "A History of Epidemic Pestilences: From the Earliest Ages, 1495 Years Before the Birth of our Saviour to 1848: With Researches into Their Nature, Causes, and Prophylaxis",
+      "author": "Bascome, Edward"
+    },
+    {
+      "id": "26038",
+      "title": "Drawings and Pharmacy in Al-Zahrawi's 10th-Century Surgical Treatise",
+      "author": "Hamarneh, Sami Khalaf"
+    },
+    {
+      "id": "38757",
+      "title": "New, Old, and Forgotten Remedies: Papers by Many Writers",
+      "author": "Unknown"
+    },
+    {
+      "id": "54611",
+      "title": "Mental diseases: a public health problem",
+      "author": "May, James Vance"
+    },
+    {
+      "id": "25890",
+      "title": "Buchanan's Journal of Man, April 1887: Volume 1, Number 3",
+      "author": "Unknown"
+    },
+    {
+      "id": "64547",
+      "title": "Plague and pestilence in literature and art",
+      "author": "Crawfurd, Raymond Henry Payne, Sir"
+    },
+    {
+      "id": "51521",
+      "title": "The Prolongation of Life: Optimistic Studies",
+      "author": "Metchnikoff, Elie"
+    },
+    {
+      "id": "46664",
+      "title": "William Harvey",
+      "author": "Power, D'Arcy, Sir"
+    },
+    {
+      "id": "5069",
+      "title": "The Doctor's Dilemma: Preface on Doctors",
+      "author": "Shaw, Bernard"
+    },
+    {
+      "id": "75996",
+      "title": "A text-book of veterinary anatomy",
+      "author": "Sisson, Septimus"
+    },
+    {
+      "id": "63241",
+      "title": "Medical Jurisprudence, Volume 1 (of 3)",
+      "author": "Paris, John Ayrton"
+    },
+    {
+      "id": "46727",
+      "title": "An Epitome of the History of Medicine",
+      "author": "Park, Roswell"
+    },
+    {
+      "id": "47585",
+      "title": "Clothing and Health: An Elementary Textbook of Home Making",
+      "author": "Kinne, Helen"
+    },
+    {
+      "id": "23680",
+      "title": "Sex: Avoided subjects Discussed in Plain English",
+      "author": "Stanton, Henry"
+    },
+    {
+      "id": "39969",
+      "title": "A Civic Biology, Presented in Problems",
+      "author": "Hunter, George W. (George William)"
+    },
+    {
+      "id": "47501",
+      "title": "Married Love: A New Contribution to the Solution of Sex Difficulties",
+      "author": "Stopes, Marie Carmichael"
+    },
+    {
+      "id": "33917",
+      "title": "The Science of Being Well",
+      "author": "Wattles, W. D. (Wallace Delois)"
+    },
+    {
+      "id": "47308",
+      "title": "The Sanitary Evolution of London",
+      "author": "Jephson, Henry (Henry Lorenzo)"
+    },
+    {
+      "id": "1739",
+      "title": "The Black Death, and The Dancing Mania",
+      "author": "Hecker, J. F. C. (Justus Friedrich Carl)"
+    },
+    {
+      "id": "37060",
+      "title": "Through These Eyes: The courageous struggle to find meaning in a life stressed with cancer",
+      "author": "Isaacson, Lauren Ann"
+    },
+    {
+      "id": "39514",
+      "title": "The Doctor in History, Literature, Folk-Lore, Etc.",
+      "author": "Unknown"
+    },
+    {
+      "id": "69406",
+      "title": "Eminent doctors: Their lives and their work; Vol. 1 of 2",
+      "author": "Bettany, G. T. (George Thomas)"
+    },
+    {
+      "id": "24886",
+      "title": "An Account of the Foxglove and some of its Medical Uses: With Practical Remarks on Dropsy and Other Diseases",
+      "author": "Withering, William"
+    },
+    {
+      "id": "70326",
+      "title": "The art of preserving health: A poem",
+      "author": "Armstrong, John"
+    },
+    {
+      "id": "26568",
+      "title": "Seventh Annual Report of the Bureau of Ethnology: to the Secretary of the Smithsonian Institution, 1885-1886, Government Printing Office, Washington, 1891",
+      "author": "Unknown"
+    },
+    {
+      "id": "41595",
+      "title": "The Funny Side of Physic: Or, The Mysteries of Medicine, Presenting the Humorous and Serious Sides of Medical Practice. An Exposé of Medical Humbugs, Quacks, and Charlatans in All Ages and All Countries.",
+      "author": "Crabtre, Addison Darre"
+    },
+    {
+      "id": "74240",
+      "title": "The works of the highly experienced and famous chymist, John Rudolph Glauber : $b containing, great variety of choice secrets in medicine and alchymy in the working of metallick mines, and the separation of metals: also, various cheap and easie ways of making salt-petre, and improving of barren-land, and the fruits of the earth.",
+      "author": "Glauber, Johann Rudolf"
+    },
+    {
+      "id": "54176",
+      "title": "The cremation of the dead: considered from an aesthetic, sanitary, religious, historical, medico-legal, and economical standpoint",
+      "author": "Erichsen, Hugo"
+    },
+    {
+      "id": "25944",
+      "title": "Essentials of Diseases of the Skin: Including the Syphilodermata Arranged in the Form of Questions and Answers Prepared Especially for Students of Medicine",
+      "author": "Stelwagon, Henry Weightman"
+    },
+    {
+      "id": "64268",
+      "title": "Blood Transfusion",
+      "author": "Keynes, Geoffrey"
+    },
+    {
+      "id": "21418",
+      "title": "The Eugenic Marriage, Volume 4 (of 4): A Personal Guide to the New Science of Better Living and Better Babies",
+      "author": "Hague, W. Grant (William Grant)"
+    },
+    {
+      "id": "38185",
+      "title": "Fruits of Philosophy: A Treatise on the Population Question",
+      "author": "Knowlton, Charles"
+    },
+    {
+      "id": "15193",
+      "title": "Scientific American Supplement, No. 841, February 13, 1892",
+      "author": "Various"
+    },
+    {
+      "id": "57331",
+      "title": "Sexual Neuroses",
+      "author": "Kent, J. T. (James Tyler)"
+    },
+    {
+      "id": "16230",
+      "title": "Fat and Blood: An Essay on the Treatment of Certain Forms of Neurasthenia and Hysteria",
+      "author": "Mitchell, S. Weir (Silas Weir)"
+    },
+    {
+      "id": "49732",
+      "title": "Florence Nightingale to Her Nurses: A selection from Miss Nightingale's addresses to probationers and nurses of the Nightingale school at St. Thomas's hospital",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "60956",
+      "title": "The life of Pasteur",
+      "author": "Vallery-Radot, René"
+    },
+    {
+      "id": "17633",
+      "title": "Saratoga and How to See It",
+      "author": "Dearborn, R. F."
+    },
+    {
+      "id": "43300",
+      "title": "Medieval Medicine",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "45923",
+      "title": "Parasites: A Treatise on the Entozoa of Man and Animals: Including Some Account of the Ectozoa",
+      "author": "Cobbold, T. Spencer (Thomas Spencer)"
+    },
+    {
+      "id": "27501",
+      "title": "McClure's Magazine, Vol. XXXI, No. 3, July 1908.",
+      "author": "Various"
+    },
+    {
+      "id": "45313",
+      "title": "A system of practical medicine. By American authors. Vol. 2 : $b General diseases (continued) and diseases of the digestive system",
+      "author": "Unknown"
+    },
+    {
+      "id": "69222",
+      "title": "The apparatus used by the Greeks and Romans in the setting of fractures and the reduction of dislocations",
+      "author": "Milne, John Stewart"
+    },
+    {
+      "id": "40623",
+      "title": "Private Sex Advice to Women: For Young Wives and those who Expect to be Married",
+      "author": "Armitage, Robert B."
+    },
+    {
+      "id": "51078",
+      "title": "Venoms: Venomous Animals and Antivenomous Serum-therapeutics",
+      "author": "Calmette, A. (Albert)"
+    },
+    {
+      "id": "19598",
+      "title": "How to Live: Rules for Healthful Living Based on Modern Science",
+      "author": "Fisher, Irving"
+    },
+    {
+      "id": "39961",
+      "title": "The Works of Sir Thomas Browne, Volume 2",
+      "author": "Browne, Thomas, Sir"
+    },
+    {
+      "id": "70111",
+      "title": "New-England's rarities discovered : $b In birds, beasts, fishes, serpents, and plants of that country",
+      "author": "Josselyn, John, active 1630-1675"
+    },
+    {
+      "id": "62705",
+      "title": "The Book of Nature: Containing information for young people who think of getting married, on the philosophy of procreation and sexual intercourse, showing how to prevent conception and to avoid child-bearing: also, rules for management during labor and child-birth",
+      "author": "Ashton, James, active 1875-1876"
+    },
+    {
+      "id": "41432",
+      "title": "The Tale of a Field Hospital",
+      "author": "Treves, Frederick"
+    },
+    {
+      "id": "75168",
+      "title": "Secret remedies : $b What they cost and what they contain",
+      "author": "British Medical Association"
+    },
+    {
+      "id": "9172",
+      "title": "A Study of Association in Insanity",
+      "author": "Kent, Grace Helen"
+    },
+    {
+      "id": "30478",
+      "title": "Vegetable Diet: As Sanctioned by Medical Men, and by Experience in All Ages: Including a System of Vegetable Cookery",
+      "author": "Alcott, William A. (William Andrus)"
+    },
+    {
+      "id": "16417",
+      "title": "Spadacrene Anglica: The English Spa Fountain",
+      "author": "Deane, Edmund"
+    },
+    {
+      "id": "18559",
+      "title": "The Child's Day",
+      "author": "Hutchinson, Woods"
+    },
+    {
+      "id": "18779",
+      "title": "Physiology and Hygiene for Secondary Schools",
+      "author": "Walters, Francis M. (Francis Marion)"
+    },
+    {
+      "id": "9173",
+      "title": "Youth: Its Education, Regimen, and Hygiene",
+      "author": "Hall, G. Stanley (Granville Stanley)"
+    },
+    {
+      "id": "20817",
+      "title": "The Mother and Her Child",
+      "author": "Sadler, William S. (William Samuel)"
+    },
+    {
+      "id": "29414",
+      "title": "An Inquiry into the Causes and Effects of the Variolae Vaccinae: A Disease Discovered in Some of the Western Counties of England, Particularly Gloucestershire, and Known by the Name of the Cow Pox",
+      "author": "Jenner, Edward"
+    },
+    {
+      "id": "53121",
+      "title": "Love: A Treatise on the Science of Sex-attraction: for the use of Physicians and Students of Medical Jurisprudence",
+      "author": "Talmey, Bernard Simon"
+    },
+    {
+      "id": "46383",
+      "title": "Appletons' Popular Science Monthly, September 1899: Vol. LV, May to October, 1899",
+      "author": "Various"
+    },
+    {
+      "id": "46511",
+      "title": "Encyclopedia of Diet: A Treatise on the Food Question, Vol. 1",
+      "author": "Christian, Eugene"
+    },
+    {
+      "id": "69078",
+      "title": "Post mortem: Essays, historical and medical",
+      "author": "MacLaurin, C. (Charles)"
+    },
+    {
+      "id": "69442",
+      "title": "Medical symbolism in connection with historical studies in the arts of healing and hygiene",
+      "author": "Sozinskey, Thomas S."
+    },
+    {
+      "id": "18504",
+      "title": "Sex in Education; or, A Fair Chance for Girls",
+      "author": "Clarke, Edward H. (Edward Hammond)"
+    },
+    {
+      "id": "58918",
+      "title": "Vaccination a Delusion: Its Penal Enforcement a Crime: Proved by the Official Evidence in the Reports of the Royal Commission",
+      "author": "Wallace, Alfred Russel"
+    },
+    {
+      "id": "29307",
+      "title": "North American Medical and Surgical Journal, Vol. 2, No. 3, July, 1826",
+      "author": "Various"
+    },
+    {
+      "id": "38267",
+      "title": "International Congress of Arts and Science, Volume 1: Philosophy and Metaphysics",
+      "author": "Unknown"
+    },
+    {
+      "id": "71898",
+      "title": "Sexual ethics",
+      "author": "Forel, Auguste"
+    },
+    {
+      "id": "24854",
+      "title": "The Eugenic Marriage, Volume 2 (of 4): A Personal Guide to the New Science of Better Living and Better Babies",
+      "author": "Hague, W. Grant (William Grant)"
+    },
+    {
+      "id": "50907",
+      "title": "The Anatomy of Suicide",
+      "author": "Winslow, Forbes"
+    },
+    {
+      "id": "3458",
+      "title": "Science and Health, with Key to the Scriptures",
+      "author": "Eddy, Mary Baker"
+    },
+    {
+      "id": "61773",
+      "title": "Sewerage and Sewage Treatment",
+      "author": "Babbitt, Harold E. (Harold Eaton)"
+    },
+    {
+      "id": "62587",
+      "title": "A system of practical medicine. By American authors. Vol. 4 : $b Diseases of the genito-urinary and cutaneous systems. Medical ophthalmology, and otology",
+      "author": "Unknown"
+    },
+    {
+      "id": "14980",
+      "title": "Outwitting Our Nerves: A Primer of Psychotherapy",
+      "author": "Jackson, Josephine A. (Josephine Agnes)"
+    },
+    {
+      "id": "42660",
+      "title": "Experiments on Animals",
+      "author": "Paget, Stephen"
+    },
+    {
+      "id": "47766",
+      "title": "The Propaganda for Reform in Proprietary Medicines, Vol. 1 of 2",
+      "author": "Council on Pharmacy and Chemistry (American Medical Association)"
+    },
+    {
+      "id": "50004",
+      "title": "The Evil Eye, Thanatology, and Other Essays",
+      "author": "Park, Roswell"
+    },
+    {
+      "id": "28177",
+      "title": "Insects and Diseases: A Popular Account of the Way in Which Insects may Spread or Cause some of our Common Diseases",
+      "author": "Doane, Rennie Wilbur"
+    },
+    {
+      "id": "55251",
+      "title": "The Chautauquan, Vol. 05, January 1885, No. 4",
+      "author": "Chautauqua Literary and Scientific Circle"
+    },
+    {
+      "id": "30541",
+      "title": "A Treatise on Anatomy, Physiology, and Hygiene (Revised Edition)",
+      "author": "Cutter, Calvin"
+    },
+    {
+      "id": "14901",
+      "title": "Epilepsy, Hysteria, and Neurasthenia: Their Causes, Symptoms, & Treatment",
+      "author": "Briggs, Isaac George"
+    },
+    {
+      "id": "57122",
+      "title": "Climate and Health in Hot Countries and the Outlines of Tropical Climatology: A Popular Treatise on Personal Hygiene in the Hotter Parts of the World, and on the Climates That Will Be Met Within Them.",
+      "author": "Giles, George Michael James"
+    },
+    {
+      "id": "64754",
+      "title": "Structure and Functions of the Body: A Hand-Book of Anatomy and Physiology for Nurses and Others Desiring a Practical Knowledge of the Subject",
+      "author": "Fiske, Annette"
+    },
+    {
+      "id": "14515",
+      "title": "The Nervous Child",
+      "author": "Cameron, Hector Charles"
+    },
+    {
+      "id": "18370",
+      "title": "Manhood Perfectly Restored: Prof. Jean Civiale's Soluble Urethral Crayons as a Quick, Painless, and Certain Cure for Impotence, Etc.",
+      "author": "Civiale Remedial Agency"
+    },
+    {
+      "id": "32250",
+      "title": "American Red Cross Text-Book on Home Hygiene and Care of the Sick",
+      "author": "American National Red Cross"
+    },
+    {
+      "id": "63830",
+      "title": "Medical Jurisprudence, Volume 2 (of 3)",
+      "author": "Paris, John Ayrton"
+    },
+    {
+      "id": "25020",
+      "title": "Humanistic Nursing",
+      "author": "Paterson, Josephine G."
+    },
+    {
+      "id": "64237",
+      "title": "Old Age Deferred: The causes of old age and its postponement by hygienic and therapeutic measures",
+      "author": "Lorand, Arnold"
+    },
+    {
+      "id": "75696",
+      "title": "The practice of osteopathy",
+      "author": "McConnell, Carl Philip"
+    },
+    {
+      "id": "69025",
+      "title": "The filtration of public water-supplies: Third edition, revised and enlarged.",
+      "author": "Hazen, Allen"
+    },
+    {
+      "id": "56021",
+      "title": "Poisonous Snakes of Texas and First Aid Treatment of Their Bites: Bulletin No. 31",
+      "author": "Werler, John E."
+    },
+    {
+      "id": "71892",
+      "title": "A system of practical medicine. By American authors. Vol. 5 : $b Diseases of the nervous system",
+      "author": "Unknown"
+    },
+    {
+      "id": "58591",
+      "title": "Hygiene: a manual of personal and public health (New Edition)",
+      "author": "Newsholme, Arthur, Sir"
+    },
+    {
+      "id": "22829",
+      "title": "No Animal Food; and Nutrition and Diet; with Vegetable Recipes",
+      "author": "Wheldon, Rupert H."
+    },
+    {
+      "id": "63938",
+      "title": "Medicine in the Middle Ages: Extracts from \"Le Moyen Age Medical\" by Dr. Edmond Dupouy; translated by T. C. Minor",
+      "author": "Dupouy, Edmond"
+    },
+    {
+      "id": "33379",
+      "title": "Dietetics for Nurses",
+      "author": "Proudfit, Fairfax T. (Fairfax Throckmorton)"
+    },
+    {
+      "id": "41911",
+      "title": "The Australian Army Medical Corps in Egypt: An Illustrated and Detailed Account of the Early Organisation and Work of the Australian Medical Units in Egypt in 1914-1915",
+      "author": "Barrett, James W. (James William), Sir"
+    },
+    {
+      "id": "685",
+      "title": "The Atomic Bombings of Hiroshima and Nagasaki",
+      "author": "United States. Army. Corps of Engineers. Manhattan District"
+    },
+    {
+      "id": "44744",
+      "title": "Superstition in Medicine",
+      "author": "Magnus, Hugo"
+    },
+    {
+      "id": "5694",
+      "title": "The Harvard Classics Volume 38: Scientific Papers (Physiology, Medicine, Surgery, Geology)",
+      "author": "Various"
+    },
+    {
+      "id": "53951",
+      "title": "A Book of Simples",
+      "author": "Unknown"
+    },
+    {
+      "id": "43350",
+      "title": "The Anatomy of the Human Peritoneum and Abdominal Cavity: Considered from the Standpoint of Development and Comparative Anatomy",
+      "author": "Huntington, George S. (George Sumner)"
+    },
+    {
+      "id": "72894",
+      "title": "On the mode of communication of cholera",
+      "author": "Snow, John"
+    },
+    {
+      "id": "26058",
+      "title": "The Starvation Treatment of Diabetes",
+      "author": "Hill, Lewis Webb"
+    },
+    {
+      "id": "61196",
+      "title": "The Dawn of Modern Medicine: An Account of the Revival of the Science and Art of Medicine Which Took Place in Western Europe During the Latter Half of the Eighteenth Century and the First Part of the Nineteenth",
+      "author": "Buck, Albert H. (Albert Henry)"
+    },
+    {
+      "id": "68546",
+      "title": "The house on Henry Street",
+      "author": "Wald, Lillian D."
+    },
+    {
+      "id": "27648",
+      "title": "Buchanan's Journal of Man, August 1887: Volume 1, Number 7",
+      "author": "Unknown"
+    },
+    {
+      "id": "67790",
+      "title": "The Mirror of the Graces: Containing General Instructions for Combining Elegance, Simplicity, and Economy with Fashion in Dress; Hints on Female Accomplishments and Manners; and Directions for the Preservation of Health and Beauty",
+      "author": "Lady of distinction, active 19th century"
+    },
+    {
+      "id": "54568",
+      "title": "A handbook of invalid cooking : $b for the use of nurses in training, nurses in private practice, and others who care for the sick",
+      "author": "Boland, Mary A."
+    },
+    {
+      "id": "43545",
+      "title": "Detection of the Common Food Adulterants",
+      "author": "Bruce, Edwin M."
+    },
+    {
+      "id": "71887",
+      "title": "Advice to a wife and mother in two parts : $b Embracing advice to a wife, and advice to a mother",
+      "author": "Chavasse, Pye Henry"
+    },
+    {
+      "id": "6986",
+      "title": "Hygienic Physiology : with Special Reference to the Use of Alcoholic Drinks and Narcotics",
+      "author": "Steele, Joel Dorman"
+    },
+    {
+      "id": "37144",
+      "title": "Observations on Madness and Melancholy: Including Practical Remarks on those Diseases together with Cases and an Account of the Morbid Appearances on Dissection",
+      "author": "Haslam, John"
+    },
+    {
+      "id": "47296",
+      "title": "The Popular Science Monthly, October, 1900: Vol. 57, May, 1900 to October, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "6598",
+      "title": "American Woman's Home: Or, Principles of Domestic Science;: Being a Guide to the Formation and Maintenance of Economical, Healthful, Beautiful, and Christian Homes",
+      "author": "Stowe, Harriet Beecher"
+    },
+    {
+      "id": "14377",
+      "title": "The Queen-like Closet or Rich Cabinet: Stored with all manner of rare receipts for preserving, candying and cookery. Very pleasant and beneficial to all ingenious persons of the female sex",
+      "author": "Woolley, Hannah, active 1670"
+    },
+    {
+      "id": "69311",
+      "title": "Onanism display'd: being, I. an enquiry into the true nature of Onan's sin. II. of the modern Onanists. III. of self-pollution, its causes, and consequences; with three extraordinary cases, of two young gentlemen and a lady, who were very much addicted to this crime. IV. of nocturnal-pollutions natural and forc'd. V. the great sin of self-pollution, with the judgment of the most eminent divines upon this subject. VI. a dissertation concerning generation, with a curious description of the parts, and of their proper functions, &c. according to the latest, and most approv'd anatomical discoveries",
+      "author": "Unknown"
+    },
+    {
+      "id": "39036",
+      "title": "Essays In Pastoral Medicine",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "70643",
+      "title": "Coca and Cocaine : $b Their history, medical and economic uses, and medicinal preparations",
+      "author": "Martindale, William"
+    },
+    {
+      "id": "74359",
+      "title": "Domestic medicine : $b or, a treatise on the prevention and cure of diseases by regimen and simple medicines. With an appendix, containing a dispensatory for the use of private practitioners",
+      "author": "Buchan, William"
+    },
+    {
+      "id": "44029",
+      "title": "Mind and Body; or, Mental States and Physical Conditions",
+      "author": "Atkinson, William Walker"
+    },
+    {
+      "id": "20294",
+      "title": "A Handbook of Health",
+      "author": "Hutchinson, Woods"
+    },
+    {
+      "id": "31230",
+      "title": "Allopathy and Homoeopathy Before the Judgment of Common Sense!",
+      "author": "Hiller, Frederick"
+    },
+    {
+      "id": "52653",
+      "title": "Sanitary Statistics of Native Colonial Schools and Hospitals",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "53755",
+      "title": "The Taleef Shereef; Or, Indian Materia Medica",
+      "author": "Unknown"
+    },
+    {
+      "id": "64138",
+      "title": "The psychology of sleep",
+      "author": "Hall, Bolton"
+    },
+    {
+      "id": "49791",
+      "title": "Miscellanea Curiosa, Vol. 1: Containing a collection of some of the principal phaenomena in nature, accounted for by the greatest philosophers of this age",
+      "author": "Unknown"
+    },
+    {
+      "id": "60605",
+      "title": "Industrial Poisoning from Fumes, Gases and Poisons of Manufacturing Processes",
+      "author": "Rambousek, Josef"
+    },
+    {
+      "id": "40891",
+      "title": "The Art of Invigorating and Prolonging Life: By Food, Clothes, Air, Exercise, Wine, Sleep, &c. and Peptic Precepts, Pointing Out Agreeable and Effectual Methods to Prevent and Relieve Indigestion, and to Regulate and Strengthen the Action of the Stomach and Bowels",
+      "author": "Kitchiner, William"
+    },
+    {
+      "id": "54982",
+      "title": "A Text-book of Diseases of Women",
+      "author": "Penrose, Charles B. (Charles Bingham)"
+    },
+    {
+      "id": "2939",
+      "title": "William Harvey and the Discovery of the Circulation of the Blood",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "71252",
+      "title": "Occult science in medicine",
+      "author": "Hartmann, Franz"
+    },
+    {
+      "id": "72301",
+      "title": "Lead poisoning and lead absorption : $b The symptoms, pathology and prevention, with special reference to their industrial origin, and an account of the principal processes involving risk",
+      "author": "Legge, Thomas Morison, Sir"
+    },
+    {
+      "id": "68647",
+      "title": "Samuel Reynolds House of Siam, pioneer medical missionary, 1847-1876",
+      "author": "Feltus, George Haws"
+    },
+    {
+      "id": "50402",
+      "title": "Femina, A Work for Every Woman",
+      "author": "Miller, John A. (John Alexander)"
+    },
+    {
+      "id": "59234",
+      "title": "Obstetrical Nursing: A Text-Book on the Nursing Care of the Expectant Mother, the Woman in Labor, the Young Mother and Her Baby",
+      "author": "Van Blarcom, Carolyn Conant"
+    },
+    {
+      "id": "9876",
+      "title": "The Atlantic Monthly, Volume 10, No. 58, August, 1862: A Magazine of Literature, Art, and Politics",
+      "author": "Various"
+    },
+    {
+      "id": "26718",
+      "title": "Health on the Farm: A Manual of Rural Sanitation and Hygiene",
+      "author": "Harris, H. F. (Henry Fauntleroy)"
+    },
+    {
+      "id": "44948",
+      "title": "Abstracts of Papers Read at the First International Eugenics Congress: University of London, July, 1912",
+      "author": "International Eugenics Congress (1st : 1912 : London)"
+    },
+    {
+      "id": "13161",
+      "title": "Sane Sex Life and Sane Sex Living: Some Things That All Sane People Ought to Know About Sex Nature and Sex Functioning; Its Place in the Economy of Life, Its Proper Training and Righteous Exercise",
+      "author": "Long, H. W. (Harland William)"
+    },
+    {
+      "id": "50015",
+      "title": "On the edge of the primeval forest : $b Experiences and observations of a doctor in Equatorial Africa",
+      "author": "Schweitzer, Albert"
+    },
+    {
+      "id": "47748",
+      "title": "The Reason Why: A Careful Collection of Many Hundreds of Reasons for Things Which, Though Generally Believed, Are Imperfectly Understood",
+      "author": "Philp, Robert Kemp"
+    },
+    {
+      "id": "23777",
+      "title": "An Essay on the Shaking Palsy",
+      "author": "Parkinson, James"
+    },
+    {
+      "id": "65867",
+      "title": "Philosophical transactions, Vol. L. Part I. For the year 1757.: Giving some account of the present undertakings, studies, and labours, of the ingenious, in many considerable parts of the world.",
+      "author": "Various"
+    },
+    {
+      "id": "13402",
+      "title": "The Hindu-Yogi Science of Breath",
+      "author": "Atkinson, William Walker"
+    },
+    {
+      "id": "43738",
+      "title": "The Quiver, 11/1899",
+      "author": "Anonymous"
+    },
+    {
+      "id": "64926",
+      "title": "Medical Jurisprudence, Volume 3 (of 3)",
+      "author": "Paris, John Ayrton"
+    },
+    {
+      "id": "8554",
+      "title": "Why Worry?",
+      "author": "Walton, George Lincoln"
+    },
+    {
+      "id": "67675",
+      "title": "Psychological Aspects of the Problem of Atmospheric Smoke Pollution",
+      "author": "Wallin, J. E. Wallace (John Edward Wallace)"
+    },
+    {
+      "id": "67959",
+      "title": "On the Preparations of the Indian Hemp, or Gunjah (Cannabis Indica): Their Effects on the Animal System in Health, and Their Utility in the Treatment of Tetanus and Other Convulsive Diseases",
+      "author": "O'Shaughnessy, W. B."
+    },
+    {
+      "id": "43943",
+      "title": "A Comprehensive Guide-Book to Natural, Hygienic and Humane Diet",
+      "author": "Beard, Sidney Hartnoll"
+    },
+    {
+      "id": "68315",
+      "title": "On chloroform and other anæsthetics: their action and administration",
+      "author": "Snow, John"
+    },
+    {
+      "id": "15858",
+      "title": "The Social Emergency: Studies in Sex Hygiene and Morals",
+      "author": "Unknown"
+    },
+    {
+      "id": "42080",
+      "title": "The Voice in Singing",
+      "author": "Seiler, Emma"
+    },
+    {
+      "id": "36952",
+      "title": "Collectanea de Diversis Rebus: Addresses and Papers",
+      "author": "Eade, Peter, Sir"
+    },
+    {
+      "id": "53305",
+      "title": "A system of practical medicine. By American authors. Vol. 3 : $b Diseases of the respiratory, circulatory, and hæmatopoietic systems",
+      "author": "Unknown"
+    },
+    {
+      "id": "35226",
+      "title": "The Atlantic Monthly, Volume 11, No. 68, June, 1863: A Magazine of Literature, Art, and Politics",
+      "author": "Various"
+    },
+    {
+      "id": "39822",
+      "title": "Tics and Their Treatment",
+      "author": "Meige, Henry"
+    },
+    {
+      "id": "62644",
+      "title": "Veterinary Medicines, Their Actions, Uses and Dose",
+      "author": "Korinek, George Franklyn"
+    },
+    {
+      "id": "10453",
+      "title": "A Practical Physiology: A Text-Book for Higher Schools",
+      "author": "Blaisdell, Albert F. (Albert Franklin)"
+    },
+    {
+      "id": "19019",
+      "title": "Aids to Forensic Medicine and Toxicology",
+      "author": "Robertson, W. G. Aitchison (William George Aitchison )"
+    },
+    {
+      "id": "75132",
+      "title": "Selected papers on hysteria and other psychoneuroses",
+      "author": "Freud, Sigmund"
+    },
+    {
+      "id": "13722",
+      "title": "Youth and Sex: Dangers and Safeguards for Girls and Boys",
+      "author": "Scharlieb, Mary"
+    },
+    {
+      "id": "41725",
+      "title": "Surgery, with Special Reference to Podiatry",
+      "author": "Stern, Maximilian"
+    },
+    {
+      "id": "43695",
+      "title": "Appletons' Popular Science Monthly, February 1899: Volume LIV, No. 4, February 1899",
+      "author": "Various"
+    },
+    {
+      "id": "47767",
+      "title": "The Propaganda for Reform in Proprietary Medicines, Vol. 2 of 2",
+      "author": "Council on Pharmacy and Chemistry (American Medical Association)"
+    },
+    {
+      "id": "11647",
+      "title": "Scientific American Supplement, No. 458, October 11, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "42913",
+      "title": "Parenthood and Race Culture: An Outline of Eugenics",
+      "author": "Saleeby, C. W. (Caleb Williams)"
+    },
+    {
+      "id": "63495",
+      "title": "The Natural Food of Man: Being an attempt to prove from comparative anatomy, physiology, chemistry and hygiene, that the original, best and natural diet of man is fruit and nuts",
+      "author": "Carrington, Hereward"
+    },
+    {
+      "id": "23293",
+      "title": "Primitive Psycho-Therapy and Quackery",
+      "author": "Lawrence, Robert Means"
+    },
+    {
+      "id": "28390",
+      "title": "Medicine in Virginia, 1607-1699",
+      "author": "Hughes, Thomas Proctor"
+    },
+    {
+      "id": "73932",
+      "title": "Bodily changes in pain, hunger, fear, and rage : $b an account of recent researches into the function of emotional excitement",
+      "author": "Cannon, Walter B. (Walter Bradford)"
+    },
+    {
+      "id": "31508",
+      "title": "Euthenics, the science of controllable environment: A plea for better living conditions as a first step toward higher human efficiency",
+      "author": "Richards, Ellen H. (Ellen Henrietta)"
+    },
+    {
+      "id": "58197",
+      "title": "Popular Superstitions, and the Truths Contained Therein: With an Account of Mesmerism",
+      "author": "Mayo, Herbert"
+    },
+    {
+      "id": "42979",
+      "title": "Pomo Bear Doctors",
+      "author": "Barrett, S. A. (Samuel Alfred)"
+    },
+    {
+      "id": "37997",
+      "title": "The American Reformed Cattle Doctor: Containing the necessary information for preserving the health and curing the diseases of oxen, cows, sheep, and swine, with a great variety of original recipes, and valuable information in reference to farm and dairy management",
+      "author": "Dadd, George H."
+    },
+    {
+      "id": "17682",
+      "title": "The Healthy Life, Vol. V, Nos. 24-28: The Independent Health Magazine",
+      "author": "Various"
+    },
+    {
+      "id": "34211",
+      "title": "A Treatise on Physiology and Hygiene: For Educational Institutions and General Readers",
+      "author": "Hutchison, Joseph C. (Joseph Chrisman)"
+    },
+    {
+      "id": "52297",
+      "title": "Medical Women: Two Essays",
+      "author": "Jex-Blake, Sophia"
+    },
+    {
+      "id": "24708",
+      "title": "The Biology, Physiology and Sociology of Reproduction: Also Sexual Hygiene with Special Reference to the Male",
+      "author": "Hall, Winfield Scott"
+    },
+    {
+      "id": "32251",
+      "title": "Applied Physiology, Including the Effects of Alcohol and Narcotics",
+      "author": "Overton, Frank"
+    },
+    {
+      "id": "65003",
+      "title": "Porneiopathology: A Popular Treatise on Venereal and Other Diseases of the Male and Female Genital System; With Remarks on Impotence, Onanism, Sterility, Piles, and Gravel, and Prescriptions for Their Treatment",
+      "author": "Culverwell, Robert James"
+    },
+    {
+      "id": "70448",
+      "title": "Tokology : $b A book for every woman",
+      "author": "Stockham, Alice B. (Alice Bunker)"
+    },
+    {
+      "id": "47026",
+      "title": "Fletcherism: What It Is; Or, How I Became Young at Sixty",
+      "author": "Fletcher, Horace"
+    },
+    {
+      "id": "39483",
+      "title": "Farm Boys and Girls",
+      "author": "McKeever, William A. (William Arch)"
+    },
+    {
+      "id": "47513",
+      "title": "The Flea",
+      "author": "Russell, Harold"
+    },
+    {
+      "id": "52250",
+      "title": "A Nurse's Life in War and Peace",
+      "author": "Laurence, E. C. (Eleanor Constance)"
+    },
+    {
+      "id": "11648",
+      "title": "Scientific American Supplement, No. 595, May 28, 1887",
+      "author": "Various"
+    },
+    {
+      "id": "40106",
+      "title": "Loimologia: Or, an Historical Account of the Plague in London in 1665: With Precautionary Directions Against the Like Contagion",
+      "author": "Hodges, Nathaniel"
+    },
+    {
+      "id": "60334",
+      "title": "A Treatise on the Art of Midwifery: Setting Forth Various Abuses Therein, Especially as to the Practice With Instruments: the Whole Serving to Put All Rational Inquirers in a Fair Way of Very Safely Forming Their Own Judgement Upon the Question; Which It Is Best to Employ, in Cases of Pregnancy and Lying-in, a Man-midwife; Or, a Midwife",
+      "author": "Nihell, Elizabeth"
+    },
+    {
+      "id": "70797",
+      "title": "Personal hygiene and physical training for women",
+      "author": "Galbraith, Anna M. (Anna Mary)"
+    },
+    {
+      "id": "39044",
+      "title": "Advice to the people in general, with regard to their health",
+      "author": "Tissot, S. A. D. (Samuel Auguste David)"
+    },
+    {
+      "id": "56118",
+      "title": "General Anatomy, Applied to Physiology and Medicine, Vol. 1 (of 3)",
+      "author": "Bichat, Xavier"
+    },
+    {
+      "id": "67065",
+      "title": "An anatomical disquisition on the motion of the heart & blood in animals",
+      "author": "Harvey, William"
+    },
+    {
+      "id": "35289",
+      "title": "Hospital Sketches",
+      "author": "Peabody, Robert Swain"
+    },
+    {
+      "id": "67545",
+      "title": "Music in Medicine",
+      "author": "Licht, Sidney"
+    },
+    {
+      "id": "41292",
+      "title": "Every Man His Own Doctor: The Cold Water, Tepid Water, and Friction-Cure, as Applicable to Every Disease to Which the Human Frame Is Subject, and Also to the Cure of Disease in Horses and Cattle",
+      "author": "Claridge, R. T. (Richard Tappin)"
+    },
+    {
+      "id": "61612",
+      "title": "The Temples and Ritual of Asklepios at Epidauros and Athens: Two Lectures Delivered at the Royal Institution of Great Britain",
+      "author": "Caton, Richard"
+    },
+    {
+      "id": "31816",
+      "title": "The History of the Medical Department of Transylvania University",
+      "author": "Peter, Robert"
+    },
+    {
+      "id": "32033",
+      "title": "Vivisection",
+      "author": "Leffingwell, Albert"
+    },
+    {
+      "id": "12439",
+      "title": "Notes on Nursing: What It Is, and What It Is Not",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "53199",
+      "title": "Practical Points in Anesthesia",
+      "author": "Neef, Frederick-Emil"
+    },
+    {
+      "id": "74935",
+      "title": "Lessons from the life of Florence Nightingale",
+      "author": "Aikens, Charlotte A. (Charlotte Albina)"
+    },
+    {
+      "id": "7293",
+      "title": "The Opium Habit",
+      "author": "Day, Horace B."
+    },
+    {
+      "id": "52434",
+      "title": "Deadly Adulteration and Slow Poisoning Unmasked: Disease and Death in the Pot and Bottle",
+      "author": "Anonymous"
+    },
+    {
+      "id": "27944",
+      "title": "The Home Medical Library, Volume 2 (of 6)",
+      "author": "Unknown"
+    },
+    {
+      "id": "67858",
+      "title": "Aristotle's works:: Containing the Master-piece, Directions for Midwives, and Counsel and Advice to Child-bearing Women with Various Useful Remedies",
+      "author": "Aristotle, pseud."
+    },
+    {
+      "id": "11204",
+      "title": "Diseases of the Horse's Foot",
+      "author": "Reeks, H. Caulton (Harry Caulton)"
+    },
+    {
+      "id": "63591",
+      "title": "Greek Biology & Greek Medicine",
+      "author": "Singer, Charles"
+    },
+    {
+      "id": "50640",
+      "title": "Elements of Surgery",
+      "author": "Liston, Robert"
+    },
+    {
+      "id": "52877",
+      "title": "Subsidiary Notes as to the Introduction of Female Nursing into Military Hospitals in Peace and War",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "56893",
+      "title": "Nervous ills, their cause and cure",
+      "author": "Sidis, Boris"
+    },
+    {
+      "id": "60584",
+      "title": "Aromatics and the Soul: A Study of Smells",
+      "author": "McKenzie, Dan"
+    },
+    {
+      "id": "64785",
+      "title": "The Spanish Influenza Pandemic of 1918: An Account of Its Ravages in Luzerne County, Pennsylvania, and the Efforts Made to Combat and Subdue It",
+      "author": "Harvey, Oscar Jewell"
+    },
+    {
+      "id": "32947",
+      "title": "On Snake-Poison: Its Action and Its Antidote",
+      "author": "Mueller, A."
+    },
+    {
+      "id": "72732",
+      "title": "The life of Florence Nightingale",
+      "author": "Tooley, Sarah A."
+    },
+    {
+      "id": "16316",
+      "title": "Outdoor Sports and Games",
+      "author": "Miller, Claude Harris"
+    },
+    {
+      "id": "66130",
+      "title": "History of the Water Supply of the World: arranged in a comprehensive form from eminent authorities, containing a description of the various methods of water supply, pollution and purification of waters, and sanitary effects, with analyses of potable waters, also geology and water strata of Hamilton county, Ohio, statistics of the Ohio river, proposed water supply of Cincinnati.",
+      "author": "Bell, Thomas J. (Thomas Jefferson)"
+    },
+    {
+      "id": "8452",
+      "title": "Scientific American Supplement, No. 363, December 16, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "43887",
+      "title": "Sleep and Its Derangements",
+      "author": "Hammond, William A. (William Alexander)"
+    },
+    {
+      "id": "55366",
+      "title": "The Farmer's Veterinarian: A Practical Treatise on the Diseases of Farm Stock",
+      "author": "Burkett, Charles William"
+    },
+    {
+      "id": "56400",
+      "title": "Memoirs of John Abernethy: With a View of His Lectures, His Writings, and Character; with Additional Extracts from Original Documents, Now First Published",
+      "author": "Macilwain, George"
+    },
+    {
+      "id": "58857",
+      "title": "The Works of William Harvey M.D.: Translated from the Latin with a life of the author",
+      "author": "Harvey, William"
+    },
+    {
+      "id": "70301",
+      "title": "My leper friends : $b An account of personal work among lepers, and of their daily life in India",
+      "author": "Hayes, Alice M."
+    },
+    {
+      "id": "15435",
+      "title": "Object Lessons on the Human Body: A Transcript of Lessons Given in the Primary Department of School No. 49, New York City",
+      "author": "Buckelew, Sarah F. (Sarah Frances)"
+    },
+    {
+      "id": "30889",
+      "title": "The mechanism of the human voice",
+      "author": "Behnke, Emil"
+    },
+    {
+      "id": "51293",
+      "title": "The Law and Medical Men",
+      "author": "Rogers, R. Vashon (Robert Vashon)"
+    },
+    {
+      "id": "75850",
+      "title": "Scientific feeding",
+      "author": "Roper, Dora C. C. L. (Dora Cathrine Cristine Liebel)"
+    },
+    {
+      "id": "54008",
+      "title": "Technic and Practice of Chiropractic",
+      "author": "Loban, Joy Maxwell"
+    },
+    {
+      "id": "48343",
+      "title": "Clergymen and Doctors: Curious Facts and Characteristic Sketches.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "71312",
+      "title": "Leprosy : $b in its clinical & pathological aspects",
+      "author": "Hansen, G. Armauer (Gerhard Armauer)"
+    },
+    {
+      "id": "684",
+      "title": "Worldwide Effects of Nuclear War: Some Perspectives",
+      "author": "United States. Arms Control and Disarmament Agency"
+    },
+    {
+      "id": "57267",
+      "title": "An Account of the Late Improvements in Galvanism: With a Series of Curious and Interesting Experiments Performed Before the Commissioners of the French National Institute, and Repeated Lately in the Anatomical Theatres of London",
+      "author": "Aldini, Giovanni"
+    },
+    {
+      "id": "65188",
+      "title": "A Book of Medical Discourses, in Two Parts",
+      "author": "Crumpler, Rebecca Lee"
+    },
+    {
+      "id": "66565",
+      "title": "Child Life and Sex Hygiene: A Remarkable Message",
+      "author": "Smith, Otterbein Oscar"
+    },
+    {
+      "id": "14041",
+      "title": "Scientific American Supplement, No. 470, January 3, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "51410",
+      "title": "Dr. Elsie Inglis",
+      "author": "Balfour, Frances, Lady"
+    },
+    {
+      "id": "64097",
+      "title": "The Female Physician: Containing all the diseases incident to that sex, in virgins, wives, and widows; together with their causes and symptoms, their degrees of danger, and respective methods of prevention and cure: to which is added, the whole art of new improv'd midwifery; comprehending the necessary qualifications of a midwife, and particular directions for laying women, in all cases of difficult and preternatural births; together with the diet and regimen of both the mother and child.",
+      "author": "Maubray, John"
+    },
+    {
+      "id": "65496",
+      "title": "Pioneer Work in Opening the Medical Profession to Women",
+      "author": "Blackwell, Elizabeth"
+    },
+    {
+      "id": "63422",
+      "title": "Roentgen Rays and Phenomena of the Anode and Cathode.",
+      "author": "Thompson, Edward P. (Edward Pruden)"
+    },
+    {
+      "id": "13887",
+      "title": "Dr. Allinson's cookery book, comprising many valuable vegetarian recipes",
+      "author": "Allinson, T. R. (Thomas Richard)"
+    },
+    {
+      "id": "50568",
+      "title": "The Art of the Bone-Setter: A Testimony and a Vindication",
+      "author": "Bennett, George Matthews"
+    },
+    {
+      "id": "73019",
+      "title": "Diseases of cattle, sheep, goats and swine",
+      "author": "Moussu, G. (Gustave)"
+    },
+    {
+      "id": "53875",
+      "title": "Madame Young's Guide to Health: Her experience and practice for nearly forty years; a true family herbal, wherein is displayed the true properties and medical virtues of all the roots, herbs, &c., indigenous to the United States, and their combination in all the diseases the human body is heir to; also, an explanation of the human body, its liability to injuries through ignorance of its structure. Dedicated exclusively to her sex.",
+      "author": "Young, Amelia"
+    },
+    {
+      "id": "55734",
+      "title": "Miss Beecher's Housekeeper and Healthkeeper: Containing Five Hundred Receipes for Economical and Healthful Cooking; also, Many Directions for Securing Health and Happiness",
+      "author": "Beecher, Catharine Esther"
+    },
+    {
+      "id": "40184",
+      "title": "The Natural Cure of Consumption, Constipation, Bright's Disease, Neuralgia, Rheumatism, \"Colds\" (Fevers), Etc.: How Sickness Originates, and How to Prevent It. A Health Manual for the People.",
+      "author": "Page, C. E. (Charles Edward)"
+    },
+    {
+      "id": "25044",
+      "title": "The Eugenic Marriage, Volume 3 (of 4): A Personal Guide to the New Science of Better Living and Better Babies",
+      "author": "Hague, W. Grant (William Grant)"
+    },
+    {
+      "id": "37158",
+      "title": "The Pros and Cons of Vivisection",
+      "author": "Richet, Charles"
+    },
+    {
+      "id": "67114",
+      "title": "Massage & Exercises Combined: A permanent physical culture course for men, women and children; health-giving, vitalizing, prophylactic, beautifying; a new system of the characteristic essentials of gymnastic and Indian Yogis concentration exercises combined with scientific massage movements; with 86 illustrations and deep breathing exercises",
+      "author": "Jensen, Albrecht"
+    },
+    {
+      "id": "16135",
+      "title": "Safe Marriage: A Return to Sanity",
+      "author": "Rout, Ettie Annie"
+    },
+    {
+      "id": "30153",
+      "title": "Abuse, Torture, and Trauma and their Consequences and Effects",
+      "author": "Vaknin, Samuel"
+    },
+    {
+      "id": "8521",
+      "title": "Maintaining Health (Formerly Health and Efficiency)",
+      "author": "Alsaker, Rasmus Larssen"
+    },
+    {
+      "id": "52888",
+      "title": "What Every Girl Should Know",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "45711",
+      "title": "Radiant Motherhood: A Book for Those Who are Creating the Future",
+      "author": "Stopes, Marie Carmichael"
+    },
+    {
+      "id": "55443",
+      "title": "Psycho-Analysis and the War Neuroses",
+      "author": "Freud, Sigmund"
+    },
+    {
+      "id": "71069",
+      "title": "Mere mortals : $b Medico-historical essays",
+      "author": "MacLaurin, C. (Charles)"
+    },
+    {
+      "id": "8862",
+      "title": "Scientific American Supplement, No. 384, May 12, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "25601",
+      "title": "Fasting Girls: Their Physiology and Pathology",
+      "author": "Hammond, William A. (William Alexander)"
+    },
+    {
+      "id": "48341",
+      "title": "Gunshot Roentgenograms: A Collection of Roentgenograms Taken in Constantinople During the Turko-Balkan War, 1912-1913, Illustrating Some Gunshot Wounds in the Turkish Army",
+      "author": "Ford, Clyde S. (Clyde Sinclair)"
+    },
+    {
+      "id": "55739",
+      "title": "Artificial Limbs",
+      "author": "Broca, Auguste"
+    },
+    {
+      "id": "61621",
+      "title": "A Treatise on the Crime of Onan: Illustrated with a Variety of Cases, Together with the Method of Cure",
+      "author": "Tissot, S. A. D. (Samuel Auguste David)"
+    },
+    {
+      "id": "63313",
+      "title": "Neurosyphilis : $b Modern systematic diagnosis and treatment presented in one hundred and thirty-seven case histories",
+      "author": "Southard, Elmer Ernest"
+    },
+    {
+      "id": "13574",
+      "title": "Keeping Fit All the Way: How to Obtain and Maintain Health, Strength and Efficiency",
+      "author": "Camp, Walter"
+    },
+    {
+      "id": "55009",
+      "title": "The Botanical Lore of the California Indians: with Side Lights on Historical Incidents in California",
+      "author": "Romero, John Bruno"
+    },
+    {
+      "id": "8660",
+      "title": "Woman and the New Race",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "67375",
+      "title": "Jackson's Gymnastics for the Fingers and Wrist: being a system of gymnastics, based on anatomical principles, for developing and strengthening the muscles of the hand for musical, mechanical and medical purposes: with thirty-seven diagrams",
+      "author": "Jackson, Edwin Ward"
+    },
+    {
+      "id": "4219",
+      "title": "The Art of Living in Australia: Together with Three Hundred Australian Cookery Recipes and Accessory Kitchen Information by Mrs. H. Wicken",
+      "author": "Muskett, Philip E."
+    },
+    {
+      "id": "71397",
+      "title": "Common poisonous plants of New England",
+      "author": "Youngken, Heber W., Jr. (Heber Wilkinson)"
+    },
+    {
+      "id": "57215",
+      "title": "Some Medical Aspects of Old Age: Being the Linacre lecture, 1922, St. John's college, Cambridge",
+      "author": "Rolleston, Humphry Davy, Sir"
+    },
+    {
+      "id": "58766",
+      "title": "Suicide: Its History, Literature, Jurisprudence, Causation, and Prevention",
+      "author": "Westcott, W. Wynn (William Wynn)"
+    },
+    {
+      "id": "48492",
+      "title": "Cremation of the Dead: Its History and Bearings Upon Public Health",
+      "author": "Eassie, William"
+    },
+    {
+      "id": "49037",
+      "title": "Health Service Support in a Nuclear, Biological, and Chemical Environment: Tactics, Techniques, and Procedures",
+      "author": "United States. Department of the Army"
+    },
+    {
+      "id": "60822",
+      "title": "Studies on Epidemic Influenza: Comprising Clinical and Laboratory Investigations",
+      "author": "University of Pittsburgh. School of Medicine"
+    },
+    {
+      "id": "49377",
+      "title": "Radioisotopes in Medicine",
+      "author": "Phelan, Earl W."
+    },
+    {
+      "id": "54553",
+      "title": "Zone therapy; or, Relieving pain at home",
+      "author": "Fitzgerald, Wm. H. (William Henry Hope)"
+    },
+    {
+      "id": "30016",
+      "title": "Medical investigation in seventeenth century England",
+      "author": "Bodemer, Charles W."
+    },
+    {
+      "id": "37592",
+      "title": "Neuralgia and the diseases that resemble it",
+      "author": "Anstie, Francis Edmund"
+    },
+    {
+      "id": "29555",
+      "title": "Rural Hygiene",
+      "author": "Ogden, Henry N. (Henry Neely)"
+    },
+    {
+      "id": "34189",
+      "title": "Food Poisoning",
+      "author": "Jordan, Edwin O. (Edwin Oakes)"
+    },
+    {
+      "id": "53027",
+      "title": "A Treatise on Tobacco, Tea, Coffee, and Chocolate",
+      "author": "Paulli, Simon"
+    },
+    {
+      "id": "71485",
+      "title": "The married woman's private medical companion : $b embracing the treatment of menstruation, or monthly turns, during their stoppage, irregularity, or entire suppression. Pregnancy, and how it may be determined; with the treatment of its various diseases. Discovery to prevent pregnancy; its great and important necessity where malformation or inability exists to give birth. To prevent miscarriage or abortion. When proper and necessary to effect miscarriage. When attended with entire safety. Causes and mode of cure of barrenness, or sterility.",
+      "author": "Mauriceau, A. M."
+    },
+    {
+      "id": "69734",
+      "title": "Lysistrata : $b or, Woman's future and future woman",
+      "author": "Ludovici, Anthony M. (Anthony Mario)"
+    },
+    {
+      "id": "24564",
+      "title": "A Manual of the Operations of Surgery: For the Use of Senior Students, House Surgeons, and Junior Practitioners",
+      "author": "Bell, Joseph"
+    },
+    {
+      "id": "27181",
+      "title": "Prof. Koch's Method to Cure Tuberculosis Popularly Treated",
+      "author": "Birnbaum, Max"
+    },
+    {
+      "id": "31671",
+      "title": "Plain Talks on Avoided Subjects",
+      "author": "Guernsey, Henry N. (Henry Newell)"
+    },
+    {
+      "id": "41245",
+      "title": "A Guide to the Virginia Springs: Giving, in addition to the routes and distances, a description of the springs and also of the natural curiosities of the state",
+      "author": "Moorman, J. J. (John Jennings)"
+    },
+    {
+      "id": "67971",
+      "title": "Getting ready to be a mother : $b a little book of information and advice for the young woman who is looking forward to motherhood",
+      "author": "Van Blarcom, Carolyn Conant"
+    },
+    {
+      "id": "37057",
+      "title": "Observations on Insanity: With Practical Remarks on the Disease and an Account of the Morbid Appearances on Dissection",
+      "author": "Haslam, John"
+    },
+    {
+      "id": "55060",
+      "title": "The Chautauquan, Vol. 05, March 1885",
+      "author": "Chautauqua Literary and Scientific Circle"
+    },
+    {
+      "id": "44734",
+      "title": "Training for the Trenches: A Practical Handbook Based upon Personal Experience During the First Two Years of the War in France",
+      "author": "Vickers, Leslie"
+    },
+    {
+      "id": "49242",
+      "title": "A Practical Treatise on Smallpox",
+      "author": "Fox, George Henry"
+    },
+    {
+      "id": "67453",
+      "title": "A Treatise on the Plague and Yellow Fever: With an Appendix, containing histories of the plague at Athens in the time of the Peloponnesian War; at Constantinople in the time of Justinian; at London in 1665; at Marseilles in 1720",
+      "author": "Tytler, James"
+    },
+    {
+      "id": "27703",
+      "title": "Buchanan's Journal of Man, September 1887: Volume 1, Number 8",
+      "author": "Unknown"
+    },
+    {
+      "id": "43625",
+      "title": "The Survey, Volume 30, Number 1, April 5, 1913",
+      "author": "Various"
+    },
+    {
+      "id": "46745",
+      "title": "The Action of Medicines in the System: Or, on the mode in which therapeutic agents introduced into the stomach produce their peculiar effects on the animal economy",
+      "author": "Headland, Frederick William"
+    },
+    {
+      "id": "49641",
+      "title": "Whole Body Counters",
+      "author": "Woodburn, John H."
+    },
+    {
+      "id": "58903",
+      "title": "The Monthly Review of Dental Surgery, No. VIII. October, 1880. Vol. I.: The Journal of the British Dental Association",
+      "author": "Various"
+    },
+    {
+      "id": "13265",
+      "title": "A Book of Fruits and Flowers",
+      "author": "Anonymous"
+    },
+    {
+      "id": "15283",
+      "title": "Disease and Its Causes",
+      "author": "Councilman, W. T. (William Thomas)"
+    },
+    {
+      "id": "27717",
+      "title": "Buchanan's Journal of Man, October 1887: Volume 1, Number 9",
+      "author": "Unknown"
+    },
+    {
+      "id": "41710",
+      "title": "A System of Operative Surgery, Volume 4 (of 4)",
+      "author": "Unknown"
+    },
+    {
+      "id": "13401",
+      "title": "Scientific American Supplement, No. 520, December 19, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "37109",
+      "title": "Health Through Will Power",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "53557",
+      "title": "The Gold-Headed Cane",
+      "author": "Macmichael, William"
+    },
+    {
+      "id": "67704",
+      "title": "Doctors: An Address delivered to the Students of the Medical School of the Middlesex Hospital, 1st October, 1908",
+      "author": "Kipling, Rudyard"
+    },
+    {
+      "id": "72658",
+      "title": "The principles and practice of modern surgery",
+      "author": "Park, Roswell"
+    },
+    {
+      "id": "52874",
+      "title": "The Cleveland Medical Gazette, Vol. 1, No. 3, January 1886",
+      "author": "Various"
+    },
+    {
+      "id": "54004",
+      "title": "Food Adulteration and Its Detection: With photomicrographic plates and a bibliographical appendix",
+      "author": "Battershall, Jesse P. (Jesse Park)"
+    },
+    {
+      "id": "43415",
+      "title": "Insomnia; and Other Disorders of Sleep",
+      "author": "Lyman, Henry M. (Henry Munson)"
+    },
+    {
+      "id": "71015",
+      "title": "Text book of veterinary medicine, Volume 1 (of 5)",
+      "author": "Law, James"
+    },
+    {
+      "id": "19465",
+      "title": "Draining for Profit, and Draining for Health",
+      "author": "Waring, George E. (George Edwin)"
+    },
+    {
+      "id": "27758",
+      "title": "Buchanan's Journal of Man, November 1887: Volume 1, Number 10",
+      "author": "Unknown"
+    },
+    {
+      "id": "49334",
+      "title": "Radioisotopes and Life Processes (Revised)",
+      "author": "Kisieleski, Walter E."
+    },
+    {
+      "id": "54721",
+      "title": "The Food Question: Health and Economy",
+      "author": "Various"
+    },
+    {
+      "id": "43942",
+      "title": "Plague: Its Cause and the Manner of its Extension, Its Menace, Its Control and Suppression, Its Diagnosis and Treatment",
+      "author": "Jackson, Thomas Wright"
+    },
+    {
+      "id": "46642",
+      "title": "Sporting Dogs: Their Points and Management in Health and Disease",
+      "author": "Barton, Frank Townend"
+    },
+    {
+      "id": "57979",
+      "title": "Mother, Nurse and Infant: A Manual Especially Adapted for the Guidance of Mothers and Monthly Nurses, Comprising Full Instruction in Regard To Pregnancy, Preparation for Child-birth, and the Care of Mother and Child, and Designed to Impart so Much Knowledge of Anatomy, Physiology, Midwifery, and the Proper Use of Medicines as Will Serve Intelligently to Direct the Wife, Mother and Nurse in All Emergencies.",
+      "author": "Sackett, S. P."
+    },
+    {
+      "id": "26401",
+      "title": "Buchanan's Journal of Man, June 1887: Volume 1, Number 5",
+      "author": "Unknown"
+    },
+    {
+      "id": "33503",
+      "title": "The Sweating Sickness: A boke or counseill against the disease commonly called the sweate or sweatyng sicknesse",
+      "author": "Caius, John"
+    },
+    {
+      "id": "36849",
+      "title": "Think: A Book for To-day",
+      "author": "Hunter, William Crosbie"
+    },
+    {
+      "id": "39219",
+      "title": "Health, Happiness, and Longevity: Health without medicine: happiness without money: the result, longevity",
+      "author": "McCarty, Louis Philippe"
+    },
+    {
+      "id": "53007",
+      "title": "Observations on the Diseases of Seamen",
+      "author": "Blane, Gilbert, Sir"
+    },
+    {
+      "id": "11649",
+      "title": "Scientific American Supplement, No. 799, April 25, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "65244",
+      "title": "On criminal abortion in America",
+      "author": "Storer, Horatio Robinson"
+    },
+    {
+      "id": "11344",
+      "title": "Scientific American Supplement, No. 415, December 15, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "22108",
+      "title": "The Untroubled Mind",
+      "author": "Hall, Herbert J. (Herbert James)"
+    },
+    {
+      "id": "61303",
+      "title": "Magnetation Methods of Birth Control",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "67597",
+      "title": "Bantu Folk Lore (Medical and General)",
+      "author": "Hewat, Matthew L."
+    },
+    {
+      "id": "26840",
+      "title": "Tin Foil and Its Combinations for Filling Teeth",
+      "author": "Ambler, Henry Lovejoy"
+    },
+    {
+      "id": "46179",
+      "title": "Two years and four months in a lunatic asylum : $b from August 20th, 1863 to December 20th, 1865",
+      "author": "Chase, Hiram"
+    },
+    {
+      "id": "47387",
+      "title": "Fissure of the Anus and Fistula in Ano",
+      "author": "Adler, Lewis H., Jr."
+    },
+    {
+      "id": "54599",
+      "title": "The Case for Birth Control: A Supplementary Brief and Statement of Facts",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "66077",
+      "title": "Good Health and How We Won It, With an Account of the New Hygiene",
+      "author": "Sinclair, Upton"
+    },
+    {
+      "id": "70624",
+      "title": "Sanitation in Panama",
+      "author": "Gorgas, William Crawford"
+    },
+    {
+      "id": "13640",
+      "title": "Scientific American Supplement, No. 821, September 26, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "48793",
+      "title": "Bacteria: Especially as they are related to the economy of nature, to industrial processes, and to the public health",
+      "author": "Newman, George, Sir"
+    },
+    {
+      "id": "65622",
+      "title": "Commentaries on the Surgery of the War in Portugal, Spain, France, and the Netherlands: from the battle of Roliça, in 1808, to that of Waterloo, in 1815; with additions relating to those in the Crimea in 1854-55, showing the improvements made during and since that period in the great art and science of surgery on all the subjects to which they relate.",
+      "author": "Guthrie, G. J. (George James)"
+    },
+    {
+      "id": "67326",
+      "title": "The A.B.-Z. of our own nutrition",
+      "author": "Fletcher, Horace"
+    },
+    {
+      "id": "69080",
+      "title": "Walker's manly exercises: Containing rowing, sailing, riding, driving, racing, hunting, shooting, and other manly sports",
+      "author": "Walker, Donald"
+    },
+    {
+      "id": "29737",
+      "title": "The Leper in England: with some account of English lazar-houses",
+      "author": "Hope, Robert Charles"
+    },
+    {
+      "id": "27947",
+      "title": "The Home Medical Library, Volume 5 (of 6)",
+      "author": "Unknown"
+    },
+    {
+      "id": "40256",
+      "title": "Barium: A Cause of the Loco-Weed Disease",
+      "author": "Crawford, Albert C. (Albert Cornelius)"
+    },
+    {
+      "id": "59510",
+      "title": "Dr. Southwood Smith: A Retrospect",
+      "author": "Lewes, Gertrude Hill"
+    },
+    {
+      "id": "32521",
+      "title": "Keep-Well Stories for Little Folks",
+      "author": "Jones, May Farinholt"
+    },
+    {
+      "id": "59061",
+      "title": "Poisonous Snakes of Kansas",
+      "author": "Clarke, Robert F. (Robert Francis)"
+    },
+    {
+      "id": "48024",
+      "title": "Physiology: The Science of the Body",
+      "author": "Martin, Ernest G."
+    },
+    {
+      "id": "57668",
+      "title": "The Secret of Life, Death and Immortality: A startling proposition, with a chapter devoted to mental therapeutics and instructions for self healing",
+      "author": "Fleetwood, Henry"
+    },
+    {
+      "id": "66226",
+      "title": "Overweight and Underweight",
+      "author": "Metropolitan Life Insurance Company"
+    },
+    {
+      "id": "47227",
+      "title": "The Popular Science Monthly, June, 1900: Vol. 57, May, 1900 to October, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "13197",
+      "title": "Wear and Tear; Or, Hints for the Overworked",
+      "author": "Mitchell, S. Weir (Silas Weir)"
+    },
+    {
+      "id": "44295",
+      "title": "Candy Medication",
+      "author": "Fantus, Bernard"
+    },
+    {
+      "id": "22005",
+      "title": "How to Add Ten Years to your Life and to Double Its Satisfactions",
+      "author": "Curry, S. S. (Samuel Silas)"
+    },
+    {
+      "id": "37222",
+      "title": "Insanity: Its Causes and Prevention",
+      "author": "Stearns, Henry Putnam"
+    },
+    {
+      "id": "38831",
+      "title": "The Barb and the Bridle: A Handbook of Equitation for Ladies, and Manual of Instruction in the Science of Riding, from the Preparatory Suppling Exercises",
+      "author": "Henderson, Robert, active 1866-1874"
+    },
+    {
+      "id": "54622",
+      "title": "Reports Relating to the Sanitary Condition of the City of London",
+      "author": "Simon, John"
+    },
+    {
+      "id": "11270",
+      "title": "A Practical Illustration of \"Woman's Right to Labor\": A Letter from Marie E. Zakrzewska, M.D. Late of Berlin, Prussia",
+      "author": "Zakrzewska, Marie E. (Marie Elizabeth)"
+    },
+    {
+      "id": "39830",
+      "title": "Memoranda on Poisons",
+      "author": "Tanner, Thomas Hawkes"
+    },
+    {
+      "id": "45481",
+      "title": "What Is Christian Science?",
+      "author": "Mangasarian, M. M. (Mangasar Mugurditch)"
+    },
+    {
+      "id": "60493",
+      "title": "The Brooklyn Medical Journal. Vol. II. No. 2. Aug., 1888",
+      "author": "Various"
+    },
+    {
+      "id": "63376",
+      "title": "The Sweating Sickness in England",
+      "author": "Webb, Francis Cornelius"
+    },
+    {
+      "id": "74254",
+      "title": "Life in the sick-room : $b Essays",
+      "author": "Martineau, Harriet"
+    },
+    {
+      "id": "13939",
+      "title": "Scientific American Supplement, No. 484, April 11, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "31338",
+      "title": "An Account of the Diseases which were most frequent in the British military hospitals in Germany",
+      "author": "Monro, Donald"
+    },
+    {
+      "id": "64610",
+      "title": "A monograph on sleep and dream: their physiology and psychology",
+      "author": "Cox, Edward W. (Edward William)"
+    },
+    {
+      "id": "65916",
+      "title": "Medicine and the Church: Being a series of studies on the relationship between the practice of medicine and the church's ministry to the sick",
+      "author": "Unknown"
+    },
+    {
+      "id": "67908",
+      "title": "Fatigue study : $b the elimination of humanity's greatest unnecessary waste. A first step in motion study",
+      "author": "Gilbreth, Lillian Moller"
+    },
+    {
+      "id": "46104",
+      "title": "The Girl in Industry",
+      "author": "Collier, Dorothy Josephine"
+    },
+    {
+      "id": "54904",
+      "title": "London (Ancient and Modern) from the Sanitary and Medical Point of View",
+      "author": "Poore, George Vivian"
+    },
+    {
+      "id": "59875",
+      "title": "Graphic illustrations of abortion and the diseases of menstruation: Consisting of Twelve Plates from Drawings Engraved on Stone, and Coloured by Mr. J. Perry, and Two Copper-plates from the Philosophical Transactions, Coloured by the Same Artist. the Whole Representing Forty-five Specimens of Aborted Ova and Adventitious Productions of the Uterus, With Preliminary Observations, Explanations of the Figures and Remarks, Anatomical and Physiological.",
+      "author": "Granville, A. B. (Augustus Bozzi)"
+    },
+    {
+      "id": "67465",
+      "title": "Poultry diseases: Causes, symptoms and treatment, with notes on post-mortem examinations",
+      "author": "Wortley, E. J. (E. Jocelyn)"
+    },
+    {
+      "id": "75927",
+      "title": "Vikings of to-day : $b Or, life and medical work among the fishermen of Labrador",
+      "author": "Grenfell, Wilfred Thomason, Sir"
+    },
+    {
+      "id": "8408",
+      "title": "Scientific American Supplement, No. 299, September 24, 1881",
+      "author": "Various"
+    },
+    {
+      "id": "15158",
+      "title": "In Time of Emergency: A Citizen's Handbook on Nuclear Attack, Natural Disasters (1968)",
+      "author": "United States. Office of Civil Defense"
+    },
+    {
+      "id": "38676",
+      "title": "Adenoids and Diseased Tonsils: Their Effect on General Intelligence",
+      "author": "Rogers, Margaret Cobb"
+    },
+    {
+      "id": "43481",
+      "title": "Tobacco and Alcohol: I. It Does Pay to Smoke.  II. The Coming Man Will Drink Wine.",
+      "author": "Fiske, John"
+    },
+    {
+      "id": "44016",
+      "title": "The White Spark: A New Book, Giving Out a New Philosophy and the Mysteries of the Universe. The Handbook of the Millennium and the New Dispensation",
+      "author": "Leach, Orville Livingston"
+    },
+    {
+      "id": "58525",
+      "title": "Remarks on the Uses of some of the Bazaar Medicines and Common Medical Plants of India: With a full index of diseases, indicating their treatment by these and other agents procurable throughout India; to which are added directions for treatment in cases of drowning, snake-bites &c.",
+      "author": "Waring, Edward John"
+    },
+    {
+      "id": "8950",
+      "title": "Scientific American Supplement, No. 385, May 19, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "17437",
+      "title": "Health and Education",
+      "author": "Kingsley, Charles"
+    },
+    {
+      "id": "40654",
+      "title": "A System of Midwifery",
+      "author": "Rigby, Edward"
+    },
+    {
+      "id": "57829",
+      "title": "ΝΕΚΡΟΚΗΔΕΙΑ; Or, the Art of Embalming;: Wherein Is Shewn the Right of Burial, and Funeral Ceremonies, Especially That of Preserving Bodies After the Egyptian Method. Together With an Account of the Egyptian Mummies, Pyramids, Subterranean Vaults and Lamps, and Their Opinion of the Metempsychosis, the Cause of Their Embalming. As Also a Geographical Description of Egypt, the Rise and Course of the Nile, the Temper, Constitution and Physic of the Inhabitants, Their Inventions, Arts, Sciences, Stupendous Works and Sepulchres, and Other Curious Observations Any Ways Relating to the Physiology and Knowledge of This Art.",
+      "author": "Greenhill, Thomas"
+    },
+    {
+      "id": "60021",
+      "title": "Conference of Officers in Charge of Government Hospitals Serving Veterans of the World War",
+      "author": "Unknown"
+    },
+    {
+      "id": "64703",
+      "title": "Tested Recipes: Waterless Cooking for Better Meals, Better Health",
+      "author": "Tested Recipe Institute (New York, N.Y.)"
+    },
+    {
+      "id": "66955",
+      "title": "Researches Chemical and Philosophical; Chiefly concerning nitrous oxide: or dephlogisticated nitrous air and its respiration",
+      "author": "Davy, Humphry, Sir"
+    },
+    {
+      "id": "53347",
+      "title": "Physiology",
+      "author": "Foster, M. (Michael), Sir"
+    },
+    {
+      "id": "18398",
+      "title": "Diary Written in the Provincial Lunatic Asylum",
+      "author": "Pengilly, Mary Huestis"
+    },
+    {
+      "id": "36926",
+      "title": "Man's Redemption of Man: A Lay Sermon",
+      "author": "Osler, William, Sir"
+    },
+    {
+      "id": "61476",
+      "title": "Obstetrics for Nurses",
+      "author": "Reed, Charles B. (Charles Bert)"
+    },
+    {
+      "id": "67063",
+      "title": "Cottage scenes during the cholera : $b being extracts from a diary written in July and August, 1832",
+      "author": "Coppard, William Isaac"
+    },
+    {
+      "id": "72531",
+      "title": "Text book of veterinary medicine, Volume 3 (of 5)",
+      "author": "Law, James"
+    },
+    {
+      "id": "2603",
+      "title": "Questionable Amusements and Worthy Substitutes",
+      "author": "Judy, J. M."
+    },
+    {
+      "id": "52983",
+      "title": "The Cleveland Medical Gazette, Vol. 1, No. 4, February 1886",
+      "author": "Various"
+    },
+    {
+      "id": "29612",
+      "title": "Treatise on the Diseases of Women",
+      "author": "Pinkham, Lydia Estes"
+    },
+    {
+      "id": "62544",
+      "title": "Technique of Eye Dissections",
+      "author": "Woll, Frederic A. (Frederic Albert)"
+    },
+    {
+      "id": "65968",
+      "title": "The House We Live In; or, The Making of the Body",
+      "author": "Farnsworth, Vesta J."
+    },
+    {
+      "id": "8504",
+      "title": "Scientific American Supplement, No. 358, November 11, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "52720",
+      "title": "Extraction of the Teeth",
+      "author": "Colyer, Frank"
+    },
+    {
+      "id": "56134",
+      "title": "Girls and Athletics: Giving a brief summary of the activity, rules and method of administration of the following games in girls' schools and colleges, women's clubs, etc.: archery, basket ball, cricket, fencing, field day, field hockey, gymnastics, golf, hand ball, ice hockey, indoor base ball, rowing, soccer, skating, swimming, tennis, track athletics, volley ball, walking, water polo, water basket ball.",
+      "author": "Unknown"
+    },
+    {
+      "id": "65975",
+      "title": "The Making of a Man: Being a Description of Artificial Limbs and How They May Be Adopted by Those Who Have Suffered Loss of Their Natural Limbs",
+      "author": "George R. Fuller Co. (Rochester, N.Y.)"
+    },
+    {
+      "id": "69874",
+      "title": "Gout, with a section on ocular disease in the gouty",
+      "author": "Llewellyn, Llewellyn J. (Llewellyn Jones)"
+    },
+    {
+      "id": "69965",
+      "title": "Horrors of vaccination exposed and illustrated: $b Petition to the President to abolish compulsory vaccination in Army and Navy",
+      "author": "Higgins, Chas. M. (Charles Michael)"
+    },
+    {
+      "id": "15910",
+      "title": "A Short View of the Frauds and Abuses Committed by Apothecaries: As well in Relation to Patients, as Physicians: And Of the; only Remedy thereof by Physicians making their own; Medicines.",
+      "author": "Merret, Christopher"
+    },
+    {
+      "id": "43480",
+      "title": "Smoking and Drinking",
+      "author": "Parton, James"
+    },
+    {
+      "id": "58861",
+      "title": "Medical Inquiries and Observations, Vol. 3: The Second Edition, Revised and Enlarged by the Author",
+      "author": "Rush, Benjamin"
+    },
+    {
+      "id": "59357",
+      "title": "Introduction to Anatomy, 1532: With English translation and an introductory essay on anatomical studies in Tudor England by C.D. O'Malley and K.F. Russell.",
+      "author": "Edguard, David"
+    },
+    {
+      "id": "16155",
+      "title": "Gilbertus Anglicus: Medicine of the Thirteenth Century",
+      "author": "Handerson, Henry E. (Henry Ebenezer)"
+    },
+    {
+      "id": "57410",
+      "title": "Selection from J. & A. Churchill's General Catalogue (1890): Comprising All Recent Works Published by Them on the Art and Science of Medicine",
+      "author": "J. & A. Churchill"
+    },
+    {
+      "id": "67551",
+      "title": "With Grenfell on the Labrador",
+      "author": "Waldo, Fullerton L. (Fullerton Leonard)"
+    },
+    {
+      "id": "38929",
+      "title": "Quacks and Grafters",
+      "author": "Anonymous"
+    },
+    {
+      "id": "44089",
+      "title": "A dissertation on the inutility of the amputation of limbs",
+      "author": "Bilguer, Johann Ulrich"
+    },
+    {
+      "id": "52967",
+      "title": "The Hospital Bulletin, Vol. V, No. 3, May 15, 1909",
+      "author": "Various"
+    },
+    {
+      "id": "13443",
+      "title": "Scientific American Supplement, No. 795, March 28, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "19208",
+      "title": "Vitality Supreme",
+      "author": "Macfadden, Bernarr"
+    },
+    {
+      "id": "52722",
+      "title": "An account of the manner of inoculating for the small pox in the East Indies: With some observations on the practice and mode of treating that disease in those parts",
+      "author": "Holwell, J. Z. (John Zephaniah)"
+    },
+    {
+      "id": "61569",
+      "title": "The Archives of Dentistry, Vol. VII, No. 4, April 1890",
+      "author": "Various"
+    },
+    {
+      "id": "68148",
+      "title": "Tea and the effects of tea drinking",
+      "author": "Tebb, W. Scott (William Scott)"
+    },
+    {
+      "id": "15365",
+      "title": "A Psychiatric Milestone: Bloomingdale Hospital Centenary, 1821-1921",
+      "author": "Unknown"
+    },
+    {
+      "id": "30854",
+      "title": "The Voice: Its Production, Care and Preservation",
+      "author": "Miller, Frank E. (Frank Ebenezer)"
+    },
+    {
+      "id": "58454",
+      "title": "Joseph Rogers, M.D.: Reminiscences of a Workhouse Medical Officer",
+      "author": "Rogers, Joseph"
+    },
+    {
+      "id": "58860",
+      "title": "Medical Inquiries and Observations, Vol. 2: The Second Edition, Revised and Enlarged by the Author",
+      "author": "Rush, Benjamin"
+    },
+    {
+      "id": "61267",
+      "title": "The Surgery of the Skull and Brain",
+      "author": "Rawling, Louis Bathe"
+    },
+    {
+      "id": "47234",
+      "title": "On the origin of inflammation of the veins: and of the causes, consequences, and treatment of purulent deposits",
+      "author": "Lee, Henry, M.D."
+    },
+    {
+      "id": "56129",
+      "title": "The Book of the Fly: A nature study of the house-fly and its kin, the fly plague and a cure",
+      "author": "George Hurlstone Hardy"
+    },
+    {
+      "id": "65823",
+      "title": "The Journal-Lancet, Vol. XXXV, No. 5, March 1, 1915: The Journal of the Minnesota State Medical Association and Official Organ of the North Dakota and South Dakota State Medical Associations",
+      "author": "Various"
+    },
+    {
+      "id": "26317",
+      "title": "Buchanan's Journal of Man, May 1887: Volume 1, Number 4",
+      "author": "Unknown"
+    },
+    {
+      "id": "47310",
+      "title": "A Treatise on Gunshot Wounds",
+      "author": "Longmore, T. (Thomas), Sir"
+    },
+    {
+      "id": "53836",
+      "title": "Intestinal irrigation : $b why, how and when to flush the colon",
+      "author": "Jamison, Alcinous B. (Alcinous Burton)"
+    },
+    {
+      "id": "54244",
+      "title": "Practical Methods of Sewage Disposal for Residences, Hotels and Institutions",
+      "author": "Ogden, Henry N. (Henry Neely)"
+    },
+    {
+      "id": "70908",
+      "title": "The undertakers' manual",
+      "author": "Renouard, Auguste"
+    },
+    {
+      "id": "45419",
+      "title": "The Religio-Medical Masquerade: A Complete Exposure of Christian Science",
+      "author": "Peabody, Frederick William"
+    },
+    {
+      "id": "47970",
+      "title": "The Dwelling House",
+      "author": "Poore, George Vivian"
+    },
+    {
+      "id": "49549",
+      "title": "Portraits of Dr. William Harvey",
+      "author": "Royal Society of Medicine (Great Britain)"
+    },
+    {
+      "id": "14097",
+      "title": "Scientific American Supplement, No. 483, April 4, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "15708",
+      "title": "Scientific American Supplement, No. 794, March 21, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "35477",
+      "title": "Makers of Modern Medicine",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "18394",
+      "title": "Cheerfulness as a Life Power",
+      "author": "Marden, Orison Swett"
+    },
+    {
+      "id": "27812",
+      "title": "Buchanan's Journal of Man, January 1888: Volume 1, Number 12",
+      "author": "Unknown"
+    },
+    {
+      "id": "29701",
+      "title": "The Mother's Manual of Children's Diseases",
+      "author": "West, Charles"
+    },
+    {
+      "id": "52993",
+      "title": "A Collection of Chirurgical Tracts",
+      "author": "Beckett, William"
+    },
+    {
+      "id": "66729",
+      "title": "Pneumonia: Its Care and Prevention",
+      "author": "John Hancock Mutual Life Insurance Company. Life Conservation Service"
+    },
+    {
+      "id": "25819",
+      "title": "Buchanan's Journal of Man, March 1887: Volume 1, Number 2",
+      "author": "Unknown"
+    },
+    {
+      "id": "30660",
+      "title": "Discourses on a Sober and Temperate Life: Wherein Is Demonstrated, by His Own Example, the Method of Preserving Health to Extreme Old Age",
+      "author": "Cornaro, Luigi"
+    },
+    {
+      "id": "37675",
+      "title": "Arteriosclerosis and Hypertension, with Chapters on Blood Pressure: 3rd Edition.",
+      "author": "Warfield, Louis M. (Louis Marshall)"
+    },
+    {
+      "id": "65260",
+      "title": "The Physical Training of Children",
+      "author": "Chavasse, Pye Henry"
+    },
+    {
+      "id": "70283",
+      "title": "Is it I? A book for every man.",
+      "author": "Storer, Horatio Robinson"
+    },
+    {
+      "id": "70530",
+      "title": "Physician and patient : $b or, a practical view of the mutual duties, relations and interests of the medical profession and the community",
+      "author": "Hooker, Worthington"
+    },
+    {
+      "id": "27570",
+      "title": "Buchanan's Journal of Man, July 1887: Volume 1, Number 6",
+      "author": "Unknown"
+    },
+    {
+      "id": "48499",
+      "title": "Jaundice: Its Pathology and Treatment: With the Application of Physiological Chemistry to the Detection and Treatment of Diseases of the Liver and Pancreas",
+      "author": "Harley, George"
+    },
+    {
+      "id": "48929",
+      "title": "Backwoods Surgery & Medicine",
+      "author": "Moody, Charles Stuart"
+    },
+    {
+      "id": "61800",
+      "title": "I-em-hotep and Ancient Egyptian medicine: II. Prevention of valvular disease: The Harveian Oration delivered before the Royal college of physicians on June 21, 1904",
+      "author": "Caton, Richard"
+    },
+    {
+      "id": "62931",
+      "title": "The Bubonic Plague",
+      "author": "Mitra, A., active 19th century"
+    },
+    {
+      "id": "52328",
+      "title": "The Royal Road to Health; or, the Secret of Health Without Drugs",
+      "author": "Tyrrell, Chas. A. (Charles Alfred)"
+    },
+    {
+      "id": "70330",
+      "title": "The essentials of bandaging: $b including the management of fractures and dislocations, with directions for using other surgical apparatus",
+      "author": "Hill, Berkeley"
+    },
+    {
+      "id": "22336",
+      "title": "Buchanan's Journal of Man, February 1887: Volume 1, Number 1",
+      "author": "Unknown"
+    },
+    {
+      "id": "33155",
+      "title": "Medicina Flagellata; Or, The Doctor Scarify'd",
+      "author": "Anonymous"
+    },
+    {
+      "id": "50660",
+      "title": "Encyclopedia of Diet: A Treatise on the Food Question, Vol. 5",
+      "author": "Christian, Eugene"
+    },
+    {
+      "id": "58859",
+      "title": "Medical Inquiries and Observations, Vol. 1: The Second Edition, Revised and Enlarged by the Author",
+      "author": "Rush, Benjamin"
+    },
+    {
+      "id": "71184",
+      "title": "A reference hand-book for nurses",
+      "author": "Beck, Amanda K. (Amanda Kathryn)"
+    },
+    {
+      "id": "75150",
+      "title": "X-ray, violet ray, and other rays : $b With their use in modern medicine",
+      "author": "Shipley, Maynard"
+    },
+    {
+      "id": "19594",
+      "title": "The Eugenic Marriage, Volume 1 (of 4): A Personal Guide to the New Science of Better Living and Better Babies",
+      "author": "Hague, W. Grant (William Grant)"
+    },
+    {
+      "id": "19880",
+      "title": "Voice production in singing and speaking, based on scientific principles",
+      "author": "Mills, Wesley"
+    },
+    {
+      "id": "24366",
+      "title": "A Disquisition on the Evils of Using Tobacco: and the Necessity of Immediate and Entire Reformation",
+      "author": "Fowler, Orin"
+    },
+    {
+      "id": "49279",
+      "title": "Health: How to get it and keep it.: The hygiene of dress, food, exercise, rest, bathing, breathing, and ventilation.",
+      "author": "Woods, Walter V."
+    },
+    {
+      "id": "67132",
+      "title": "Society for Superseding the Necessity of Climbing Boys, by Encouraging a New Method of Sweeping Chimneys: Twenty-First Report, May 1, 1837",
+      "author": "Anonymous"
+    },
+    {
+      "id": "62492",
+      "title": "The art of natural sleep : $b with definite directions for the wholesome cure of sleeplessness : illustrated by cases treated in Northampton and elsewhere",
+      "author": "Powell, Lyman P. (Lyman Pierson)"
+    },
+    {
+      "id": "63497",
+      "title": "Medicina Gymnastica: or, A treatise concerning the power of exercise, with respect to the animal oeconomy; and the great necessity of it in the cure of several distempers",
+      "author": "Fuller, Francis"
+    },
+    {
+      "id": "75279",
+      "title": "The ugly-girl papers : $b or, Hints for the toilet",
+      "author": "Power, S. D. (Susan Dunning)"
+    },
+    {
+      "id": "49567",
+      "title": "An account of the plague which raged at Moscow, in 1771",
+      "author": "Mertens, Charles de"
+    },
+    {
+      "id": "52859",
+      "title": "The Cholera Gazette, Vol. I. No. 5. Wednesday, August 8th, 1832.",
+      "author": "Various"
+    },
+    {
+      "id": "60187",
+      "title": "The American Journal of Dental Science, Vol. XIX. No. 6. Oct. 1885",
+      "author": "Various"
+    },
+    {
+      "id": "24893",
+      "title": "In Mesopotamia",
+      "author": "Nicoll, Maurice"
+    },
+    {
+      "id": "31790",
+      "title": "Family Limitation",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "35639",
+      "title": "Clinical Investigations on Squint",
+      "author": "Schweigger, C."
+    },
+    {
+      "id": "40287",
+      "title": "The Treatment of Hay Fever by rosin-weed, ichthyol and faradic electricity: With a discussion of the old theory of gout and the new theory of anaphylaxis",
+      "author": "Laidlaw, George Frederick"
+    },
+    {
+      "id": "43780",
+      "title": "The Lettsomian Lectures on Diseases and Disorders of the Heart and Arteries in Middle and Advanced Life [1900-1901]",
+      "author": "Bruce, J. Mitchell (John Mitchell)"
+    },
+    {
+      "id": "47343",
+      "title": "Little Masterpieces of Science: Health and Healing",
+      "author": "Unknown"
+    },
+    {
+      "id": "62531",
+      "title": "Luxurious Bathing",
+      "author": "Tuer, Andrew White"
+    },
+    {
+      "id": "67640",
+      "title": "The Tuberculosis Nurse: Her Function and Her Qualifications: A Handbook for Practical Workers in the Tuberculosis Campaign",
+      "author": "La Motte, Ellen N. (Ellen Newbold)"
+    },
+    {
+      "id": "69439",
+      "title": "Physiological economy in nutrition, with special reference to the minimal proteid requirement of the healthy man: an experimental study",
+      "author": "Chittenden, R. H. (Russell Henry)"
+    },
+    {
+      "id": "75816",
+      "title": "Traveling publicity campaigns : $b educational tours of railroad trains and motor vehicles",
+      "author": "Routzahn, Mary Swain"
+    },
+    {
+      "id": "19933",
+      "title": "Cluthe's Advice to the Ruptured",
+      "author": "Cluthe Rupture Institute"
+    },
+    {
+      "id": "61366",
+      "title": "Medical Thoughts of Shakespeare",
+      "author": "Field, Benjamin Rush"
+    },
+    {
+      "id": "8297",
+      "title": "Scientific American Supplement, No. 286, June 25, 1881",
+      "author": "Various"
+    },
+    {
+      "id": "23813",
+      "title": "A Newly Discovered System of Electrical Medication",
+      "author": "Clark, Daniel"
+    },
+    {
+      "id": "31616",
+      "title": "Health Lessons, Book 1",
+      "author": "Davison, Alvin"
+    },
+    {
+      "id": "49545",
+      "title": "Social Work; Essays on the Meeting Ground of Doctor and Social Worker",
+      "author": "Cabot, Richard C. (Richard Clarke)"
+    },
+    {
+      "id": "59457",
+      "title": "Seedtime in Kashmir: A Memoir of William Jackson Elmslie",
+      "author": "Elmslie, William Jackson"
+    },
+    {
+      "id": "13962",
+      "title": "Scientific American Supplement, No. 455, September 20, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "16360",
+      "title": "Scientific American Supplement, No. 561, October 2, 1886",
+      "author": "Various"
+    },
+    {
+      "id": "56147",
+      "title": "General Anatomy, Applied to Physiology and Medicine, Vol. 2 (of 3)",
+      "author": "Bichat, Xavier"
+    },
+    {
+      "id": "70264",
+      "title": "Women as army surgeons : $b Being the history of the Women's Hospital Corps in Paris, Wimereux and Endell Street, September 1914-October 1919",
+      "author": "Murray, Flora"
+    },
+    {
+      "id": "73452",
+      "title": "Plastic and cosmetic surgery",
+      "author": "Kolle, Frederick Strange"
+    },
+    {
+      "id": "6595",
+      "title": "Advice to a Mother on the Management of Her Children",
+      "author": "Chavasse, Pye Henry"
+    },
+    {
+      "id": "46143",
+      "title": "Experiments and Observations on the Following Subjects: 1. On the preparation, calcination, and medicinal uses of Magnesia Alba. 2. On the solvent qualities of calcined Magnesia. 3. On the variety in the solvent powers of quick-lime, when used in different quantities. 4. On various absorbents, as promoting or retarding putrefaction. 5. On the comparative antiseptic powers of vegetable infusions prepared with lime, &c. 6. On the sweetening properties of fixed air.",
+      "author": "Henry, Thomas"
+    },
+    {
+      "id": "64352",
+      "title": "The Illustrated Horse Doctor: Being an accurate and detailed account of the various diseases to which the equine race are subjected",
+      "author": "Mayhew, Edward"
+    },
+    {
+      "id": "72239",
+      "title": "Influenza : $b An epidemiologic study",
+      "author": "Vaughan, Warren T. (Warren Taylor)"
+    },
+    {
+      "id": "55935",
+      "title": "The Municipal and Sanitary Engineer's Handbook",
+      "author": "Boulnois, H. Percy (Henry Percy)"
+    },
+    {
+      "id": "63264",
+      "title": "Down the Scale or Up...",
+      "author": "Abel, Barbara"
+    },
+    {
+      "id": "63408",
+      "title": "Report of the committee appointed to investigate the causes and extent of the late extraordinary sickness and mortality in the town of Mobile",
+      "author": "Mobile (Ala.). Committee on Causes and Extent of the Late Extraordinary Sickness and Mortality in the Town"
+    },
+    {
+      "id": "12321",
+      "title": "Rudimental Divine Science",
+      "author": "Eddy, Mary Baker"
+    },
+    {
+      "id": "49833",
+      "title": "Directions for Cooking by Troops, in Camp and Hospital: Prepared for the Army of Virginia, and published by order of the Surgeon General, with essays on \"taking food,\" and \"what food.\"",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "56584",
+      "title": "Daily Training",
+      "author": "Benson, E. F. (Edward Frederic)"
+    },
+    {
+      "id": "75392",
+      "title": "The wonders of radium",
+      "author": "Shipley, Maynard"
+    },
+    {
+      "id": "76817",
+      "title": "Disease in captive wild mammals and birds : $b incidence, description, comparison",
+      "author": "Fox, Herbert"
+    },
+    {
+      "id": "20819",
+      "title": "Aims and Aids for Girls and Young Women: On the Various Duties of Life, Physical, Intellectual, And; Moral Development; Self-Culture, Improvement, Dress, Beauty,; Fashion, Employment, Education, The Home Relations, Their; Duties To Young Men, Marriage, Womanhood And Happiness.",
+      "author": "Weaver, G. S. (George Sumner)"
+    },
+    {
+      "id": "36496",
+      "title": "On the cattle plague: or, Contagious typhus in horned cattle. Its history, origin, description, and treatment",
+      "author": "Bourguignon, Honoré"
+    },
+    {
+      "id": "15019",
+      "title": "A queens delight : $b or, The art of preserving, conserving and candying. As also, a right knowledge of making perfumes, and distilling the most excellent waters.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "36891",
+      "title": "Health, Healing, and Faith",
+      "author": "Conwell, Russell H."
+    },
+    {
+      "id": "59846",
+      "title": "A Comparative View of the Mortality of the Human Species, at All Ages: And of the Diseases and Casualties by Which They Are Destroyed or Annoyed. Illustrated With Charts and Tables",
+      "author": "Black, William"
+    },
+    {
+      "id": "61276",
+      "title": "Horse Secrets",
+      "author": "Alexander, A. S. (Alexander Septimus)"
+    },
+    {
+      "id": "66507",
+      "title": "Cholera and the Water Supply in the South Districts of London in 1854",
+      "author": "Snow, John"
+    },
+    {
+      "id": "72544",
+      "title": "Midwifery and the diseases of women : $b A descriptive and practical work showing the superiority of water-treatment in menstruation and its disorders, chlorosis, leucorrhea, fluor albus, prolapsus uteri, hysteria, spinal diseases, and other weaknesses of females, in pregnancy and its diseases, abortion, uterine hemorrhage, and the general management of childbirth, nursing, etc., etc.",
+      "author": "Shew, Joel"
+    },
+    {
+      "id": "72779",
+      "title": "What to eat and when",
+      "author": "Cocroft, Susanna"
+    },
+    {
+      "id": "1233",
+      "title": "The Origin and Nature of the Emotions; Miscellaneous Papers",
+      "author": "Crile, George Washington"
+    },
+    {
+      "id": "27076",
+      "title": "Drug Supplies in the American Revolution",
+      "author": "Griffenhagen, George B."
+    },
+    {
+      "id": "30682",
+      "title": "Buxton and its Medicinal Waters",
+      "author": "Gifford-Bennet, Robert Ottiwell"
+    },
+    {
+      "id": "35270",
+      "title": "Habits that Handicap: The Menace of Opium, Alcohol, and Tobacco, and the Remedy",
+      "author": "Towns, Charles Barnes"
+    },
+    {
+      "id": "47366",
+      "title": "Nervous Breakdowns and How to Avoid Them",
+      "author": "Musgrove, Charles David"
+    },
+    {
+      "id": "56328",
+      "title": "General Anatomy, Applied to Physiology and Medicine, Vol. 3 (of 3)",
+      "author": "Bichat, Xavier"
+    },
+    {
+      "id": "8296",
+      "title": "Scientific American Supplement, No. 303, October 22, 1881",
+      "author": "Various"
+    },
+    {
+      "id": "18932",
+      "title": "Mental Defectives and Sexual Offenders: Report of the Committee of Inquiry Appointed by the Hon. Sir Maui Pomare, K.B.E., C.M.G., Minister of Health",
+      "author": "New Zealand. Committee of Inquiry into Mental Defectives and Sexual Offenders"
+    },
+    {
+      "id": "60264",
+      "title": "The Virtue and Use of Coffee With Regard to the Plague and Other Infectious Distempers",
+      "author": "Bradley, Richard"
+    },
+    {
+      "id": "8502",
+      "title": "Common Diseases of Farm Animals",
+      "author": "Craig, Robert Alexander"
+    },
+    {
+      "id": "15004",
+      "title": "Doctor and Patient",
+      "author": "Mitchell, S. Weir (Silas Weir)"
+    },
+    {
+      "id": "29842",
+      "title": "Histology of the Blood, Normal and Pathological",
+      "author": "Ehrlich, Paul"
+    },
+    {
+      "id": "37142",
+      "title": "How to Care for the Insane: A Manual for Nurses",
+      "author": "Granger, William D."
+    },
+    {
+      "id": "55692",
+      "title": "The Surgery of Ritual Circumcision",
+      "author": "Snowman, Jacob"
+    },
+    {
+      "id": "68830",
+      "title": "The nutrition of man",
+      "author": "Chittenden, R. H. (Russell Henry)"
+    },
+    {
+      "id": "72648",
+      "title": "Better babies and their care",
+      "author": "Richardson, Anna Steese"
+    },
+    {
+      "id": "4273",
+      "title": "Nature Cure: Philosophy & Practice Based on the Unity of Disease & Cure",
+      "author": "Lindlahr, Henry"
+    },
+    {
+      "id": "14990",
+      "title": "Scientific American Supplement No. 819, September 12, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "37032",
+      "title": "Religion And Health",
+      "author": "Walsh, James J. (James Joseph)"
+    },
+    {
+      "id": "38731",
+      "title": "Railroad Accidents, Their Cause and Prevention",
+      "author": "Richards, R. C. (Ralph Coffin)"
+    },
+    {
+      "id": "47906",
+      "title": "Touring Afoot",
+      "author": "Fordyce, Claude P. (Claude Powell)"
+    },
+    {
+      "id": "60338",
+      "title": "An Enquiry Into the Origin and Intimate Nature of Malaria",
+      "author": "Wilson, Thomas, active 1795-1858"
+    },
+    {
+      "id": "69288",
+      "title": "Treatment of hemorrhoids, and other non-malignant rectal diseases",
+      "author": "Agnew, W. P. (William Penn)"
+    },
+    {
+      "id": "1637",
+      "title": "Sanitary and Social Lectures and Essays",
+      "author": "Kingsley, Charles"
+    },
+    {
+      "id": "62174",
+      "title": "Water pollution—Wells",
+      "author": "Watson, Irving A. (Irving Allison)"
+    },
+    {
+      "id": "65856",
+      "title": "Cincinnati's \"Old Cunny\": A Notorious Purveyor of Human Flesh",
+      "author": "Public Library of Fort Wayne and Allen County"
+    },
+    {
+      "id": "69167",
+      "title": "Body-snatching",
+      "author": "Anonymous"
+    },
+    {
+      "id": "13906",
+      "title": "Conception Control and Its Effects on the Individual and the Nation",
+      "author": "Barrett, Florence Elizabeth"
+    },
+    {
+      "id": "50213",
+      "title": "Encyclopedia of Diet: A Treatise on the Food Question, Vol. 3",
+      "author": "Christian, Eugene"
+    },
+    {
+      "id": "70024",
+      "title": "The old man's guide to health and longer life : $b With rules for diet, exercise, and physic; for preserving a good constitution, and preventing disorders in a bad one",
+      "author": "Hill, John"
+    },
+    {
+      "id": "73208",
+      "title": "An address to British females on the moral management of pregnancy and labour, and some cursory observations on medical deportment : $b Suggested by the death of Her Royal Highness Princess Charlotte Augusta of Wales: with a vindication of Her Royal Highness's physicians, Sir Richard Croft, Dr. Baillie, and Dr. Sims",
+      "author": "Cooke, William"
+    },
+    {
+      "id": "16370",
+      "title": "Lameness of the Horse: Veterinary Practitioners' Series, No. 1",
+      "author": "Lacroix, John Victor"
+    },
+    {
+      "id": "26366",
+      "title": "The Electric Bath",
+      "author": "Schweig, George M."
+    },
+    {
+      "id": "30099",
+      "title": "Hypochondriasis: A Practical Treatise (1766)",
+      "author": "Hill, John"
+    },
+    {
+      "id": "44320",
+      "title": "On the State of Lunacy and the Legal Provision for the Insane: With Observations on the Construction and Organization of Asylums",
+      "author": "Arlidge, J. T. (John Thomas)"
+    },
+    {
+      "id": "59550",
+      "title": "Cancer: Its Cause and Treatment, Volume 1 (of 2)",
+      "author": "Bulkley, Lucius Duncan"
+    },
+    {
+      "id": "61703",
+      "title": "A Collection of Seven and Fifty approved Receipts Good against the Plague: Taken out of the five books of that renowned Dr. Don Alexes secrets, for the benefit of the poorer sort of people of these nations.",
+      "author": "W. J."
+    },
+    {
+      "id": "36037",
+      "title": "Medical experts: Investigation of Insanity by Juries",
+      "author": "Thorne, W. S."
+    },
+    {
+      "id": "36474",
+      "title": "A Statistical Inquiry Into the Nature and Treatment of Epilepsy",
+      "author": "Bennett, Alexander Hughes"
+    },
+    {
+      "id": "66284",
+      "title": "Condiments, Spices and Flavors",
+      "author": "Green, Mary Elizabeth"
+    },
+    {
+      "id": "69823",
+      "title": "Public health and insurance: American addresses",
+      "author": "Newsholme, Arthur, Sir"
+    },
+    {
+      "id": "76117",
+      "title": "The swimming baths of London",
+      "author": "Dudgeon, R. E. (Robert Ellis)"
+    },
+    {
+      "id": "4385",
+      "title": "As a Matter of Course",
+      "author": "Call, Annie Payson"
+    },
+    {
+      "id": "38090",
+      "title": "Nurses' Papers on Tuberculosis :: read before the Nurses' Study Circle of the Dispensary Department, Chicago Municipal Tuberculosis Sanitarium",
+      "author": "Chicago (Ill.). Municipal Tuberculosis Sanitarium. Dispensary Department"
+    },
+    {
+      "id": "47701",
+      "title": "Encyclopedia of Diet: A Treatise on the Food Question, Vol. 4",
+      "author": "Christian, Eugene"
+    },
+    {
+      "id": "67734",
+      "title": "Landmarks Medical and Surgical",
+      "author": "Holden, Luther"
+    },
+    {
+      "id": "39130",
+      "title": "Dr. Grenfell's Parish: The Deep Sea Fisherman",
+      "author": "Duncan, Norman"
+    },
+    {
+      "id": "68165",
+      "title": "Report of an autopsy on the bodies of Chang and Eng Bunker, commonly known as the Siamese twins",
+      "author": "Allen, Harrison"
+    },
+    {
+      "id": "27796",
+      "title": "Buchanan's Journal of Man, December 1887: Volume 1, Number 11",
+      "author": "Unknown"
+    },
+    {
+      "id": "30065",
+      "title": "Benign Stupors: A Study of a New Manic-Depressive Reaction Type",
+      "author": "Hoch, August"
+    },
+    {
+      "id": "58602",
+      "title": "A Treatise on Fractures, Luxations, and Other Affections of the Bones",
+      "author": "Desault, P.-J. (Pierre-Joseph)"
+    },
+    {
+      "id": "61132",
+      "title": "The Archives of Dentistry, Vol. VII, No. 12, December 1890",
+      "author": "Various"
+    },
+    {
+      "id": "63094",
+      "title": "Sewage and sewerage of farm homes [1922]",
+      "author": "Warren, George M. (George Milton)"
+    },
+    {
+      "id": "42435",
+      "title": "Alcohol and the Human Brain",
+      "author": "Cook, Joseph"
+    },
+    {
+      "id": "57543",
+      "title": "The Health Master",
+      "author": "Adams, Samuel Hopkins"
+    },
+    {
+      "id": "60489",
+      "title": "A Short Treatise on the Section of the Prostate Gland in Lithotomy: With an Explanation of a Safe and Easy Method of Conducting the Operation on the Principles of Cheselden",
+      "author": "Key, C. Aston (Charles Aston)"
+    },
+    {
+      "id": "61029",
+      "title": "The Common Nature of Epidemics, and their relation to climate and civilization",
+      "author": "Smith, Southwood"
+    },
+    {
+      "id": "20279",
+      "title": "The Veterinarian",
+      "author": "Korinek, Charles James"
+    },
+    {
+      "id": "21271",
+      "title": "Chocolate: or, An Indian Drinke: By the wise and Moderate use whereof, Health is preserved, Sicknesse Diverted, and Cured, especially the Plague of the Guts; vulgarly called The New Disease",
+      "author": "Colmenero de Ledesma, Antonio"
+    },
+    {
+      "id": "26020",
+      "title": "Apis Mellifica; or, The Poison of the Honey-Bee, Considered as a Therapeutic Agent",
+      "author": "Wolf, C. W."
+    },
+    {
+      "id": "48515",
+      "title": "Psycho Vox; or, The Emerson System of Voice Culture",
+      "author": "Emerson, Charles Wesley"
+    },
+    {
+      "id": "52122",
+      "title": "Hospital transports : $b A memoir of the embarkation of the sick and wounded from the peninsula of Virginia in the summer of 1862",
+      "author": "Olmsted, Frederick Law"
+    },
+    {
+      "id": "61607",
+      "title": "\"The Flu\": a brief history of influenza in U.S. America, Europe, Hawaii",
+      "author": "Mouritz, A. A. St. M. (Arthur Albert St. M.)"
+    },
+    {
+      "id": "71988",
+      "title": "Foods; nutrition and digestion",
+      "author": "Cocroft, Susanna"
+    },
+    {
+      "id": "15352",
+      "title": "Venereal Diseases in New Zealand (1922): Report of the Special Committee of the Board of Health appointed by the Hon. Minister of Health",
+      "author": "New Zealand. Committee of the Board of Health"
+    },
+    {
+      "id": "23729",
+      "title": "An Essay on the Application of the Lunar Caustic in the Cure of Certain Wounds and Ulcers",
+      "author": "Higginbottom, John"
+    },
+    {
+      "id": "42809",
+      "title": "A Treatise on the Incubus, or Night-Mare, Disturbed Sleep, Terrific Dreams and Nocturnal Visions",
+      "author": "Waller, John Augustine"
+    },
+    {
+      "id": "47938",
+      "title": "On Digestive Proteolysis: Being the Cartwright Lectures for 1894",
+      "author": "Chittenden, R. H. (Russell Henry)"
+    },
+    {
+      "id": "18050",
+      "title": "The House Fly and How to Suppress It",
+      "author": "Howard, L. O. (Leland Ossian)"
+    },
+    {
+      "id": "35081",
+      "title": "The People's Idea of God: Its Effect On Health And Christianity",
+      "author": "Eddy, Mary Baker"
+    },
+    {
+      "id": "4337",
+      "title": "Power Through Repose",
+      "author": "Call, Annie Payson"
+    },
+    {
+      "id": "7983",
+      "title": "The Vitamine Manual",
+      "author": "Eddy, Walter Hollis"
+    },
+    {
+      "id": "12813",
+      "title": "Quit Your Worrying!",
+      "author": "James, George Wharton"
+    },
+    {
+      "id": "14985",
+      "title": "Valere aude (dare to be healthy) : $b or, The light of physical regeneration",
+      "author": "Dechmann, Louis"
+    },
+    {
+      "id": "48328",
+      "title": "Coca and its Therapeutic Application, Third Edition",
+      "author": "Mariani, Angelo"
+    },
+    {
+      "id": "59901",
+      "title": "Fear",
+      "author": "Mosso, A. (Angelo)"
+    },
+    {
+      "id": "66185",
+      "title": "Observations on the Oleum Jecoris Aselli, or Cod-liver Oil: Its nature, properties, mode of preparation, &c.",
+      "author": "Savory, John"
+    },
+    {
+      "id": "66254",
+      "title": "A Briefe Discovrse of a Disease called the Suffocation of the Mother",
+      "author": "Jorden, Edward"
+    },
+    {
+      "id": "31203",
+      "title": "Medica Sacra: Or, A Commentary on the Most Remarkable Diseases Mentioned in the Holy Scriptures",
+      "author": "Mead, Richard"
+    },
+    {
+      "id": "43015",
+      "title": "Bacteria in Daily Life",
+      "author": "Frankland, Grace C."
+    },
+    {
+      "id": "58460",
+      "title": "Use of the Dead to the Living",
+      "author": "Smith, Southwood"
+    },
+    {
+      "id": "60419",
+      "title": "A Treatise on Fever",
+      "author": "Smith, Southwood"
+    },
+    {
+      "id": "31548",
+      "title": "A Succinct Account of the Plague at Marseilles: Its Symptoms and the Methods and Medicines Used for Curing It",
+      "author": "Chicoyneau, François"
+    },
+    {
+      "id": "52977",
+      "title": "The Alumni Journal of the College of Pharmacy of the City of New York, Vol. II, No. 2, February, 1895",
+      "author": "Various"
+    },
+    {
+      "id": "53728",
+      "title": "Asiatic Cholera: A treatise on its origin, pathology, treatment, and cure",
+      "author": "Whitney, Elijah"
+    },
+    {
+      "id": "75421",
+      "title": "Shell shock and its lessons",
+      "author": "Smith, Grafton Elliot"
+    },
+    {
+      "id": "11086",
+      "title": "A Surgeon in Belgium",
+      "author": "Souttar, Henry Sessions"
+    },
+    {
+      "id": "18843",
+      "title": "Applied Psychology for Nurses",
+      "author": "Porter, Mary F."
+    },
+    {
+      "id": "23468",
+      "title": "Observations on the Causes, Symptoms, and Nature of Scrofula or King's Evil, Scurvy, and Cancer: With Cases Illustrative of a Peculiar Mode of Treatment",
+      "author": "Kent, John"
+    },
+    {
+      "id": "32171",
+      "title": "A Discourse on the Plague",
+      "author": "Mead, Richard"
+    },
+    {
+      "id": "34038",
+      "title": "Forty Years in the Wilderness of Pills and Powders: Cogitations and Confessions of an Aged Physician",
+      "author": "Alcott, William A. (William Andrus)"
+    },
+    {
+      "id": "50985",
+      "title": "A Treatise on Acupuncturation",
+      "author": "Churchill, James Morss"
+    },
+    {
+      "id": "70133",
+      "title": "The suppression of tuberculosis: $b Together with observations concerning phthisiogenesis in man and animals and suggestions concerning the hygiene of cow stables and the production of milk for infant-feeding, with special reference to tuberculosis",
+      "author": "Behring, Emil von"
+    },
+    {
+      "id": "74001",
+      "title": "An essay on diseases incidental to literary and sedentary persons : $b With proper rules for preventing their fatal consequences. And instructions for their cure",
+      "author": "Tissot, S. A. D. (Samuel Auguste David)"
+    },
+    {
+      "id": "7129",
+      "title": "The Prospective Mother, a Handbook for Women During Pregnancy",
+      "author": "Slemons, J. Morris (Josiah Morris)"
+    },
+    {
+      "id": "63870",
+      "title": "A Southern Woman's Story",
+      "author": "Pember, Phoebe Yates"
+    },
+    {
+      "id": "67134",
+      "title": "Dairy Disagreeables Busy the Bacteriologists",
+      "author": "Hall, Frank H. (Frank Henry)"
+    },
+    {
+      "id": "6752",
+      "title": "Study and Stimulants: Or, the Use of Intoxicants and Narcotics in Relation to Intellectual Life, as Illustrated by Personal Communications on the Subject, from Men of Letters and of Science",
+      "author": "Unknown"
+    },
+    {
+      "id": "35244",
+      "title": "Eugenics as a Factor in the Prevention of Mental Disease",
+      "author": "Pollock, Horatio M. (Horatio Milo)"
+    },
+    {
+      "id": "50458",
+      "title": "The Toxins and Venoms and Their Antibodies",
+      "author": "Pozzi-Escot, M. Emm. (Marius Emmanuel)"
+    },
+    {
+      "id": "56440",
+      "title": "Physiological Researches on Life and Death",
+      "author": "Bichat, Xavier"
+    },
+    {
+      "id": "59480",
+      "title": "The Malthusian Handbook: Designed to Induce Married People to Limit Their Families Within Their Means.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "60721",
+      "title": "Bad Drains; and How to Test Them: With notes on the ventilation of sewers, drains, and sanitary fittings, and the origin and transmission of zymotic disease",
+      "author": "Reeves, R. Harris"
+    },
+    {
+      "id": "14017",
+      "title": "Clara A. Swain, M.D.",
+      "author": "Hoskins, Robert, Mrs."
+    },
+    {
+      "id": "19762",
+      "title": "How to Eat: A Cure for \"Nerves\"",
+      "author": "Hinkle, Thomas C. (Thomas Clark)"
+    },
+    {
+      "id": "31807",
+      "title": "The Plague at Marseilles Consider'd: With Remarks Upon the Plague in General, Shewing Its Cause and Nature of Infection, with Necessary Precautions to Prevent the Speading of That Direful Distemper",
+      "author": "Bradley, Richard"
+    },
+    {
+      "id": "53450",
+      "title": "The London Medical Gazette; December 27, 1828: Being a Weekly Journal of Medicine and the Collateral Sciences",
+      "author": "Various"
+    },
+    {
+      "id": "58990",
+      "title": "The eastern or Turkish bath : $b its history, revival in Britain, and application to the purposes of health",
+      "author": "Wilson, Erasmus, Sir"
+    },
+    {
+      "id": "59543",
+      "title": "How to Use a Galvanic Battery in Medicine and Surgery: A Discourse Delivered Before the Hunterian Society, Third Edition",
+      "author": "Tibbits, Herbert"
+    },
+    {
+      "id": "60087",
+      "title": "Influenza",
+      "author": "Provincial Board of Health of Ontario"
+    },
+    {
+      "id": "60511",
+      "title": "The American Practitioner and News. Vol. XXV. No. 3. Feb. 1, 1898: A Semi-Monthly Journal of Medicine and Surgery",
+      "author": "Various"
+    },
+    {
+      "id": "12036",
+      "title": "Hygeia, a City of Health",
+      "author": "Richardson, Benjamin Ward"
+    },
+    {
+      "id": "48406",
+      "title": "The Atomic Fingerprint: Neutron Activation Analysis",
+      "author": "Keisch, Bernard"
+    },
+    {
+      "id": "60101",
+      "title": "Large Fees and How to Get Them: A book for the private use of physicians",
+      "author": "Harmon, Albert V."
+    },
+    {
+      "id": "52775",
+      "title": "Ellis's Primary Physiology; Or, Good Health for Boys and Girls",
+      "author": "Ellis, Edward Sylvester"
+    },
+    {
+      "id": "53974",
+      "title": "Principles of Public Health: A Simple Text Book on Hygiene, Presenting the Principles Fundamental to the Conservation of Individual and Community Health",
+      "author": "Tuttle, Thomas Dyer"
+    },
+    {
+      "id": "56271",
+      "title": "Municipal housecleaning : $b the methods and experiences of American cities in collecting and disposing of their municipal wastes—ashes, rubbish, garbage, manure, sewage, and street refuse",
+      "author": "Capes, William Parr"
+    },
+    {
+      "id": "56710",
+      "title": "Venomous arthropod handbook : $b envenomization symptoms/treatment, identification, biology and control",
+      "author": "Biery, Terry L."
+    },
+    {
+      "id": "63131",
+      "title": "Sewage and sewerage of farm homes [1928]",
+      "author": "Warren, George M. (George Milton)"
+    },
+    {
+      "id": "23544",
+      "title": "Glaucoma : $b A symposium presented at a meeting of the Chicago Ophthalmological Society, November 17, 1913",
+      "author": "Unknown"
+    },
+    {
+      "id": "62429",
+      "title": "Epidemic Respiratory Disease: The pneumonias and other infections of the repiratory tract accompanying influenza and measles",
+      "author": "Opie, Eugene L. (Eugene Lindsay)"
+    },
+    {
+      "id": "62720",
+      "title": "A Short Narrative of an Extraordinary Delivery of Rabbets, Perform'd by Mr. John Howard Surgeon at Guilford",
+      "author": "St. André, Nathanael"
+    },
+    {
+      "id": "74252",
+      "title": "Children well and happy : $b A manual for the Girl's Health League",
+      "author": "Kimball, May Dickinson"
+    },
+    {
+      "id": "75985",
+      "title": "Handbook of anæsthetics",
+      "author": "Ross, J. Stuart (John Stuart)"
+    },
+    {
+      "id": "10482",
+      "title": "The Young Mother: Management of Children in Regard to Health",
+      "author": "Alcott, William A. (William Andrus)"
+    },
+    {
+      "id": "17587",
+      "title": "Field Hospital and Flying Column: Being the Journal of an English Nursing Sister in Belgium & Russia",
+      "author": "Thurstan, Violetta"
+    },
+    {
+      "id": "36936",
+      "title": "Lectures on Ventilation: Being a Course Delivered in the Franklin Institute of Philadelphia",
+      "author": "Leeds, Lewis W."
+    },
+    {
+      "id": "52086",
+      "title": "The Province of Midwives in the Practice of their Art: Instructing them in the timely knowledge of such difficulties as require the assistance of Men, for the preservation of Mother and Child; very necessary for the perusal of all the sex interested in the subject, and interspersed with some New and Useful Observations.",
+      "author": "Clark, William"
+    },
+    {
+      "id": "65970",
+      "title": "Which Shall Live—Men or Animals?",
+      "author": "Baynes, Ernest Harold"
+    },
+    {
+      "id": "71993",
+      "title": "The danger of premature interment : $b Proved from many remarkable instances of people who have recovered after being laid out for dead, and of others entombed alive, for want of being properly examined prior to interment",
+      "author": "Taylor, Joseph"
+    },
+    {
+      "id": "75360",
+      "title": "The human foot and the human hand",
+      "author": "Humphry, George Murray, Sir"
+    },
+    {
+      "id": "11888",
+      "title": "The Mirror of Literature, Amusement, and Instruction. Volume 20, No. 575, November 10, 1832",
+      "author": "Various"
+    },
+    {
+      "id": "46711",
+      "title": "Secrets of Wise Men, Chemists and Great Physicians",
+      "author": "David, Wm. K. (William King)"
+    },
+    {
+      "id": "70350",
+      "title": "Dr. B. Mure's materia medica : $b or, provings of the principal animal and vegetable poisons of the Brazilian Empire, and their application in the treatment of disease",
+      "author": "Mure, Benoît"
+    },
+    {
+      "id": "37640",
+      "title": "Health: Five Lay Sermons to Working-People",
+      "author": "Brown, John"
+    },
+    {
+      "id": "54217",
+      "title": "The Farmer's Own Book: A treatise on the numerous diseases of the horse: with an explanation of their symptoms, and the course of treatment to be pursued; also a treatise on the diseases of horned cattle",
+      "author": "Koogle, J. D."
+    },
+    {
+      "id": "59296",
+      "title": "The American Journal of Pharmacy, March, 1907",
+      "author": "Various"
+    },
+    {
+      "id": "66458",
+      "title": "The Dog's Medical Dictionary: An encyclopædia of the diseases, their diagnosis & treatment, and the physical development of the dog",
+      "author": "Sewell, Alfred Joseph"
+    },
+    {
+      "id": "69186",
+      "title": "The narcotic drug problem",
+      "author": "Bishop, Ernest S. (Ernest Simons)"
+    },
+    {
+      "id": "69998",
+      "title": "Essays in medical sociology, Volume 2 (of 2)",
+      "author": "Blackwell, Elizabeth"
+    },
+    {
+      "id": "73878",
+      "title": "Introductory notes on lying-in institutions : $b Together with a proposal for organising an institution for training midwives and midwifery nurses",
+      "author": "Nightingale, Florence"
+    },
+    {
+      "id": "24588",
+      "title": "The Natural History of Chocolate: Being a Distinct and Particular Account of the Cocoa-Tree, its Growth and Culture, and the Preparation, Excellent Properties, and Medicinal Vertues of its Fruit",
+      "author": "Quélus, D."
+    },
+    {
+      "id": "26836",
+      "title": "Cases of Organic Diseases of the Heart",
+      "author": "Warren, John Collins"
+    },
+    {
+      "id": "34603",
+      "title": "Epidemics Examined and Explained: or, Living Germs Proved by Analogy to be a Source of Disease",
+      "author": "Grove, John"
+    },
+    {
+      "id": "67117",
+      "title": "History of Iridotomy: Knife-Needle vs. Scissors—Description of Author's V-Shaped Method",
+      "author": "Ziegler, S. Lewis (Samuel Lewis)"
+    },
+    {
+      "id": "69939",
+      "title": "Essays in medical sociology, Volume 1 (of 2)",
+      "author": "Blackwell, Elizabeth"
+    },
+    {
+      "id": "4339",
+      "title": "Nerves and Common Sense",
+      "author": "Call, Annie Payson"
+    },
+    {
+      "id": "10383",
+      "title": "The maternal management of children, in health and disease",
+      "author": "Bull, Thomas"
+    },
+    {
+      "id": "13509",
+      "title": "Grappling with the Monster; Or, the Curse and the Cure of Strong Drink",
+      "author": "Arthur, T. S. (Timothy Shay)"
+    },
+    {
+      "id": "19053",
+      "title": "Theory of circulation by respiration : $b synopsis of its principles and history",
+      "author": "Willard, Emma"
+    },
+    {
+      "id": "47439",
+      "title": "The New Glutton or Epicure",
+      "author": "Fletcher, Horace"
+    },
+    {
+      "id": "68077",
+      "title": "Observations on the Operation and Use of Mercury in the Venereal Disease",
+      "author": "Duncan, Andrew"
+    },
+    {
+      "id": "70333",
+      "title": "Dress and care of the feet: $b showing their natural shape and construction; their usual distorted condition; how corns, bunions, flat feet, and other deformities are caused, with instructions for their prevention or cure. Also, directions for dressing the feet with comfort and elegance, and many useful hints to those who wear, as well as those who make foot-coverings.",
+      "author": "Peck, John Lord"
+    },
+    {
+      "id": "71116",
+      "title": "Practical pathology",
+      "author": "Warthin, Aldred Scott"
+    },
+    {
+      "id": "75020",
+      "title": "Anæsthetics antient and modern : $b An historical sketch of anæsthesia",
+      "author": "Burroughs Wellcome and Company"
+    },
+    {
+      "id": "65479",
+      "title": "An Authentick Account of the Measures and Precautions Used at Venice: By the Magistrate of the Office of Health, for the Preservation of Publick Health",
+      "author": "Anonymous"
+    },
+    {
+      "id": "66016",
+      "title": "Observation on the Use and Abuse of Mercury, and on the Precautions Necessary in Its Employment",
+      "author": "Philip, Alexander Philip Wilson"
+    },
+    {
+      "id": "66425",
+      "title": "The Girl's Own Paper, Vol. VIII, No. 373, February 19, 1887",
+      "author": "Various"
+    },
+    {
+      "id": "70951",
+      "title": "A text-book on hygiene and pediatrics from a chiropractic standpoint",
+      "author": "Craven, J. H. (John Henry)"
+    },
+    {
+      "id": "8414",
+      "title": "Freedom Talks No. II",
+      "author": "Seton, Julia"
+    },
+    {
+      "id": "54332",
+      "title": "The Æsculapian Labyrinth Explored; Or, Medical Mystery Illustrated",
+      "author": "Taplin, William"
+    },
+    {
+      "id": "62182",
+      "title": "Good Councell against the plague: Shewing sundry present preseruatiues for the same, by wholsome fumes, drinks, vomits, and other inward receits: as also, the perfect cure (by implaysture) of any that are therewith infected. Now necessary to be obserued of euery housholder, to auoyde the infection, lately begun in some places of this cittie.",
+      "author": "Learned phisition"
+    },
+    {
+      "id": "64143",
+      "title": "Soil and Water Pollution : Presented to the American Public Health Association at New Orleans, Dec. 1880",
+      "author": "Runnels, M. T. (Moses Thurston)"
+    },
+    {
+      "id": "65927",
+      "title": "On the Curability of Certain Forms of Insanity, Epilepsy, Catalepsy, and Hysteria in Females",
+      "author": "Brown, Isaac Baker"
+    },
+    {
+      "id": "67768",
+      "title": "Hand-book of Sanitary Information for Householders: Containing facts and suggestions about ventilation, drainage, care of contageous diseases, disinfection, food, and water. With appendices on disinfectants and plumbers' materials.",
+      "author": "Tracy, Roger Sherman"
+    },
+    {
+      "id": "18487",
+      "title": "Food Remedies: Facts About Foods And Their Medicinal Uses",
+      "author": "Daniel, Florence"
+    },
+    {
+      "id": "49299",
+      "title": "A Plain and Easie Method for Preserving (by God's Blessing) Those That Are Well from the Infection of the Plague, or Any Contagious Distemper, in City, Camp, Fleet, Etc., and for Curing Such as Are Infected with It.",
+      "author": "Willis, Thomas"
+    },
+    {
+      "id": "52987",
+      "title": "Treatise on the Anatomy and Physiology of the Mucous Membranes: With Illustrative Pathological Observations",
+      "author": "Bichat, Xavier"
+    },
+    {
+      "id": "56633",
+      "title": "The City That Was",
+      "author": "Smith, Stephen"
+    },
+    {
+      "id": "57069",
+      "title": "Obesity, or Excessive Corpulence: The Various Causes and the Rational Means of Cure",
+      "author": "Dancel, J.-F. (Jean-François)"
+    },
+    {
+      "id": "58104",
+      "title": "Observations on Coroners",
+      "author": "Hewitt, William"
+    },
+    {
+      "id": "65192",
+      "title": "How to live: A manual of hygiene for use in the schools of the Philippine islands",
+      "author": "Knapp, Adeline"
+    },
+    {
+      "id": "68772",
+      "title": "An inaugural dissertation on pulmonary consumption",
+      "author": "Delafield, Edward"
+    },
+    {
+      "id": "70723",
+      "title": "Drugs that enslave : $b The opium, morphine, chloral and hashisch habits",
+      "author": "Kane, H. H. (Harry Hubbell)"
+    },
+    {
+      "id": "18265",
+      "title": "Scientific American Supplement, No. 1178, June 25, 1898",
+      "author": "Various"
+    },
+    {
+      "id": "47976",
+      "title": "Race Improvement; or, Eugenics: A Little Book on a Great Subject",
+      "author": "Baker, La Reine Helen McKenzie"
+    },
+    {
+      "id": "54843",
+      "title": "A Short Discourse Concerning Pestilential Contagion, and the Methods to Be Used to Prevent It",
+      "author": "Mead, Richard"
+    },
+    {
+      "id": "58862",
+      "title": "Medical Inquiries and Observations, Vol. 4: The Second Edition, Revised and Enlarged by the Author",
+      "author": "Rush, Benjamin"
+    },
+    {
+      "id": "59291",
+      "title": "The Sporting Dictionary and Rural Repository, Volume 2 (of 2): Of General Information upon Every Subject Appertaining to the Sports of the Field",
+      "author": "Taplin, William"
+    },
+    {
+      "id": "66232",
+      "title": "Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 38, Vol. I, September 20, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "15833",
+      "title": "Scientific American Supplement, No. 441, June 14, 1884.",
+      "author": "Various"
+    },
+    {
+      "id": "62124",
+      "title": "Sanitation of Mofussil Bazaars",
+      "author": "Disney, G. W. (George William)"
+    },
+    {
+      "id": "65701",
+      "title": "Why not? A book for every woman",
+      "author": "Storer, Horatio Robinson"
+    },
+    {
+      "id": "18530",
+      "title": "Elsie Inglis: The Woman with the Torch",
+      "author": "McLaren, Eva Shaw"
+    },
+    {
+      "id": "53827",
+      "title": "The Hospital Bulletin, Vol. V, No. 2, April 15, 1909",
+      "author": "Various"
+    },
+    {
+      "id": "9406",
+      "title": "Government by the Brewers?",
+      "author": "Keitel, Adolph"
+    },
+    {
+      "id": "53325",
+      "title": "The Cleveland Medical Gazette, Vol. 1, No. 5, March 1886",
+      "author": "Various"
+    },
+    {
+      "id": "1890",
+      "title": "\"Speaking of Operations--\"",
+      "author": "Cobb, Irvin S. (Irvin Shrewsbury)"
+    },
+    {
+      "id": "17367",
+      "title": "First Book in Physiology and Hygiene",
+      "author": "Kellogg, John Harvey"
+    },
+    {
+      "id": "67041",
+      "title": "Treatment of Cholera in the Royal Hospital, Haslar: during the months of July and August, 1849, with remarks on the name and origin of the disease.",
+      "author": "Wilson, John (Inspector of Naval Hospitals)"
+    },
+    {
+      "id": "54062",
+      "title": "Saunders' Books on Pathology, Physiology Histology, Embryology and Bacteriology",
+      "author": "W.B. Saunders Company"
+    },
+    {
+      "id": "55680",
+      "title": "Transmission; or, Variation of Character Through the Mother",
+      "author": "Kirby, Georgiana Bruce"
+    },
+    {
+      "id": "61944",
+      "title": "The New Science of Controlled Breathing, Vol. 1 (of 2): The Secret of Strength, Energy and Beauty—Through Breath Control",
+      "author": "Lankow, Edward"
+    },
+    {
+      "id": "65293",
+      "title": "Owen's Moral Physiology; or, A Brief and Plain Treatise on the Population Question",
+      "author": "Owen, Robert Dale"
+    },
+    {
+      "id": "72361",
+      "title": "The Indian operation of couching for cataract",
+      "author": "Elliot, Robert Henry"
+    },
+    {
+      "id": "4256",
+      "title": "Stammering, its cause and cure",
+      "author": "Bogue, Benjamin Nathaniel"
+    },
+    {
+      "id": "59916",
+      "title": "North Carolina Medical Journal. Vol. 3. No. 4. April, 1879",
+      "author": "Various"
+    },
+    {
+      "id": "61560",
+      "title": "Notes on Diseases of the Horse: Cause, Symptoms and Treatment",
+      "author": "Korinek, Charles James"
+    },
+    {
+      "id": "52645",
+      "title": "Compulsory Vaccination: Report of a Public Meeting, held in the Marylebone Vestry Hall, London, on Wednesday evening, October 19, 1870.",
+      "author": "Marylebone Anti-Compulsory Vaccination League"
+    },
+    {
+      "id": "70298",
+      "title": "The deformities of the fingers and toes",
+      "author": "Anderson, William"
+    },
+    {
+      "id": "19965",
+      "title": "Measles",
+      "author": "Rucker, William Colby"
+    },
+    {
+      "id": "25646",
+      "title": "Child's Health Primer For Primary Classes: With Special Reference to the Effects of Alcoholic Drinks, Stimulants, and Narcotics upon The Human System",
+      "author": "Andrews, Jane"
+    },
+    {
+      "id": "66660",
+      "title": "\"Polio\": Infantile Paralysis",
+      "author": "Prudential Insurance Company of America"
+    },
+    {
+      "id": "73434",
+      "title": "Prof. E. H. Crane's manual of instructions to undertakers : $b With full and complete instructions in the best methods for preserving the dead, including minute directions for arterial injection",
+      "author": "Crane, Elliott H."
+    },
+    {
+      "id": "57551",
+      "title": "Confidential Chats with Girls",
+      "author": "Howard, William Lee"
+    },
+    {
+      "id": "71081",
+      "title": "An account of a useful discovery to distill double the usual quantity of sea-water, by blowing showers of air up through the distilling liquor : $b and an account of the great benefit of ventilators in many instances, in preserving the health and lives of people, in slave and other transport ships ... also an account of the good effect of blowing showers of air up through milk, thereby to cure the ill taste which is occasioned by some kinds of food of cows.",
+      "author": "Hales, Stephen"
+    },
+    {
+      "id": "28322",
+      "title": "Pioneer Surgery in Kentucky: A Sketch",
+      "author": "Yandell, David Wendel"
+    },
+    {
+      "id": "49319",
+      "title": "An Essay on Contagious Diseases: more particularly on the small-pox, measles, putrid, malignant, and pestilential fevers",
+      "author": "Wintringham, Clifton"
+    },
+    {
+      "id": "56137",
+      "title": "Rules and directions for the employment of injections in various diseases",
+      "author": "Lewis, Thomas"
+    },
+    {
+      "id": "59175",
+      "title": "Nashville Journal of Medicine and Surgery, Vol. CX. March, 1916. No. 3",
+      "author": "Various"
+    },
+    {
+      "id": "63229",
+      "title": "The Bedbug [1934]",
+      "author": "Marlatt, C. L."
+    },
+    {
+      "id": "13014",
+      "title": "The Talking Deaf Man: A Method Proposed, Whereby He Who is Born Deaf, May Learn to Speak",
+      "author": "Amman, Johann Conrad"
+    },
+    {
+      "id": "19261",
+      "title": "Bronchoscopy and Esophagoscopy: A Manual of Peroral Endoscopy and Laryngeal Surgery",
+      "author": "Jackson, Chevalier"
+    },
+    {
+      "id": "34436",
+      "title": "Hints to Husbands: A Revelation of the Man-Midwife's Mysteries",
+      "author": "Morant, George"
+    },
+    {
+      "id": "36006",
+      "title": "Diphtheria : $b how to recognize the disease, how to keep from catching it, how to treat those who do catch it",
+      "author": "United States. Public Health Service"
+    },
+    {
+      "id": "49662",
+      "title": "The Cure of Rupture by Paraffin Injections",
+      "author": "Miller, Charles Conrad"
+    },
+    {
+      "id": "74524",
+      "title": "Manual of veterinary homeopathy : $b comprising diseases of horses, cattle, sheep, hogs, dogs and poultry and their homeopathic treatment",
+      "author": "Humphreys, F. (Frederick)"
+    },
+    {
+      "id": "75757",
+      "title": "Baths and bathing",
+      "author": "Various"
+    },
+    {
+      "id": "69197",
+      "title": "Sketches from the history of medicine, ancient and modern: An oration delivered before the Hunterian Society",
+      "author": "Saunders, W. Sedgwick (William Sedgwick)"
+    },
+    {
+      "id": "28147",
+      "title": "Letters on the Cholera Morbus.: Containing ample evidence that this disease, under whatever; name known, cannot be transmitted from the persons of those; labouring under it to other individuals, by contact—through; the medium of inanimate substances—or through the medium; of the atmosphere; and that all restrictions, by cordons; and quarantine regulations, are, as far as regards this; disease, not merely useless, but highly injurious to the; community.",
+      "author": "Gillkrest, J. (James)"
+    },
+    {
+      "id": "54911",
+      "title": "An Account of the Sore Throat Attended With Ulcers: A Disease Which Hath of Late Years Appeared in This City, and in Several Parts of the Nation",
+      "author": "Fothergill, John"
+    },
+    {
+      "id": "59663",
+      "title": "Notes on Diseases of Swine, Sheep, Poultry and the Dog: Cause, Symptoms and Treatments",
+      "author": "Korinek, Charles James"
+    },
+    {
+      "id": "63225",
+      "title": "The Bedbug [1916]",
+      "author": "Marlatt, C. L."
+    },
+    {
+      "id": "68032",
+      "title": "Diabetes : $b Its cause and its treatment with insulin",
+      "author": "Wilder, Russell M. (Russell Morse)"
+    },
+    {
+      "id": "4986",
+      "title": "The Four Epochs of Woman's Life; A Study in Hygiene",
+      "author": "Galbraith, Anna M. (Anna Mary)"
+    },
+    {
+      "id": "34029",
+      "title": "Parturition without Pain or Loss of Consciousness",
+      "author": "Townley, James"
+    },
+    {
+      "id": "53202",
+      "title": "A Mechanical Account of Poisons in Several Essays",
+      "author": "Mead, Richard"
+    },
+    {
+      "id": "60773",
+      "title": "The Philosophy of Health; Volume 1 (of 2): or, an exposition of the physical and mental constitution of man",
+      "author": "Smith, Southwood"
+    },
+    {
+      "id": "68053",
+      "title": "The Frugal Life: A Paradox",
+      "author": "Landi, Ortensio"
+    },
+    {
+      "id": "73219",
+      "title": "The American Red Cross Bulletin (Vol. IV, No. 4, October 1909)",
+      "author": "American National Red Cross"
+    },
+    {
+      "id": "50254",
+      "title": "Treatment of the diseases of the eye, by means of prussic acid vapour, and other medicinal agents",
+      "author": "Turnbull, Alexander"
+    },
+    {
+      "id": "52858",
+      "title": "The Cholera Gazette, Vol. I. No. 4. Wednesday, August 1st, 1832.",
+      "author": "Various"
+    },
+    {
+      "id": "53203",
+      "title": "Complete Treatise on the mare and foal at the time of delivery, with illustrations.: Also on cows and calves, with stallion and mare, when diseased by Gonorrhea (clap) or Pox, also Diarrhea and Costiveness in Colts.",
+      "author": "Mitchell, Conrad"
+    },
+    {
+      "id": "59560",
+      "title": "Animal Castration",
+      "author": "Liautard, Alexandre François Augustin"
+    },
+    {
+      "id": "62066",
+      "title": "The Annual Report on the Health of the Parish of St. Mary Abbotts, Kensington, during the year 1874",
+      "author": "Dudfield, T. Orme"
+    },
+    {
+      "id": "68018",
+      "title": "The Peak in Darien, With Some Other Inquiries Touching Concerns of the Soul and the Body: An Octave of Essays",
+      "author": "Cobbe, Frances Power"
+    },
+    {
+      "id": "72765",
+      "title": "Keep Happy",
+      "author": "Miles, Eustace"
+    },
+    {
+      "id": "74391",
+      "title": "Text book of veterinary medicine, Volume 4 (of 5)",
+      "author": "Law, James"
+    },
+    {
+      "id": "26008",
+      "title": "Hydriatic treatment of Scarlet Fever in its Different Forms",
+      "author": "Munde, Charles"
+    },
+    {
+      "id": "68414",
+      "title": "The tryal of Mr. Daniel Sutton, for the high crime of preserving the lives of His Majesty's liege subjects, by means of inoculation",
+      "author": "Sutton, Daniel"
+    },
+    {
+      "id": "18616",
+      "title": "Moral Principles and Medical Practice: The Basis of Medical Jurisprudence",
+      "author": "Coppens, Charles"
+    },
+    {
+      "id": "22344",
+      "title": "Remarks on the Subject of Lactation",
+      "author": "Morton, Edward"
+    },
+    {
+      "id": "59554",
+      "title": "House Flies",
+      "author": "Howard, L. O. (Leland Ossian)"
+    },
+    {
+      "id": "61637",
+      "title": "Debate on birth control. Margaret Sanger and Winter Russell",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "72451",
+      "title": "The physiology of digestion considered with relation to the principles of dietetics",
+      "author": "Combe, Andrew"
+    },
+    {
+      "id": "75063",
+      "title": "Hospital housekeeping",
+      "author": "Aikens, Charlotte A. (Charlotte Albina)"
+    },
+    {
+      "id": "57083",
+      "title": "The Barbarity of Circumcision as a Remedy for Congenital Abnormality",
+      "author": "Snow, Herbert"
+    },
+    {
+      "id": "57523",
+      "title": "Confidential Chats with Boys",
+      "author": "Howard, William Lee"
+    },
+    {
+      "id": "58960",
+      "title": "The pathology of influenza",
+      "author": "Winternitz, M. C. (Milton C.)"
+    },
+    {
+      "id": "62676",
+      "title": "Sewage Disposal on the Farm, and Protection of Drinking Water",
+      "author": "Smith, Theobald"
+    },
+    {
+      "id": "66506",
+      "title": "Observations on Abortion: Containing an account of the manner in which it is accomplished, the causes which produced it, and the method of preventing or treating it",
+      "author": "Burns, John"
+    },
+    {
+      "id": "68406",
+      "title": "Essay on the effects of iodine on the human constitution: With practical observation on its use in the cure of bronchocele, scrophula, and the tuberculous diseases of the chest and abdomen",
+      "author": "Gairdner, William"
+    },
+    {
+      "id": "70665",
+      "title": "On harelip and cleft palate",
+      "author": "Rose, William"
+    },
+    {
+      "id": "75415",
+      "title": "Spectacle secrets",
+      "author": "Cox, George (Optician)"
+    },
+    {
+      "id": "23769",
+      "title": "Report on Surgery to the Santa Clara County Medical Society",
+      "author": "Cox, J. Bradford (Joseph Bradford)"
+    },
+    {
+      "id": "65015",
+      "title": "Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 8, Vol. I, February 23, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "69556",
+      "title": "Golden rules of medical evidence",
+      "author": "Atkinson, Stanley B. (Stanley Bean)"
+    },
+    {
+      "id": "71517",
+      "title": "Refraction and muscular imbalance, as simplified through the use of the ski-optometer",
+      "author": "Woolf, Daniel"
+    },
+    {
+      "id": "13136",
+      "title": "The Silence: What It Is and How To Use It",
+      "author": "Bush, David V. (David Van)"
+    },
+    {
+      "id": "18324",
+      "title": "The Third Great Plague: A Discussion of Syphilis for Everyday People",
+      "author": "Stokes, John H. (John Hinchman)"
+    },
+    {
+      "id": "67772",
+      "title": "A Treatise on Regional Iodine Therapy for the Veterinary Clinician",
+      "author": "Steffen, Mart R. (Martin Robert)"
+    },
+    {
+      "id": "16977",
+      "title": "Food and Health",
+      "author": "Lydia E. Pinkham Medicine Company"
+    },
+    {
+      "id": "20222",
+      "title": "An ethical problem; or, Sidelights upon scientific experimentation on man and animals",
+      "author": "Leffingwell, Albert"
+    },
+    {
+      "id": "25764",
+      "title": "Reminiscences of Two Years in the United States Navy",
+      "author": "Batten, John M. (John Mullin)"
+    },
+    {
+      "id": "61537",
+      "title": "The Charitable Pestmaster; Or, The Cure of the Plague: Conteining a few short and necessary instructions how to preserve the body from infection of the plagve, as also to cure those that are infected. Together with a little treatise concerning the cure of the small pox.",
+      "author": "Sherwood, Thomas, Practitioner in physick"
+    },
+    {
+      "id": "61945",
+      "title": "The New Science of Controlled Breathing, Vol. 2 (of 2): The Secret of Strength, Energy and Beauty—Through Breath Control",
+      "author": "Lankow, Edward"
+    },
+    {
+      "id": "59908",
+      "title": "The American Therapist. Vol. II. No. 7. Jan. 15th, 1894: A Monthly Record of Modern Therapeutics, with Practical Suggestions Relating to the Clinical Applications of Drugs.",
+      "author": "Various"
+    },
+    {
+      "id": "71874",
+      "title": "Text book of veterinary medicine, Volume 2 (of 5)",
+      "author": "Law, James"
+    },
+    {
+      "id": "18345",
+      "title": "Scientific American Supplement, No. 315,  January 14, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "67040",
+      "title": "Address to the Inhabitants of Rugby about the Cholera Morbus",
+      "author": "Arnold, Thomas"
+    },
+    {
+      "id": "4314",
+      "title": "Appendicitis: The Etiology, Hygenic and Dietetic Treatment",
+      "author": "Tilden, J. H. (John Henry)"
+    },
+    {
+      "id": "19667",
+      "title": "An essay on the influence of tobacco upon life and health",
+      "author": "Mussey, R. D. (Reuben Dimond)"
+    },
+    {
+      "id": "48072",
+      "title": "The modern malady : $b or, Sufferers from \"nerves\"",
+      "author": "Bennett, Cyril"
+    },
+    {
+      "id": "60937",
+      "title": "The Philosophy of Health; Volume 2 (of 2): or, an exposition of the physical and mental constitution of man",
+      "author": "Smith, Southwood"
+    },
+    {
+      "id": "67634",
+      "title": "Report of the Sanitary Committee of the Commissioners of Sewers of the City of London, together with a report of the Medical Officer of Health on the objections raised by the Butchers' Trade Society to the bye-laws proposed for the regulation of slaughter-houses",
+      "author": "Saunders, W. Sedgwick (William Sedgwick)"
+    },
+    {
+      "id": "68756",
+      "title": "The danger and immodesty of the present too general custom of unnecessarily employing men-midwives: Being the letters which lately appeared under the signature of a man-midwife. With an introduction, a treatise on the milk, and an appendix.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "70067",
+      "title": "Cheese and its economical uses in the diet",
+      "author": "Hunt, Caroline Louisa"
+    },
+    {
+      "id": "12522",
+      "title": "An Account of the Extraordinary Medicinal Fluid, called Aether.",
+      "author": "Turner, Matthew"
+    },
+    {
+      "id": "49840",
+      "title": "The Present Method of Inoculating for the Small-Pox: To which are added, some experiments, instituted with a view to discover the effects of a similar treatment in the natural small-pox",
+      "author": "Dimsdale, Thomas"
+    },
+    {
+      "id": "52541",
+      "title": "An Essay on the Effects of Opium. Considered as a Poison",
+      "author": "Awsiter, John"
+    },
+    {
+      "id": "59555",
+      "title": "Poison-ivy, poison-oak and poison sumac : $b Identification, precautions, eradication",
+      "author": "Crooks, D. M. (Donald Mundell)"
+    },
+    {
+      "id": "57535",
+      "title": "Medical Sketches of the Expedition to Egypt, from India",
+      "author": "McGrigor, James, Sir"
+    },
+    {
+      "id": "27070",
+      "title": "Report of the Committee of Inquiry into the Various Aspects of the Problem of Abortion in New Zealand",
+      "author": "New Zealand. Committee of Inquiry into various aspects of the Problem of Abortion in New Zealand"
+    },
+    {
+      "id": "62116",
+      "title": "A Working Plan for Colored Antituberculosis Leagues",
+      "author": "Wertenbaker, Charles Poindexter"
+    },
+    {
+      "id": "4962",
+      "title": "The Story of Germ Life",
+      "author": "Conn, H. W. (Herbert William)"
+    },
+    {
+      "id": "56656",
+      "title": "Medical Jurisprudence as it Relates to Insanity, According to the Law of England",
+      "author": "Haslam, John"
+    },
+    {
+      "id": "57406",
+      "title": "What a Young Wife Ought to Know",
+      "author": "Drake, Emma F. Angell (Emma Frances Angell)"
+    },
+    {
+      "id": "58787",
+      "title": "The Elements of Child-protection",
+      "author": "Engel, Sigmund"
+    },
+    {
+      "id": "12430",
+      "title": "A Lecture on Physical Development, and its Relations to Mental and Spiritual Development, delivered before the American Institute of Instruction, at their Twenty-Ninth Annual Meeting, in Norwich, Conn., August 20, 1858",
+      "author": "Calthrop, S. R. (Samuel Robert)"
+    },
+    {
+      "id": "48746",
+      "title": "Encyclopedia of Diet: A Treatise on the Food Question, Vol. 2",
+      "author": "Christian, Eugene"
+    },
+    {
+      "id": "54454",
+      "title": "Dirty Dustbins and Sloppy Streets: A Practical Treatise on the Scavenging and Cleansing of Cities and Towns",
+      "author": "Boulnois, H. Percy (Henry Percy)"
+    },
+    {
+      "id": "75284",
+      "title": "An inquiry into the propagation of contagious poisons, by the atmosphere : $b as also into the nature and effects of vitiated air, its forms and sources, and other causes of pestilence : with directions for avoiding the action of contagion, and observations on some means for promoting public health",
+      "author": "Alison, Somerville Scott"
+    },
+    {
+      "id": "37748",
+      "title": "How to Collect a Doctor Bill",
+      "author": "Davis, Franklyn Pierre"
+    },
+    {
+      "id": "61495",
+      "title": "Dutch Methods of Birth Control",
+      "author": "Sanger, Margaret"
+    },
+    {
+      "id": "72934",
+      "title": "Orders conceived and published by the Lord Major and Aldermen of the City of London, concerning the infection of the plague",
+      "author": "City of London (England). Court of Aldermen"
+    },
+    {
+      "id": "73251",
+      "title": "Life in a tub; with a description of the Turkish bath",
+      "author": "Diogenes [pseudonym]"
+    },
+    {
+      "id": "7390",
+      "title": "The Poetical Works of Oliver Wendell Holmes — Volume 03: Medical Poems",
+      "author": "Holmes, Oliver Wendell"
+    },
+    {
+      "id": "47457",
+      "title": "Jaros Hygienic Wear: The therapeutic and prophylactic application.",
+      "author": "Jaros, I."
+    },
+    {
+      "id": "57057",
+      "title": "Healthful Sports for Young Ladies",
+      "author": "St. Sernin, Mademoiselle"
+    },
+    {
+      "id": "60392",
+      "title": "A Treatise on Electricity: Wherein its various phænomena are accounted for, and the cause of the attraction and gravitation of solids, assigned. To which is added, a short account, how the electrical effluvia act upon the animal frame, and in what disorders the same may probably be applied with success, and in what not.",
+      "author": "Penrose, Francis"
+    },
+    {
+      "id": "69927",
+      "title": "Case of Filaria loa",
+      "author": "Robertson, Douglas Argyll"
+    },
+    {
+      "id": "74999",
+      "title": "Observations on M. Laennec's method of forming a diagnosis of the diseases of the chest by means of the stethoscope, and of percussion; and upon some points of the French practice of medicine",
+      "author": "Scudamore, Charles"
+    },
+    {
+      "id": "69451",
+      "title": "Behind the scenes in a restaurant: A study of 1017 women restaurant employees",
+      "author": "Consumers' League of New York City"
+    },
+    {
+      "id": "73394",
+      "title": "The virtues of common water : $b or, The advantages thereof, in preventing and curing many distempers : gathered from the writings of several eminent physicians, and also from more than forty years experience",
+      "author": "Smith, John"
+    },
+    {
+      "id": "75599",
+      "title": "The truth about the tobacco habit",
+      "author": "Harding, T. Swann (Thomas Swann)"
+    },
+    {
+      "id": "57459",
+      "title": "Reprint of Two Tracts: 1. An essay on gleets. 2. An enquiry into the nature, cause, and cure of a singular disease of the eyes",
+      "author": "Marat, Jean Paul"
+    },
+    {
+      "id": "67031",
+      "title": "A Letter to the Parishioners of Fulham",
+      "author": "Baker, R. G. (Robert George)"
+    },
+    {
+      "id": "69283",
+      "title": "The necessity of disinterment, under existing circumstances",
+      "author": "Cooke, William"
+    },
+    {
+      "id": "71960",
+      "title": "The conquest of cancer",
+      "author": "Wright, H. W. S. (Henry Wardel Snarey)"
+    },
+    {
+      "id": "75519",
+      "title": "The Hunterian lectures on colour-vision and colour-blindness",
+      "author": "Edridge-Green, F. W. (Frederick William)"
+    },
+    {
+      "id": "41498",
+      "title": "Our Girls",
+      "author": "Lewis, Dio"
+    },
+    {
+      "id": "52657",
+      "title": "A Treatise of Cleanness in Meats and Drinks, of the Preparation of Food,: the Excellency of Good Airs, and the Benefits of Clean Sweet Beds. Also of the Generation of Bugs, and Their Cure. To Which Is Added, a Short Discourse of the Pain in the Teeth, Shewing What Cause It Does Chiefly Proceed, and Also How to Prevent It.",
+      "author": "Tryon, Thomas"
+    },
+    {
+      "id": "25184",
+      "title": "A Dissertation on the Medical Properties and Injurious Effects of the Habitual Use of Tobacco",
+      "author": "McAllister, A. (Alvan)"
+    },
+    {
+      "id": "62410",
+      "title": "Wintering at Mentone",
+      "author": "Chambers, William"
+    },
+    {
+      "id": "75870",
+      "title": "Constipation and its correction by exercise",
+      "author": "Benson, C. O. (Charles Oren)"
+    },
+    {
+      "id": "74813",
+      "title": "The commonwealth of cells : $b Some popular essays on human physiology",
+      "author": "Spurrell, H. G. F. (Herbert George Flaxman)"
+    },
+    {
+      "id": "67824",
+      "title": "A Statement of Facts Tending to Establish an Estimate of the True Value and Present State of Vaccination",
+      "author": "Blane, Gilbert, Sir"
+    },
+    {
+      "id": "25692",
+      "title": "An Epitome of the Homeopathic Healing Art: Containing the New Discoveries and Improvements to the Present Time",
+      "author": "Hill, B. L. (Benjamin L.)"
+    },
+    {
+      "id": "49475",
+      "title": "An Estimate of the True Value of Vaccination as a Security Against Small Pox",
+      "author": "Greenhow, T. M. (Thomas Michael)"
+    }
+  ]
+}

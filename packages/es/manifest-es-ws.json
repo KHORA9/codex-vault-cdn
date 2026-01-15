@@ -1,0 +1,1347 @@
+{
+  "version": "3.0",
+  "language": "es",
+  "source": "wikisource",
+  "generatedAt": "2026-01-14T00:54:38.943Z",
+  "totalBooks": 214,
+  "categories": {
+    "philosophy": [
+      {
+        "id": "285232",
+        "title": "Conferencia sobre Ética",
+        "sizeBytes": 24102
+      },
+      {
+        "id": "45200",
+        "title": "Tractatus Logico-Philosophicus",
+        "sizeBytes": 134498
+      }
+    ],
+    "science": [
+      {
+        "id": "130260",
+        "title": "Ecuaciones de campo de la gravitación",
+        "sizeBytes": 7240
+      },
+      {
+        "id": "110451",
+        "title": "Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de Armas Químicas y sobre su Destrucción",
+        "sizeBytes": 389312
+      },
+      {
+        "id": "233642",
+        "title": "Sericultura, Parte 3",
+        "sizeBytes": 15894
+      },
+      {
+        "id": "233687",
+        "title": "Sericultura, Parte 4",
+        "sizeBytes": 27552
+      }
+    ],
+    "governance": [
+      {
+        "id": "29029",
+        "title": "La instrucción del obrero",
+        "sizeBytes": 16854
+      },
+      {
+        "id": "136871",
+        "title": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+        "sizeBytes": 24710
+      },
+      {
+        "id": "138275",
+        "title": "Ley Orgánica 3/1984, de 26 de marzo, Reguladora de la Iniciativa Legislativa Popular",
+        "sizeBytes": 19856
+      },
+      {
+        "id": "68076",
+        "title": "Carta de los Recursos Naturales",
+        "sizeBytes": 4675
+      },
+      {
+        "id": "53601",
+        "title": "Economía (DAC)",
+        "sizeBytes": 830
+      },
+      {
+        "id": "53534",
+        "title": "Economía política (DCB)",
+        "sizeBytes": 6432
+      },
+      {
+        "id": "56707",
+        "title": "Diccionario de Arquitectura Civil - E",
+        "sizeBytes": 24287
+      },
+      {
+        "id": "114649",
+        "title": "Constituciones de Anderson",
+        "sizeBytes": 9041
+      }
+    ],
+    "history": [
+      {
+        "id": "53005",
+        "title": "Henrique Aedington, Vizconde de Sidmouth (Juicios)",
+        "sizeBytes": 824
+      },
+      {
+        "id": "118799",
+        "title": "Agricola (Tácito)",
+        "sizeBytes": 72546
+      },
+      {
+        "id": "38725",
+        "title": "Manual de Biografía: Antonio Alcalá Galiano",
+        "sizeBytes": 870
+      },
+      {
+        "id": "65879",
+        "title": "Alfonso Cartagena (Retrato)",
+        "sizeBytes": 7001
+      },
+      {
+        "id": "65947",
+        "title": "Alfonso de Villegas (Retrato)",
+        "sizeBytes": 7024
+      },
+      {
+        "id": "65883",
+        "title": "Alfonso Salmerón (Retrato)",
+        "sizeBytes": 6866
+      },
+      {
+        "id": "65857",
+        "title": "Alonso Cano (Retrato)",
+        "sizeBytes": 5371
+      },
+      {
+        "id": "65745",
+        "title": "Alonso Tostado (Retrato)",
+        "sizeBytes": 3865
+      },
+      {
+        "id": "65695",
+        "title": "Álvaro de Bazán (Retrato)",
+        "sizeBytes": 6735
+      },
+      {
+        "id": "65912",
+        "title": "Álvaro de Luna (Retrato)",
+        "sizeBytes": 7144
+      },
+      {
+        "id": "65751",
+        "title": "Álvaro Navia Osorio (Retrato)",
+        "sizeBytes": 4560
+      },
+      {
+        "id": "65943",
+        "title": "Andrés Laguna (Retrato)",
+        "sizeBytes": 6702
+      },
+      {
+        "id": "65694",
+        "title": "Antonio Agustín (Retrato)",
+        "sizeBytes": 6865
+      },
+      {
+        "id": "65820",
+        "title": "Antonio Covarrubias y Leyva (Retrato)",
+        "sizeBytes": 5463
+      },
+      {
+        "id": "65909",
+        "title": "Antonio de Ulloa (Retrato)",
+        "sizeBytes": 6583
+      },
+      {
+        "id": "65821",
+        "title": "Antonio Perez (Retrato)",
+        "sizeBytes": 7215
+      },
+      {
+        "id": "52169",
+        "title": "Próspero de Aremberg (Juicios)",
+        "sizeBytes": 1099
+      },
+      {
+        "id": "53013",
+        "title": "Bartolomé Arena (Juicios)",
+        "sizeBytes": 904
+      },
+      {
+        "id": "65660",
+        "title": "Arias Montano (Retrato)",
+        "sizeBytes": 6290
+      },
+      {
+        "id": "53015",
+        "title": "Francisco Aubry (Juicios)",
+        "sizeBytes": 1345
+      },
+      {
+        "id": "52171",
+        "title": "Barbe-Marbois (Juicios)",
+        "sizeBytes": 918
+      },
+      {
+        "id": "52172",
+        "title": "Conde de Barras (Juicios)",
+        "sizeBytes": 2199
+      },
+      {
+        "id": "53017",
+        "title": "Barreré de Vieuzac (Juicios)",
+        "sizeBytes": 1092
+      },
+      {
+        "id": "65819",
+        "title": "Bartolomé de Carranza (Retrato)",
+        "sizeBytes": 6249
+      },
+      {
+        "id": "65945",
+        "title": "Bartolomé de las Casas (Retrato)",
+        "sizeBytes": 6912
+      },
+      {
+        "id": "65858",
+        "title": "Bartolomé de Murillo (Retrato)",
+        "sizeBytes": 5946
+      },
+      {
+        "id": "65786",
+        "title": "Bartolomé Leonardo de Argensola (Retrato)",
+        "sizeBytes": 5412
+      },
+      {
+        "id": "52174",
+        "title": "Conde de Basthurtt (Juicios)",
+        "sizeBytes": 1212
+      },
+      {
+        "id": "52173",
+        "title": "M. de Bataglia (Juicios)",
+        "sizeBytes": 964
+      },
+      {
+        "id": "53018",
+        "title": "Baudin (Juicios)",
+        "sizeBytes": 748
+      },
+      {
+        "id": "51973",
+        "title": "L. T. de Bausset (Juicios)",
+        "sizeBytes": 740
+      },
+      {
+        "id": "51916",
+        "title": "Estefanía de Beauharnais (Juicios)",
+        "sizeBytes": 993
+      },
+      {
+        "id": "51915",
+        "title": "Hortencia de Beauharnais (Juicios)",
+        "sizeBytes": 1229
+      },
+      {
+        "id": "51945",
+        "title": "Josefina de Beauharnais (Juicios)",
+        "sizeBytes": 1366
+      },
+      {
+        "id": "17649",
+        "title": "Bosquejo histórico de Manuel Belgrano",
+        "sizeBytes": 19605
+      },
+      {
+        "id": "66000",
+        "title": "Benito Gerónimo Feijoo (Retrato)",
+        "sizeBytes": 5631
+      },
+      {
+        "id": "65743",
+        "title": "Bernardino de Rebolledo (Retrato)",
+        "sizeBytes": 6749
+      },
+      {
+        "id": "65884",
+        "title": "Bernardo de Balbuena (Retrato)",
+        "sizeBytes": 5667
+      },
+      {
+        "id": "51975",
+        "title": "E. A. Bernier (Juicios)",
+        "sizeBytes": 716
+      },
+      {
+        "id": "51985",
+        "title": "Conde de Bertholet (Juicios)",
+        "sizeBytes": 1131
+      },
+      {
+        "id": "53040",
+        "title": "Jean-Baptiste Bessieres (Juicios)",
+        "sizeBytes": 1004
+      },
+      {
+        "id": "53328",
+        "title": "Mourad Bey (Juicios)",
+        "sizeBytes": 1170
+      },
+      {
+        "id": "18355",
+        "title": "Biografía de Rafael María de Mendive",
+        "sizeBytes": 5969
+      },
+      {
+        "id": "53042",
+        "title": "General Bizannet (Juicios)",
+        "sizeBytes": 1093
+      },
+      {
+        "id": "234960",
+        "title": "Blasco - Recuerdos íntimos",
+        "sizeBytes": 12146
+      },
+      {
+        "id": "53043",
+        "title": "Gebhard Blucher (Juicios)",
+        "sizeBytes": 874
+      },
+      {
+        "id": "53020",
+        "title": "Carlos Bonaparte (Juicios)",
+        "sizeBytes": 984
+      },
+      {
+        "id": "51931",
+        "title": "Carolina Bonaparte (Juicios)",
+        "sizeBytes": 965
+      },
+      {
+        "id": "51893",
+        "title": "Gerónimo Bonaparte (Juicios)",
+        "sizeBytes": 1113
+      },
+      {
+        "id": "51940",
+        "title": "Josefa Catalina Bonaparte (Juicios)",
+        "sizeBytes": 844
+      },
+      {
+        "id": "51899",
+        "title": "José Bonaparte (Juicios)",
+        "sizeBytes": 1149
+      },
+      {
+        "id": "51977",
+        "title": "Luciano Bonaparte (Juicios)",
+        "sizeBytes": 1381
+      },
+      {
+        "id": "52175",
+        "title": "Príncipe Luciano Bonaparte (Juicios)",
+        "sizeBytes": 953
+      },
+      {
+        "id": "51902",
+        "title": "Luis Bonaparte (Juicios)",
+        "sizeBytes": 1364
+      },
+      {
+        "id": "51904",
+        "title": "Napoleón Bonaparte (Juicios)",
+        "sizeBytes": 23632
+      },
+      {
+        "id": "51930",
+        "title": "Paulina María Bonaparte (Juicios)",
+        "sizeBytes": 1209
+      },
+      {
+        "id": "53045",
+        "title": "François Brueys (Juicios)",
+        "sizeBytes": 1000
+      },
+      {
+        "id": "53046",
+        "title": "Guillaume Brune (Juicios)",
+        "sizeBytes": 933
+      },
+      {
+        "id": "53032",
+        "title": "Mateo Buttaffoco (Juicios)",
+        "sizeBytes": 1691
+      },
+      {
+        "id": "52160",
+        "title": "Jorge Cadoudal (Juicios)",
+        "sizeBytes": 1679
+      },
+      {
+        "id": "52178",
+        "title": "Duque de Cambaceres (Juicios)",
+        "sizeBytes": 997
+      },
+      {
+        "id": "52667",
+        "title": "Carlos Felipe, duque de Orleans (Juicios)",
+        "sizeBytes": 991
+      },
+      {
+        "id": "53049",
+        "title": "Lazare Carnot (Juicios)",
+        "sizeBytes": 3521
+      },
+      {
+        "id": "52179",
+        "title": "Lord Castlereagh (Juicios)",
+        "sizeBytes": 3459
+      },
+      {
+        "id": "52192",
+        "title": "Fleury de Chaboulon (Juicios)",
+        "sizeBytes": 1151
+      },
+      {
+        "id": "52181",
+        "title": "Nompere de Champagni (Juicios)",
+        "sizeBytes": 953
+      },
+      {
+        "id": "53051",
+        "title": "François Charette (Juicios)",
+        "sizeBytes": 1284
+      },
+      {
+        "id": "51942",
+        "title": "Madame Chevreuse (Juicios)",
+        "sizeBytes": 1217
+      },
+      {
+        "id": "53052",
+        "title": "Henri Clarke (Juicios)",
+        "sizeBytes": 1023
+      },
+      {
+        "id": "53054",
+        "title": "George Cockburn (Juicios)",
+        "sizeBytes": 1548
+      },
+      {
+        "id": "52161",
+        "title": "Collin (Juicios)",
+        "sizeBytes": 989
+      },
+      {
+        "id": "51943",
+        "title": "Señorita Colombier (Juicios)",
+        "sizeBytes": 1124
+      },
+      {
+        "id": "52187",
+        "title": "Dubois de Crance (Juicios)",
+        "sizeBytes": 724
+      },
+      {
+        "id": "52168",
+        "title": "Delaunay, conde de Antraigues (Juicios)",
+        "sizeBytes": 1844
+      },
+      {
+        "id": "53056",
+        "title": "Louis Desaix (Juicios)",
+        "sizeBytes": 1663
+      },
+      {
+        "id": "51986",
+        "title": "Barón Desgenettes (Juicios)",
+        "sizeBytes": 852
+      },
+      {
+        "id": "53023",
+        "title": "Camilo Desmoulins (Juicios)",
+        "sizeBytes": 1434
+      },
+      {
+        "id": "65983",
+        "title": "Diego de Alava y Beaumont (Retrato)",
+        "sizeBytes": 5672
+      },
+      {
+        "id": "65794",
+        "title": "Diego de Covarrubias (Retrato)",
+        "sizeBytes": 4499
+      },
+      {
+        "id": "65750",
+        "title": "Diego de Saavedra Faxardo (Retrato)",
+        "sizeBytes": 6461
+      },
+      {
+        "id": "65845",
+        "title": "Diego García de Paredes (Retrato)",
+        "sizeBytes": 6295
+      },
+      {
+        "id": "65748",
+        "title": "Diego Hurtado de Mendoza (Retrato)",
+        "sizeBytes": 6916
+      },
+      {
+        "id": "65865",
+        "title": "Diego Laynez (Retrato)",
+        "sizeBytes": 6888
+      },
+      {
+        "id": "65796",
+        "title": "Diego Mesía y Guzmán (Retrato)",
+        "sizeBytes": 7307
+      },
+      {
+        "id": "65986",
+        "title": "Diego Sarmiento de Acuña (Retrato)",
+        "sizeBytes": 6057
+      },
+      {
+        "id": "65856",
+        "title": "Diego Velázquez (Retrato)",
+        "sizeBytes": 6022
+      },
+      {
+        "id": "51944",
+        "title": "Princesa Dolgorowski (Juicios)",
+        "sizeBytes": 1423
+      },
+      {
+        "id": "53033",
+        "title": "Merlin de Doual (Juicios)",
+        "sizeBytes": 1026
+      },
+      {
+        "id": "53057",
+        "title": "Antonio Drouot (Juicios)",
+        "sizeBytes": 1232
+      },
+      {
+        "id": "53059",
+        "title": "Jacques Dugommier (Juicios)",
+        "sizeBytes": 1155
+      },
+      {
+        "id": "53060",
+        "title": "Guillaume Duhesme (Juicios)",
+        "sizeBytes": 991
+      },
+      {
+        "id": "53062",
+        "title": "Pierre Dupont (Juicios)",
+        "sizeBytes": 1197
+      },
+      {
+        "id": "65991",
+        "title": "Duque de Alba (Retrato)",
+        "sizeBytes": 6793
+      },
+      {
+        "id": "52189",
+        "title": "Gérard Duroc (Juicios)",
+        "sizeBytes": 1166
+      },
+      {
+        "id": "51978",
+        "title": "J. B. Duvoisin (Juicios)",
+        "sizeBytes": 3239
+      },
+      {
+        "id": "52664",
+        "title": "Duque de Eischtadl (Juicios)",
+        "sizeBytes": 1252
+      },
+      {
+        "id": "65691",
+        "title": "Elio Antonio de Lebrixa (Retrato)",
+        "sizeBytes": 4541
+      },
+      {
+        "id": "52190",
+        "title": "Duque de Enghien (Juicios)",
+        "sizeBytes": 3051
+      },
+      {
+        "id": "52191",
+        "title": "Conde Esteve (Juicios)",
+        "sizeBytes": 890
+      },
+      {
+        "id": "234946",
+        "title": "Eusebio Blasco: De su vida y de su obra",
+        "sizeBytes": 6716
+      },
+      {
+        "id": "53064",
+        "title": "Joseph Excelmans (Juicios)",
+        "sizeBytes": 862
+      },
+      {
+        "id": "65905",
+        "title": "Felipe Gil de Taboada (Retrato)",
+        "sizeBytes": 6884
+      },
+      {
+        "id": "65944",
+        "title": "Fernando Nuñez de Guzmán (Retrato)",
+        "sizeBytes": 6428
+      },
+      {
+        "id": "52629",
+        "title": "Marqués de Fontanes (Juicios)",
+        "sizeBytes": 1018
+      },
+      {
+        "id": "52631",
+        "title": "Joseph Fouché (Juicios)",
+        "sizeBytes": 2058
+      },
+      {
+        "id": "52638",
+        "title": "Henry Richard Vassal Fox (Juicios)",
+        "sizeBytes": 868
+      },
+      {
+        "id": "52632",
+        "title": "Charles James Fox (Juicios)",
+        "sizeBytes": 2529
+      },
+      {
+        "id": "65876",
+        "title": "Francisco de Mendoza y Bobadilla (Retrato)",
+        "sizeBytes": 6297
+      },
+      {
+        "id": "65661",
+        "title": "Francisco de Quevedo y Villegas (Retrato)",
+        "sizeBytes": 7053
+      },
+      {
+        "id": "66001",
+        "title": "Francisco de Salinas (Retrato)",
+        "sizeBytes": 3682
+      },
+      {
+        "id": "65846",
+        "title": "Francisco Pizarro (Retrato)",
+        "sizeBytes": 6530
+      },
+      {
+        "id": "236779",
+        "title": "Francisco Salinas",
+        "sizeBytes": 9149
+      },
+      {
+        "id": "65946",
+        "title": "Francisco Sanchez (Retrato)",
+        "sizeBytes": 6222
+      },
+      {
+        "id": "65784",
+        "title": "Francisco Vallés (Retrato)",
+        "sizeBytes": 6328
+      },
+      {
+        "id": "65824",
+        "title": "Francisco Ximenez de Cisneros (Retrato)",
+        "sizeBytes": 7207
+      },
+      {
+        "id": "65737",
+        "title": "Fray Luis de Granada (Retrato)",
+        "sizeBytes": 6999
+      },
+      {
+        "id": "65752",
+        "title": "Fray Luis de León (Retrato)",
+        "sizeBytes": 5524
+      },
+      {
+        "id": "51987",
+        "title": "Franz Joseph Gall (Juicios)",
+        "sizeBytes": 766
+      },
+      {
+        "id": "65982",
+        "title": "Gaspar de Guzmán y Pimentel (Retrato)",
+        "sizeBytes": 6641
+      },
+      {
+        "id": "53026",
+        "title": "Thomas-Augustin Gasparin (Juicios)",
+        "sizeBytes": 900
+      },
+      {
+        "id": "52637",
+        "title": "Gaudin, duque de Gaete (Juicios)",
+        "sizeBytes": 971
+      },
+      {
+        "id": "65749",
+        "title": "Gerónimo de Zurita (Retrato)",
+        "sizeBytes": 6085
+      },
+      {
+        "id": "65866",
+        "title": "Gerónimo Gracián (Retrato)",
+        "sizeBytes": 6892
+      },
+      {
+        "id": "65981",
+        "title": "Gerónimo Gómez de Huerta (Retrato)",
+        "sizeBytes": 6805
+      },
+      {
+        "id": "65659",
+        "title": "Gil Carrillo de Albornoz (Retrato)",
+        "sizeBytes": 6865
+      },
+      {
+        "id": "53291",
+        "title": "Barón Girard (Juicios)",
+        "sizeBytes": 1202
+      },
+      {
+        "id": "65997",
+        "title": "Gonzalo Fernández de Córdoba (Retrato)",
+        "sizeBytes": 5317
+      },
+      {
+        "id": "51979",
+        "title": "Enrique Gregorio (Juicios)",
+        "sizeBytes": 1432
+      },
+      {
+        "id": "53293",
+        "title": "Vaquette de Gribauval (Juicios)",
+        "sizeBytes": 796
+      },
+      {
+        "id": "53294",
+        "title": "Conde de Grouchy (Juicios)",
+        "sizeBytes": 1067
+      },
+      {
+        "id": "51892",
+        "title": "Gustavo IV (Juicios)",
+        "sizeBytes": 2610
+      },
+      {
+        "id": "39824",
+        "title": "Manual de Biografía: Juan Eugenio Hartzembusch",
+        "sizeBytes": 4546
+      },
+      {
+        "id": "52162",
+        "title": "Hedouville, el menor (Juicios)",
+        "sizeBytes": 1090
+      },
+      {
+        "id": "65852",
+        "title": "Hernando de Soto (Retrato)",
+        "sizeBytes": 6162
+      },
+      {
+        "id": "53296",
+        "title": "General Hoche (Juicios)",
+        "sizeBytes": 800
+      },
+      {
+        "id": "65817",
+        "title": "Hugo de Moncada (Retrato)",
+        "sizeBytes": 5934
+      },
+      {
+        "id": "65998",
+        "title": "Iñigo López de Mendoza (Retrato)",
+        "sizeBytes": 5303
+      },
+      {
+        "id": "53297",
+        "title": "Conde Jourdan (Juicios)",
+        "sizeBytes": 1050
+      },
+      {
+        "id": "51891",
+        "title": "Jorge IV (Juicios)",
+        "sizeBytes": 1063
+      },
+      {
+        "id": "65910",
+        "title": "Jorge Juan (Retrato)",
+        "sizeBytes": 6085
+      },
+      {
+        "id": "65875",
+        "title": "Josef del Campillo (Retrato)",
+        "sizeBytes": 7051
+      },
+      {
+        "id": "65855",
+        "title": "Josef Ribera (Retrato)",
+        "sizeBytes": 4982
+      },
+      {
+        "id": "65827",
+        "title": "Joseph Carrillo de Albornoz (Retrato)",
+        "sizeBytes": 6041
+      },
+      {
+        "id": "65795",
+        "title": "José de Sigüenza (Retrato)",
+        "sizeBytes": 7357
+      },
+      {
+        "id": "65990",
+        "title": "José Moñino (Retrato)",
+        "sizeBytes": 6134
+      },
+      {
+        "id": "65980",
+        "title": "Juan Bautista Perez (Retrato)",
+        "sizeBytes": 6662
+      },
+      {
+        "id": "65696",
+        "title": "Juan de Austria (Retrato)",
+        "sizeBytes": 6496
+      },
+      {
+        "id": "65687",
+        "title": "Juan de Ferreras (Retrato)",
+        "sizeBytes": 5350
+      },
+      {
+        "id": "65854",
+        "title": "Juan de Herrera (Retrato)",
+        "sizeBytes": 4958
+      },
+      {
+        "id": "65911",
+        "title": "Juan de Jesús María (Retrato)",
+        "sizeBytes": 7017
+      },
+      {
+        "id": "65787",
+        "title": "Juan de Palafox y Mendoza (Retrato)",
+        "sizeBytes": 4083
+      },
+      {
+        "id": "65785",
+        "title": "Juan de Rivera (Retrato)",
+        "sizeBytes": 4932
+      },
+      {
+        "id": "65844",
+        "title": "Juan de Torquemada (Retrato)",
+        "sizeBytes": 5357
+      },
+      {
+        "id": "65798",
+        "title": "Juan de Urbina (Retrato)",
+        "sizeBytes": 6072
+      },
+      {
+        "id": "65793",
+        "title": "Juan de Ávila (Retrato)",
+        "sizeBytes": 7125
+      },
+      {
+        "id": "65999",
+        "title": "Juan Ginés de Sepúlveda (Retrato)",
+        "sizeBytes": 6392
+      },
+      {
+        "id": "65746",
+        "title": "Juan Luis Vives (Retrato)",
+        "sizeBytes": 6554
+      },
+      {
+        "id": "65818",
+        "title": "Juan Martínez Siliceo (Retrato)",
+        "sizeBytes": 4657
+      },
+      {
+        "id": "65881",
+        "title": "Juan Sebastián de Elcano (Retrato)",
+        "sizeBytes": 6807
+      },
+      {
+        "id": "53301",
+        "title": "Junot (Juicios)",
+        "sizeBytes": 1677
+      },
+      {
+        "id": "53302",
+        "title": "François Kellermann (Juicios)",
+        "sizeBytes": 922
+      },
+      {
+        "id": "53303",
+        "title": "General Kellermann (Juicios)",
+        "sizeBytes": 750
+      },
+      {
+        "id": "53304",
+        "title": "General Kilmaine (Juicios)",
+        "sizeBytes": 1110
+      },
+      {
+        "id": "53305",
+        "title": "Jean Baptiste Kleber (Juicios)",
+        "sizeBytes": 1430
+      },
+      {
+        "id": "53306",
+        "title": "Conde Labedoyere (Juicios)",
+        "sizeBytes": 1032
+      },
+      {
+        "id": "52640",
+        "title": "Roulet de Labouillerie (Juicios)",
+        "sizeBytes": 1247
+      },
+      {
+        "id": "53307",
+        "title": "Marqués de Lafayette (Juicios)",
+        "sizeBytes": 1475
+      },
+      {
+        "id": "53028",
+        "title": "Jacobo Lafitte (Juicios)",
+        "sizeBytes": 836
+      },
+      {
+        "id": "53308",
+        "title": "General Laharpe (Juicios)",
+        "sizeBytes": 1051
+      },
+      {
+        "id": "51947",
+        "title": "Madame Lannes (Juicios)",
+        "sizeBytes": 838
+      },
+      {
+        "id": "51988",
+        "title": "Pierre Simon Laplace (Juicios)",
+        "sizeBytes": 970
+      },
+      {
+        "id": "51989",
+        "title": "Dominique-Jean Larrey (Juicios)",
+        "sizeBytes": 2233
+      },
+      {
+        "id": "52648",
+        "title": "Conde Las Cases (Juicios)",
+        "sizeBytes": 1285
+      },
+      {
+        "id": "51949",
+        "title": "Madame Lascaris (Juicios)",
+        "sizeBytes": 872
+      },
+      {
+        "id": "53309",
+        "title": "Latour-Froissac (Juicios)",
+        "sizeBytes": 1240
+      },
+      {
+        "id": "51950",
+        "title": "Condesa de Lavalette (Juicios)",
+        "sizeBytes": 868
+      },
+      {
+        "id": "52650",
+        "title": "Lebrun, duque de Plaisance (Juicios)",
+        "sizeBytes": 986
+      },
+      {
+        "id": "53312",
+        "title": "Barón Letort (Juicios)",
+        "sizeBytes": 1216
+      },
+      {
+        "id": "52652",
+        "title": "Letourneur de la Manche (Juicios)",
+        "sizeBytes": 1434
+      },
+      {
+        "id": "65627",
+        "title": "Antonio de Leyva (Retrato)",
+        "sizeBytes": 4384
+      },
+      {
+        "id": "52674",
+        "title": "Robert Lindet (Juicios)",
+        "sizeBytes": 1014
+      },
+      {
+        "id": "52653",
+        "title": "Conde de Liverpool (Juicios)",
+        "sizeBytes": 1010
+      },
+      {
+        "id": "52177",
+        "title": "Los Borbones (Juicios)",
+        "sizeBytes": 1624
+      },
+      {
+        "id": "65739",
+        "title": "Luis de Góngora (Retrato)",
+        "sizeBytes": 6974
+      },
+      {
+        "id": "65996",
+        "title": "Luis de Requesens (Retrato)",
+        "sizeBytes": 5737
+      },
+      {
+        "id": "51900",
+        "title": "Luis XVI (Juicios)",
+        "sizeBytes": 2020
+      },
+      {
+        "id": "51901",
+        "title": "Luis XVIII (Juicios)",
+        "sizeBytes": 1300
+      },
+      {
+        "id": "53314",
+        "title": "Conde Maison (Juicios)",
+        "sizeBytes": 880
+      },
+      {
+        "id": "53315",
+        "title": "Capitán Maitland (Juicios)",
+        "sizeBytes": 1115
+      },
+      {
+        "id": "53316",
+        "title": "Almirante Malcolm (Juicios)",
+        "sizeBytes": 1605
+      },
+      {
+        "id": "53317",
+        "title": "Claude Malet (Juicios)",
+        "sizeBytes": 1150
+      },
+      {
+        "id": "52655",
+        "title": "Hugues-Bernard Maret (Juicios)",
+        "sizeBytes": 734
+      },
+      {
+        "id": "65629",
+        "title": "Juan de Mariana (Retrato)",
+        "sizeBytes": 5207
+      },
+      {
+        "id": "53318",
+        "title": "Auguste Marmont (Juicios)",
+        "sizeBytes": 1352
+      },
+      {
+        "id": "52654",
+        "title": "Marqués de Manfredini (Juicios)",
+        "sizeBytes": 1339
+      },
+      {
+        "id": "52661",
+        "title": "Marqués de Monchenu (Juicios)",
+        "sizeBytes": 1082
+      },
+      {
+        "id": "65906",
+        "title": "Martín Bautista de Lanuza (Retrato)",
+        "sizeBytes": 6991
+      },
+      {
+        "id": "65738",
+        "title": "Martín de Azpilcueta (Retrato)",
+        "sizeBytes": 7105
+      },
+      {
+        "id": "51952",
+        "title": "María Antonia de Austria (Juicios)",
+        "sizeBytes": 1186
+      },
+      {
+        "id": "51953",
+        "title": "María Luisa de Austria (Juicios)",
+        "sizeBytes": 1740
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "es-philosophy-ws",
+      "name": "Philosophy Collection (Spanish Wikisource)",
+      "category": "philosophy",
+      "language": "es",
+      "source": "wikisource",
+      "articleCount": 2,
+      "totalSizeBytes": 158600,
+      "articles": [
+        "285232",
+        "45200"
+      ]
+    },
+    {
+      "id": "es-science-ws",
+      "name": "Science Collection (Spanish Wikisource)",
+      "category": "science",
+      "language": "es",
+      "source": "wikisource",
+      "articleCount": 4,
+      "totalSizeBytes": 439998,
+      "articles": [
+        "130260",
+        "110451",
+        "233642",
+        "233687"
+      ]
+    },
+    {
+      "id": "es-governance-ws",
+      "name": "Governance Collection (Spanish Wikisource)",
+      "category": "governance",
+      "language": "es",
+      "source": "wikisource",
+      "articleCount": 8,
+      "totalSizeBytes": 106685,
+      "articles": [
+        "29029",
+        "136871",
+        "138275",
+        "68076",
+        "53601",
+        "53534",
+        "56707",
+        "114649"
+      ]
+    },
+    {
+      "id": "es-history-ws",
+      "name": "History Collection (Spanish Wikisource)",
+      "category": "history",
+      "language": "es",
+      "source": "wikisource",
+      "articleCount": 200,
+      "totalSizeBytes": 776535,
+      "articles": [
+        "53005",
+        "118799",
+        "38725",
+        "65879",
+        "65947",
+        "65883",
+        "65857",
+        "65745",
+        "65695",
+        "65912",
+        "65751",
+        "65943",
+        "65694",
+        "65820",
+        "65909",
+        "65821",
+        "52169",
+        "53013",
+        "65660",
+        "53015",
+        "52171",
+        "52172",
+        "53017",
+        "65819",
+        "65945",
+        "65858",
+        "65786",
+        "52174",
+        "52173",
+        "53018",
+        "51973",
+        "51916",
+        "51915",
+        "51945",
+        "17649",
+        "66000",
+        "65743",
+        "65884",
+        "51975",
+        "51985",
+        "53040",
+        "53328",
+        "18355",
+        "53042",
+        "234960",
+        "53043",
+        "53020",
+        "51931",
+        "51893",
+        "51940",
+        "51899",
+        "51977",
+        "52175",
+        "51902",
+        "51904",
+        "51930",
+        "53045",
+        "53046",
+        "53032",
+        "52160",
+        "52178",
+        "52667",
+        "53049",
+        "52179",
+        "52192",
+        "52181",
+        "53051",
+        "51942",
+        "53052",
+        "53054",
+        "52161",
+        "51943",
+        "52187",
+        "52168",
+        "53056",
+        "51986",
+        "53023",
+        "65983",
+        "65794",
+        "65750",
+        "65845",
+        "65748",
+        "65865",
+        "65796",
+        "65986",
+        "65856",
+        "51944",
+        "53033",
+        "53057",
+        "53059",
+        "53060",
+        "53062",
+        "65991",
+        "52189",
+        "51978",
+        "52664",
+        "65691",
+        "52190",
+        "52191",
+        "234946",
+        "53064",
+        "65905",
+        "65944",
+        "52629",
+        "52631",
+        "52638",
+        "52632",
+        "65876",
+        "65661",
+        "66001",
+        "65846",
+        "236779",
+        "65946",
+        "65784",
+        "65824",
+        "65737",
+        "65752",
+        "51987",
+        "65982",
+        "53026",
+        "52637",
+        "65749",
+        "65866",
+        "65981",
+        "65659",
+        "53291",
+        "65997",
+        "51979",
+        "53293",
+        "53294",
+        "51892",
+        "39824",
+        "52162",
+        "65852",
+        "53296",
+        "65817",
+        "65998",
+        "53297",
+        "51891",
+        "65910",
+        "65875",
+        "65855",
+        "65827",
+        "65795",
+        "65990",
+        "65980",
+        "65696",
+        "65687",
+        "65854",
+        "65911",
+        "65787",
+        "65785",
+        "65844",
+        "65798",
+        "65793",
+        "65999",
+        "65746",
+        "65818",
+        "65881",
+        "53301",
+        "53302",
+        "53303",
+        "53304",
+        "53305",
+        "53306",
+        "52640",
+        "53307",
+        "53028",
+        "53308",
+        "51947",
+        "51988",
+        "51989",
+        "52648",
+        "51949",
+        "53309",
+        "51950",
+        "52650",
+        "53312",
+        "52652",
+        "65627",
+        "52674",
+        "52653",
+        "52177",
+        "65739",
+        "65996",
+        "51900",
+        "51901",
+        "53314",
+        "53315",
+        "53316",
+        "53317",
+        "52655",
+        "65629",
+        "53318",
+        "52654",
+        "52661",
+        "65906",
+        "65738",
+        "51952",
+        "51953"
+      ]
+    }
+  ]
+}

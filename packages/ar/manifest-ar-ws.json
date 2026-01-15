@@ -1,0 +1,237 @@
+{
+  "version": "3.0",
+  "language": "ar",
+  "source": "wikisource",
+  "generatedAt": "2026-01-14T00:43:49.382Z",
+  "totalBooks": 29,
+  "categories": {
+    "philosophy": [
+      {
+        "id": "4480",
+        "title": "ابن سينا – النجاة",
+        "sizeBytes": 816538
+      },
+      {
+        "id": "1880",
+        "title": "الكندي - الفلسفة الأولى",
+        "sizeBytes": 120170
+      },
+      {
+        "id": "1665",
+        "title": "رسائل الكندي الفلسفية",
+        "sizeBytes": 2138
+      },
+      {
+        "id": "23322",
+        "title": "رسالة في التصور والتصديق",
+        "sizeBytes": 70927
+      },
+      {
+        "id": "1879",
+        "title": "كتاب رسائل الحروف",
+        "sizeBytes": 419795
+      }
+    ],
+    "science": [
+      {
+        "id": "175262",
+        "title": "صور الكواكب الثمانية والأربعين",
+        "sizeBytes": 2021
+      },
+      {
+        "id": "24863",
+        "title": "القواعد الحسابية في تحويلات الأكياس الرومية إلى الأكياس المصرية",
+        "sizeBytes": 14156
+      },
+      {
+        "id": "131703",
+        "title": "أساسيات علم تشريح النبات",
+        "sizeBytes": 3250
+      }
+    ],
+    "governance": [
+      {
+        "id": "2327",
+        "title": "إعلان دمشق للتغيير الوطني الديمقراطي",
+        "sizeBytes": 16659
+      },
+      {
+        "id": "1925",
+        "title": "إعلان استقلال للفضاء السبراني",
+        "sizeBytes": 8468
+      },
+      {
+        "id": "2810",
+        "title": "التقرير الختامي لهيئة الإنصاف والمصالحة المغربية",
+        "sizeBytes": 120700
+      },
+      {
+        "id": "43713",
+        "title": "القانون الأساسي الفلسطيني المعدل 2005",
+        "sizeBytes": 71141
+      },
+      {
+        "id": "123338",
+        "title": "تعليمات استخدام الصور الملكية لعام 2014 - الأردن",
+        "sizeBytes": 14531
+      },
+      {
+        "id": "2295",
+        "title": "تقرير ميليس",
+        "sizeBytes": 218025
+      },
+      {
+        "id": "5926",
+        "title": "دستور إيران",
+        "sizeBytes": 135806
+      },
+      {
+        "id": "143771",
+        "title": "قانون 49 لسنة 1977 بشأن إيجار الأماكن/ مصر",
+        "sizeBytes": 82153
+      },
+      {
+        "id": "3021",
+        "title": "قانون رقم 162 لسنة 1958 بشأن حالة الطوارئ",
+        "sizeBytes": 16339
+      }
+    ],
+    "history": [
+      {
+        "id": "39859",
+        "title": "أبو بكر الصديق أول الخلفاء الراشدين",
+        "sizeBytes": 5847
+      },
+      {
+        "id": "280062",
+        "title": "البداية والنهاية (ط. السعادة)",
+        "sizeBytes": 1798
+      },
+      {
+        "id": "214765",
+        "title": "تاريخ بعلبك",
+        "sizeBytes": 1301
+      },
+      {
+        "id": "46311",
+        "title": "حوادث دمشق اليومية",
+        "sizeBytes": 2097
+      },
+      {
+        "id": "123190",
+        "title": "رسالة عمر بن الخطاب إلى عمرو بن العاص حول فتح مصر ورده عليها",
+        "sizeBytes": 4383
+      },
+      {
+        "id": "212924",
+        "title": "مذكراتي عن الثورة العربية الكبرى",
+        "sizeBytes": 1667
+      },
+      {
+        "id": "18807",
+        "title": "تاريخ الإسلام",
+        "sizeBytes": 2362
+      },
+      {
+        "id": "18810",
+        "title": "تاريخ الإسلام/الجزء الأول",
+        "sizeBytes": 636088
+      },
+      {
+        "id": "62679",
+        "title": "تاريخ الإسلام/الجزء الثالث",
+        "sizeBytes": 8487
+      },
+      {
+        "id": "62683",
+        "title": "تاريخ الإسلام/الجزء الثاني",
+        "sizeBytes": 122959
+      },
+      {
+        "id": "62680",
+        "title": "تاريخ الإسلام/الجزء الرابع",
+        "sizeBytes": 188616
+      },
+      {
+        "id": "62681",
+        "title": "تاريخ الإسلام/الجزء السابع",
+        "sizeBytes": 46247
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "ar-philosophy-ws",
+      "name": "Philosophy Collection (Arabic Wikisource)",
+      "category": "philosophy",
+      "language": "ar",
+      "source": "wikisource",
+      "articleCount": 5,
+      "totalSizeBytes": 1429568,
+      "articles": [
+        "4480",
+        "1880",
+        "1665",
+        "23322",
+        "1879"
+      ]
+    },
+    {
+      "id": "ar-science-ws",
+      "name": "Science Collection (Arabic Wikisource)",
+      "category": "science",
+      "language": "ar",
+      "source": "wikisource",
+      "articleCount": 3,
+      "totalSizeBytes": 19427,
+      "articles": [
+        "175262",
+        "24863",
+        "131703"
+      ]
+    },
+    {
+      "id": "ar-governance-ws",
+      "name": "Governance Collection (Arabic Wikisource)",
+      "category": "governance",
+      "language": "ar",
+      "source": "wikisource",
+      "articleCount": 9,
+      "totalSizeBytes": 683822,
+      "articles": [
+        "2327",
+        "1925",
+        "2810",
+        "43713",
+        "123338",
+        "2295",
+        "5926",
+        "143771",
+        "3021"
+      ]
+    },
+    {
+      "id": "ar-history-ws",
+      "name": "History Collection (Arabic Wikisource)",
+      "category": "history",
+      "language": "ar",
+      "source": "wikisource",
+      "articleCount": 12,
+      "totalSizeBytes": 1021852,
+      "articles": [
+        "39859",
+        "280062",
+        "214765",
+        "46311",
+        "123190",
+        "212924",
+        "18807",
+        "18810",
+        "62679",
+        "62683",
+        "62680",
+        "62681"
+      ]
+    }
+  ]
+}

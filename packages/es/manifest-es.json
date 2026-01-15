@@ -1,0 +1,2152 @@
+{
+  "version": "3.0",
+  "language": "es",
+  "generatedAt": "2026-01-13T23:49:29.639Z",
+  "totalBooks": 355,
+  "categories": {
+    "history": [
+      {
+        "id": "44112",
+        "title": "Argentina, Legend and History",
+        "sizeBytes": 694069
+      },
+      {
+        "id": "16119",
+        "title": "Doctrina Christiana: The first book printed in the Philippines, Manila, 1593.",
+        "sizeBytes": 186413
+      },
+      {
+        "id": "15725",
+        "title": "Doña Perfecta",
+        "sizeBytes": 832112
+      },
+      {
+        "id": "47584",
+        "title": "Noli me tángere: Novela Tagala, Edición completa con notas de R. Sempau",
+        "sizeBytes": 913733
+      },
+      {
+        "id": "70058",
+        "title": "Orígenes de la novela,  Tomo I",
+        "sizeBytes": 2096067
+      },
+      {
+        "id": "73257",
+        "title": "Historia de la lengua y literatura castellana, Tomo 2 : $b Época de Carlos V",
+        "sizeBytes": 904618
+      },
+      {
+        "id": "69552",
+        "title": "El libro de las tierras vírgenes",
+        "sizeBytes": 871563
+      },
+      {
+        "id": "26028",
+        "title": "Descripcion é historia del castillo de la aljafería: sito  extramuros de la ciudad de Zaragoza",
+        "sizeBytes": 257234
+      },
+      {
+        "id": "77353",
+        "title": "Historia de la instrucción pública en Puerto Rico hasta el año de 1898",
+        "sizeBytes": 455519
+      },
+      {
+        "id": "56451",
+        "title": "El Payador, Vol. I: Hijo de la Pampa",
+        "sizeBytes": 519639
+      },
+      {
+        "id": "71733",
+        "title": "Orígenes de la novela, Tomo II",
+        "sizeBytes": 4408827
+      },
+      {
+        "id": "30903",
+        "title": "El Filibusterismo (Continuación del Noli me tángere)",
+        "sizeBytes": 667510
+      },
+      {
+        "id": "56251",
+        "title": "Compendio de la historia general de América. Tomo I",
+        "sizeBytes": 1020151
+      },
+      {
+        "id": "62870",
+        "title": "Historia de América desde sus tiempos más remotos hasta nuestros días, tomo II",
+        "sizeBytes": 1913264
+      },
+      {
+        "id": "54934",
+        "title": "España Contemporánea: Obras Completas Vol. XIX",
+        "sizeBytes": 644253
+      },
+      {
+        "id": "60198",
+        "title": "Fuente Ovejuna",
+        "sizeBytes": 117335
+      },
+      {
+        "id": "25988",
+        "title": "Historia de la literatura y del arte dramático en España, tomo II",
+        "sizeBytes": 655453
+      },
+      {
+        "id": "33267",
+        "title": "Facundo",
+        "sizeBytes": 645278
+      },
+      {
+        "id": "37067",
+        "title": "Historia de la literatura y del arte dramático en España, tomo IV",
+        "sizeBytes": 673793
+      },
+      {
+        "id": "21282",
+        "title": "Tradiciones peruanas",
+        "sizeBytes": 304262
+      },
+      {
+        "id": "77298",
+        "title": "Las mejores tradiciones peruanas",
+        "sizeBytes": 567710
+      },
+      {
+        "id": "36253",
+        "title": "Historia de la literatura y del arte dramático en España, tomo III",
+        "sizeBytes": 660201
+      },
+      {
+        "id": "29803",
+        "title": "Una historia del eBook",
+        "sizeBytes": 348808
+      },
+      {
+        "id": "70153",
+        "title": "Historia del levantamiento, guerra y revolución de España (5 de 5)",
+        "sizeBytes": 1049090
+      },
+      {
+        "id": "73255",
+        "title": "Historia de la lengua y literatura castellana, Tomo 1 : $b Desde los orígenes hasta Carlos V",
+        "sizeBytes": 1630151
+      },
+      {
+        "id": "50351",
+        "title": "Historia de las Indias (vol. 2 de 5)",
+        "sizeBytes": 1062746
+      },
+      {
+        "id": "31633",
+        "title": "El Proyecto Gutenberg (1971-2009)",
+        "sizeBytes": 41567
+      },
+      {
+        "id": "37095",
+        "title": "Historia de la literatura y del arte dramático en España, tomo V",
+        "sizeBytes": 601216
+      },
+      {
+        "id": "73089",
+        "title": "Prehistoria de Puerto-Rico",
+        "sizeBytes": 544332
+      },
+      {
+        "id": "57550",
+        "title": "El Folk-lore Filipino (Tomo I)",
+        "sizeBytes": 502632
+      },
+      {
+        "id": "57960",
+        "title": "Historia de América desde sus tiempos más remotos hasta nuestros días, tomo I",
+        "sizeBytes": 1641498
+      },
+      {
+        "id": "50365",
+        "title": "Los Raros: Obras Completas Vol. VI",
+        "sizeBytes": 418123
+      },
+      {
+        "id": "61831",
+        "title": "Cristóbal Colón y el descubrimiento de América, Tomo 1: Historia de la geografía del nuevo continente y de los progresos de la astronomía náutica en los siglos XV y XVI",
+        "sizeBytes": 729429
+      },
+      {
+        "id": "49298",
+        "title": "Historia de las Indias (vol. 1 de 5)",
+        "sizeBytes": 1096219
+      },
+      {
+        "id": "68787",
+        "title": "Cabos sueltos: Literatura y lingüística",
+        "sizeBytes": 780386
+      },
+      {
+        "id": "76459",
+        "title": "Orígenes de la novela, Tomo III",
+        "sizeBytes": 3825680
+      },
+      {
+        "id": "61739",
+        "title": "Los exploradores españoles del siglo XVI",
+        "sizeBytes": 456887
+      },
+      {
+        "id": "70219",
+        "title": "Historia natural y moral de las Indias (vol. 1 of 2)",
+        "sizeBytes": 641707
+      },
+      {
+        "id": "56219",
+        "title": "I. Origen de los indios de América. II. Origen y civilizaciones de los indígenas del Perú.",
+        "sizeBytes": 734783
+      },
+      {
+        "id": "68978",
+        "title": "Historia del levantamiento, guerra y revolución de España (1 de 5)",
+        "sizeBytes": 891479
+      },
+      {
+        "id": "33690",
+        "title": "Historia de la literatura y del arte dramático en España, tomo I",
+        "sizeBytes": 698017
+      },
+      {
+        "id": "61339",
+        "title": "Claros varones de Castilla, y Letras",
+        "sizeBytes": 367014
+      },
+      {
+        "id": "64945",
+        "title": "Verdadera historia de los sucesos de la conquista de la Nueva-España (1 de 3)",
+        "sizeBytes": 778643
+      },
+      {
+        "id": "26284",
+        "title": "El Mar",
+        "sizeBytes": 537245
+      },
+      {
+        "id": "69411",
+        "title": "Historia del levantamiento, guerra y revolución de España (3 de 5)",
+        "sizeBytes": 916650
+      },
+      {
+        "id": "63767",
+        "title": "Una excursión a los indios ranqueles - Tomo 2",
+        "sizeBytes": 500748
+      },
+      {
+        "id": "25317",
+        "title": "La Argentina, o La conquista del Rio de La Plata. Poema histórico",
+        "sizeBytes": 619672
+      },
+      {
+        "id": "36990",
+        "title": "La letra escarlata: novela escrita en inglés",
+        "sizeBytes": 567988
+      },
+      {
+        "id": "15421",
+        "title": "Contribucion Para El Estudio de los Antiguos Alfabetos Filipinos",
+        "sizeBytes": 41080
+      },
+      {
+        "id": "39948",
+        "title": "Historia de Venezuela, Tomo II",
+        "sizeBytes": 884640
+      },
+      {
+        "id": "65165",
+        "title": "Vida de Jesús",
+        "sizeBytes": 750590
+      },
+      {
+        "id": "76264",
+        "title": "De Oñate a La Granja",
+        "sizeBytes": 511175
+      },
+      {
+        "id": "26947",
+        "title": "La transformación de las razas en América",
+        "sizeBytes": 297342
+      },
+      {
+        "id": "66554",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 10, De Los Documentos Legislativos, III",
+        "sizeBytes": 1040854
+      },
+      {
+        "id": "34091",
+        "title": "Del libro impreso al libro digital",
+        "sizeBytes": 296553
+      },
+      {
+        "id": "54064",
+        "title": "La cruz en América (Arqueología Argentina)",
+        "sizeBytes": 477722
+      },
+      {
+        "id": "41337",
+        "title": "Catálogo Monumental de España; Provincia de Álava: Inventario general de los monumentos históricos y artísticos de al nación.",
+        "sizeBytes": 335365
+      },
+      {
+        "id": "12435",
+        "title": "Paginas Sudamericanas",
+        "sizeBytes": 287937
+      },
+      {
+        "id": "55480",
+        "title": "Granada, Poema Oriental, precedido de la Leyenda de al-Hamar, Tomo 1",
+        "sizeBytes": 272887
+      },
+      {
+        "id": "39312",
+        "title": "Los ingenios:: colección de vistas de los principles ingenios de azúcar de la isla de Cuba",
+        "sizeBytes": 288946
+      },
+      {
+        "id": "30280",
+        "title": "Vida y obras de don Diego Velázquez",
+        "sizeBytes": 331075
+      },
+      {
+        "id": "33461",
+        "title": "Booknología: El libro digital (1971-2010)",
+        "sizeBytes": 118502
+      },
+      {
+        "id": "66866",
+        "title": "Historia de la guerra del Peloponeso (1 de 2)",
+        "sizeBytes": 816712
+      },
+      {
+        "id": "51019",
+        "title": "La Biblia en España, Tomo I (de 3): O viajes, aventuras y prisiones de un inglés en su intento de difundir las Escrituras por la Península",
+        "sizeBytes": 478482
+      },
+      {
+        "id": "53405",
+        "title": "El libro rojo, 1520-1867, Tomo II",
+        "sizeBytes": 613232
+      },
+      {
+        "id": "73179",
+        "title": "Colon en Puerto-Rico",
+        "sizeBytes": 395692
+      },
+      {
+        "id": "61832",
+        "title": "Cristóbal Colón y el descubrimiento de América, Tomo 2: Historia de la geografía del nuevo continente y de los progresos de la astronomía náutica en los siglos XV y XVI",
+        "sizeBytes": 702624
+      },
+      {
+        "id": "53171",
+        "title": "Historia de las Indias (vol. 3 de 5)",
+        "sizeBytes": 989286
+      },
+      {
+        "id": "55440",
+        "title": "Estudio descriptivo de los monumentos árabes de Granada, Sevilla y Córdoba: ó sea La Alhambra, el Alcázar y la Gran Mezquita de Occidente",
+        "sizeBytes": 668846
+      },
+      {
+        "id": "61887",
+        "title": "Una historia de dos ciudades",
+        "sizeBytes": 902959
+      },
+      {
+        "id": "35905",
+        "title": "Cosas nuevas y viejas (apuntes sevillanos)",
+        "sizeBytes": 485354
+      },
+      {
+        "id": "37590",
+        "title": "Córdoba",
+        "sizeBytes": 1383272
+      },
+      {
+        "id": "62691",
+        "title": "El criticón (tomo 1 de 2)",
+        "sizeBytes": 640687
+      },
+      {
+        "id": "36986",
+        "title": "El ebook tiene 40 años (1971-2011)",
+        "sizeBytes": 273694
+      },
+      {
+        "id": "74566",
+        "title": "La nave de los locos : $b novela",
+        "sizeBytes": 545825
+      },
+      {
+        "id": "48783",
+        "title": "El Escuadrón del Brigante",
+        "sizeBytes": 466231
+      },
+      {
+        "id": "57982",
+        "title": "España invertebrada: Bosquejo de algunos pensamientos históricos",
+        "sizeBytes": 155664
+      },
+      {
+        "id": "42065",
+        "title": "Proceso del Dr. José Rizal Mercado y Alonso",
+        "sizeBytes": 325674
+      },
+      {
+        "id": "45508",
+        "title": "La Política de los Estados Unidos en el Continente Americano",
+        "sizeBytes": 756097
+      },
+      {
+        "id": "66902",
+        "title": "Los desposados: Historia milanesa del siglo XVII - Tomo 1",
+        "sizeBytes": 710654
+      },
+      {
+        "id": "65410",
+        "title": "Los Apóstoles",
+        "sizeBytes": 643470
+      },
+      {
+        "id": "40066",
+        "title": "Páginas sevillanas: Sucesos Históricos, Personajes Célebres, Monumentos Notables, Tradiciones Populares, Cuentos Viejos, Leyendas y Curiosidades.",
+        "sizeBytes": 430015
+      },
+      {
+        "id": "69660",
+        "title": "Historia del levantamiento, guerra y revolución de España (4 de 5)",
+        "sizeBytes": 687857
+      },
+      {
+        "id": "51020",
+        "title": "La Biblia en España, Tomo II (de 3): O viajes, aventuras y prisiones de un inglés en su intento de difundir las Escrituras por la Península",
+        "sizeBytes": 405457
+      },
+      {
+        "id": "57388",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 6, De La Isla De Cuba, III",
+        "sizeBytes": 749801
+      },
+      {
+        "id": "63359",
+        "title": "San Ignacio de Loyola",
+        "sizeBytes": 392181
+      },
+      {
+        "id": "51689",
+        "title": "La Biblia en España, Tomo III (de 3): O viajes, aventuras y prisiones de un inglés en su intento de difundir las Escrituras por la Península",
+        "sizeBytes": 466599
+      },
+      {
+        "id": "63464",
+        "title": "Nuestra Pampa; libro de lectura",
+        "sizeBytes": 736101
+      },
+      {
+        "id": "67817",
+        "title": "La batalla de los Arapiles",
+        "sizeBytes": 576385
+      },
+      {
+        "id": "34731",
+        "title": "40 years / 40 años / 40 ans",
+        "sizeBytes": 142091
+      },
+      {
+        "id": "49560",
+        "title": "Monja y casada, vírgen y mártir",
+        "sizeBytes": 939209
+      },
+      {
+        "id": "56452",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 5, De Los Documentos Legislativos, I",
+        "sizeBytes": 748053
+      },
+      {
+        "id": "25705",
+        "title": "Suma y narracion de los Incas, que los indios llamaron Capaccuna, que fueron señores de la ciudad del Cuzco y de todo lo á ella subjeto",
+        "sizeBytes": 239699
+      },
+      {
+        "id": "66285",
+        "title": "Salambó",
+        "sizeBytes": 615419
+      },
+      {
+        "id": "47092",
+        "title": "Historia de la decadencia de España",
+        "sizeBytes": 1458402
+      },
+      {
+        "id": "41575",
+        "title": "Juvenilla; Prosa ligera",
+        "sizeBytes": 542028
+      },
+      {
+        "id": "60117",
+        "title": "Los Desastres de la guerra:: colección de ochenta láminas inventadas y grabadas al agua fuerte",
+        "sizeBytes": 11222
+      },
+      {
+        "id": "39947",
+        "title": "Historia de Venezuela, Tomo I",
+        "sizeBytes": 1203921
+      },
+      {
+        "id": "49914",
+        "title": "Cancionero de Lope de Stúñiga: Códice del siglo XV.",
+        "sizeBytes": 410952
+      },
+      {
+        "id": "63061",
+        "title": "Sir Francis Drake: His Voyage, 1595: Together with the Spanish account of Drake's attack on Puerto Rico",
+        "sizeBytes": 151146
+      },
+      {
+        "id": "46246",
+        "title": "Historia General del Derecho Español, Tomo I",
+        "sizeBytes": 768327
+      },
+      {
+        "id": "48940",
+        "title": "Lucrecia Borja: Estudio Histórico",
+        "sizeBytes": 495929
+      },
+      {
+        "id": "36318",
+        "title": "Curiosidades antiguas sevillanas: (serie segunda)",
+        "sizeBytes": 375803
+      },
+      {
+        "id": "9890",
+        "title": "Biografia del libertador Simon Bolívar, ó La independencia de la América del sud: Reseña histórico-biográfica",
+        "sizeBytes": 168548
+      },
+      {
+        "id": "53930",
+        "title": "Parisiana: Obras Completas, Vol. V",
+        "sizeBytes": 329844
+      },
+      {
+        "id": "58077",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 8, De Los Pleitos de Colón, II",
+        "sizeBytes": 724120
+      },
+      {
+        "id": "29920",
+        "title": "La gloria de don Ramiro: una vida en tiempos de Felipe segundo",
+        "sizeBytes": 569503
+      },
+      {
+        "id": "29061",
+        "title": "Relacion historial de las misiones de indios chiquitos que en el Paraguay tienen los padres de la Compañía de Jesús",
+        "sizeBytes": 739432
+      },
+      {
+        "id": "33227",
+        "title": "La fee triunfante en quatro autos: Celebrados en Mallorca por el Santo Oficio de la Inquisición en que han salido ochenta y ocho reos, y de treinta y siete relajados sólo hubo tres pertinaces.",
+        "sizeBytes": 296477
+      },
+      {
+        "id": "45250",
+        "title": "Los Indios, su Historia y su Civilización",
+        "sizeBytes": 617328
+      },
+      {
+        "id": "64947",
+        "title": "Verdadera historia de los sucesos de la conquista de la Nueva-España (3 de 3)",
+        "sizeBytes": 599969
+      },
+      {
+        "id": "42705",
+        "title": "La emancipacion de los esclavos en los Estados Unidos",
+        "sizeBytes": 157268
+      },
+      {
+        "id": "62984",
+        "title": "Cartas americanas. Primera serie",
+        "sizeBytes": 435323
+      },
+      {
+        "id": "72753",
+        "title": "Los nueve libros de la Historia (1 de 2)",
+        "sizeBytes": 1016279
+      },
+      {
+        "id": "37747",
+        "title": "Guerra de razas (Negros contra Blancos en Cuba)",
+        "sizeBytes": 188395
+      },
+      {
+        "id": "52795",
+        "title": "El libro rojo, 1520-1867, Tomo I",
+        "sizeBytes": 555061
+      },
+      {
+        "id": "67631",
+        "title": "Guerras civiles de Granada: Tomo I",
+        "sizeBytes": 694708
+      },
+      {
+        "id": "67819",
+        "title": "Bug-Jargal",
+        "sizeBytes": 382710
+      },
+      {
+        "id": "2367",
+        "title": "Los Bombardeos Atomicos de Hiroshima y Nagasaki",
+        "sizeBytes": 157119
+      },
+      {
+        "id": "62211",
+        "title": "Nuevas investigaciones sobre el origen del nombre América",
+        "sizeBytes": 168316
+      },
+      {
+        "id": "63600",
+        "title": "Una Excursión a los Indios Ranqueles - Tomo 1",
+        "sizeBytes": 558759
+      },
+      {
+        "id": "17443",
+        "title": "Un faccioso más y algunos frailes menos",
+        "sizeBytes": 502261
+      },
+      {
+        "id": "63030",
+        "title": "Tauromaquia completa, ó sea, El arte de torear en plaza",
+        "sizeBytes": 372550
+      },
+      {
+        "id": "53742",
+        "title": "Recuerdos de Italia (parte 2 de 2)",
+        "sizeBytes": 525949
+      },
+      {
+        "id": "56051",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 1, Isla de Cuba",
+        "sizeBytes": 742715
+      },
+      {
+        "id": "60971",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 9, De Los Documentos Legislativos, II",
+        "sizeBytes": 846499
+      },
+      {
+        "id": "69159",
+        "title": "Historia del levantamiento, guerra y revolución de España (2 de 5)",
+        "sizeBytes": 708234
+      },
+      {
+        "id": "65034",
+        "title": "Velázquez en el museo del Prado",
+        "sizeBytes": 47059
+      },
+      {
+        "id": "5879",
+        "title": "Reina Valera New Testament of the Bible 1862",
+        "sizeBytes": 1056128
+      },
+      {
+        "id": "60210",
+        "title": "Las fiestas de San Juan: Reseña histórica de lo que han sido y de lo que son relación verídica de las que se celebran en este año de 1868",
+        "sizeBytes": 261583
+      },
+      {
+        "id": "65024",
+        "title": "Los Conquistadores: El origen heróico de América",
+        "sizeBytes": 200666
+      },
+      {
+        "id": "63101",
+        "title": "Nuevas cartas americanas",
+        "sizeBytes": 426779
+      },
+      {
+        "id": "67189",
+        "title": "El 19 de marzo y el 2 de mayo",
+        "sizeBytes": 424342
+      },
+      {
+        "id": "72373",
+        "title": "Los apostólicos",
+        "sizeBytes": 481731
+      },
+      {
+        "id": "43950",
+        "title": "Cincuenta y cuatro Canciones Españolas del siglo XVI: Cancionero de Uppsala",
+        "sizeBytes": 67655
+      },
+      {
+        "id": "59539",
+        "title": "Relation des choses de Yucatan de Diego de Landa: Texte espagnol et traduction française en regard, comprenant les signes du calendrier et de l'alphabet hiéroglyphique de la langue maya; accompagné de documents divers historiques et chronologiques, avec une grammaire et un vocabulaire abrégés français-maya, précédés d'un essai sur les sources de l'histoire primitive du Mexique et de l'Amérique Centrale, etc., d'après les monuments égyptiens, et de l'histoire primitive de l'égypte d'après les monuments américains par l'abbé Brasseur de Bourbourg",
+        "sizeBytes": 1282131
+      },
+      {
+        "id": "67555",
+        "title": "Adhesiones á la Venta de los Ferro-carriles de la Provincia",
+        "sizeBytes": 283181
+      },
+      {
+        "id": "31544",
+        "title": "La invasión o El loco Yégof",
+        "sizeBytes": 459210
+      },
+      {
+        "id": "74881",
+        "title": "Zumalacárregui",
+        "sizeBytes": 451782
+      },
+      {
+        "id": "53421",
+        "title": "Documentos para la historia del virreinato del Rio de la Plata, tomo 1",
+        "sizeBytes": 950159
+      },
+      {
+        "id": "76572",
+        "title": "Luchana",
+        "sizeBytes": 587454
+      },
+      {
+        "id": "64946",
+        "title": "Verdadera historia de los sucesos de la conquista de la Nueva-España (2 de 3)",
+        "sizeBytes": 836423
+      },
+      {
+        "id": "67415",
+        "title": "Gerona",
+        "sizeBytes": 385273
+      },
+      {
+        "id": "68220",
+        "title": "Compendio del derecho público romano",
+        "sizeBytes": 1124104
+      },
+      {
+        "id": "11071",
+        "title": "Naufragios de Alvar Núñez Cabeza de Vaca",
+        "sizeBytes": 438938
+      },
+      {
+        "id": "33885",
+        "title": "Historia de los Judíos en España: desde los tiempos de su establecimiento hasta principios del present siglo",
+        "sizeBytes": 417116
+      },
+      {
+        "id": "75614",
+        "title": "Mendizábal",
+        "sizeBytes": 526695
+      },
+      {
+        "id": "50430",
+        "title": "Historia natural y moral de las Indias (vol. 2 of 2)",
+        "sizeBytes": 504188
+      },
+      {
+        "id": "13479",
+        "title": "Descripción Geografica, Histórica y Estadística de Bolivia, Tomo 1.",
+        "sizeBytes": 693944
+      },
+      {
+        "id": "39579",
+        "title": "Descripción colonial, libro primero (1/2)",
+        "sizeBytes": 511314
+      },
+      {
+        "id": "70064",
+        "title": "Estudios americanos (primera serie)",
+        "sizeBytes": 428236
+      },
+      {
+        "id": "14307",
+        "title": "Reseña Veridica de la Revolución Filipina",
+        "sizeBytes": 75762
+      },
+      {
+        "id": "29078",
+        "title": "Estudios históricos del reinado de Felipe II",
+        "sizeBytes": 662145
+      },
+      {
+        "id": "62559",
+        "title": "Diario del piloto de la Real Armada, D. Basilio Villarino, del reconocimiento, que hizo del Río Negro, en la costa oriental de Patagonia, el año de 1782",
+        "sizeBytes": 305440
+      },
+      {
+        "id": "58713",
+        "title": "México tal cual es",
+        "sizeBytes": 276635
+      },
+      {
+        "id": "5877",
+        "title": "Reina Valera New Testament of the Bible 1602, Book of Matthew",
+        "sizeBytes": 141695
+      },
+      {
+        "id": "62450",
+        "title": "Historia del Paraguay, Río de La Plata y Tucumán",
+        "sizeBytes": 550321
+      },
+      {
+        "id": "53413",
+        "title": "Prosa Política (Las Repúblicas Americanas): Obras Completas Vol. XIII",
+        "sizeBytes": 231670
+      },
+      {
+        "id": "67155",
+        "title": "La corte de Carlos IV",
+        "sizeBytes": 440086
+      },
+      {
+        "id": "49417",
+        "title": "Las máscaras, vol. 1/2",
+        "sizeBytes": 316087
+      },
+      {
+        "id": "59797",
+        "title": "El Protestantismo comparado con el Catolicismo en sus relaciones con la Civilización Europea (Vols 1-2)",
+        "sizeBytes": 1173718
+      },
+      {
+        "id": "30175",
+        "title": "Los Principios Matemático-Históricos y la Evolución de la Libertad",
+        "sizeBytes": 987
+      },
+      {
+        "id": "40724",
+        "title": "Descripción colonial, libro segundo (2/2)",
+        "sizeBytes": 523402
+      },
+      {
+        "id": "44918",
+        "title": "Hombres y glorias de América",
+        "sizeBytes": 530840
+      },
+      {
+        "id": "49433",
+        "title": "Zaragoza",
+        "sizeBytes": 420560
+      },
+      {
+        "id": "71055",
+        "title": "La segunda casaca",
+        "sizeBytes": 423354
+      },
+      {
+        "id": "46279",
+        "title": "Los Merodeadores de Fronteras",
+        "sizeBytes": 555731
+      },
+      {
+        "id": "63587",
+        "title": "Estampas de viaje: España en los días de la guerra",
+        "sizeBytes": 255665
+      },
+      {
+        "id": "61022",
+        "title": "Guerra de Granada: Hecha por el rey D. Felipe II, contra los Moriscos de aquel reino, sus rebeldes; Seguida de la vida del Lazarillo de Tormes, sus fortunas y adversidades",
+        "sizeBytes": 570876
+      },
+      {
+        "id": "67843",
+        "title": "El papa del mar",
+        "sizeBytes": 592536
+      },
+      {
+        "id": "49418",
+        "title": "Las máscaras, vol. 2/2",
+        "sizeBytes": 416374
+      },
+      {
+        "id": "67360",
+        "title": "Napoleón en Chamartín",
+        "sizeBytes": 479420
+      },
+      {
+        "id": "71533",
+        "title": "España y América : $b estudios históricos y literarios",
+        "sizeBytes": 355270
+      },
+      {
+        "id": "30892",
+        "title": "De Las Islas Filipinas",
+        "sizeBytes": 213470
+      },
+      {
+        "id": "41789",
+        "title": "Diario de la expedicion de 1822 a los campos del sud de Buenos Aires: Desde Moron hasta la Sierra de la Ventana",
+        "sizeBytes": 501692
+      },
+      {
+        "id": "38885",
+        "title": "Tratado de Paz, Amistad, Comercio y navegacion entre la Confederación Argentina y la República del Paraguay",
+        "sizeBytes": 19704
+      },
+      {
+        "id": "21906",
+        "title": "Cádiz",
+        "sizeBytes": 485127
+      },
+      {
+        "id": "42323",
+        "title": "La guerra injusta; cartas de un español",
+        "sizeBytes": 199427
+      },
+      {
+        "id": "46771",
+        "title": "Comentarios a la Constitucion de los Estados Unidos de América",
+        "sizeBytes": 857452
+      },
+      {
+        "id": "50437",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 2, De Las Islas Filipinas, I",
+        "sizeBytes": 790315
+      },
+      {
+        "id": "25255",
+        "title": "Segunda parte de la crónica del Perú, que trata del señorio de los Incas Yupanquis y de sus grandes hechos y gobernacion",
+        "sizeBytes": 441972
+      },
+      {
+        "id": "47346",
+        "title": "Escritos políticos, económicos y literarios",
+        "sizeBytes": 487761
+      },
+      {
+        "id": "49359",
+        "title": "El Campesino Puertorriqueño: Sus Condiciones Físicas, Intelectuales y Morales, Causas que la Determinan y Medios Para Mejorarlas",
+        "sizeBytes": 306568
+      },
+      {
+        "id": "74704",
+        "title": "Obras dramáticas de Eurípides (2 de 3)",
+        "sizeBytes": 634028
+      },
+      {
+        "id": "71614",
+        "title": "Los cien mil hijos de San Luis",
+        "sizeBytes": 360126
+      },
+      {
+        "id": "5880",
+        "title": "Reina Valera New Testament of the Bible 1865",
+        "sizeBytes": 375374
+      },
+      {
+        "id": "41884",
+        "title": "La situacion de Puerto-Rico: Las falacias de los conservadores y los compromisos del partido radical",
+        "sizeBytes": 196440
+      },
+      {
+        "id": "43400",
+        "title": "Música y Músicos Portorriqueños",
+        "sizeBytes": 493944
+      },
+      {
+        "id": "45829",
+        "title": "La araña negra, t. 1/9",
+        "sizeBytes": 382998
+      },
+      {
+        "id": "14839",
+        "title": "Filipinas Dentro De Cien Años (Estudio Politico-Social)",
+        "sizeBytes": 70998
+      },
+      {
+        "id": "40420",
+        "title": "La voz de España contra todos sus enemigos",
+        "sizeBytes": 191089
+      },
+      {
+        "id": "56624",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 4, De La Isla De Cuba, II",
+        "sizeBytes": 756198
+      },
+      {
+        "id": "66867",
+        "title": "Historia de la guerra del Peloponeso (2 de 2)",
+        "sizeBytes": 724886
+      },
+      {
+        "id": "66949",
+        "title": "Las Helénicas; ó, Historia griega desde el año 411 hasta el 362 antes de Jesucristo",
+        "sizeBytes": 611508
+      },
+      {
+        "id": "61438",
+        "title": "Sónnica la cortesana: Novela",
+        "sizeBytes": 555711
+      },
+      {
+        "id": "53741",
+        "title": "Recuerdos de Italia (parte 1 de 2)",
+        "sizeBytes": 501063
+      },
+      {
+        "id": "56519",
+        "title": "Viaje a los Estados Unidos, Tomo II",
+        "sizeBytes": 892605
+      },
+      {
+        "id": "48857",
+        "title": "Figuras americanas: Galería de hombres illustres",
+        "sizeBytes": 333969
+      },
+      {
+        "id": "53131",
+        "title": "Historia de las Indias (vol. 5 de 5)",
+        "sizeBytes": 1077475
+      },
+      {
+        "id": "62019",
+        "title": "Política americana",
+        "sizeBytes": 243776
+      },
+      {
+        "id": "45836",
+        "title": "La araña negra, t. 8/9",
+        "sizeBytes": 335112
+      },
+      {
+        "id": "67481",
+        "title": "Los valores literarios",
+        "sizeBytes": 469219
+      },
+      {
+        "id": "67231",
+        "title": "Los desposados: Historia milanesa del siglo XVII - Tomo 2",
+        "sizeBytes": 786872
+      },
+      {
+        "id": "69058",
+        "title": "La raza: Descubridores",
+        "sizeBytes": 165019
+      },
+      {
+        "id": "13516",
+        "title": "Expedición de Catalanes y Aragoneses al Oriente",
+        "sizeBytes": 443969
+      },
+      {
+        "id": "53185",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 3, De Las Islas Filipinas, II",
+        "sizeBytes": 783529
+      },
+      {
+        "id": "56283",
+        "title": "Historia de las Indias (vol. 4 de 5)",
+        "sizeBytes": 1012139
+      },
+      {
+        "id": "69578",
+        "title": "El equipaje del rey José",
+        "sizeBytes": 390242
+      },
+      {
+        "id": "48652",
+        "title": "Viaje a America, Tomo 2 de 2: Estados Unidos, Exposición Universal de Chicago, México, Cuba y Puerto Rico",
+        "sizeBytes": 328970
+      },
+      {
+        "id": "53517",
+        "title": "Los Caudillos de 1830",
+        "sizeBytes": 261674
+      },
+      {
+        "id": "24208",
+        "title": "La nao Santa María: memória de la Comisión arqueológica ejecutiva, 1892",
+        "sizeBytes": 206807
+      },
+      {
+        "id": "42321",
+        "title": "Lo que dice la historia: Cartas al señor Ministro de Ultramar",
+        "sizeBytes": 58645
+      },
+      {
+        "id": "49258",
+        "title": "Crónica de la conquista de Granada (1 de 2)",
+        "sizeBytes": 345652
+      },
+      {
+        "id": "64668",
+        "title": "El imperio jesuítico",
+        "sizeBytes": 449871
+      },
+      {
+        "id": "61361",
+        "title": "Juicio razonado sobre los acontecimientos de Europa, situacion del Sumo Pontífice, y tambien sobre la ventajosa posicion en que se encuentra la España, respecto del resto de Europa",
+        "sizeBytes": 50440
+      },
+      {
+        "id": "52469",
+        "title": "La Anexión de Puerto-Rico a los Estados Unidos de America",
+        "sizeBytes": 26151
+      },
+      {
+        "id": "69164",
+        "title": "Cuentos chilenos de nunca acabar",
+        "sizeBytes": 71441
+      },
+      {
+        "id": "72754",
+        "title": "Los nueve libros de la Historia (2 de 2)",
+        "sizeBytes": 953285
+      },
+      {
+        "id": "15334",
+        "title": "Mindanao: Su Historia y Geografía",
+        "sizeBytes": 321483
+      },
+      {
+        "id": "49259",
+        "title": "Crónica de la conquista de Granada (2 de 2)",
+        "sizeBytes": 331786
+      },
+      {
+        "id": "75382",
+        "title": "Pachín González",
+        "sizeBytes": 373730
+      },
+      {
+        "id": "13264",
+        "title": "Zalacaín El Aventurero: (Historia de las buenas andanzas y fortunas de Martín Zalacaín el Aventurero)",
+        "sizeBytes": 292571
+      },
+      {
+        "id": "38836",
+        "title": "Catalogo de los Objetos Etnologicos y Arqueologicos Exhibidos por la Expedición Hemenway",
+        "sizeBytes": 163125
+      },
+      {
+        "id": "45830",
+        "title": "La araña negra, t. 2/9",
+        "sizeBytes": 380562
+      },
+      {
+        "id": "59879",
+        "title": "Américo Vespucio",
+        "sizeBytes": 232085
+      },
+      {
+        "id": "28967",
+        "title": "Diario de la expedicion reduccional del ano 1780, mandada practicar por orden del Virey de Buenos Aires",
+        "sizeBytes": 164139
+      },
+      {
+        "id": "45183",
+        "title": "Diario de un viage a Salinas Grandes, en los campos del sud de Buenos Aires",
+        "sizeBytes": 252404
+      },
+      {
+        "id": "50526",
+        "title": "Comentario del coronel Francisco Verdugo, de la guerra de Frisia,: en xiv años que fue gobernador y capitan general de aquel estado y ejercito por el rey don Felipe II, nuestro señor",
+        "sizeBytes": 377875
+      },
+      {
+        "id": "67524",
+        "title": "Historia de la Conquista de Mexico, Volume 2 (of 3): Poblacion y Progresos de la America Septentrional, Conocida por el Nombre de Nueva España",
+        "sizeBytes": 461462
+      },
+      {
+        "id": "65988",
+        "title": "Ausías March y su época",
+        "sizeBytes": 210486
+      },
+      {
+        "id": "56010",
+        "title": "Las transformaciones de la sociedad argentina y sus consecuencias institucionales (1853 à 1910)",
+        "sizeBytes": 282928
+      },
+      {
+        "id": "70868",
+        "title": "Memorias de un cortesano de 1815",
+        "sizeBytes": 334613
+      },
+      {
+        "id": "45832",
+        "title": "La araña negra, t. 4/9",
+        "sizeBytes": 381388
+      },
+      {
+        "id": "52499",
+        "title": "Cuestiones políticas y económicas",
+        "sizeBytes": 255472
+      },
+      {
+        "id": "53927",
+        "title": "Apuntes biograficos de escritores, oradores y hombres de estado de la Republica Argentina",
+        "sizeBytes": 363273
+      },
+      {
+        "id": "62356",
+        "title": "Defensa obligada contra acusaciones gratuitas",
+        "sizeBytes": 189688
+      },
+      {
+        "id": "71275",
+        "title": "La América, Tomo I",
+        "sizeBytes": 387406
+      },
+      {
+        "id": "45833",
+        "title": "La araña negra, t. 5/9",
+        "sizeBytes": 370196
+      },
+      {
+        "id": "45837",
+        "title": "La araña negra, t. 9/9",
+        "sizeBytes": 351699
+      },
+      {
+        "id": "10293",
+        "title": "Relación historica de los sucesos de la rebelión de José Gabriel Tupac-Amaru en las provincias del Peru, el año de 1780",
+        "sizeBytes": 335562
+      },
+      {
+        "id": "18723",
+        "title": "Proyecto de traslacion de las fronteras de Buenos Aires al Rio Negro y Colorado",
+        "sizeBytes": 46157
+      },
+      {
+        "id": "61700",
+        "title": "El Tratado de París: Conferencias pronunciadas en el círculo de la Unión mercantil en los días 22, 24 y 27 de febrero de 1904",
+        "sizeBytes": 230616
+      },
+      {
+        "id": "18289",
+        "title": "Diario de un viage a la costa de la mar Magallanica",
+        "sizeBytes": 77960
+      },
+      {
+        "id": "59631",
+        "title": "La Casa de los Cuervos",
+        "sizeBytes": 402512
+      },
+      {
+        "id": "61917",
+        "title": "Educación común en el Estado de Buenos-Aires",
+        "sizeBytes": 160904
+      },
+      {
+        "id": "55448",
+        "title": "La media noche: visión estelar de un momento de guerra",
+        "sizeBytes": 79423
+      },
+      {
+        "id": "14722",
+        "title": "Contestaciones y Consideraciones: Al Pueblo y Congreso Norte-Americanos",
+        "sizeBytes": 32918
+      },
+      {
+        "id": "19643",
+        "title": "Actas capitulares desde el 21 hasta el 25 de mayo de 1810 en Buenos Aires",
+        "sizeBytes": 168355
+      },
+      {
+        "id": "18157",
+        "title": "Fundación de la ciudad de Buenos-Aires",
+        "sizeBytes": 90089
+      },
+      {
+        "id": "20099",
+        "title": "Historia de la célebre Reina de España Doña Juana, llamada vulgarmente, La Loca",
+        "sizeBytes": 57044
+      },
+      {
+        "id": "20852",
+        "title": "Descripcion del rio Paraguay, desde la boca del Xauru hasta la confluencia del Parana",
+        "sizeBytes": 44054
+      },
+      {
+        "id": "62475",
+        "title": "Islas Filipinas - Administracion de Justicia: Memoria dedicada á la exposicion colonial de Amsterdam",
+        "sizeBytes": 64666
+      },
+      {
+        "id": "11070",
+        "title": "La Fontana de Oro",
+        "sizeBytes": 798684
+      },
+      {
+        "id": "18798",
+        "title": "Memoria dirigida al Sr. Marquez de Loreto, Virey y Capitan General de las Provincias del Rio de La Plata",
+        "sizeBytes": 80649
+      },
+      {
+        "id": "31066",
+        "title": "El legado del ignorantismo: Conferencia dada el 23 de abril de 1920 ante la Asamblea de Maestros en Baguio",
+        "sizeBytes": 87336
+      },
+      {
+        "id": "45835",
+        "title": "La araña negra, t. 7/9",
+        "sizeBytes": 307826
+      },
+      {
+        "id": "11302",
+        "title": "Diario de la navegacion empredida en 1781: Desde el Rio Negro, para reconocer la Bahia de Todos los Santos, las Islas del Buen Suceso, y el desague del Rio Colorado",
+        "sizeBytes": 91780
+      },
+      {
+        "id": "20855",
+        "title": "Estatuto de la L. F. (Liga Filipina)",
+        "sizeBytes": 15458
+      },
+      {
+        "id": "45834",
+        "title": "La araña negra, t. 6/9",
+        "sizeBytes": 325721
+      },
+      {
+        "id": "16105",
+        "title": "Colección de viages y expediciónes à los campos de Buenos Aires y a las costas de Patagonia",
+        "sizeBytes": 315182
+      },
+      {
+        "id": "71413",
+        "title": "7 de julio",
+        "sizeBytes": 332660
+      },
+      {
+        "id": "57675",
+        "title": "Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización de las Antiguas Posesiones Españolas de Ultramar. Tomo 7, De Los Pleitos de Colón, I",
+        "sizeBytes": 701909
+      },
+      {
+        "id": "20401",
+        "title": "Viage al Rio de La Plata y Paraguay",
+        "sizeBytes": 197119
+      },
+      {
+        "id": "24031",
+        "title": "El teatro por dentro: Autores, comediantes, escenas de la vida de bastidores, etc.",
+        "sizeBytes": 211076
+      },
+      {
+        "id": "45831",
+        "title": "La araña negra, t. 3/9",
+        "sizeBytes": 364112
+      },
+      {
+        "id": "67348",
+        "title": "Estados Unidos",
+        "sizeBytes": 429132
+      },
+      {
+        "id": "39930",
+        "title": "El proletario en España y el Negro en Cuba",
+        "sizeBytes": 118125
+      },
+      {
+        "id": "42023",
+        "title": "La web, una enciclopedia multilingüe",
+        "sizeBytes": 154438
+      },
+      {
+        "id": "59189",
+        "title": "Descripcion Geografica De Un Nuevo Camino De La Gran Cordillera,: Para Facilitar Las Comunicaciones De Buenos-aires Con Chile",
+        "sizeBytes": 181976
+      },
+      {
+        "id": "28927",
+        "title": "La bodega",
+        "sizeBytes": 637066
+      },
+      {
+        "id": "45151",
+        "title": "Historia de la Conquista de la Habana (1762)",
+        "sizeBytes": 218484
+      },
+      {
+        "id": "13458",
+        "title": "Derroteros y viages à la Ciudad Encantada, ó de los Césares.: Que se creia existiese en la Cordillera, al sud de Valdivia.",
+        "sizeBytes": 193440
+      },
+      {
+        "id": "19496",
+        "title": "Diario de un reconocimiento de la guardia y fortines",
+        "sizeBytes": 106981
+      },
+      {
+        "id": "24466",
+        "title": "El intruso",
+        "sizeBytes": 616552
+      },
+      {
+        "id": "41853",
+        "title": "Rafael Cordero: Elogio Póstumo",
+        "sizeBytes": 21385
+      },
+      {
+        "id": "13216",
+        "title": "Diario histórico de la rebelion y guerra de los pueblos Guaranis situados en la costa oriental del Rio Uruguay, del año de 1754",
+        "sizeBytes": 188578
+      },
+      {
+        "id": "27167",
+        "title": "Historia de Teruel",
+        "sizeBytes": 192633
+      },
+      {
+        "id": "71339",
+        "title": "España y los Estados Unidos de Norte América : $b a propósito de la guerra",
+        "sizeBytes": 121656
+      },
+      {
+        "id": "72090",
+        "title": "Un voluntario realista",
+        "sizeBytes": 422495
+      },
+      {
+        "id": "23617",
+        "title": "Memoria histórica, geográfica, política y éconómica sobre la provincia de Misiones de indios guaranís",
+        "sizeBytes": 323912
+      },
+      {
+        "id": "18783",
+        "title": "Diario del viaje al rio Bermejo",
+        "sizeBytes": 83630
+      },
+      {
+        "id": "71861",
+        "title": "El terror de 1824",
+        "sizeBytes": 428833
+      },
+      {
+        "id": "28904",
+        "title": "Correspondencia Oficial e Inedita sobre la Demarcacion de Limites entre el Paraguay y el Brasil",
+        "sizeBytes": 153389
+      },
+      {
+        "id": "43493",
+        "title": "La Experiencia Abolicionista de Puerto Rico",
+        "sizeBytes": 154982
+      },
+      {
+        "id": "19106",
+        "title": "Reconocimiento del fuerte del Carmen del Rio Negro",
+        "sizeBytes": 28370
+      },
+      {
+        "id": "39446",
+        "title": "El derecho internacional americano; estudio doctrinal y crítico",
+        "sizeBytes": 42451
+      },
+      {
+        "id": "18784",
+        "title": "Itinerario de Buenos Aires a Cordoba",
+        "sizeBytes": 32880
+      },
+      {
+        "id": "30052",
+        "title": "Esploración arqueológica de la Provincia de Catamarca",
+        "sizeBytes": 69306
+      },
+      {
+        "id": "28542",
+        "title": "Descripción de la Patagonia y de las Partes Adyacentes de la América Meridional",
+        "sizeBytes": 176280
+      },
+      {
+        "id": "27757",
+        "title": "Nuevo plan de fronteras de la provincia de Buenos Aires, proyectado en 1816",
+        "sizeBytes": 69218
+      },
+      {
+        "id": "58275",
+        "title": "Granada, Poema Oriental, precedido de la Leyenda de al-Hamar, Tomo 2",
+        "sizeBytes": 279706
+      },
+      {
+        "id": "57654",
+        "title": "La Ilíada",
+        "sizeBytes": 1150277
+      },
+      {
+        "id": "24536",
+        "title": "Los cuatro jinetes del apocalipsis",
+        "sizeBytes": 867170
+      },
+      {
+        "id": "36453",
+        "title": "La guardia blanca: novela histórica escrita en inglés",
+        "sizeBytes": 640626
+      },
+      {
+        "id": "62711",
+        "title": "Naturaleza de las cosas: Versión en prosa del poema «De rerum natura»",
+        "sizeBytes": 473975
+      },
+      {
+        "id": "65738",
+        "title": "El conde Lucanor",
+        "sizeBytes": 492685
+      },
+      {
+        "id": "58331",
+        "title": "Recuerdos de mi vida (tomo 1 de 2)",
+        "sizeBytes": 572379
+      },
+      {
+        "id": "60675",
+        "title": "Recuerdos de mi vida (tomo 2 de 2)",
+        "sizeBytes": 1060642
+      },
+      {
+        "id": "56047",
+        "title": "Cabezas: Pensadores y Artistas, Políticos: Obras Completas Vol. XXII",
+        "sizeBytes": 179405
+      },
+      {
+        "id": "16201",
+        "title": "Parnaso Filipino: Antología de Poetas del Archipelago Magellanico",
+        "sizeBytes": 447477
+      },
+      {
+        "id": "28281",
+        "title": "Cecilia Valdés o la Loma del Ángel",
+        "sizeBytes": 1175990
+      },
+      {
+        "id": "49660",
+        "title": "La alhambra; leyendas árabes",
+        "sizeBytes": 1228951
+      },
+      {
+        "id": "19847",
+        "title": "Don Francisco de Quevedo: Drama en Cuatro Actos",
+        "sizeBytes": 381181
+      },
+      {
+        "id": "75739",
+        "title": "Los miserables - Tomo 1 (de 2)",
+        "sizeBytes": 1735373
+      },
+      {
+        "id": "10909",
+        "title": "Los Amantes de Teruel: Drama en cuatro actos en verso y prosa",
+        "sizeBytes": 276813
+      },
+      {
+        "id": "25671",
+        "title": "Bocetos californianos",
+        "sizeBytes": 461317
+      },
+      {
+        "id": "44584",
+        "title": "Los monfíes de las Alpujarras: novela original",
+        "sizeBytes": 2338670
+      },
+      {
+        "id": "47103",
+        "title": "El aprendiz de conspirador",
+        "sizeBytes": 329922
+      },
+      {
+        "id": "16961",
+        "title": "Trafalgar",
+        "sizeBytes": 324179
+      },
+      {
+        "id": "49470",
+        "title": "Con la Pluma y con el Sable: Crónica de 1820 a 1823",
+        "sizeBytes": 463328
+      },
+      {
+        "id": "41161",
+        "title": "La vida en los campos: novelas cortas",
+        "sizeBytes": 228149
+      },
+      {
+        "id": "17430",
+        "title": "Morsamor: peregrinaciones heroicas y lances de amor y fortuna de; Miguel de Zuheros y Tiburcio de Simahonda",
+        "sizeBytes": 526500
+      },
+      {
+        "id": "33275",
+        "title": "El cocinero de su majestad: Memorias del tiempo de Felipe III",
+        "sizeBytes": 1826674
+      },
+      {
+        "id": "50291",
+        "title": "Retrato de la Lozana Andaluza: En lengua española muy clarísima, compuesto en Roma.",
+        "sizeBytes": 407948
+      },
+      {
+        "id": "50492",
+        "title": "Historia de Gil Blas de Santillana: Novela (Vol 1 de 3)",
+        "sizeBytes": 488084
+      },
+      {
+        "id": "54430",
+        "title": "Las noches mejicanas",
+        "sizeBytes": 745798
+      },
+      {
+        "id": "49280",
+        "title": "Los Caminos del Mundo",
+        "sizeBytes": 405193
+      },
+      {
+        "id": "55139",
+        "title": "Torquemada en el purgatorio",
+        "sizeBytes": 430665
+      },
+      {
+        "id": "55157",
+        "title": "Las Furias",
+        "sizeBytes": 324668
+      },
+      {
+        "id": "54120",
+        "title": "La Isabelina",
+        "sizeBytes": 329301
+      },
+      {
+        "id": "52837",
+        "title": "Libro intitulado El cortesano. Libro de motes de damas y caballeros",
+        "sizeBytes": 565073
+      },
+      {
+        "id": "75126",
+        "title": "Sab (novela original)",
+        "sizeBytes": 353196
+      },
+      {
+        "id": "49413",
+        "title": "El señor de Bembibre",
+        "sizeBytes": 705214
+      },
+      {
+        "id": "51858",
+        "title": "Los Contrastes de la Vida",
+        "sizeBytes": 264300
+      },
+      {
+        "id": "63680",
+        "title": "Las figuras de cera: novela",
+        "sizeBytes": 437113
+      },
+      {
+        "id": "56044",
+        "title": "Dulce Dueño",
+        "sizeBytes": 428950
+      },
+      {
+        "id": "25074",
+        "title": "Novelas y cuentos",
+        "sizeBytes": 290095
+      },
+      {
+        "id": "70322",
+        "title": "Amor y llanto : $b colección de leyendas históricas originales",
+        "sizeBytes": 548812
+      },
+      {
+        "id": "60284",
+        "title": "Clemencia: Novela de costumbres",
+        "sizeBytes": 598965
+      },
+      {
+        "id": "47572",
+        "title": "La vieja verde: Estudios al natural",
+        "sizeBytes": 242382
+      },
+      {
+        "id": "24801",
+        "title": "El prisionero de Zenda",
+        "sizeBytes": 324308
+      },
+      {
+        "id": "53590",
+        "title": "El doncel de don Enrique el doliente, Tomo IV (de 4): Historia caballeresca del siglo quince",
+        "sizeBytes": 183730
+      },
+      {
+        "id": "67705",
+        "title": "Juan Martín el Empecinado",
+        "sizeBytes": 406304
+      },
+      {
+        "id": "53587",
+        "title": "El doncel de don Enrique el doliente, Tomo I (de 4): Historia caballeresca del siglo quince",
+        "sizeBytes": 171742
+      },
+      {
+        "id": "14311",
+        "title": "Bailén",
+        "sizeBytes": 404661
+      },
+      {
+        "id": "71250",
+        "title": "El Grande Oriente",
+        "sizeBytes": 415273
+      },
+      {
+        "id": "39113",
+        "title": "Los hermanos Plantagenet",
+        "sizeBytes": 259393
+      },
+      {
+        "id": "31707",
+        "title": "Carlos Broschi",
+        "sizeBytes": 378021
+      },
+      {
+        "id": "27900",
+        "title": "El manco de Lepanto: episodio de la vida del príncipe de los ingenios, Miguel de Cervantes-Saavedra",
+        "sizeBytes": 335545
+      },
+      {
+        "id": "53589",
+        "title": "El doncel de don Enrique el doliente, Tomo III (de 4): Historia caballeresca del siglo quince",
+        "sizeBytes": 170712
+      },
+      {
+        "id": "77072",
+        "title": "Las aventuras de Telémaco seguidas de las de Aristonoo",
+        "sizeBytes": 846918
+      },
+      {
+        "id": "53588",
+        "title": "El doncel de don Enrique el doliente, Tomo II (de 4): Historia caballeresca del siglo quince",
+        "sizeBytes": 188687
+      },
+      {
+        "id": "29677",
+        "title": "Heath's Modern Language Series: El trovador",
+        "sizeBytes": 156364
+      },
+      {
+        "id": "76073",
+        "title": "Traidor, inconfeso y martir : $b Drama histórico en tres actos y en verso",
+        "sizeBytes": 185529
+      },
+      {
+        "id": "17317",
+        "title": "Genio y figura",
+        "sizeBytes": 327025
+      },
+      {
+        "id": "46265",
+        "title": "María Luisa, Leyenda Histórica",
+        "sizeBytes": 247939
+      },
+      {
+        "id": "75133",
+        "title": "El conde de Candespina (1 de 2) : $b novela histórica original",
+        "sizeBytes": 191314
+      },
+      {
+        "id": "75973",
+        "title": "Ni rey ni roque (1-2 de 4) : $b episodio histórico del reinado de Felipe II, año de 1595",
+        "sizeBytes": 276990
+      },
+      {
+        "id": "73799",
+        "title": "Fernando IV de Castilla, o, Dos muertes a un tiempo : $b Novela histórica del siglo XIV",
+        "sizeBytes": 353895
+      },
+      {
+        "id": "28978",
+        "title": "El infierno del amor: leyenda fantastica",
+        "sizeBytes": 80397
+      },
+      {
+        "id": "75134",
+        "title": "El conde de Candespina (2 de 2) : $b novela histórica original",
+        "sizeBytes": 192971
+      },
+      {
+        "id": "44305",
+        "title": "El Mulato Plácido o El Poeta Mártir",
+        "sizeBytes": 251341
+      },
+      {
+        "id": "75974",
+        "title": "Ni rey ni roque (3-4 de 4) : $b episodio histórico del reinado de Felipe II, año de 1595",
+        "sizeBytes": 266528
+      },
+      {
+        "id": "29511",
+        "title": "El molino silencioso; Las bodas de Yolanda",
+        "sizeBytes": 293438
+      },
+      {
+        "id": "68154",
+        "title": "Tirano Banderas: Novela de tierra caliente",
+        "sizeBytes": 336816
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "es-history",
+      "name": "History Collection (Spanish)",
+      "category": "history",
+      "language": "es",
+      "articleCount": 355,
+      "totalSizeBytes": 176011501,
+      "articles": [
+        "44112",
+        "16119",
+        "15725",
+        "47584",
+        "70058",
+        "73257",
+        "69552",
+        "26028",
+        "77353",
+        "56451",
+        "71733",
+        "30903",
+        "56251",
+        "62870",
+        "54934",
+        "60198",
+        "25988",
+        "33267",
+        "37067",
+        "21282",
+        "77298",
+        "36253",
+        "29803",
+        "70153",
+        "73255",
+        "50351",
+        "31633",
+        "37095",
+        "73089",
+        "57550",
+        "57960",
+        "50365",
+        "61831",
+        "49298",
+        "68787",
+        "76459",
+        "61739",
+        "70219",
+        "56219",
+        "68978",
+        "33690",
+        "61339",
+        "64945",
+        "26284",
+        "69411",
+        "63767",
+        "25317",
+        "36990",
+        "15421",
+        "39948",
+        "65165",
+        "76264",
+        "26947",
+        "66554",
+        "34091",
+        "54064",
+        "41337",
+        "12435",
+        "55480",
+        "39312",
+        "30280",
+        "33461",
+        "66866",
+        "51019",
+        "53405",
+        "73179",
+        "61832",
+        "53171",
+        "55440",
+        "61887",
+        "35905",
+        "37590",
+        "62691",
+        "36986",
+        "74566",
+        "48783",
+        "57982",
+        "42065",
+        "45508",
+        "66902",
+        "65410",
+        "40066",
+        "69660",
+        "51020",
+        "57388",
+        "63359",
+        "51689",
+        "63464",
+        "67817",
+        "34731",
+        "49560",
+        "56452",
+        "25705",
+        "66285",
+        "47092",
+        "41575",
+        "60117",
+        "39947",
+        "49914",
+        "63061",
+        "46246",
+        "48940",
+        "36318",
+        "9890",
+        "53930",
+        "58077",
+        "29920",
+        "29061",
+        "33227",
+        "45250",
+        "64947",
+        "42705",
+        "62984",
+        "72753",
+        "37747",
+        "52795",
+        "67631",
+        "67819",
+        "2367",
+        "62211",
+        "63600",
+        "17443",
+        "63030",
+        "53742",
+        "56051",
+        "60971",
+        "69159",
+        "65034",
+        "5879",
+        "60210",
+        "65024",
+        "63101",
+        "67189",
+        "72373",
+        "43950",
+        "59539",
+        "67555",
+        "31544",
+        "74881",
+        "53421",
+        "76572",
+        "64946",
+        "67415",
+        "68220",
+        "11071",
+        "33885",
+        "75614",
+        "50430",
+        "13479",
+        "39579",
+        "70064",
+        "14307",
+        "29078",
+        "62559",
+        "58713",
+        "5877",
+        "62450",
+        "53413",
+        "67155",
+        "49417",
+        "59797",
+        "30175",
+        "40724",
+        "44918",
+        "49433",
+        "71055",
+        "46279",
+        "63587",
+        "61022",
+        "67843",
+        "49418",
+        "67360",
+        "71533",
+        "30892",
+        "41789",
+        "38885",
+        "21906",
+        "42323",
+        "46771",
+        "50437",
+        "25255",
+        "47346",
+        "49359",
+        "74704",
+        "71614",
+        "5880",
+        "41884",
+        "43400",
+        "45829",
+        "14839",
+        "40420",
+        "56624",
+        "66867",
+        "66949",
+        "61438",
+        "53741",
+        "56519",
+        "48857",
+        "53131",
+        "62019",
+        "45836",
+        "67481",
+        "67231",
+        "69058",
+        "13516",
+        "53185",
+        "56283",
+        "69578",
+        "48652",
+        "53517",
+        "24208",
+        "42321",
+        "49258",
+        "64668",
+        "61361",
+        "52469",
+        "69164",
+        "72754",
+        "15334",
+        "49259",
+        "75382",
+        "13264",
+        "38836",
+        "45830",
+        "59879",
+        "28967",
+        "45183",
+        "50526",
+        "67524",
+        "65988",
+        "56010",
+        "70868",
+        "45832",
+        "52499",
+        "53927",
+        "62356",
+        "71275",
+        "45833",
+        "45837",
+        "10293",
+        "18723",
+        "61700",
+        "18289",
+        "59631",
+        "61917",
+        "55448",
+        "14722",
+        "19643",
+        "18157",
+        "20099",
+        "20852",
+        "62475",
+        "11070",
+        "18798",
+        "31066",
+        "45835",
+        "11302",
+        "20855",
+        "45834",
+        "16105",
+        "71413",
+        "57675",
+        "20401",
+        "24031",
+        "45831",
+        "67348",
+        "39930",
+        "42023",
+        "59189",
+        "28927",
+        "45151",
+        "13458",
+        "19496",
+        "24466",
+        "41853",
+        "13216",
+        "27167",
+        "71339",
+        "72090",
+        "23617",
+        "18783",
+        "71861",
+        "28904",
+        "43493",
+        "19106",
+        "39446",
+        "18784",
+        "30052",
+        "28542",
+        "27757",
+        "58275",
+        "57654",
+        "24536",
+        "36453",
+        "62711",
+        "65738",
+        "58331",
+        "60675",
+        "56047",
+        "16201",
+        "28281",
+        "49660",
+        "19847",
+        "75739",
+        "10909",
+        "25671",
+        "44584",
+        "47103",
+        "16961",
+        "49470",
+        "41161",
+        "17430",
+        "33275",
+        "50291",
+        "50492",
+        "54430",
+        "49280",
+        "55139",
+        "55157",
+        "54120",
+        "52837",
+        "75126",
+        "49413",
+        "51858",
+        "63680",
+        "56044",
+        "25074",
+        "70322",
+        "60284",
+        "47572",
+        "24801",
+        "53590",
+        "67705",
+        "53587",
+        "14311",
+        "71250",
+        "39113",
+        "31707",
+        "27900",
+        "53589",
+        "77072",
+        "53588",
+        "29677",
+        "76073",
+        "17317",
+        "46265",
+        "75133",
+        "75973",
+        "73799",
+        "28978",
+        "75134",
+        "44305",
+        "75974",
+        "29511",
+        "68154"
+      ]
+    }
+  ]
+}

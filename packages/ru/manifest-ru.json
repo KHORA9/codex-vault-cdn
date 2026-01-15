@@ -1,0 +1,100 @@
+{
+  "version": "3.0",
+  "language": "ru",
+  "generatedAt": "2026-01-14T00:08:24.093Z",
+  "totalBooks": 7,
+  "categories": {
+    "philosophy": [
+      {
+        "id": "14741",
+        "title": "Духовные оды",
+        "sizeBytes": 211599
+      }
+    ],
+    "science": [
+      {
+        "id": "16527",
+        "title": "1001 задача для умственного счета",
+        "sizeBytes": 259155
+      }
+    ],
+    "governance": [
+      {
+        "id": "37196",
+        "title": "Женское международное движение: Сборник статей",
+        "sizeBytes": 53647
+      }
+    ],
+    "history": [
+      {
+        "id": "19681",
+        "title": "Детство",
+        "sizeBytes": 3656
+      },
+      {
+        "id": "21186",
+        "title": "Записки из подполья",
+        "sizeBytes": 3275
+      },
+      {
+        "id": "30774",
+        "title": "Московия в представлении иностранцев XVI-XVII в.",
+        "sizeBytes": 84568
+      },
+      {
+        "id": "37196",
+        "title": "Женское международное движение: Сборник статей",
+        "sizeBytes": 53644
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "ru-philosophy",
+      "name": "Philosophy Collection (Russian)",
+      "category": "philosophy",
+      "language": "ru",
+      "articleCount": 1,
+      "totalSizeBytes": 211599,
+      "articles": [
+        "14741"
+      ]
+    },
+    {
+      "id": "ru-science",
+      "name": "Science Collection (Russian)",
+      "category": "science",
+      "language": "ru",
+      "articleCount": 1,
+      "totalSizeBytes": 259155,
+      "articles": [
+        "16527"
+      ]
+    },
+    {
+      "id": "ru-governance",
+      "name": "Governance Collection (Russian)",
+      "category": "governance",
+      "language": "ru",
+      "articleCount": 1,
+      "totalSizeBytes": 53647,
+      "articles": [
+        "37196"
+      ]
+    },
+    {
+      "id": "ru-history",
+      "name": "History Collection (Russian)",
+      "category": "history",
+      "language": "ru",
+      "articleCount": 4,
+      "totalSizeBytes": 145143,
+      "articles": [
+        "19681",
+        "21186",
+        "30774",
+        "37196"
+      ]
+    }
+  ]
+}

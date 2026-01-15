@@ -1,0 +1,6022 @@
+{
+  "version": "3.0",
+  "language": "en",
+  "generatedAt": "2026-01-14T00:00:24.631Z",
+  "totalBooks": 1000,
+  "categories": {
+    "history": [
+      {
+        "id": "67979",
+        "title": "The Blue Castle: a novel",
+        "sizeBytes": 425138
+      },
+      {
+        "id": "1259",
+        "title": "Twenty years after",
+        "sizeBytes": 1525319
+      },
+      {
+        "id": "174",
+        "title": "The Picture of Dorian Gray",
+        "sizeBytes": 463621
+      },
+      {
+        "id": "1184",
+        "title": "The Count of Monte Cristo",
+        "sizeBytes": 2890348
+      },
+      {
+        "id": "98",
+        "title": "A Tale of Two Cities",
+        "sizeBytes": 819874
+      },
+      {
+        "id": "25344",
+        "title": "The Scarlet Letter",
+        "sizeBytes": 524464
+      },
+      {
+        "id": "3207",
+        "title": "Leviathan",
+        "sizeBytes": 1282258
+      },
+      {
+        "id": "1232",
+        "title": "The Prince",
+        "sizeBytes": 298290
+      },
+      {
+        "id": "2600",
+        "title": "War and Peace",
+        "sizeBytes": 3471603
+      },
+      {
+        "id": "205",
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "sizeBytes": 668984
+      },
+      {
+        "id": "26184",
+        "title": "Simple Sabotage Field Manual",
+        "sizeBytes": 58474
+      },
+      {
+        "id": "45",
+        "title": "Anne of Green Gables",
+        "sizeBytes": 609097
+      },
+      {
+        "id": "75883",
+        "title": "The Roll of Honour, Volume 1 : $b A biographical record of all members of His Majesty's naval  and military forces who have fallen in the war",
+        "sizeBytes": 5074021
+      },
+      {
+        "id": "25282",
+        "title": "The Jewish State",
+        "sizeBytes": 271558
+      },
+      {
+        "id": "27698",
+        "title": "Principles of Political Economy, Vol. 1",
+        "sizeBytes": 1250673
+      },
+      {
+        "id": "7370",
+        "title": "Second Treatise of Government",
+        "sizeBytes": 329825
+      },
+      {
+        "id": "408",
+        "title": "The Souls of Black Folk",
+        "sizeBytes": 422773
+      },
+      {
+        "id": "26",
+        "title": "Paradise Lost",
+        "sizeBytes": 493522
+      },
+      {
+        "id": "23",
+        "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "sizeBytes": 237046
+      },
+      {
+        "id": "10636",
+        "title": "The Travels of Marco Polo — Volume 1",
+        "sizeBytes": 2413432
+      },
+      {
+        "id": "59386",
+        "title": "The history of human marriage",
+        "sizeBytes": 1754818
+      },
+      {
+        "id": "60230",
+        "title": "The Natural History of Pliny, Volume 2 (of 6)",
+        "sizeBytes": 1591250
+      },
+      {
+        "id": "41",
+        "title": "The Legend of Sleepy Hollow",
+        "sizeBytes": 73702
+      },
+      {
+        "id": "2848",
+        "title": "Antiquities of the Jews",
+        "sizeBytes": 3146402
+      },
+      {
+        "id": "4200",
+        "title": "The Diary of Samuel Pepys — Complete",
+        "sizeBytes": 6987369
+      },
+      {
+        "id": "39459",
+        "title": "The Contemporary Review, Volume 36, October 1879",
+        "sizeBytes": 599919
+      },
+      {
+        "id": "52621",
+        "title": "Society in America, Volume 1 (of 2)",
+        "sizeBytes": 767236
+      },
+      {
+        "id": "60976",
+        "title": "Rip Van Winkle",
+        "sizeBytes": 54160
+      },
+      {
+        "id": "3300",
+        "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+        "sizeBytes": 2518442
+      },
+      {
+        "id": "26031",
+        "title": "Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I",
+        "sizeBytes": 697416
+      },
+      {
+        "id": "600",
+        "title": "Notes from the Underground",
+        "sizeBytes": 256290
+      },
+      {
+        "id": "49266",
+        "title": "The Wars of Religion in France 1559-1576: The Huguenots, Catherine de Medici and Philip II",
+        "sizeBytes": 1764299
+      },
+      {
+        "id": "1946",
+        "title": "On War",
+        "sizeBytes": 1776864
+      },
+      {
+        "id": "35899",
+        "title": "The Philippines a Century Hence",
+        "sizeBytes": 100990
+      },
+      {
+        "id": "69566",
+        "title": "The Egyptian Book of the dead",
+        "sizeBytes": 890869
+      },
+      {
+        "id": "26602",
+        "title": "An Account of the Conquest of Peru",
+        "sizeBytes": 190624
+      },
+      {
+        "id": "815",
+        "title": "Democracy in America — Volume 1",
+        "sizeBytes": 1170504
+      },
+      {
+        "id": "20203",
+        "title": "Autobiography of Benjamin Franklin",
+        "sizeBytes": 464626
+      },
+      {
+        "id": "18047",
+        "title": "Dio's Rome, Volume 1: An Historical Narrative Originally Composed in Greek during the Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus: and Now Presented in English Form",
+        "sizeBytes": 576281
+      },
+      {
+        "id": "45502",
+        "title": "How the Other Half Lives: Studies Among the Tenements of New York",
+        "sizeBytes": 497746
+      },
+      {
+        "id": "15399",
+        "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African: Written By Himself",
+        "sizeBytes": 475006
+      },
+      {
+        "id": "52685",
+        "title": "Society in America, Volume 2 (of 2)",
+        "sizeBytes": 797701
+      },
+      {
+        "id": "26315",
+        "title": "Shakespeare's family",
+        "sizeBytes": 540682
+      },
+      {
+        "id": "27279",
+        "title": "Southern Literature From 1579-1895: A comprehensive review, with copious extracts and criticisms; for the use of schools and the general reader",
+        "sizeBytes": 935588
+      },
+      {
+        "id": "50503",
+        "title": "Forty-Eighth Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, 1930-1931, Government Printing Office, Washington, 1933.",
+        "sizeBytes": 4229155
+      },
+      {
+        "id": "2739",
+        "title": "More Letters of Charles Darwin — Volume 1: A Record of His Work in a Series of Hitherto Unpublished Letters",
+        "sizeBytes": 1184782
+      },
+      {
+        "id": "236",
+        "title": "The Jungle Book",
+        "sizeBytes": 295227
+      },
+      {
+        "id": "36965",
+        "title": "Harriet Martineau",
+        "sizeBytes": 441494
+      },
+      {
+        "id": "132",
+        "title": "The Art of War",
+        "sizeBytes": 337538
+      },
+      {
+        "id": "27320",
+        "title": "St. John's College, Cambridge",
+        "sizeBytes": 133297
+      },
+      {
+        "id": "25682",
+        "title": "Bell's Cathedrals: The Cathedral Church of Gloucester [2nd ed.]: A Description of Its Fabric and A Brief History of the Espicopal See",
+        "sizeBytes": 233573
+      },
+      {
+        "id": "10676",
+        "title": "The Reign of Greed",
+        "sizeBytes": 722473
+      },
+      {
+        "id": "7142",
+        "title": "The History of the Peloponnesian War",
+        "sizeBytes": 1235419
+      },
+      {
+        "id": "61",
+        "title": "The Communist Manifesto",
+        "sizeBytes": 77632
+      },
+      {
+        "id": "25717",
+        "title": "The History of the Decline and Fall of the Roman Empire: Table of Contents with links in the HTML file to the two Project Gutenberg editions (12 volumes)",
+        "sizeBytes": 11050019
+      },
+      {
+        "id": "63550",
+        "title": "The Art of Ballet",
+        "sizeBytes": 634221
+      },
+      {
+        "id": "245",
+        "title": "Life on the Mississippi",
+        "sizeBytes": 853949
+      },
+      {
+        "id": "61792",
+        "title": "Olympic Victor Monuments and Greek Athletic Art",
+        "sizeBytes": 1534354
+      },
+      {
+        "id": "20",
+        "title": "Paradise Lost",
+        "sizeBytes": 496384
+      },
+      {
+        "id": "147",
+        "title": "Common Sense",
+        "sizeBytes": 133803
+      },
+      {
+        "id": "28500",
+        "title": "All about coffee",
+        "sizeBytes": 3048291
+      },
+      {
+        "id": "45304",
+        "title": "The City of God, Volume I",
+        "sizeBytes": 1384197
+      },
+      {
+        "id": "2707",
+        "title": "The History of Herodotus — Volume 1",
+        "sizeBytes": 927211
+      },
+      {
+        "id": "51356",
+        "title": "The Birth of Tragedy; or, Hellenism and Pessimism",
+        "sizeBytes": 345471
+      },
+      {
+        "id": "28178",
+        "title": "Sound Military Decision",
+        "sizeBytes": 577622
+      },
+      {
+        "id": "20990",
+        "title": "London and the Kingdom - Volume 2: A History Derived Mainly from the Archives at Guildhall in the Custody of the Corporation of the City of London.",
+        "sizeBytes": 1262542
+      },
+      {
+        "id": "7700",
+        "title": "Lysistrata",
+        "sizeBytes": 94545
+      },
+      {
+        "id": "46976",
+        "title": "The Anabasis of Alexander : $b or, The history of the wars and conquests of Alexander the Great",
+        "sizeBytes": 937474
+      },
+      {
+        "id": "77145",
+        "title": "The history of witchcraft and demonology",
+        "sizeBytes": 995974
+      },
+      {
+        "id": "45631",
+        "title": "Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana",
+        "sizeBytes": 502562
+      },
+      {
+        "id": "73639",
+        "title": "History for ready reference, Volume 7 : $b Recent history (1901 to 1910)",
+        "sizeBytes": 6317653
+      },
+      {
+        "id": "37499",
+        "title": "Napoleon's Letters to Josephine, 1796-1812: For the First Time Collected and Translated, with Notes Social, Historical, and Chronological, from Contemporary Sources",
+        "sizeBytes": 630115
+      },
+      {
+        "id": "51143",
+        "title": "The Waterloo Roll Call: With Biographical Notes and Anecdotes",
+        "sizeBytes": 798853
+      },
+      {
+        "id": "1170",
+        "title": "Anabasis",
+        "sizeBytes": 558521
+      },
+      {
+        "id": "6400",
+        "title": "The Lives of the Twelve Caesars, Complete",
+        "sizeBytes": 1449647
+      },
+      {
+        "id": "4206",
+        "title": "The Letters of Franklin K. Lane, Personal and Political",
+        "sizeBytes": 833311
+      },
+      {
+        "id": "50922",
+        "title": "Perpetual Peace: A Philosophical Essay",
+        "sizeBytes": 341904
+      },
+      {
+        "id": "13529",
+        "title": "The Influence of Sea Power Upon History, 1660-1783",
+        "sizeBytes": 1336065
+      },
+      {
+        "id": "25842",
+        "title": "Royal Palaces and Parks of France",
+        "sizeBytes": 489690
+      },
+      {
+        "id": "4367",
+        "title": "Personal Memoirs of U. S. Grant, Complete",
+        "sizeBytes": 1705962
+      },
+      {
+        "id": "59",
+        "title": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
+        "sizeBytes": 134936
+      },
+      {
+        "id": "77238",
+        "title": "The Nobel Prize winners in literature",
+        "sizeBytes": 457369
+      },
+      {
+        "id": "29798",
+        "title": "Japan",
+        "sizeBytes": 665858
+      },
+      {
+        "id": "73",
+        "title": "The Red Badge of Courage: An Episode of the American Civil War",
+        "sizeBytes": 279994
+      },
+      {
+        "id": "57764",
+        "title": "Crimes of Preachers in the United States and Canada",
+        "sizeBytes": 597300
+      },
+      {
+        "id": "22849",
+        "title": "The History of Tasmania , Volume II",
+        "sizeBytes": 1027499
+      },
+      {
+        "id": "2850",
+        "title": "The Wars of the Jews; Or, The History of the Destruction of Jerusalem",
+        "sizeBytes": 1366374
+      },
+      {
+        "id": "2610",
+        "title": "Notre-Dame de Paris",
+        "sizeBytes": 1257174
+      },
+      {
+        "id": "29728",
+        "title": "Cookery and Dining in Imperial Rome",
+        "sizeBytes": 740177
+      },
+      {
+        "id": "20587",
+        "title": "Integration of the Armed Forces, 1940-1965",
+        "sizeBytes": 2322725
+      },
+      {
+        "id": "45634",
+        "title": "Myths of the Cherokee: Extract from the Nineteenth Annual Report of the Bureau of American Ethnology",
+        "sizeBytes": 1850843
+      },
+      {
+        "id": "38735",
+        "title": "Highways and Byways in Cambridge and Ely",
+        "sizeBytes": 914319
+      },
+      {
+        "id": "19800",
+        "title": "London and the Kingdom - Volume 1: A History Derived Mainly from the Archives at Guildhall in the Custody of the Corporation of the City of London.",
+        "sizeBytes": 1115834
+      },
+      {
+        "id": "59131",
+        "title": "The Natural History of Pliny, Volume 3 (of 6)",
+        "sizeBytes": 1441876
+      },
+      {
+        "id": "41617",
+        "title": "A Complete Guide to Heraldry",
+        "sizeBytes": 1701608
+      },
+      {
+        "id": "8300",
+        "title": "The Bible, Douay-Rheims, Complete: The Challoner Revision",
+        "sizeBytes": 5907220
+      },
+      {
+        "id": "2087",
+        "title": "Life and Letters of Charles Darwin — Volume 1",
+        "sizeBytes": 1142170
+      },
+      {
+        "id": "1404",
+        "title": "The Federalist Papers",
+        "sizeBytes": 1206485
+      },
+      {
+        "id": "23781",
+        "title": "A Little Girl of Long Ago; Or, Hannah Ann: A Sequel to a Little Girl in Old New York",
+        "sizeBytes": 544662
+      },
+      {
+        "id": "25632",
+        "title": "A History of Art for Beginners and Students: Painting, Sculpture, Architecture",
+        "sizeBytes": 519039
+      },
+      {
+        "id": "29362",
+        "title": "The Goat-gland Transplantation: As Originated and Successfully Performed by J. R. Brinkley, M. D., of Milford, Kansas, U. S. A., in Over 600 Operations Upon Men and Women",
+        "sizeBytes": 143518
+      },
+      {
+        "id": "77058",
+        "title": "The historians' history of the world in twenty-five volumes, volume 11 : $b France, 843-1715",
+        "sizeBytes": 2405126
+      },
+      {
+        "id": "48155",
+        "title": "History of Ancient Pottery: Greek, Etruscan, and Roman.  Volume 2 (of 2)",
+        "sizeBytes": 1530064
+      },
+      {
+        "id": "27604",
+        "title": "A history of the Japanese people : $b from the earliest times to the end of the Meiji era",
+        "sizeBytes": 2805732
+      },
+      {
+        "id": "674",
+        "title": "Plutarch: Lives of the noble Grecians and Romans",
+        "sizeBytes": 4446886
+      },
+      {
+        "id": "20439",
+        "title": "Susan B. Anthony: Rebel, Crusader, Humanitarian",
+        "sizeBytes": 779615
+      },
+      {
+        "id": "33998",
+        "title": "The Story of Our Hymns",
+        "sizeBytes": 761573
+      },
+      {
+        "id": "9662",
+        "title": "An Enquiry Concerning Human Understanding",
+        "sizeBytes": 366057
+      },
+      {
+        "id": "73518",
+        "title": "The evolution of the steam locomotive (1803 to 1898)",
+        "sizeBytes": 711500
+      },
+      {
+        "id": "27450",
+        "title": "A History of Elizabethan Literature",
+        "sizeBytes": 1091310
+      },
+      {
+        "id": "63545",
+        "title": "A short history of the printing press and of the improvements in printing machinery from the time of Gutenberg up to the present day",
+        "sizeBytes": 95919
+      },
+      {
+        "id": "42108",
+        "title": "The slang dictionary : $b Etymological, historical and anecdotal",
+        "sizeBytes": 1063331
+      },
+      {
+        "id": "19725",
+        "title": "The History of Rome, Books 01 to 08",
+        "sizeBytes": 1414307
+      },
+      {
+        "id": "55771",
+        "title": "A History of Spanish Literature",
+        "sizeBytes": 792313
+      },
+      {
+        "id": "271",
+        "title": "Black Beauty",
+        "sizeBytes": 326088
+      },
+      {
+        "id": "43411",
+        "title": "Life of Mozart, Vol. 1 (of 3)",
+        "sizeBytes": 1063078
+      },
+      {
+        "id": "42629",
+        "title": "The Violoncello and Its History",
+        "sizeBytes": 541305
+      },
+      {
+        "id": "25761",
+        "title": "St. Bernard of Clairvaux's Life of St. Malachy of Armagh",
+        "sizeBytes": 535271
+      },
+      {
+        "id": "71905",
+        "title": "The discovery and decipherment of the trilingual cuneiform inscriptions",
+        "sizeBytes": 960519
+      },
+      {
+        "id": "23700",
+        "title": "The Decameron of Giovanni Boccaccio",
+        "sizeBytes": 1788964
+      },
+      {
+        "id": "49513",
+        "title": "The Complete Herbal: To which is now added, upwards of one hundred additional herbs, with a display of their medicinal and occult qualities physically applied to the cure of all disorders incident to mankind: to which are now first annexed, the English physician enlarged, and key to Physic.",
+        "sizeBytes": 1575005
+      },
+      {
+        "id": "816",
+        "title": "Democracy in America — Volume 2",
+        "sizeBytes": 874466
+      },
+      {
+        "id": "55231",
+        "title": "A history of the Peninsular War, Vol. 3, Sep. 1809-Dec. 1810 : $b Ocaña, Cadiz, Bussaco, Torres Vedras",
+        "sizeBytes": 1477391
+      },
+      {
+        "id": "17450",
+        "title": "The Part Borne by the Dutch in the Discovery of Australia 1606-1765",
+        "sizeBytes": 386754
+      },
+      {
+        "id": "50434",
+        "title": "The Story of Wellington",
+        "sizeBytes": 506393
+      },
+      {
+        "id": "57724",
+        "title": "A Cyclopaedia of Canadian Biography: Being Chiefly Men of the Time: A Collection of Persons Distinguished in Professional and Political Life, Leaders in the Commerce and Industry of Canada, and Successful Pioneers",
+        "sizeBytes": 4184506
+      },
+      {
+        "id": "45001",
+        "title": "Institutes of the Christian Religion (Vol. 1 of 2)",
+        "sizeBytes": 1967437
+      },
+      {
+        "id": "44028",
+        "title": "The Every Day Book of History and Chronology: Embracing the Anniversaries of Memorable Persons and Events in Every Period and State of the World, from the Creation to the Present Time",
+        "sizeBytes": 2808740
+      },
+      {
+        "id": "38326",
+        "title": "Bede's Ecclesiastical History of England",
+        "sizeBytes": 1117121
+      },
+      {
+        "id": "43231",
+        "title": "Legends of the Bastille",
+        "sizeBytes": 439539
+      },
+      {
+        "id": "14977",
+        "title": "The Red Record: Tabulated Statistics and Alleged Causes of Lynching in the United States",
+        "sizeBytes": 209130
+      },
+      {
+        "id": "41443",
+        "title": "The Audiencia in the Spanish Colonies: As illustrated by the Audiencia of Manila (1583-1800)",
+        "sizeBytes": 1067641
+      },
+      {
+        "id": "11955",
+        "title": "A Popular History of France from the Earliest Times, Volume 5",
+        "sizeBytes": 1461263
+      },
+      {
+        "id": "49654",
+        "title": "Battle Honours of the British Army: From Tangier, 1662, to the Commencement of the Reign of King Edward VII",
+        "sizeBytes": 1213651
+      },
+      {
+        "id": "18590",
+        "title": "The Letters of Cassiodorus: Being a Condensed Translation of the Variae Epistolae of Magnus Aurelius Cassiodorus Senator",
+        "sizeBytes": 1242224
+      },
+      {
+        "id": "25092",
+        "title": "The Roman Traitor, Vol. 1",
+        "sizeBytes": 542690
+      },
+      {
+        "id": "75201",
+        "title": "A farewell to arms",
+        "sizeBytes": 532421
+      },
+      {
+        "id": "59468",
+        "title": "The Scottish Highlands, Highland Clans and Highland Regiments, Volume 1 (of 2)",
+        "sizeBytes": 3939150
+      },
+      {
+        "id": "3875",
+        "title": "Memoirs of Louis XIV and His Court and of the Regency — Complete",
+        "sizeBytes": 2512166
+      },
+      {
+        "id": "49260",
+        "title": "The History of Orange County New York",
+        "sizeBytes": 2651742
+      },
+      {
+        "id": "70033",
+        "title": "The history of magic : $b including a clear and precise exposition of its procedure, its rites and its mysteries",
+        "sizeBytes": 1138989
+      },
+      {
+        "id": "21200",
+        "title": "The Letters of Cicero, Volume 1: The Whole Extant Correspodence in Chronological Order",
+        "sizeBytes": 1011311
+      },
+      {
+        "id": "66583",
+        "title": "The magic of jewels and charms",
+        "sizeBytes": 914974
+      },
+      {
+        "id": "37887",
+        "title": "Mexico, Aztec, Spanish and Republican, Vol. 1 of 2: A Historical, Geographical, Political, Statistical and Social Account of That Country From the Period of the Invasion by the Spaniards to the Present Time.",
+        "sizeBytes": 1112941
+      },
+      {
+        "id": "20924",
+        "title": "Ely Cathedral",
+        "sizeBytes": 278858
+      },
+      {
+        "id": "22550",
+        "title": "Old Mackinaw; Or, The Fortress of the Lakes and its Surroundings",
+        "sizeBytes": 542271
+      },
+      {
+        "id": "44112",
+        "title": "Argentina, Legend and History",
+        "sizeBytes": 694069
+      },
+      {
+        "id": "16119",
+        "title": "Doctrina Christiana: The first book printed in the Philippines, Manila, 1593.",
+        "sizeBytes": 186413
+      },
+      {
+        "id": "15447",
+        "title": "A History of English Romanticism in the Eighteenth Century",
+        "sizeBytes": 811681
+      },
+      {
+        "id": "82",
+        "title": "Ivanhoe: A Romance",
+        "sizeBytes": 1190725
+      },
+      {
+        "id": "851",
+        "title": "Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson",
+        "sizeBytes": 110310
+      },
+      {
+        "id": "8419",
+        "title": "The Journals of Lewis and Clark, 1804-1806",
+        "sizeBytes": 3745423
+      },
+      {
+        "id": "67799",
+        "title": "The Book of the Courtier",
+        "sizeBytes": 1183953
+      },
+      {
+        "id": "58985",
+        "title": "The Babees' Book: Medieval Manners for the Young: Done into Modern English",
+        "sizeBytes": 286003
+      },
+      {
+        "id": "24518",
+        "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds",
+        "sizeBytes": 1721991
+      },
+      {
+        "id": "28890",
+        "title": "Helps to Latin Translation at Sight",
+        "sizeBytes": 884504
+      },
+      {
+        "id": "53635",
+        "title": "A Cyclopædia of Canadian Biography: Brief biographies of persons distinguished in the professional, military and political life, and the commerce and industry of Canada, in the twentieth century",
+        "sizeBytes": 1623213
+      },
+      {
+        "id": "22789",
+        "title": "On the Duties of the Clergy",
+        "sizeBytes": 5815
+      },
+      {
+        "id": "48438",
+        "title": "Rizal's own story of his life",
+        "sizeBytes": 81828
+      },
+      {
+        "id": "21091",
+        "title": "The Life of William Ewart Gladstone, Vol. 1 (of 3): 1809-1859",
+        "sizeBytes": 1599664
+      },
+      {
+        "id": "72344",
+        "title": "The decline of the West : $b Volume 1, Form and actuality",
+        "sizeBytes": 1592069
+      },
+      {
+        "id": "66555",
+        "title": "Psyche: The Cult of Souls and Belief in Immortality among the Greeks",
+        "sizeBytes": 2085493
+      },
+      {
+        "id": "58619",
+        "title": "The Hymn-Book of the Modern Church: Brief studies of hymns and hymn-writers",
+        "sizeBytes": 530737
+      },
+      {
+        "id": "2455",
+        "title": "History of the Catholic Church from the Renaissance to the French Revolution — Volume 2",
+        "sizeBytes": 926380
+      },
+      {
+        "id": "31086",
+        "title": "\"And they thought we wouldn't fight\"",
+        "sizeBytes": 714899
+      },
+      {
+        "id": "28773",
+        "title": "General Gordon : $b A Christian hero",
+        "sizeBytes": 492478
+      },
+      {
+        "id": "2449",
+        "title": "The Common Law",
+        "sizeBytes": 774401
+      },
+      {
+        "id": "15725",
+        "title": "Doña Perfecta",
+        "sizeBytes": 832112
+      },
+      {
+        "id": "61240",
+        "title": "History of Botany (1530-1860)",
+        "sizeBytes": 1237014
+      },
+      {
+        "id": "26450",
+        "title": "The Story of Paris",
+        "sizeBytes": 810971
+      },
+      {
+        "id": "4361",
+        "title": "Memoirs of General William T. Sherman — Complete",
+        "sizeBytes": 2153291
+      },
+      {
+        "id": "57821",
+        "title": "Scenes in the Life of Harriet Tubman",
+        "sizeBytes": 161732
+      },
+      {
+        "id": "375",
+        "title": "An Occurrence at Owl Creek Bridge",
+        "sizeBytes": 22958
+      },
+      {
+        "id": "1091",
+        "title": "On Heroes, Hero-Worship, and the Heroic in History",
+        "sizeBytes": 526577
+      },
+      {
+        "id": "14033",
+        "title": "Plutarch's Lives, Volume 1 (of 4)",
+        "sizeBytes": 1099066
+      },
+      {
+        "id": "2376",
+        "title": "Up from Slavery: An Autobiography",
+        "sizeBytes": 444100
+      },
+      {
+        "id": "71860",
+        "title": "A memoir of Sir John Drummond Hay, P.C., K.C.B., G.C.M.G., sometime minister at the court of Morocco",
+        "sizeBytes": 920806
+      },
+      {
+        "id": "57493",
+        "title": "The Natural History of Pliny, Volume 1 (of 6)",
+        "sizeBytes": 1475291
+      },
+      {
+        "id": "51161",
+        "title": "Degeneration",
+        "sizeBytes": 1683464
+      },
+      {
+        "id": "2131",
+        "title": "An Account of Egypt",
+        "sizeBytes": 211058
+      },
+      {
+        "id": "23349",
+        "title": "The Religious Experience of the Roman People: From the Earliest Times to the Age of Augustus",
+        "sizeBytes": 1208915
+      },
+      {
+        "id": "38317",
+        "title": "Annals of the Bodleian Library, Oxford, A.D. 1598-A.D. 1867: With a Preliminary Notice of the earlier Library founded in the Fourteenth Century",
+        "sizeBytes": 835557
+      },
+      {
+        "id": "62250",
+        "title": "History, Gazetteer, and Directory of Shropshire [1851]",
+        "sizeBytes": 3074130
+      },
+      {
+        "id": "66410",
+        "title": "A guide book of art, architecture, and historic interests in Pennsylvania",
+        "sizeBytes": 720969
+      },
+      {
+        "id": "45917",
+        "title": "Origin of Cultivated Plants: The International Scientific Series Volume XLVIII",
+        "sizeBytes": 1109501
+      },
+      {
+        "id": "55998",
+        "title": "London Labour and the London Poor, Vol. 1",
+        "sizeBytes": 3068972
+      },
+      {
+        "id": "7524",
+        "title": "The Germany and the Agricola of Tacitus",
+        "sizeBytes": 305004
+      },
+      {
+        "id": "43427",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Lord Chamberlain\" to \"Luqman\": Volume 17, Slice 1",
+        "sizeBytes": 1290659
+      },
+      {
+        "id": "44125",
+        "title": "The Histories of Polybius, Vol. 1 (of 2)",
+        "sizeBytes": 1574621
+      },
+      {
+        "id": "23066",
+        "title": "The Prairie Traveler: A Hand-book for Overland Expeditions",
+        "sizeBytes": 497585
+      },
+      {
+        "id": "51912",
+        "title": "The Boss, and How He Came to Rule New York",
+        "sizeBytes": 571120
+      },
+      {
+        "id": "1719",
+        "title": "The Ballad of the White Horse",
+        "sizeBytes": 129631
+      },
+      {
+        "id": "59563",
+        "title": "A Military Dictionary and Gazetteer: Comprising ancient and modern military technical terms, historical accounts of all North American Indians, as well as ancient warlike tribes; also notices of battles from the earliest period to the present time, with a concise explanation of terms used in heraldry and the offices thereof. The work also gives valuable geographical information. Compiled from the best authorities of all nations. With an appendix containing the Articles of war, etc.",
+        "sizeBytes": 3873683
+      },
+      {
+        "id": "75011",
+        "title": "All quiet on the Western Front",
+        "sizeBytes": 366148
+      },
+      {
+        "id": "37734",
+        "title": "Some Jewish Witnesses For Christ",
+        "sizeBytes": 854043
+      },
+      {
+        "id": "12045",
+        "title": "Women in the fine arts, from the Seventh Century B.C. to the Twentieth Century A.D.",
+        "sizeBytes": 719737
+      },
+      {
+        "id": "51",
+        "title": "Anne of the Island",
+        "sizeBytes": 467630
+      },
+      {
+        "id": "71536",
+        "title": "Books and their makers during the Middle Ages : $b A study of the conditions of the production and distribution of literature from the fall of the Roman Empire to the close of the seventeenth century, Vol. I",
+        "sizeBytes": 1087624
+      },
+      {
+        "id": "1150",
+        "title": "The Danish History, Books I-IX",
+        "sizeBytes": 951070
+      },
+      {
+        "id": "42722",
+        "title": "Historic Paris",
+        "sizeBytes": 562462
+      },
+      {
+        "id": "421",
+        "title": "Kidnapped",
+        "sizeBytes": 457506
+      },
+      {
+        "id": "40863",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Justinian II.\" to \"Kells\": Volume 15, Slice 6",
+        "sizeBytes": 1182175
+      },
+      {
+        "id": "2440",
+        "title": "The Naturalist on the River Amazons",
+        "sizeBytes": 1062499
+      },
+      {
+        "id": "657",
+        "title": "The Anglo-Saxon Chronicle",
+        "sizeBytes": 580294
+      },
+      {
+        "id": "24882",
+        "title": "Privateering and Piracy in the Colonial Period: Illustrative Documents",
+        "sizeBytes": 1495286
+      },
+      {
+        "id": "44886",
+        "title": "The Geography of Strabo, Volume 3 (of 3): Literally Translated, with Notes",
+        "sizeBytes": 1237551
+      },
+      {
+        "id": "36542",
+        "title": "The American Occupation of the Philippines 1898-1912",
+        "sizeBytes": 1250012
+      },
+      {
+        "id": "26052",
+        "title": "James B. Eads",
+        "sizeBytes": 130204
+      },
+      {
+        "id": "735",
+        "title": "History of the Decline and Fall of the Roman Empire — Volume 5",
+        "sizeBytes": 1817344
+      },
+      {
+        "id": "27872",
+        "title": "A History of the French Novel, Vol. 2: To the Close of the 19th Century",
+        "sizeBytes": 1436882
+      },
+      {
+        "id": "60290",
+        "title": "The Nineteenth and Their Times: Being an Account of the Four Cavalry Regiments in the British Army That Have Borne the Number Nineteen and of the Campaigns in Which They Served",
+        "sizeBytes": 754986
+      },
+      {
+        "id": "42647",
+        "title": "Old and New Paris: Its History, Its People, and Its Places, v. 2",
+        "sizeBytes": 1531424
+      },
+      {
+        "id": "38485",
+        "title": "Ancient Pagan and Modern Christian Symbolism: With an Essay on Baal Worship, on the Assyrian Sacred \"Grove,\" and Other Allied Symbols",
+        "sizeBytes": 262641
+      },
+      {
+        "id": "38081",
+        "title": "The Inhabitants of the Philippines",
+        "sizeBytes": 998540
+      },
+      {
+        "id": "58834",
+        "title": "London City",
+        "sizeBytes": 1612377
+      },
+      {
+        "id": "67138",
+        "title": "The Sun Also Rises",
+        "sizeBytes": 414292
+      },
+      {
+        "id": "55643",
+        "title": "The English Peasantry and the Enclosure of Common Fields",
+        "sizeBytes": 895443
+      },
+      {
+        "id": "16679",
+        "title": "The history of England, from the accession of Henry III. to the death of Edward III. (1216-1377)",
+        "sizeBytes": 1268596
+      },
+      {
+        "id": "14194",
+        "title": "France in the Nineteenth Century",
+        "sizeBytes": 955581
+      },
+      {
+        "id": "1301",
+        "title": "The French Revolution: A History",
+        "sizeBytes": 2184312
+      },
+      {
+        "id": "21009",
+        "title": "The Atlantic Monthly, Volume 17, No. 100, February, 1866: A Magazine of Literature, Science, Art, and Politics",
+        "sizeBytes": 523776
+      },
+      {
+        "id": "54475",
+        "title": "Discoveries and Inventions of the Nineteenth Century",
+        "sizeBytes": 2447926
+      },
+      {
+        "id": "33231",
+        "title": "History of the Spanish Conquest of Yucatan and of the Itzas: Papers of the Peabody Museum of American Archaeology and Ethnology, Hard University. Vol. VII.",
+        "sizeBytes": 508428
+      },
+      {
+        "id": "21615",
+        "title": "Curiosities of Literature, Vol. 1",
+        "sizeBytes": 1268444
+      },
+      {
+        "id": "65919",
+        "title": "History of the Fylde of Lancashire",
+        "sizeBytes": 1286263
+      },
+      {
+        "id": "66694",
+        "title": "The historians' history of the world in twenty-five volumes, volume 10 : $b Spain and Portugal",
+        "sizeBytes": 2509510
+      },
+      {
+        "id": "68185",
+        "title": "The passing of the great race; or, The racial basis of European history",
+        "sizeBytes": 960550
+      },
+      {
+        "id": "44608",
+        "title": "The Bābur-nāma in English (Memoirs of Bābur)",
+        "sizeBytes": 2883184
+      },
+      {
+        "id": "39232",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Hinduism\" to \"Home, Earls of\": Volume 13, Slice 5",
+        "sizeBytes": 1199458
+      },
+      {
+        "id": "11937",
+        "title": "The symbolism of Freemasonry : $b Illustrating and explaining its science and philosophy, its legends, myths and symbols",
+        "sizeBytes": 645999
+      },
+      {
+        "id": "25326",
+        "title": "Lives of the Most Eminent Painters Sculptors and Architects, Vol. 01 (of 10): Cimabue to Agnolo Gaddi",
+        "sizeBytes": 525799
+      },
+      {
+        "id": "47",
+        "title": "Anne of Avonlea",
+        "sizeBytes": 532309
+      },
+      {
+        "id": "40580",
+        "title": "A general history of the pyrates : $b from their first rise and settlement in the island of Providence, to the present time",
+        "sizeBytes": 783645
+      },
+      {
+        "id": "40058",
+        "title": "The Life of Florence Nightingale, vol. 2 of 2",
+        "sizeBytes": 1329887
+      },
+      {
+        "id": "598",
+        "title": "Heimskringla; Or, The Chronicle of the Kings of Norway",
+        "sizeBytes": 1801032
+      },
+      {
+        "id": "42884",
+        "title": "The Philippine Islands, 1493-1898, Volume 33, 1519-1522: Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the Catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century",
+        "sizeBytes": 631071
+      },
+      {
+        "id": "70419",
+        "title": "History of Christian names",
+        "sizeBytes": 2036948
+      },
+      {
+        "id": "57009",
+        "title": "History of Lace",
+        "sizeBytes": 1348071
+      },
+      {
+        "id": "22049",
+        "title": "A Literary History of the English People, from the Origins to the Renaissance",
+        "sizeBytes": 1188694
+      },
+      {
+        "id": "22010",
+        "title": "The Tribes and Castes of the Central Provinces of India, Volume 2",
+        "sizeBytes": 1264737
+      },
+      {
+        "id": "58984",
+        "title": "Audubon the Naturalist: A History of His Life and Time. Vol. 2 (of 2)",
+        "sizeBytes": 1038117
+      },
+      {
+        "id": "26272",
+        "title": "The Spy",
+        "sizeBytes": 4908
+      },
+      {
+        "id": "12410",
+        "title": "The Travels of Marco Polo — Volume 2",
+        "sizeBytes": 2496404
+      },
+      {
+        "id": "46440",
+        "title": "A Journal of the First Voyage of  Vasco da Gama 1497-1499",
+        "sizeBytes": 553229
+      },
+      {
+        "id": "28311",
+        "title": "Notes and Queries, Number 82, May 24, 1851: A Medium of Inter-communication for Literary Men, Artists, Antiquaries, Genealogists, etc.",
+        "sizeBytes": 99566
+      },
+      {
+        "id": "38269",
+        "title": "A History of the Philippines",
+        "sizeBytes": 518586
+      },
+      {
+        "id": "42638",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Map\" to \"Mars\": Volume 17, Slice 6",
+        "sizeBytes": 1207069
+      },
+      {
+        "id": "29532",
+        "title": "Six Centuries of Painting",
+        "sizeBytes": 638956
+      },
+      {
+        "id": "54392",
+        "title": "A Complete History of Music: for Schools, Clubs, and Private Reading",
+        "sizeBytes": 1043367
+      },
+      {
+        "id": "45033",
+        "title": "The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 4",
+        "sizeBytes": 1110688
+      },
+      {
+        "id": "22788",
+        "title": "The Federalist Papers",
+        "sizeBytes": 7812
+      },
+      {
+        "id": "24700",
+        "title": "A History of French Literature: Short Histories of the Literatures of the World: II.",
+        "sizeBytes": 769129
+      },
+      {
+        "id": "26901",
+        "title": "A History of the Nineteenth Century, Year by Year. Volume 2 (of 3)",
+        "sizeBytes": 1089752
+      },
+      {
+        "id": "54219",
+        "title": "A Little English Gallery",
+        "sizeBytes": 323532
+      },
+      {
+        "id": "12422",
+        "title": "Journal of a Residence on a Georgian Plantation: 1838-1839",
+        "sizeBytes": 667985
+      },
+      {
+        "id": "59469",
+        "title": "The Scottish Highlands, Highland Clans and Highland Regiments, Volume 2 (of 2)",
+        "sizeBytes": 3913686
+      },
+      {
+        "id": "22815",
+        "title": "The Philippine Islands: A Political, Geographical, Ethnographical, Social and Commercial History of the Philippine Archipelago, Embracing the Whole Period of Spanish Rule",
+        "sizeBytes": 2093276
+      },
+      {
+        "id": "69956",
+        "title": "Daily stories of Pennsylvania : $b prepared for publication in the leading daily newspapers of the state...",
+        "sizeBytes": 2761338
+      },
+      {
+        "id": "69018",
+        "title": "Geographical etymology: a dictionary of place-names giving their derivations",
+        "sizeBytes": 658761
+      },
+      {
+        "id": "18314",
+        "title": "Types of Naval Officers, Drawn from the History of the British Navy",
+        "sizeBytes": 797376
+      },
+      {
+        "id": "60688",
+        "title": "The Natural History of Pliny, Volume 5 (of 6)",
+        "sizeBytes": 1408772
+      },
+      {
+        "id": "68990",
+        "title": "The art of music, Vol. 03 (of 14) : $b Modern music",
+        "sizeBytes": 1159066
+      },
+      {
+        "id": "25622",
+        "title": "Beatrice d'Este, Duchess of Milan, 1475-1497",
+        "sizeBytes": 931474
+      },
+      {
+        "id": "917",
+        "title": "Barnaby Rudge: A Tale of the Riots of 'Eighty",
+        "sizeBytes": 1528352
+      },
+      {
+        "id": "16878",
+        "title": "Observations upon the Prophecies of Daniel, and the Apocalypse of St. John",
+        "sizeBytes": 444099
+      },
+      {
+        "id": "44638",
+        "title": "Plant Lore, Legends, and Lyrics: Embracing the Myths, Traditions, Superstitions, and Folk-Lore of the Plant Kingdom",
+        "sizeBytes": 1878707
+      },
+      {
+        "id": "30508",
+        "title": "The Instruction of Ptah-Hotep and the Instruction of Ke'Gemni: The Oldest Books in the World",
+        "sizeBytes": 92276
+      },
+      {
+        "id": "27513",
+        "title": "The Book of the National Parks",
+        "sizeBytes": 648006
+      },
+      {
+        "id": "73000",
+        "title": "The mediaeval stage, volume 1 (of 2)",
+        "sizeBytes": 1286524
+      },
+      {
+        "id": "58750",
+        "title": "Superstition and Force: Essays on the Wager of Law, the Wager of Battle, the Ordeal, Torture",
+        "sizeBytes": 1498790
+      },
+      {
+        "id": "1254",
+        "title": "Cyrano de Bergerac",
+        "sizeBytes": 244702
+      },
+      {
+        "id": "21532",
+        "title": "The University of Michigan",
+        "sizeBytes": 699419
+      },
+      {
+        "id": "38015",
+        "title": "De Re Metallica, Translated from the First Latin Edition of 1556",
+        "sizeBytes": 1975461
+      },
+      {
+        "id": "57037",
+        "title": "The Prince",
+        "sizeBytes": 182201
+      },
+      {
+        "id": "20023",
+        "title": "The letters of Queen Victoria, vol. 1, 1837-1843 : $b A selection from Her Majesty's correspondence between the years 1837 and 1861.",
+        "sizeBytes": 1367572
+      },
+      {
+        "id": "61178",
+        "title": "History of Indian and Eastern Architecture",
+        "sizeBytes": 1760775
+      },
+      {
+        "id": "54966",
+        "title": "Handbook to the Mennonite Hymnary",
+        "sizeBytes": 1294379
+      },
+      {
+        "id": "48612",
+        "title": "Psychological Warfare",
+        "sizeBytes": 781374
+      },
+      {
+        "id": "6762",
+        "title": "Politics: A Treatise on Government",
+        "sizeBytes": 604392
+      },
+      {
+        "id": "67462",
+        "title": "The Elizabethan Stage, Vol. 3",
+        "sizeBytes": 1625186
+      },
+      {
+        "id": "2811",
+        "title": "Letters of Pliny",
+        "sizeBytes": 552881
+      },
+      {
+        "id": "17299",
+        "title": "Fifty Years of Railway Life in England, Scotland and Ireland",
+        "sizeBytes": 500293
+      },
+      {
+        "id": "58216",
+        "title": "History of Atchison County, Kansas",
+        "sizeBytes": 2347551
+      },
+      {
+        "id": "2760",
+        "title": "Celebrated Crimes (Complete)",
+        "sizeBytes": 3734329
+      },
+      {
+        "id": "67792",
+        "title": "A History of Magic and Experimental Science, Volume 1 (of 2): During the First Thirteen Centuries of Our Era",
+        "sizeBytes": 2140883
+      },
+      {
+        "id": "25012",
+        "title": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms.",
+        "sizeBytes": 178424
+      },
+      {
+        "id": "73369",
+        "title": "The historians' history of the world in twenty-five volumes, volume 17 : $b Switzerland (concluded), Russia and Poland",
+        "sizeBytes": 2532630
+      },
+      {
+        "id": "70731",
+        "title": "A history of English literature : $b A practical text-book",
+        "sizeBytes": 1467136
+      },
+      {
+        "id": "1522",
+        "title": "Julius Caesar",
+        "sizeBytes": 132214
+      },
+      {
+        "id": "12400",
+        "title": "Bismarck and the Foundation of the German Empire",
+        "sizeBytes": 776164
+      },
+      {
+        "id": "21500",
+        "title": "Memoirs of the Court of Queen Elizabeth",
+        "sizeBytes": 1660341
+      },
+      {
+        "id": "10940",
+        "title": "Manners, Customs, and Dress During the Middle Ages and During the Renaissance Period",
+        "sizeBytes": 1001159
+      },
+      {
+        "id": "32155",
+        "title": "The Love Letters of Henry VIII to Anne Boleyn; With Notes",
+        "sizeBytes": 34731
+      },
+      {
+        "id": "74869",
+        "title": "Staffordshire pottery and its history",
+        "sizeBytes": 296291
+      },
+      {
+        "id": "22042",
+        "title": "Christmas: Its Origin and Associations: Together with Its Historical Events and Festive Celebrations During Nineteen Centuries",
+        "sizeBytes": 915284
+      },
+      {
+        "id": "21851",
+        "title": "History of the Negro Race in America from 1619 to 1880. Vol. 2: Negroes as Slaves, as Soldiers, and as Citizens",
+        "sizeBytes": 1804836
+      },
+      {
+        "id": "17405",
+        "title": "The Art of War",
+        "sizeBytes": 67438
+      },
+      {
+        "id": "10884",
+        "title": "A Publisher and His Friends: Memoir and Correspondence of John Murray; with an Account of the Origin and Progress of the House, 1768-1843",
+        "sizeBytes": 951322
+      },
+      {
+        "id": "32699",
+        "title": "The Makers of Canada: Index and Dictionary of Canadian History",
+        "sizeBytes": 1718890
+      },
+      {
+        "id": "3891",
+        "title": "Memoirs of the Court of Marie Antoinette, Queen of France, Complete: Being the Historic Memoirs of Madam Campan, First Lady in Waiting to the Queen",
+        "sizeBytes": 981475
+      },
+      {
+        "id": "54968",
+        "title": "Famous composers and their works, Vol. 1",
+        "sizeBytes": 879244
+      },
+      {
+        "id": "71428",
+        "title": "Rings for the finger : $b from the earliest known times to the present, with full descriptions of the origin, early making, materials, the archæology, history, for affection, for love, for engagement, for wedding, commemorative, mourning, etc.",
+        "sizeBytes": 807979
+      },
+      {
+        "id": "76594",
+        "title": "The art of music, Vol. 06 (of 14) : $b Choral and church music",
+        "sizeBytes": 1095174
+      },
+      {
+        "id": "16546",
+        "title": "Hinduism and Buddhism, An Historical Sketch, Vol. 2",
+        "sizeBytes": 837912
+      },
+      {
+        "id": "29368",
+        "title": "Patrick Henry",
+        "sizeBytes": 805886
+      },
+      {
+        "id": "2085",
+        "title": "Cyropaedia: The Education of Cyrus",
+        "sizeBytes": 673155
+      },
+      {
+        "id": "66706",
+        "title": "Sun Tzŭ on the Art of War: The Oldest Military Treatise in the World",
+        "sizeBytes": 570785
+      },
+      {
+        "id": "60692",
+        "title": "The History of the Standard Oil Company",
+        "sizeBytes": 1947889
+      },
+      {
+        "id": "42983",
+        "title": "The History of the British Post Office",
+        "sizeBytes": 641935
+      },
+      {
+        "id": "59779",
+        "title": "The Campaigns and History of the Royal Irish Regiment, [v. 1,] from 1684 to 1902",
+        "sizeBytes": 1488765
+      },
+      {
+        "id": "43591",
+        "title": "The Life of Ludwig van Beethoven, Volume I",
+        "sizeBytes": 1113325
+      },
+      {
+        "id": "53276",
+        "title": "The Every-day Book and Table Book. v. 2 (of 3): or Everlasting Calendar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs and Events, Incident to Each of the Three Hundred and Sixty-five Days, in past and Present Times; Forming a Complete History of the Year, Month, and Seasons, and a Perpetual Key to the Almanac",
+        "sizeBytes": 3541531
+      },
+      {
+        "id": "6478",
+        "title": "Himalayan Journals — Complete: Or, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+        "sizeBytes": 1808103
+      },
+      {
+        "id": "15877",
+        "title": "Thoughts of Marcus Aurelius Antoninus",
+        "sizeBytes": 448119
+      },
+      {
+        "id": "16847",
+        "title": "Hinduism and Buddhism, An Historical Sketch, Vol. 3",
+        "sizeBytes": 1381955
+      },
+      {
+        "id": "10381",
+        "title": "The History of a Crime: The Testimony of an Eye-Witness",
+        "sizeBytes": 925919
+      },
+      {
+        "id": "3420",
+        "title": "A Vindication of the Rights of Woman: With Strictures on Political and Moral Subjects",
+        "sizeBytes": 537313
+      },
+      {
+        "id": "69492",
+        "title": "Memorials of old Cheshire",
+        "sizeBytes": 607177
+      },
+      {
+        "id": "31412",
+        "title": "Old and New London, Volume I: A Narrative of Its History, Its People, and Its Places",
+        "sizeBytes": 2473097
+      },
+      {
+        "id": "22485",
+        "title": "Devon, Its Moorlands, Streams and Coasts",
+        "sizeBytes": 722073
+      },
+      {
+        "id": "58799",
+        "title": "History of the Australian Bushrangers",
+        "sizeBytes": 910738
+      },
+      {
+        "id": "22400",
+        "title": "Fox's Book of Martyrs: Or A History of the Lives, Sufferings, and Triumphant; Deaths of the Primitive Protestant Martyrs",
+        "sizeBytes": 1617393
+      },
+      {
+        "id": "22762",
+        "title": "History of the Rise of the Huguenots, Vol. 1",
+        "sizeBytes": 1585942
+      },
+      {
+        "id": "42959",
+        "title": "The Survey of London",
+        "sizeBytes": 1385969
+      },
+      {
+        "id": "26086",
+        "title": "Wilmot and Tilley",
+        "sizeBytes": 433112
+      },
+      {
+        "id": "1",
+        "title": "The Declaration of Independence of the United States of America",
+        "sizeBytes": 11766
+      },
+      {
+        "id": "2009",
+        "title": "The Origin of Species by Means of Natural Selection: Or, the Preservation of Favoured Races in the Struggle for Life, 6th Edition",
+        "sizeBytes": 1326696
+      },
+      {
+        "id": "1576",
+        "title": "A Unique Story of a Marvellous Career: Life of Hon. Phineas T. Barnum",
+        "sizeBytes": 810189
+      },
+      {
+        "id": "14975",
+        "title": "Southern Horrors: Lynch Law in All Its Phases",
+        "sizeBytes": 59584
+      },
+      {
+        "id": "22994",
+        "title": "The Frontier in American History",
+        "sizeBytes": 761052
+      },
+      {
+        "id": "77443",
+        "title": "The doomed city",
+        "sizeBytes": 696300
+      },
+      {
+        "id": "60",
+        "title": "The Scarlet Pimpernel",
+        "sizeBytes": 527372
+      },
+      {
+        "id": "46409",
+        "title": "Heidi",
+        "sizeBytes": 383449
+      },
+      {
+        "id": "20556",
+        "title": "Lamarck, the Founder of Evolution: His Life and Work",
+        "sizeBytes": 861983
+      },
+      {
+        "id": "57176",
+        "title": "The Wisconsin Magazine of History, Volume 1, 1917-1918",
+        "sizeBytes": 1097579
+      },
+      {
+        "id": "65909",
+        "title": "A Smaller Dictionary of Greek and Roman Antiquities",
+        "sizeBytes": 2347352
+      },
+      {
+        "id": "57374",
+        "title": "Annals and Antiquities of Rajasthan, v. 1 of 3: or the Central and Western Rajput States of India",
+        "sizeBytes": 1804112
+      },
+      {
+        "id": "35110",
+        "title": "An Essay on the Development of Christian Doctrine",
+        "sizeBytes": 858256
+      },
+      {
+        "id": "19104",
+        "title": "Secret societies and subversive movements",
+        "sizeBytes": 1131132
+      },
+      {
+        "id": "46681",
+        "title": "A History of Norwegian Immigration to the United States: From the Earliest Beginning down to the Year 1848",
+        "sizeBytes": 667880
+      },
+      {
+        "id": "4078",
+        "title": "The Picture of Dorian Gray",
+        "sizeBytes": 318853
+      },
+      {
+        "id": "12096",
+        "title": "Bushido, the Soul of Japan",
+        "sizeBytes": 211384
+      },
+      {
+        "id": "44669",
+        "title": "The Jesuit Relations and Allied Documents, Vol. 1: Acadia, 1610-1613",
+        "sizeBytes": 519718
+      },
+      {
+        "id": "2048",
+        "title": "The Sketch-Book of Geoffrey Crayon",
+        "sizeBytes": 786720
+      },
+      {
+        "id": "54903",
+        "title": "The Latin Hymn-writers and Their Hymns",
+        "sizeBytes": 1271429
+      },
+      {
+        "id": "48244",
+        "title": "Montreal, 1535-1914. Vol. 2. Under British Rule, 1760-1914",
+        "sizeBytes": 2285744
+      },
+      {
+        "id": "52258",
+        "title": "History of the Royal Regiment of Artillery, Vol. 1: Compiled from the Original Records",
+        "sizeBytes": 1079985
+      },
+      {
+        "id": "58031",
+        "title": "Report of the President's Commission on the Assassination of President John F. Kennedy",
+        "sizeBytes": 2733884
+      },
+      {
+        "id": "42180",
+        "title": "Parish Priests and Their People in the Middle Ages in England",
+        "sizeBytes": 979220
+      },
+      {
+        "id": "41873",
+        "title": "The History of Prostitution: Its Extent, Causes, and Effects throughout the World",
+        "sizeBytes": 1870639
+      },
+      {
+        "id": "57980",
+        "title": "The Magic and Science of Jewels and Stones",
+        "sizeBytes": 697828
+      },
+      {
+        "id": "61113",
+        "title": "The Natural History of Pliny, Volume 4 (of 6)",
+        "sizeBytes": 1408557
+      },
+      {
+        "id": "6737",
+        "title": "The Social Cancer: A Complete English Version of Noli Me Tangere",
+        "sizeBytes": 1076150
+      },
+      {
+        "id": "12111",
+        "title": "The Glories of Ireland",
+        "sizeBytes": 815153
+      },
+      {
+        "id": "20426",
+        "title": "Form and Function: A Contribution to the History of Animal Morphology",
+        "sizeBytes": 893230
+      },
+      {
+        "id": "70619",
+        "title": "A history of criticism and literary taste in Europe, from the earliest texts to the present day. Volume 1 (of 3), Classical and mediæval criticism",
+        "sizeBytes": 1260156
+      },
+      {
+        "id": "30576",
+        "title": "Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume XVI, Texas Narratives, Part 1",
+        "sizeBytes": 502235
+      },
+      {
+        "id": "14140",
+        "title": "Plutarch's Lives, Volume 3 (of 4)",
+        "sizeBytes": 1405603
+      },
+      {
+        "id": "20696",
+        "title": "Highways and Byways in Sussex",
+        "sizeBytes": 810139
+      },
+      {
+        "id": "39308",
+        "title": "Walks in Rome",
+        "sizeBytes": 2058590
+      },
+      {
+        "id": "48014",
+        "title": "The American Postal Service: History of the Postal Service from the Earliest Times",
+        "sizeBytes": 277187
+      },
+      {
+        "id": "49038",
+        "title": "The Underground Railroad from Slavery to Freedom: A comprehensive history",
+        "sizeBytes": 1243510
+      },
+      {
+        "id": "24781",
+        "title": "The Birth of Yugoslavia, Volume 2",
+        "sizeBytes": 982712
+      },
+      {
+        "id": "59843",
+        "title": "The Palace and Park: Its Natural History, and Its Portrait Gallery, Together with a Description of the Pompeian Court",
+        "sizeBytes": 1702771
+      },
+      {
+        "id": "68693",
+        "title": "History of the inductive sciences, from the earliest to the present time",
+        "sizeBytes": 3016222
+      },
+      {
+        "id": "8459",
+        "title": "Marse Henry: An Autobiography (Volume 2)",
+        "sizeBytes": 347504
+      },
+      {
+        "id": "27587",
+        "title": "A Victor of Salamis",
+        "sizeBytes": 781815
+      },
+      {
+        "id": "62291",
+        "title": "A history of the Peninsular War, Vol. 5, Oct. 1811-Aug. 31, 1812 : $b Valencia, Ciudad Rodrigo, Badajoz, Salamanca, Madrid",
+        "sizeBytes": 1615948
+      },
+      {
+        "id": "74764",
+        "title": "Bibliographical history of electricity & magnetism, chronologically arranged",
+        "sizeBytes": 2355669
+      },
+      {
+        "id": "59101",
+        "title": "The Printer in Eighteenth-Century Williamsburg: An Account of His Life & Times, & of His Craft",
+        "sizeBytes": 62160
+      },
+      {
+        "id": "44235",
+        "title": "Memoirs of the Dukes of Urbino, Volume 2 (of 3): Illustrating the Arms, Arts, and Literature of Italy, from 1440 To 1630.",
+        "sizeBytes": 1070971
+      },
+      {
+        "id": "65236",
+        "title": "Roster of the Rainbow division (Forty-Second) Major General Wm. A. Mann commanding",
+        "sizeBytes": 1569186
+      },
+      {
+        "id": "5983",
+        "title": "The Institutes of Justinian",
+        "sizeBytes": 491251
+      },
+      {
+        "id": "101",
+        "title": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+        "sizeBytes": 684683
+      },
+      {
+        "id": "65868",
+        "title": "The Story of the Sun: New York, 1833-1918",
+        "sizeBytes": 848167
+      },
+      {
+        "id": "10657",
+        "title": "\"De Bello Gallico\" and Other Commentaries",
+        "sizeBytes": 976029
+      },
+      {
+        "id": "23601",
+        "title": "The U-boat hunters",
+        "sizeBytes": 304468
+      },
+      {
+        "id": "24374",
+        "title": "The Romance of Names",
+        "sizeBytes": 417598
+      },
+      {
+        "id": "3350",
+        "title": "The Wandering Jew — Complete",
+        "sizeBytes": 3254635
+      },
+      {
+        "id": "34439",
+        "title": "Norfolk Annals, Vol. 1: A Chronological Record of Remarkable Events in the Nineteeth Century",
+        "sizeBytes": 1627870
+      },
+      {
+        "id": "27012",
+        "title": "The Farmer Boy, and How He Became Commander-In-Chief",
+        "sizeBytes": 452867
+      },
+      {
+        "id": "15263",
+        "title": "The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.",
+        "sizeBytes": 2536300
+      },
+      {
+        "id": "13249",
+        "title": "Our Vanishing Wild Life: Its Extermination and Preservation",
+        "sizeBytes": 1143335
+      },
+      {
+        "id": "31511",
+        "title": "A History of Witchcraft in England from 1558 to 1718",
+        "sizeBytes": 895806
+      },
+      {
+        "id": "35977",
+        "title": "Letters of Abelard and Heloise: To which is prefix'd a particular account of their lives, amours, and misfortunes",
+        "sizeBytes": 282631
+      },
+      {
+        "id": "10609",
+        "title": "English Literature: Its History and Its Significance for the Life of the English-Speaking World",
+        "sizeBytes": 1353992
+      },
+      {
+        "id": "40057",
+        "title": "The Life of Florence Nightingale, vol. 1 of 2",
+        "sizeBytes": 1246848
+      },
+      {
+        "id": "29246",
+        "title": "The International Monthly, Volume 3, No. 2, May, 1851",
+        "sizeBytes": 892220
+      },
+      {
+        "id": "75021",
+        "title": "The Argonauts of California: being the reminiscenses of scenes and incidents that occurred in California in the early mining days",
+        "sizeBytes": 1045282
+      },
+      {
+        "id": "36375",
+        "title": "Fifty Years In The Northwest: With An Introduction And Appendix Containing Reminiscences, Incidents And Notes",
+        "sizeBytes": 1935467
+      },
+      {
+        "id": "44315",
+        "title": "Plutarch's Lives, Volume 4 (of 4)",
+        "sizeBytes": 1730509
+      },
+      {
+        "id": "68302",
+        "title": "History for ready reference, Volume 3, Greece to Nibelungen",
+        "sizeBytes": 5981361
+      },
+      {
+        "id": "73848",
+        "title": "The hero of the Filipinos : $b The story of José Rizal, poet, patriot and martyr",
+        "sizeBytes": 681870
+      },
+      {
+        "id": "14472",
+        "title": "Showell's Dictionary of Birmingham: A History and Guide, Arranged Alphabetically",
+        "sizeBytes": 1357185
+      },
+      {
+        "id": "22976",
+        "title": "Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume XI, North Carolina Narratives, Part 1",
+        "sizeBytes": 506284
+      },
+      {
+        "id": "37806",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Franciscans\" to \"French Language\": Volume 11, Slice 1",
+        "sizeBytes": 1095843
+      },
+      {
+        "id": "61614",
+        "title": "The Apostolic Tradition of Hippolytus: Translated into English with Introduction and Notes",
+        "sizeBytes": 222187
+      },
+      {
+        "id": "14300",
+        "title": "The Life of Napoleon I (Complete)",
+        "sizeBytes": 2418601
+      },
+      {
+        "id": "376",
+        "title": "A Journal of the Plague Year: Being Observations or Memorials of the Most Remarkable Occurrences, as Well Public as Private, Which Happened in London During the Last Great Visitation in 1665. Written by a Citizen Who Continued All the While in London",
+        "sizeBytes": 601855
+      },
+      {
+        "id": "1450",
+        "title": "Pollyanna",
+        "sizeBytes": 344559
+      },
+      {
+        "id": "46953",
+        "title": "A History of Champagne, with Notes on the Other Sparkling Wines of France",
+        "sizeBytes": 963256
+      },
+      {
+        "id": "69079",
+        "title": "Memorials of old Durham",
+        "sizeBytes": 546176
+      },
+      {
+        "id": "25789",
+        "title": "Emily Brontë",
+        "sizeBytes": 433950
+      },
+      {
+        "id": "65425",
+        "title": "The Tale of the Great Mutiny",
+        "sizeBytes": 614003
+      },
+      {
+        "id": "20847",
+        "title": "India: What can it teach us?: A Course of Lectures Delivered before the University Of Cambridge",
+        "sizeBytes": 553154
+      },
+      {
+        "id": "69002",
+        "title": "The village labourer, 1760-1832: A study in the government of England before the Reform Bill",
+        "sizeBytes": 1144415
+      },
+      {
+        "id": "2456",
+        "title": "The History of Herodotus — Volume 2",
+        "sizeBytes": 865968
+      },
+      {
+        "id": "202",
+        "title": "My Bondage and My Freedom",
+        "sizeBytes": 804292
+      },
+      {
+        "id": "8525",
+        "title": "Eve's Diary, Complete",
+        "sizeBytes": 36926
+      },
+      {
+        "id": "60766",
+        "title": "The Discoverie of Witchcraft",
+        "sizeBytes": 1920745
+      },
+      {
+        "id": "55620",
+        "title": "Histories of two hundred and fifty-one divisions of the German army which participated in the war (1914-1918)",
+        "sizeBytes": 3324499
+      },
+      {
+        "id": "10827",
+        "title": "Discourses on the First Decade of Titus Livius",
+        "sizeBytes": 842291
+      },
+      {
+        "id": "59822",
+        "title": "Epidemics Resulting from Wars",
+        "sizeBytes": 797300
+      },
+      {
+        "id": "19890",
+        "title": "The American Missionary — Volume 50, No. 06, June, 1896",
+        "sizeBytes": 127022
+      },
+      {
+        "id": "58776",
+        "title": "The Life of Bismarck, Private and Political: With Descriptive Notices of His Ancestry",
+        "sizeBytes": 975679
+      },
+      {
+        "id": "55829",
+        "title": "History of Spanish and Portuguese Literature (Vol 1 of 2)",
+        "sizeBytes": 1034508
+      },
+      {
+        "id": "17976",
+        "title": "Autobiography of Andrew Carnegie",
+        "sizeBytes": 712058
+      },
+      {
+        "id": "62300",
+        "title": "The Plague of Lust, Vol. 1 (of 2): Being a History of Venereal Disease in Classical Antiquity",
+        "sizeBytes": 774204
+      },
+      {
+        "id": "2577",
+        "title": "The Ancient Regime",
+        "sizeBytes": 1176271
+      },
+      {
+        "id": "9745",
+        "title": "The Rock of Chickamauga: A Story of the Western Crisis",
+        "sizeBytes": 507490
+      },
+      {
+        "id": "41424",
+        "title": "The Tribes and Castes of the Central Provinces of India, Volume 3",
+        "sizeBytes": 1375964
+      },
+      {
+        "id": "3072",
+        "title": "Andersonville: A Story of Rebel Military Prisons",
+        "sizeBytes": 1144811
+      },
+      {
+        "id": "3335",
+        "title": "Theodore Roosevelt: An Autobiography",
+        "sizeBytes": 1302448
+      },
+      {
+        "id": "20593",
+        "title": "Anne of Green Gables",
+        "sizeBytes": 4695
+      },
+      {
+        "id": "45848",
+        "title": "Up the Orinoco and down the Magdalena",
+        "sizeBytes": 944191
+      },
+      {
+        "id": "72822",
+        "title": "Famous composers and their works, Vol. 3",
+        "sizeBytes": 786994
+      },
+      {
+        "id": "31193",
+        "title": "Manifesto of the Communist Party",
+        "sizeBytes": 98723
+      },
+      {
+        "id": "28587",
+        "title": "The Roman History of Ammianus Marcellinus: During the Reigns of the Emperors Constantius, Julian, Jovianus, Valentinian, and Valens",
+        "sizeBytes": 1522240
+      },
+      {
+        "id": "22030",
+        "title": "Memoirs",
+        "sizeBytes": 947136
+      },
+      {
+        "id": "41771",
+        "title": "The History of Sulu",
+        "sizeBytes": 763618
+      },
+      {
+        "id": "41625",
+        "title": "Curious Facts in the History of Insects; Including Spiders and Scorpions.: A Complete Collection of the Legends, Superstitions, Beliefs, and Ominous Signs Connected with Insects; Together with Their Uses in Medicine, Art, and as Food; and a Summary of Their Remarkable Injuries and Appearances.",
+        "sizeBytes": 920842
+      },
+      {
+        "id": "10890",
+        "title": "Dio's Rome, Volume 5: An Historical Narrative Originally Composed in Greek During The Reigns of Septimius Severus, Geta and Caracalla, Macrinus, Elagabalus and Alexander Severus: and Now Presented in English Form",
+        "sizeBytes": 588293
+      },
+      {
+        "id": "23186",
+        "title": "The Handbook to English Heraldry",
+        "sizeBytes": 655004
+      },
+      {
+        "id": "19098",
+        "title": "Christmas in Ritual and Tradition, Christian and Pagan",
+        "sizeBytes": 765982
+      },
+      {
+        "id": "20411",
+        "title": "The Witch-cult in Western Europe: A Study in Anthropology",
+        "sizeBytes": 772951
+      },
+      {
+        "id": "44646",
+        "title": "Memoirs of the Duchesse de Dino (Afterwards Duchesse de Talleyrand et de Sagan), 1836-1840",
+        "sizeBytes": 992337
+      },
+      {
+        "id": "13144",
+        "title": "Medieval People",
+        "sizeBytes": 511077
+      },
+      {
+        "id": "75425",
+        "title": "Portuguese literature",
+        "sizeBytes": 978768
+      },
+      {
+        "id": "40986",
+        "title": "The Oera Linda Book, from a Manuscript of the Thirteenth Century",
+        "sizeBytes": 512142
+      },
+      {
+        "id": "5402",
+        "title": "1811 Dictionary of the Vulgar Tongue",
+        "sizeBytes": 521315
+      },
+      {
+        "id": "27710",
+        "title": "Lives of the Engineers: The Locomotive.  George and Robert Stephenson",
+        "sizeBytes": 851065
+      },
+      {
+        "id": "22397",
+        "title": "Shakespearean Playhouses: A History of English Theatres from the Beginnings to the Restoration",
+        "sizeBytes": 786578
+      },
+      {
+        "id": "36020",
+        "title": "Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume I, Alabama Narratives",
+        "sizeBytes": 715734
+      },
+      {
+        "id": "49955",
+        "title": "Bohemia, from the earliest times to the fall of national independence in 1620: With a short summary of later events",
+        "sizeBytes": 885872
+      },
+      {
+        "id": "6589",
+        "title": "A History of Modern Europe, 1792-1878",
+        "sizeBytes": 2710669
+      },
+      {
+        "id": "8813",
+        "title": "Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy",
+        "sizeBytes": 1479923
+      },
+      {
+        "id": "27114",
+        "title": "Ancient States and Empires: For Colleges and Schools",
+        "sizeBytes": 1364157
+      },
+      {
+        "id": "25833",
+        "title": "The Great Controversy Between Christ and Satan",
+        "sizeBytes": 1564898
+      },
+      {
+        "id": "1237",
+        "title": "Father Goriot",
+        "sizeBytes": 614908
+      },
+      {
+        "id": "2074",
+        "title": "The Civilisation of the Renaissance in Italy",
+        "sizeBytes": 1388409
+      },
+      {
+        "id": "71772",
+        "title": "Origins of the 'Forty-five : $b and other papers relating to that rising",
+        "sizeBytes": 1307084
+      },
+      {
+        "id": "44884",
+        "title": "The Geography of Strabo, Volume 1 (of 3): Literally Translated, with Notes",
+        "sizeBytes": 1367530
+      },
+      {
+        "id": "19447",
+        "title": "Morals and Dogma of the Ancient and Accepted Scottish Rite of Freemasonry",
+        "sizeBytes": 2761508
+      },
+      {
+        "id": "29787",
+        "title": "England, Picturesque and Descriptive: A Reminiscence of Foreign Travel",
+        "sizeBytes": 1144723
+      },
+      {
+        "id": "37586",
+        "title": "Women's Bathing and Swimming Costume in the United States",
+        "sizeBytes": 120615
+      },
+      {
+        "id": "5777",
+        "title": "Life's Handicap: Being Stories of Mine Own People",
+        "sizeBytes": 631866
+      },
+      {
+        "id": "44568",
+        "title": "A Comprehensive History of Norwich",
+        "sizeBytes": 1389273
+      },
+      {
+        "id": "32449",
+        "title": "Japanese Girls and Women: Revised and Enlarged Edition",
+        "sizeBytes": 594430
+      },
+      {
+        "id": "63350",
+        "title": "Nazi Conspiracy and Aggression, Volume 03 (of 11)",
+        "sizeBytes": 2356811
+      },
+      {
+        "id": "41910",
+        "title": "The Rise of the Mediaeval Church: And Its Influence on the Civilization of Western Europe from the First to the Thirteenth Century",
+        "sizeBytes": 1183803
+      },
+      {
+        "id": "17462",
+        "title": "Great Italian and French Composers",
+        "sizeBytes": 416266
+      },
+      {
+        "id": "23690",
+        "title": "Blackwood's Edinburgh Magazine, Volume 61, No. 378, April, 1847",
+        "sizeBytes": 560670
+      },
+      {
+        "id": "67691",
+        "title": "Pharmacographia: A history of the principal drugs of vegetable origin, met with in Great Britain and British India",
+        "sizeBytes": 2828504
+      },
+      {
+        "id": "65228",
+        "title": "Eminent literary and scientific men of Italy, Spain, and Portugal. Vol. 3 (of 3)",
+        "sizeBytes": 939544
+      },
+      {
+        "id": "67845",
+        "title": "Ireland: The People's History of Ireland, Volume 1 (of 2)",
+        "sizeBytes": 834939
+      },
+      {
+        "id": "70079",
+        "title": "Architecture : $b nineteenth and twentieth centuries",
+        "sizeBytes": 1961320
+      },
+      {
+        "id": "2360",
+        "title": "The Riddle of the Sands",
+        "sizeBytes": 654887
+      },
+      {
+        "id": "41687",
+        "title": "How France Built Her Cathedrals: A Study in the Twelfth and Thirteenth Centuries",
+        "sizeBytes": 1543308
+      },
+      {
+        "id": "67552",
+        "title": "The History of the Manners and Customs of Ancient Greece, Volume 1 (of 3)",
+        "sizeBytes": 986057
+      },
+      {
+        "id": "1174",
+        "title": "Hellenica",
+        "sizeBytes": 767972
+      },
+      {
+        "id": "1349",
+        "title": "Russia",
+        "sizeBytes": 1787964
+      },
+      {
+        "id": "944",
+        "title": "The Voyage of the Beagle",
+        "sizeBytes": 1246486
+      },
+      {
+        "id": "22300",
+        "title": "The Menorah Journal, Volume 1, 1915",
+        "sizeBytes": 1049544
+      },
+      {
+        "id": "39341",
+        "title": "The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 1",
+        "sizeBytes": 991813
+      },
+      {
+        "id": "63719",
+        "title": "The Louvre: Fifty Plates in Colour",
+        "sizeBytes": 681311
+      },
+      {
+        "id": "41788",
+        "title": "General Gatacre: The Story of the Life and Services of Sir William Forbes Gatacre, K.C.B., D.S.O., 1843-1906",
+        "sizeBytes": 497081
+      },
+      {
+        "id": "15776",
+        "title": "The Economic Consequences of the Peace",
+        "sizeBytes": 448562
+      },
+      {
+        "id": "54788",
+        "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England, Volume 2 (of 6): Mémoires d'outre-tombe, volume 2",
+        "sizeBytes": 903209
+      },
+      {
+        "id": "22657",
+        "title": "Steam, Its Generation and Use",
+        "sizeBytes": 1048929
+      },
+      {
+        "id": "59007",
+        "title": "The Roman Festivals of the Period of the Republic: An Introduction to the Study of the Religion of the Romans",
+        "sizeBytes": 1008221
+      },
+      {
+        "id": "847",
+        "title": "Lays of Ancient Rome",
+        "sizeBytes": 169533
+      },
+      {
+        "id": "39074",
+        "title": "Curiosities of Medical Experience",
+        "sizeBytes": 1488301
+      },
+      {
+        "id": "544",
+        "title": "Anne's House of Dreams",
+        "sizeBytes": 479340
+      },
+      {
+        "id": "67637",
+        "title": "The History of the Manners and Customs of Ancient Greece, Volume 2 (of 3)",
+        "sizeBytes": 1031188
+      },
+      {
+        "id": "28247",
+        "title": "A Popular History of Astronomy During the Nineteenth Century: Fourth Edition",
+        "sizeBytes": 1498013
+      },
+      {
+        "id": "77429",
+        "title": "Henry II",
+        "sizeBytes": 449985
+      },
+      {
+        "id": "24902",
+        "title": "The International Monthly, Volume 2, No. 4, March, 1851",
+        "sizeBytes": 887185
+      },
+      {
+        "id": "20580",
+        "title": "Napoleon the Little",
+        "sizeBytes": 467852
+      },
+      {
+        "id": "56836",
+        "title": "The Foundation of the Ottoman Empire; a history of the Osmanlis up to the death of Bayezid I (1300-1403)",
+        "sizeBytes": 830355
+      },
+      {
+        "id": "20927",
+        "title": "A Critical Exposition of the Popular 'Jihád': Showing that all the Wars of Mohammad Were Defensive; and; that Aggressive War, or Compulsory Conversion, is not; Allowed in The Koran - 1885",
+        "sizeBytes": 645868
+      },
+      {
+        "id": "52641",
+        "title": "The Antiquarian Magazine & Bibliographer; Vol. 4, July-Dec 1884",
+        "sizeBytes": 914430
+      },
+      {
+        "id": "13940",
+        "title": "The Problem of China",
+        "sizeBytes": 461740
+      },
+      {
+        "id": "74395",
+        "title": "A short history of Belgium",
+        "sizeBytes": 358374
+      },
+      {
+        "id": "16528",
+        "title": "Forty-one years in India: from subaltern to commander-in-chief",
+        "sizeBytes": 1891438
+      },
+      {
+        "id": "54149",
+        "title": "A History of Advertising from the Earliest Times.",
+        "sizeBytes": 1568379
+      },
+      {
+        "id": "50801",
+        "title": "Narrative and Critical History of America, Vol. 1 (of 8): Aboriginal America",
+        "sizeBytes": 2246660
+      },
+      {
+        "id": "11982",
+        "title": "Eighty Years and More; Reminiscences 1815-1897",
+        "sizeBytes": 825884
+      },
+      {
+        "id": "25504",
+        "title": "Khartoum Campaign, 1898; or the Re-Conquest of the Soudan",
+        "sizeBytes": 519411
+      },
+      {
+        "id": "30098",
+        "title": "The Venetian School of Painting",
+        "sizeBytes": 491824
+      },
+      {
+        "id": "61308",
+        "title": "History of English Literature Volume 1 (of 3)",
+        "sizeBytes": 1090849
+      },
+      {
+        "id": "62704",
+        "title": "The Natural History of Pliny, Volume 6 (of 6)",
+        "sizeBytes": 1647615
+      },
+      {
+        "id": "10840",
+        "title": "The Explorers of Australia and their Life-work",
+        "sizeBytes": 571765
+      },
+      {
+        "id": "44566",
+        "title": "A History of Caricature and Grotesque in Literature and Art",
+        "sizeBytes": 1069268
+      },
+      {
+        "id": "45249",
+        "title": "The History of Signboards, from the Earliest times to the Present Day",
+        "sizeBytes": 1487686
+      },
+      {
+        "id": "754",
+        "title": "The Story of Mankind",
+        "sizeBytes": 783793
+      },
+      {
+        "id": "56490",
+        "title": "History of Spanish Literature, vol. 3 (of 3)",
+        "sizeBytes": 1357654
+      },
+      {
+        "id": "22094",
+        "title": "Travels in the Great Desert of Sahara, in the Years of 1845 and 1846",
+        "sizeBytes": 1647210
+      },
+      {
+        "id": "8106",
+        "title": "Captain Cook's Journal During His First Voyage Round the World: Made in H. M. Bark \"Endeavour\", 1768-71",
+        "sizeBytes": 1349256
+      },
+      {
+        "id": "17150",
+        "title": "The Oldest Code of Laws in the World: The code of laws promulgated by Hammurabi, King of Babylon, B.C. 2285-2242",
+        "sizeBytes": 108519
+      },
+      {
+        "id": "41156",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Japan\" (part) to \"Jeveros\": Volume 15, Slice 3",
+        "sizeBytes": 1171158
+      },
+      {
+        "id": "9328",
+        "title": "Cleveland Past and Present: Its Representative Men: Comprising Biographical Sketches of Pioneer Settlers and Prominent Citizens",
+        "sizeBytes": 1209443
+      },
+      {
+        "id": "53672",
+        "title": "Sketches in Crude-oil: Some accidents and incidents of the petroleum development in all parts of the globe",
+        "sizeBytes": 1579606
+      },
+      {
+        "id": "58465",
+        "title": "Gypsy Sorcery and Fortune Telling: Illustrated by numerous incantations, specimens of medical magic, anecdotes and tales",
+        "sizeBytes": 553557
+      },
+      {
+        "id": "20196",
+        "title": "Victorian worthies : $b sixteen biographies",
+        "sizeBytes": 754057
+      },
+      {
+        "id": "48042",
+        "title": "Main Currents in Nineteenth Century Literature - 6. Young Germany",
+        "sizeBytes": 897558
+      },
+      {
+        "id": "25712",
+        "title": "The Great Events by Famous Historians, Volume 03",
+        "sizeBytes": 969856
+      },
+      {
+        "id": "769",
+        "title": "The Book of Tea",
+        "sizeBytes": 110843
+      },
+      {
+        "id": "25112",
+        "title": "The Life of King Edward VII: with a sketch of the career of King George V",
+        "sizeBytes": 929766
+      },
+      {
+        "id": "2300",
+        "title": "The Descent of Man, and Selection in Relation to Sex",
+        "sizeBytes": 1955581
+      },
+      {
+        "id": "7033",
+        "title": "Picturesque Quebec : a sequel to Quebec past and present",
+        "sizeBytes": 1531573
+      },
+      {
+        "id": "77473",
+        "title": "The land of the Pueblos",
+        "sizeBytes": 521491
+      },
+      {
+        "id": "19900",
+        "title": "The Mysteries of All Nations: Rise and Progress of Superstition, Laws Against and Trials of Witches, Ancient and Modern Delusions Together with Strange Customs, Fables, and Tales",
+        "sizeBytes": 1356110
+      },
+      {
+        "id": "34704",
+        "title": "British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions",
+        "sizeBytes": 804125
+      },
+      {
+        "id": "42438",
+        "title": "The Rise of Rail-Power in War and Conquest, 1833-1914",
+        "sizeBytes": 946486
+      },
+      {
+        "id": "33000",
+        "title": "A New History of the United States: The greater republic, embracing the growth and achievements of our country from the earliest days of discovery and settlement to the present eventful year",
+        "sizeBytes": 1503918
+      },
+      {
+        "id": "74723",
+        "title": "The first voyage round the world, by Magellan : $b translated from the accounts of Pigafetta, and other contemporary writers",
+        "sizeBytes": 674677
+      },
+      {
+        "id": "58237",
+        "title": "Motion pictures, 1940-1949 : $b Catalog of copyright entries",
+        "sizeBytes": 5908898
+      },
+      {
+        "id": "782",
+        "title": "The Travels of Sir John Mandeville",
+        "sizeBytes": 468173
+      },
+      {
+        "id": "42996",
+        "title": "Castes and Tribes of Southern India. Vol. 6 of 7",
+        "sizeBytes": 844442
+      },
+      {
+        "id": "70492",
+        "title": "Aspects of the novel",
+        "sizeBytes": 271572
+      },
+      {
+        "id": "43671",
+        "title": "A History of Epidemics in Britain, Volume 2 (of 2): From the Extinction of Plague to the Present Time",
+        "sizeBytes": 2652614
+      },
+      {
+        "id": "12587",
+        "title": "The Man Who Laughs: A Romance of English History",
+        "sizeBytes": 1255563
+      },
+      {
+        "id": "54812",
+        "title": "A Key to Uncle Tom's Cabin: Presenting the original facts and documents upon which the story is founded. Together with corroborative statements verifying the truth of the work.",
+        "sizeBytes": 1525517
+      },
+      {
+        "id": "13549",
+        "title": "The Art of War",
+        "sizeBytes": 903387
+      },
+      {
+        "id": "22169",
+        "title": "The Story of the Barbary Corsairs",
+        "sizeBytes": 425312
+      },
+      {
+        "id": "25100",
+        "title": "The Story of Commodore John Barry",
+        "sizeBytes": 201505
+      },
+      {
+        "id": "16780",
+        "title": "The Declaration of Independence of The United States of America",
+        "sizeBytes": 11366
+      },
+      {
+        "id": "33111",
+        "title": "The origin of the family, private property, and the state",
+        "sizeBytes": 410174
+      },
+      {
+        "id": "20906",
+        "title": "The Journal of Negro History, Volume 3, 1918",
+        "sizeBytes": 1094991
+      },
+      {
+        "id": "57185",
+        "title": "Napoleon's Russian Campaign of 1812",
+        "sizeBytes": 852339
+      },
+      {
+        "id": "76057",
+        "title": "London parks and gardens",
+        "sizeBytes": 689615
+      },
+      {
+        "id": "33",
+        "title": "The Scarlet Letter",
+        "sizeBytes": 511047
+      },
+      {
+        "id": "48053",
+        "title": "The Haciendas of Mexico: An Artist's Record",
+        "sizeBytes": 137649
+      },
+      {
+        "id": "54027",
+        "title": "Nil Darpan; or, The Indigo Planting Mirror, A Drama.: Translated from the Bengali by a Native.",
+        "sizeBytes": 215078
+      },
+      {
+        "id": "76262",
+        "title": "Beer, its history and its economic value as a national beverage",
+        "sizeBytes": 568693
+      },
+      {
+        "id": "38202",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Greek Law\" to \"Ground-Squirrel\": Volume 12, Slice 5",
+        "sizeBytes": 1189554
+      },
+      {
+        "id": "70207",
+        "title": "The man with the iron mask",
+        "sizeBytes": 719555
+      },
+      {
+        "id": "5500",
+        "title": "The Advancement of Learning",
+        "sizeBytes": 512960
+      },
+      {
+        "id": "62754",
+        "title": "Mussolini as revealed in his political speeches (November 1914-August 1923)",
+        "sizeBytes": 716823
+      },
+      {
+        "id": "47019",
+        "title": "Cambridge",
+        "sizeBytes": 835125
+      },
+      {
+        "id": "11858",
+        "title": "George Washington: Farmer: Being an Account of His Home Life and Agricultural Activities",
+        "sizeBytes": 425882
+      },
+      {
+        "id": "11273",
+        "title": "The Anti-Slavery Examiner, Part 3 of 4",
+        "sizeBytes": 2194616
+      },
+      {
+        "id": "58212",
+        "title": "The Noble and Gentle Men of England: or, notes touching the arms and descents of the ancient knightly and gentle houses of England, arranged in their respective counties.",
+        "sizeBytes": 438952
+      },
+      {
+        "id": "2995",
+        "title": "Tacitus on Germany",
+        "sizeBytes": 69755
+      },
+      {
+        "id": "36021",
+        "title": "The Negro in the United States; a selected bibliography. Compiled by Dorothy B. Porter",
+        "sizeBytes": 634185
+      },
+      {
+        "id": "19488",
+        "title": "The Life of Joan of Arc, Vol. 1 and 2",
+        "sizeBytes": 1910672
+      },
+      {
+        "id": "30051",
+        "title": "The History of Woman Suffrage, Volume VI",
+        "sizeBytes": 2224979
+      },
+      {
+        "id": "10590",
+        "title": "Lady Mary Wortley Montague, Her Life and Letters (1689-1762)",
+        "sizeBytes": 628076
+      },
+      {
+        "id": "47204",
+        "title": "The Supernatural in Modern English Fiction",
+        "sizeBytes": 676064
+      },
+      {
+        "id": "1929",
+        "title": "The School for Scandal",
+        "sizeBytes": 187256
+      },
+      {
+        "id": "35461",
+        "title": "A Short History of the World",
+        "sizeBytes": 771734
+      },
+      {
+        "id": "36548",
+        "title": "A Plain Introduction to the Criticism of the New Testament, Vol. I.",
+        "sizeBytes": 1269737
+      },
+      {
+        "id": "15679",
+        "title": "The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12)",
+        "sizeBytes": 1009789
+      },
+      {
+        "id": "51066",
+        "title": "The Japan-Russia War: An Illustrated History of the War in the Far East",
+        "sizeBytes": 842008
+      },
+      {
+        "id": "22728",
+        "title": "The Foundations of the Origin of Species: Two Essays written in 1842 and 1844",
+        "sizeBytes": 592131
+      },
+      {
+        "id": "31270",
+        "title": "The Writings of Thomas Paine, Complete: With Index to Volumes I - IV",
+        "sizeBytes": 2438399
+      },
+      {
+        "id": "25085",
+        "title": "The Stars and Stripes, Vol. 1, No. 1, February 8, 1918: The American Soldiers' Newspaper of World War I, 1918-1919",
+        "sizeBytes": 278654
+      },
+      {
+        "id": "47787",
+        "title": "Brief Lives, Vol. 1",
+        "sizeBytes": 957971
+      },
+      {
+        "id": "16653",
+        "title": "Myths of Babylonia and Assyria",
+        "sizeBytes": 982603
+      },
+      {
+        "id": "50573",
+        "title": "Correspondence and Report from His Majesty's Consul at Boma Respecting the Administration of the Independent State of the Congo [and Further Correspondence]",
+        "sizeBytes": 818262
+      },
+      {
+        "id": "25325",
+        "title": "The International Monthly, Volume 3, No. 1, April, 1851",
+        "sizeBytes": 918731
+      },
+      {
+        "id": "15076",
+        "title": "Some Principles of Maritime Strategy",
+        "sizeBytes": 633618
+      },
+      {
+        "id": "77105",
+        "title": "Chronicles of the house of Borgia",
+        "sizeBytes": 891386
+      },
+      {
+        "id": "76682",
+        "title": "The censorship of the Church of Rome and its influence upon the production and distribution of literature, volume 2 (of 2)",
+        "sizeBytes": 1003375
+      },
+      {
+        "id": "45580",
+        "title": "Woman, Church & State: The Original Exposé of Male Collaboration Against the Female Sex",
+        "sizeBytes": 1145153
+      },
+      {
+        "id": "37408",
+        "title": "The Rising Tide of Color Against White World-Supremacy",
+        "sizeBytes": 551912
+      },
+      {
+        "id": "42220",
+        "title": "History of Linn County Iowa: From Its Earliest Settlement to the Present Time [1911]",
+        "sizeBytes": 1954218
+      },
+      {
+        "id": "68680",
+        "title": "Pausanias' description of Greece, Volume II.",
+        "sizeBytes": 711761
+      },
+      {
+        "id": "70109",
+        "title": "Historic Jamaica",
+        "sizeBytes": 1029830
+      },
+      {
+        "id": "24950",
+        "title": "Bradford's History of 'Plimoth Plantation': From the Original Manuscript. With a Report of the Proceedings Incident to the Return of the Manuscript to Massachusetts",
+        "sizeBytes": 1013553
+      },
+      {
+        "id": "69473",
+        "title": "The life of Cardinal Mezzofanti: With an introductory memoir of eminent linguists, ancient and modern",
+        "sizeBytes": 1021507
+      },
+      {
+        "id": "71625",
+        "title": "History of Mexico, Volume 1, 1516-1521",
+        "sizeBytes": 2272097
+      },
+      {
+        "id": "44312",
+        "title": "The Remarkable History of the Hudson's Bay Company: Including that of the French Traders of North-Western Canada and of the North-West, XY, and Astor Fur Companies",
+        "sizeBytes": 1150728
+      },
+      {
+        "id": "68713",
+        "title": "A history of the administration of the Royal Navy and of merchant shipping in relation to the Navy from MDIX to MDCLX, with an introduction treating of the preceding period",
+        "sizeBytes": 1366892
+      },
+      {
+        "id": "2396",
+        "title": "History of the Catholic Church from the Renaissance to the French Revolution — Volume 1",
+        "sizeBytes": 895643
+      },
+      {
+        "id": "2464",
+        "title": "History of Florence and of the Affairs of Italy: From the Earliest Times to the Death of Lorenzo the Magnificent",
+        "sizeBytes": 984417
+      },
+      {
+        "id": "68744",
+        "title": "The inquisition in the Spanish dependencies: Sicily—Naples—Sardinia—Milan—the Canaries—Mexico—Peru—New Granada",
+        "sizeBytes": 1379468
+      },
+      {
+        "id": "21498",
+        "title": "France and the Republic: A Record of Things Seen and Learned in the French Provinces During the 'Centennial' Year 1889",
+        "sizeBytes": 1256917
+      },
+      {
+        "id": "69582",
+        "title": "The life and times of the Rev. John Wesley, M.A., founder of the Methodists. Vol. 1 (of 3)",
+        "sizeBytes": 1422771
+      },
+      {
+        "id": "28226",
+        "title": "The War in the Air; Vol. 1: The Part played in the Great War by the Royal Air Force",
+        "sizeBytes": 970649
+      },
+      {
+        "id": "16927",
+        "title": "Tacitus: The Histories, Volumes I and II",
+        "sizeBytes": 753453
+      },
+      {
+        "id": "21569",
+        "title": "Southern Arabia",
+        "sizeBytes": 873560
+      },
+      {
+        "id": "56347",
+        "title": "The General Historie of Virginia, New England & the Summer Isles  (Vol. I): Together with the True Travels, Adventures and Observations, and a Sea Grammar",
+        "sizeBytes": 899897
+      },
+      {
+        "id": "44443",
+        "title": "Military schools and courses of instruction in the science and art of war,: in France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and the United States. Drawn from recent official reports and documents. Revised Edition",
+        "sizeBytes": 3026630
+      },
+      {
+        "id": "17778",
+        "title": "Sir John French: An Authentic Biography",
+        "sizeBytes": 212671
+      },
+      {
+        "id": "37955",
+        "title": "The Life and Letters of Mary Wollstonecraft Shelley, Volume 1 (of 2)",
+        "sizeBytes": 658942
+      },
+      {
+        "id": "3253",
+        "title": "The Papers and Writings of Abraham Lincoln, Complete",
+        "sizeBytes": 3338014
+      },
+      {
+        "id": "34856",
+        "title": "My own story",
+        "sizeBytes": 582071
+      },
+      {
+        "id": "14562",
+        "title": "The Land-War in Ireland: A History for the Times",
+        "sizeBytes": 938994
+      },
+      {
+        "id": "48154",
+        "title": "History of Ancient Pottery: Greek, Etruscan, and Roman.  Volume 1 (of 2)",
+        "sizeBytes": 1293905
+      },
+      {
+        "id": "42686",
+        "title": "A History of Epidemics in Britain, Volume 1 (of 2): From A.D. 664 to the Extinction of Plague",
+        "sizeBytes": 1820731
+      },
+      {
+        "id": "5716",
+        "title": "Memoirs (Vieux Souvenirs) of the Prince de Joinville",
+        "sizeBytes": 676510
+      },
+      {
+        "id": "12233",
+        "title": "Stonewall Jackson and the American Civil War",
+        "sizeBytes": 2222654
+      },
+      {
+        "id": "52834",
+        "title": "Guernsey Folk Lore: a collection of popular superstitions, legendary tales, peculiar customs, proverbs, weather sayings, etc., of the people of that island",
+        "sizeBytes": 1075783
+      },
+      {
+        "id": "15293",
+        "title": "Influences of Geographic Environment: On the Basis of Ratzel's System of Anthropo-Geography",
+        "sizeBytes": 1535732
+      },
+      {
+        "id": "17385",
+        "title": "100 New Yorkers of the 1970s",
+        "sizeBytes": 596479
+      },
+      {
+        "id": "6756",
+        "title": "Little Memoirs of the Nineteenth Century",
+        "sizeBytes": 655128
+      },
+      {
+        "id": "35041",
+        "title": "Johann Sebastian Bach: His Life, Art, and Work",
+        "sizeBytes": 513138
+      },
+      {
+        "id": "20300",
+        "title": "Henry VIII.",
+        "sizeBytes": 999613
+      },
+      {
+        "id": "28020",
+        "title": "History of Woman Suffrage, Volume I",
+        "sizeBytes": 3023973
+      },
+      {
+        "id": "16479",
+        "title": "The Latin & Irish Lives of Ciaran: Translations Of Christian Literature. Series V. Lives Of; The Celtic Saints",
+        "sizeBytes": 341922
+      },
+      {
+        "id": "66791",
+        "title": "The City of the Saints, and Across the Rocky Mountains to California",
+        "sizeBytes": 2054145
+      },
+      {
+        "id": "13042",
+        "title": "Knickerbocker's History of New York, Complete",
+        "sizeBytes": 749393
+      },
+      {
+        "id": "24765",
+        "title": "A Treatise on the Tactical Use of the Three Arms: Infantry, Artillery, and Cavalry",
+        "sizeBytes": 158959
+      },
+      {
+        "id": "20955",
+        "title": "The International Monthly Magazine, Volume 5, No. 1, January, 1852",
+        "sizeBytes": 825864
+      },
+      {
+        "id": "59444",
+        "title": "William the Conqueror and the Rule of the Normans",
+        "sizeBytes": 849739
+      },
+      {
+        "id": "37404",
+        "title": "Church History, Volume 3 (of 3)",
+        "sizeBytes": 1696023
+      },
+      {
+        "id": "4943",
+        "title": "The River War: An Account of the Reconquest of the Sudan",
+        "sizeBytes": 789130
+      },
+      {
+        "id": "52286",
+        "title": "The Colleges of Oxford: Their History and Traditions: XXI Chapters Contributed by Members of the Colleges",
+        "sizeBytes": 1149142
+      },
+      {
+        "id": "67330",
+        "title": "A History of Magic and Experimental Science, Volume 2 (of 2): During the First Thirteen Centuries of Our Era",
+        "sizeBytes": 2573905
+      },
+      {
+        "id": "16449",
+        "title": "The Number Concept: Its Origin and Development",
+        "sizeBytes": 356653
+      },
+      {
+        "id": "22125",
+        "title": "The Venetian Painters of the Renaissance: Third Edition",
+        "sizeBytes": 222941
+      },
+      {
+        "id": "25000",
+        "title": "English Book Collectors",
+        "sizeBytes": 629108
+      },
+      {
+        "id": "27586",
+        "title": "The Mentor: The War of 1812: Volume 4, Number 3, Serial Number 103; 15 March, 1916.",
+        "sizeBytes": 48112
+      },
+      {
+        "id": "16431",
+        "title": "Richard Wagner, Composer of Operas",
+        "sizeBytes": 680434
+      },
+      {
+        "id": "20450",
+        "title": "The Lives of the Fathers, Martyrs, and Other Principal Saints. January, February, March",
+        "sizeBytes": 2874031
+      },
+      {
+        "id": "55593",
+        "title": "Travels in Peru and India: While Superintending the Collection of Chinchona Plants and Seeds in South America, and Their Introduction into India.",
+        "sizeBytes": 1229557
+      },
+      {
+        "id": "57431",
+        "title": "The Philippine Islands, 1493-1898, Volume 52, 1841-1898: Explorations by early navigators, descriptions of the islands and their peoples, their history and records of the catholic missions, as related in contemporaneous books and manuscripts, showing the political, economic, commercial and religious conditions of those islands from their earliest relations with European nations to the close of the nineteenth century",
+        "sizeBytes": 664542
+      },
+      {
+        "id": "32624",
+        "title": "A History of Rome to 565 A. D.",
+        "sizeBytes": 1147001
+      },
+      {
+        "id": "60542",
+        "title": "Geofroy Tory: Painter and engraver; first royal printer; reformer of orthography and typography under François I.",
+        "sizeBytes": 845105
+      },
+      {
+        "id": "27690",
+        "title": "Nobody's Girl: (En Famille)",
+        "sizeBytes": 436421
+      },
+      {
+        "id": "72778",
+        "title": "A history of the Brazil : $b comprising its geography, commerce, colonization, aboriginal inhabitants, &c. &c. &c.",
+        "sizeBytes": 1507772
+      },
+      {
+        "id": "32783",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Drama\" to \"Dublin\": Volume 8, Slice 7",
+        "sizeBytes": 1196171
+      },
+      {
+        "id": "26524",
+        "title": "The Huguenots in France",
+        "sizeBytes": 971973
+      },
+      {
+        "id": "8642",
+        "title": "Woman in the Nineteenth Century: and Kindred Papers Relating to the Sphere, Condition and Duties, of Woman.",
+        "sizeBytes": 659854
+      },
+      {
+        "id": "20265",
+        "title": "Anne of the Island",
+        "sizeBytes": 6986
+      },
+      {
+        "id": "17845",
+        "title": "Salem Witchcraft, Volumes I and II: With an Account of Salem Village and a History of Opinions on Witchcraft and Kindred Subjects",
+        "sizeBytes": 1848955
+      },
+      {
+        "id": "43970",
+        "title": "Every Day Life in the Massachusetts Bay Colony",
+        "sizeBytes": 673450
+      },
+      {
+        "id": "28152",
+        "title": "Sword and Pen: Ventures and Adventures of Willard Glazier",
+        "sizeBytes": 1102809
+      },
+      {
+        "id": "71904",
+        "title": "Alcuin of York : $b Lectures delivered in the cathedral church of Bristol in 1907 and 1908",
+        "sizeBytes": 576233
+      },
+      {
+        "id": "74099",
+        "title": "The journal of the American-Irish Historical Society, Vol. VIII, 1909",
+        "sizeBytes": 802894
+      },
+      {
+        "id": "40498",
+        "title": "Curiosities of Civilization",
+        "sizeBytes": 1307194
+      },
+      {
+        "id": "41785",
+        "title": "Archaic England : $b an essay in deciphering prehistory from megalithic monuments, earthworks, customs, coins, place-names, and faerie superstitions",
+        "sizeBytes": 1534331
+      },
+      {
+        "id": "70176",
+        "title": "The history of steam navigation",
+        "sizeBytes": 610744
+      },
+      {
+        "id": "70377",
+        "title": "Fifty years in Wall Street",
+        "sizeBytes": 2241967
+      },
+      {
+        "id": "42715",
+        "title": "Pompeii, Its Life and Art",
+        "sizeBytes": 1160982
+      },
+      {
+        "id": "65688",
+        "title": "The Everlasting Man",
+        "sizeBytes": 623866
+      },
+      {
+        "id": "18787",
+        "title": "Life of St. Francis of Assisi",
+        "sizeBytes": 983822
+      },
+      {
+        "id": "731",
+        "title": "History of the Decline and Fall of the Roman Empire — Volume 1",
+        "sizeBytes": 1859729
+      },
+      {
+        "id": "2121",
+        "title": "History of Friedrich II of Prussia — Volume 21",
+        "sizeBytes": 739512
+      },
+      {
+        "id": "51165",
+        "title": "The Regimental Records of the British Army: A historical résumé chronologically arranged of titles, campaigns, honours, uniforms, facings, badges, nicknames, etc.",
+        "sizeBytes": 338491
+      },
+      {
+        "id": "10717",
+        "title": "The Extant Odes of Pindar: Translated with Introduction and Short Notes by Ernest Myers",
+        "sizeBytes": 314393
+      },
+      {
+        "id": "76183",
+        "title": "Memories (volume 2 of 2)",
+        "sizeBytes": 992618
+      },
+      {
+        "id": "4094",
+        "title": "The Chinese Classics — Volume 1: Confucian Analects",
+        "sizeBytes": 260485
+      },
+      {
+        "id": "29496",
+        "title": "Christopher Columbus and his monument Columbia : $b being a concordance of choice tributes to the great Genoese, his grand discovery, and his greatness of mind and purpose",
+        "sizeBytes": 722185
+      },
+      {
+        "id": "73605",
+        "title": "A century of science in America : $b with special reference to the American Journal of Science, 1818-1918",
+        "sizeBytes": 1090773
+      },
+      {
+        "id": "16783",
+        "title": "Memoir, Correspondence, and Miscellanies, From the Papers of Thomas Jefferson, Volume 3",
+        "sizeBytes": 1297623
+      },
+      {
+        "id": "52160",
+        "title": "A Short History of Freethought Ancient and Modern, Volume 2 of 2: Third edition, Revised and Expanded, in two volumes",
+        "sizeBytes": 1620415
+      },
+      {
+        "id": "30802",
+        "title": "Commentaries on the Laws of England, Book the First",
+        "sizeBytes": 1052810
+      },
+      {
+        "id": "45353",
+        "title": "A History of American Literature",
+        "sizeBytes": 1121378
+      },
+      {
+        "id": "16784",
+        "title": "Memoir, Correspondence, and Miscellanies, From the Papers of Thomas Jefferson, Volume 4",
+        "sizeBytes": 1404380
+      },
+      {
+        "id": "59959",
+        "title": "English Surnames: Their Sources and Significations",
+        "sizeBytes": 1345036
+      },
+      {
+        "id": "21837",
+        "title": "Monopolies and the People",
+        "sizeBytes": 506641
+      },
+      {
+        "id": "71503",
+        "title": "The gods of Mexico",
+        "sizeBytes": 850862
+      },
+      {
+        "id": "13715",
+        "title": "The History of the Fabian Society",
+        "sizeBytes": 525050
+      },
+      {
+        "id": "14809",
+        "title": "The Origin and Deeds of the Goths",
+        "sizeBytes": 200606
+      },
+      {
+        "id": "45849",
+        "title": "Ten Thousand Wonderful Things: Comprising whatever is marvellous and rare, curious, eccentric and extraordinary in all ages and nations",
+        "sizeBytes": 1905922
+      },
+      {
+        "id": "63659",
+        "title": "The Roswell Report: Case Closed",
+        "sizeBytes": 516347
+      },
+      {
+        "id": "59924",
+        "title": "The Arts in the Middle Ages and at the Period of the Renaissance",
+        "sizeBytes": 919673
+      },
+      {
+        "id": "64529",
+        "title": "A history of Italian literature",
+        "sizeBytes": 811948
+      },
+      {
+        "id": "29603",
+        "title": "Henry IV, Makers of History",
+        "sizeBytes": 395427
+      },
+      {
+        "id": "47476",
+        "title": "Poems of American History",
+        "sizeBytes": 2756275
+      },
+      {
+        "id": "5",
+        "title": "The United States Constitution",
+        "sizeBytes": 30191
+      },
+      {
+        "id": "65363",
+        "title": "Magna Carta: A Commentary on the Great Charter of King John: With an Historical Introduction",
+        "sizeBytes": 1444930
+      },
+      {
+        "id": "59455",
+        "title": "A History of Roman Classical Literature.",
+        "sizeBytes": 1154380
+      },
+      {
+        "id": "40505",
+        "title": "Scurvy, Past and Present",
+        "sizeBytes": 560690
+      },
+      {
+        "id": "76148",
+        "title": "Indian slavery in colonial times within the present limits of the United States",
+        "sizeBytes": 753862
+      },
+      {
+        "id": "34341",
+        "title": "The Japanese Spirit",
+        "sizeBytes": 136509
+      },
+      {
+        "id": "38535",
+        "title": "The Great Illusion: A Study of the Relation of Military Power to National Advantage",
+        "sizeBytes": 735809
+      },
+      {
+        "id": "54879",
+        "title": "The Memoirs of François René Vicomte de Chateaubriand sometime Ambassador to England, Volume 4 (of 6): Mémoires d'outre-tombe volume 4",
+        "sizeBytes": 836908
+      },
+      {
+        "id": "64037",
+        "title": "The Life of Jesus Critically Examined: (4th ed.)",
+        "sizeBytes": 3112535
+      },
+      {
+        "id": "2445",
+        "title": "Letters on England",
+        "sizeBytes": 229138
+      },
+      {
+        "id": "22003",
+        "title": "The First Four Books of Xenophon's Anabasis",
+        "sizeBytes": 371100
+      },
+      {
+        "id": "24726",
+        "title": "A History of Art for Beginners and Students: Painting, Sculpture, Architecture",
+        "sizeBytes": 510459
+      },
+      {
+        "id": "39342",
+        "title": "The Sea: Its Stirring Story of Adventure, Peril, & Heroism. Volume 2",
+        "sizeBytes": 1032432
+      },
+      {
+        "id": "59512",
+        "title": "In the Wilds of South America",
+        "sizeBytes": 902772
+      },
+      {
+        "id": "55368",
+        "title": "Nazi Conspiracy and Aggression, Volume 01 (of 11)",
+        "sizeBytes": 3099494
+      },
+      {
+        "id": "14496",
+        "title": "Charles the Bold, Last Duke of Burgundy, 1433-1477",
+        "sizeBytes": 757960
+      },
+      {
+        "id": "46479",
+        "title": "Calendar history of the Kiowa Indians. (1898 N 17 / 1895-1896 (pages 129-444))",
+        "sizeBytes": 1095552
+      },
+      {
+        "id": "34081",
+        "title": "Myths & Legends of the Celtic Race",
+        "sizeBytes": 866816
+      },
+      {
+        "id": "50747",
+        "title": "The Expositor's Bible: The Book of the Twelve Prophets, Vol. 2: Commonly Called the Minor",
+        "sizeBytes": 1006817
+      },
+      {
+        "id": "19576",
+        "title": "Anne of Green Gables",
+        "sizeBytes": 6178
+      },
+      {
+        "id": "69502",
+        "title": "Hans Holbein the Younger, Volume 2 (of 2)",
+        "sizeBytes": 1331430
+      },
+      {
+        "id": "19209",
+        "title": "The Andes and the Amazon; Or, Across the Continent of South America",
+        "sizeBytes": 645689
+      },
+      {
+        "id": "72171",
+        "title": "How music grew, from prehistoric times to the present day",
+        "sizeBytes": 1167088
+      },
+      {
+        "id": "46661",
+        "title": "North Dakota: A Guide to the Northern Prairie State",
+        "sizeBytes": 1068362
+      },
+      {
+        "id": "6867",
+        "title": "Lineage, Life and Labors of José Rizal, Philippine Patriot",
+        "sizeBytes": 393276
+      },
+      {
+        "id": "33062",
+        "title": "A Short History of French Literature",
+        "sizeBytes": 1493647
+      },
+      {
+        "id": "2578",
+        "title": "The French Revolution - Volume 1",
+        "sizeBytes": 990491
+      },
+      {
+        "id": "5998",
+        "title": "Waverley; or, 'Tis sixty years since",
+        "sizeBytes": 1311754
+      },
+      {
+        "id": "3793",
+        "title": "Joseph II. and His Court: An Historical Novel",
+        "sizeBytes": 2219991
+      },
+      {
+        "id": "42231",
+        "title": "Old and New Paris: Its History, Its People, and Its Places, v. 1",
+        "sizeBytes": 1336347
+      },
+      {
+        "id": "66116",
+        "title": "Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals",
+        "sizeBytes": 1668384
+      },
+      {
+        "id": "27901",
+        "title": "Jewish Literature and Other Essays",
+        "sizeBytes": 650005
+      },
+      {
+        "id": "32507",
+        "title": "The Planters of Colonial Virginia",
+        "sizeBytes": 677810
+      },
+      {
+        "id": "44267",
+        "title": "Mr. Punch's History of Modern England, Vol. 1 (of 4).—1841-1857",
+        "sizeBytes": 561150
+      },
+      {
+        "id": "23200",
+        "title": "The Journal of Negro History, Volume 5, 1920",
+        "sizeBytes": 1140975
+      },
+      {
+        "id": "16180",
+        "title": "Roman Mosaics; Or, Studies in Rome and Its Neighbourhood",
+        "sizeBytes": 860469
+      },
+      {
+        "id": "505",
+        "title": "History of the Warfare of Science with Theology in Christendom",
+        "sizeBytes": 2063103
+      },
+      {
+        "id": "29143",
+        "title": "Pius IX. And His Time",
+        "sizeBytes": 974744
+      },
+      {
+        "id": "58658",
+        "title": "History of Central America, Volume 1, 1501-1530: The Works of Hubert Howe Bancroft, Volume 6",
+        "sizeBytes": 2066675
+      },
+      {
+        "id": "148",
+        "title": "The Autobiography of Benjamin Franklin",
+        "sizeBytes": 398080
+      },
+      {
+        "id": "13789",
+        "title": "Great Britain and the American Civil War",
+        "sizeBytes": 1522298
+      },
+      {
+        "id": "30253",
+        "title": "The Philippine Islands, 1493-1898 - Volume 40 of 55, 1690-1691: Explorations by Early Navigators, Descriptions of the Islands and Their Peoples, Their History and Records of the Catholic Missions, as Related in Contemporaneous Books and Manuscripts, Showing the Political, Economic, Commercial and Religious Conditions of Those Islands from Their Earliest Relations with European Nations to the Close of the Nineteenth Century",
+        "sizeBytes": 690187
+      },
+      {
+        "id": "63299",
+        "title": "The Book of the Pearl: The history, art, science, and industry of the queen of gems",
+        "sizeBytes": 1552929
+      },
+      {
+        "id": "35916",
+        "title": "A History of the Growth of the Steam-Engine",
+        "sizeBytes": 906901
+      },
+      {
+        "id": "42473",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Matter\" to \"Mecklenburg\": Volume 17, Slice 8",
+        "sizeBytes": 1258509
+      },
+      {
+        "id": "5246",
+        "title": "Modern French Philosophy: a Study of the Development Since Comte",
+        "sizeBytes": 682347
+      },
+      {
+        "id": "41580",
+        "title": "Haunted London",
+        "sizeBytes": 1054663
+      },
+      {
+        "id": "57043",
+        "title": "Memoirs of the Reign of King George the Third, Volume 1 (of 4)",
+        "sizeBytes": 794173
+      },
+      {
+        "id": "73069",
+        "title": "A history of the Peninsular War, Vol. 6, September 1, 1812-August 5, 1813 : $b The siege of Burgos, the retreat from Burgos, the campaign of Vittoria, the battles of the Pyrenees",
+        "sizeBytes": 1976976
+      },
+      {
+        "id": "2788",
+        "title": "Little Men: Life at Plumfield With Jo's Boys",
+        "sizeBytes": 603389
+      },
+      {
+        "id": "9803",
+        "title": "Memoirs of the Life and Correspondence of Henry Reeve, C.B., D.C.L.: In Two Volumes. Volume II.",
+        "sizeBytes": 914614
+      },
+      {
+        "id": "45645",
+        "title": "Japan: From the Japanese Government History",
+        "sizeBytes": 909890
+      },
+      {
+        "id": "36192",
+        "title": "The Balkan Wars: 1912-1913: Second Edition",
+        "sizeBytes": 151596
+      },
+      {
+        "id": "40852",
+        "title": "Instigations: Together with An Essay on the Chinese Written Character",
+        "sizeBytes": 624677
+      },
+      {
+        "id": "13701",
+        "title": "The Philippine Islands, 1493-1898 — Volume 07 of 55: 1588-1591; Explorations by Early Navigators, Descriptions of the Islands and Their Peoples, Their History and Records of the Catholic Missions, as Related in Contemporaneous Books and Manuscripts, Showing the Political, Economic, Commercial and Religious Conditions of Those Islands from Their Earliest Relations with European Nations to the Close of the Nineteenth Century",
+        "sizeBytes": 527633
+      },
+      {
+        "id": "43711",
+        "title": "A History of Chinese Literature",
+        "sizeBytes": 741759
+      },
+      {
+        "id": "38600",
+        "title": "The World's Sixteen Crucified Saviors; Or, Christianity Before Christ",
+        "sizeBytes": 769751
+      },
+      {
+        "id": "53360",
+        "title": "The History of the Indian Revolt and of the Expeditions to Persia, China and Japan, 1856-7-8",
+        "sizeBytes": 3658463
+      },
+      {
+        "id": "66887",
+        "title": "The History of Trade Unionism: (Revised edition, extended to 1920)",
+        "sizeBytes": 1903648
+      },
+      {
+        "id": "28513",
+        "title": "The Wonders of the Invisible World: Being an Account of the Tryals of Several Witches Lately Executed in New-England, to which is added A Farther Account of the Tryals of the New-England Witches",
+        "sizeBytes": 509543
+      },
+      {
+        "id": "17314",
+        "title": "Five Children and It",
+        "sizeBytes": 320915
+      },
+      {
+        "id": "42719",
+        "title": "A Treatise on Wood Engraving, Historical and Practical",
+        "sizeBytes": 1805453
+      },
+      {
+        "id": "275",
+        "title": "The Augsburg Confession: The confession of faith, which was submitted to His Imperial Majesty Charles V at the diet of Augsburg in the year 1530",
+        "sizeBytes": 88648
+      },
+      {
+        "id": "47367",
+        "title": "British Pomology: Or, the History, Description, Classification, and Synonymes, of the Fruits and Fruit Trees of Great Britain",
+        "sizeBytes": 858033
+      },
+      {
+        "id": "10633",
+        "title": "The History of the Rise, Progress and Accomplishment of the Abolition of the African Slave-Trade, by the British Parliament (1839)",
+        "sizeBytes": 1444861
+      },
+      {
+        "id": "57978",
+        "title": "The Curious Lore of Precious Stones: Being a description of their sentiments and folk lore, superstitions, symbolism, mysticism, use in medicine, protection, prevention, religion, and divination. Crystal gazing, birth-stones, lucky stones and talismans, astral, zodiacal, and planetary",
+        "sizeBytes": 801532
+      },
+      {
+        "id": "3100",
+        "title": "The Chinese Classics: with a translation, critical and exegetical notes, prolegomena and copious indexes: (Shih ching. English) — Volume 1",
+        "sizeBytes": 332695
+      },
+      {
+        "id": "23881",
+        "title": "The History of \"Punch\"",
+        "sizeBytes": 1291841
+      },
+      {
+        "id": "52423",
+        "title": "The White Slaves of England",
+        "sizeBytes": 1054444
+      },
+      {
+        "id": "32343",
+        "title": "An Englishman in Paris: Notes and Recollections",
+        "sizeBytes": 1288404
+      },
+      {
+        "id": "33743",
+        "title": "The History and Antiquities of the Doric Race, Vol. 1 of 2",
+        "sizeBytes": 1115852
+      },
+      {
+        "id": "71209",
+        "title": "The historians' history of the world in twenty-five volumes, volume 09 : $b Italy",
+        "sizeBytes": 2474220
+      },
+      {
+        "id": "34162",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Armour Plates\" to \"Arundel, Earls of\": Volume 2, Slice 6",
+        "sizeBytes": 1234818
+      },
+      {
+        "id": "45981",
+        "title": "Rowlandson the Caricaturist; a Selection from His Works. Vol. 2",
+        "sizeBytes": 1155841
+      },
+      {
+        "id": "36206",
+        "title": "Norfolk Annals, Vol. 2: A Chronological Record of Remarkable Events in the Nineteeth Century",
+        "sizeBytes": 1775757
+      },
+      {
+        "id": "77379",
+        "title": "The twin seven-shooters",
+        "sizeBytes": 43912
+      },
+      {
+        "id": "48991",
+        "title": "Leyte: The Return to the Philippines",
+        "sizeBytes": 1148141
+      },
+      {
+        "id": "58809",
+        "title": "British Popular Customs, Present and Past: Illustrating the Social and Domestic Manners of the People. Arranged According to the Calendar of the Year.",
+        "sizeBytes": 1194242
+      },
+      {
+        "id": "12297",
+        "title": "Slave Narratives: A Folk History of Slavery in the United States from Interviews with Former Slaves, Volume III, Florida Narratives",
+        "sizeBytes": 483248
+      },
+      {
+        "id": "43491",
+        "title": "An Introduction to the Study of the Maya Hieroglyphs",
+        "sizeBytes": 858122
+      },
+      {
+        "id": "71283",
+        "title": "Richard the Lion Heart",
+        "sizeBytes": 873666
+      },
+      {
+        "id": "26419",
+        "title": "The Life of Gordon, Volume I",
+        "sizeBytes": 481761
+      },
+      {
+        "id": "10770",
+        "title": "The Former Philippines Thru Foreign Eyes",
+        "sizeBytes": 1378836
+      },
+      {
+        "id": "77416",
+        "title": "San kuo; or, Romance of the three kingdoms (volume 1 of 2)",
+        "sizeBytes": 1707197
+      },
+      {
+        "id": "2853",
+        "title": "Quo Vadis: A Narrative of the Time of Nero",
+        "sizeBytes": 1245275
+      },
+      {
+        "id": "34122",
+        "title": "Roman Society from Nero to Marcus Aurelius",
+        "sizeBytes": 1788936
+      },
+      {
+        "id": "24979",
+        "title": "A Source Book for Ancient Church History",
+        "sizeBytes": 1561308
+      },
+      {
+        "id": "70864",
+        "title": "History of Zionism, 1600-1918, Vol. 1 (of 2)",
+        "sizeBytes": 964698
+      },
+      {
+        "id": "17306",
+        "title": "The Condition of the Working-Class in England in 1844: with a Preface written in 1892",
+        "sizeBytes": 739715
+      },
+      {
+        "id": "58418",
+        "title": "Cicero: Letters to Atticus, Vol. 1 of 3",
+        "sizeBytes": 813986
+      },
+      {
+        "id": "59755",
+        "title": "History of the Conquest of Mexico; vol. 1/4",
+        "sizeBytes": 824625
+      },
+      {
+        "id": "69300",
+        "title": "Korea and her neighbors: A narrative of travel, with an account of the recent vicissitudes and present position of the country",
+        "sizeBytes": 1023649
+      },
+      {
+        "id": "70963",
+        "title": "Heortology : $b A history of the Christian festivals from their origin to the present day",
+        "sizeBytes": 954460
+      },
+      {
+        "id": "28057",
+        "title": "Highways and Byways in Surrey",
+        "sizeBytes": 905040
+      },
+      {
+        "id": "51104",
+        "title": "Allen & Morton's West-London Directory for 1867",
+        "sizeBytes": 1223
+      },
+      {
+        "id": "11716",
+        "title": "The Balkans: A History of Bulgaria—Serbia—Greece—Rumania—Turkey",
+        "sizeBytes": 743712
+      },
+      {
+        "id": "60321",
+        "title": "Prisoners of War in Britain 1756 to 1815: A record of their lives, their romance and their sufferings",
+        "sizeBytes": 1092671
+      },
+      {
+        "id": "10661",
+        "title": "A Selection from the Discourses of Epictetus with the Encheiridion",
+        "sizeBytes": 342930
+      },
+      {
+        "id": "41218",
+        "title": "The Diary of John Evelyn (Volume 1 of 2)",
+        "sizeBytes": 953639
+      },
+      {
+        "id": "48602",
+        "title": "The Early Norman Castles of the British Isles.",
+        "sizeBytes": 842107
+      },
+      {
+        "id": "15784",
+        "title": "The Chronology of Ancient Kingdoms Amended: To which is Prefix'd, A Short Chronicle from the First Memory of Things in Europe, to the Conquest of Persia by Alexander the Great",
+        "sizeBytes": 554608
+      },
+      {
+        "id": "55397",
+        "title": "Railroad Reorganization",
+        "sizeBytes": 1054934
+      },
+      {
+        "id": "69852",
+        "title": "Westminster Abbey: The last days of the monastery as shown by the life and times of Abbot John Islip, 1464-1532",
+        "sizeBytes": 168094
+      },
+      {
+        "id": "7829",
+        "title": "American Prisoners of the Revolution",
+        "sizeBytes": 909515
+      },
+      {
+        "id": "14517",
+        "title": "France and England in North America, Part VI : Montcalm and Wolfe",
+        "sizeBytes": 1647735
+      },
+      {
+        "id": "60814",
+        "title": "Bohemian (Cech) Bibliography: A finding list of writings in English relating to Bohemia and the Cechs",
+        "sizeBytes": 395658
+      },
+      {
+        "id": "44548",
+        "title": "The Englishman in China During the Victorian Era, Vol. 2 (of 2): As Illustrated in the Career of Sir Rutherford Alcock, K.C.B., D.C.L., Many Years Consul and Minister in China and Japan",
+        "sizeBytes": 956782
+      },
+      {
+        "id": "2759",
+        "title": "The Man in the Iron Mask",
+        "sizeBytes": 1090935
+      },
+      {
+        "id": "5199",
+        "title": "South: The Story of Shackleton's Last Expedition, 1914-1917",
+        "sizeBytes": 875499
+      },
+      {
+        "id": "20947",
+        "title": "Memoirs of the Jacobites of 1715 and 1745. Volume II.",
+        "sizeBytes": 621589
+      },
+      {
+        "id": "33614",
+        "title": "Encyclopaedia Britannica, 11th Edition, \"Bohemia\" to \"Borgia, Francis\": Volume 4, Slice 2",
+        "sizeBytes": 1136611
+      },
+      {
+        "id": "28289",
+        "title": "The Essays of \"George Eliot\": Complete",
+        "sizeBytes": 661537
+      },
+      {
+        "id": "11953",
+        "title": "A Popular History of France from the Earliest Times, Volume 3",
+        "sizeBytes": 831276
+      },
+      {
+        "id": "50577",
+        "title": "Memoirs of the Dukes of Urbino, Volume 3 (of 3): Illustrating the Arms, Arts, and Literature of Italy, from 1440 To 1630",
+        "sizeBytes": 1347240
+      },
+      {
+        "id": "20583",
+        "title": "The Tribes and Castes of the Central Provinces of India, Volume 1",
+        "sizeBytes": 1169712
+      },
+      {
+        "id": "28641",
+        "title": "The History of Dartmouth College",
+        "sizeBytes": 1207258
+      },
+      {
+        "id": "28334",
+        "title": "The New Hudson Shakespeare: Julius Cæsar",
+        "sizeBytes": 493949
+      },
+      {
+        "id": "12077",
+        "title": "The Philippines: Past and Present (Volume 1 of 2)",
+        "sizeBytes": 1115958
+      },
+      {
+        "id": "15772",
+        "title": "Machiavelli, Volume I",
+        "sizeBytes": 784968
+      },
+      {
+        "id": "26378",
+        "title": "The Care of Books",
+        "sizeBytes": 748878
+      },
+      {
+        "id": "67970",
+        "title": "Chinese pottery and porcelain; vol. 1. Pottery and early wares",
+        "sizeBytes": 588870
+      },
+      {
+        "id": "40766",
+        "title": "Nationalism",
+        "sizeBytes": 161758
+      },
+      {
+        "id": "51495",
+        "title": "The Uncensored Letters of a Canteen Girl",
+        "sizeBytes": 568108
+      },
+      {
+        "id": "2787",
+        "title": "An Old-Fashioned Girl",
+        "sizeBytes": 592006
+      },
+      {
+        "id": "28384",
+        "title": "As I Remember: Recollections of American Society during the Nineteenth Century",
+        "sizeBytes": 855917
+      },
+      {
+        "id": "24790",
+        "title": "Early English Meals and Manners",
+        "sizeBytes": 1448962
+      },
+      {
+        "id": "59754",
+        "title": "The Cavaliers of Fortune; Or, British Heroes in Foreign Wars",
+        "sizeBytes": 872793
+      },
+      {
+        "id": "9842",
+        "title": "Y Gododin: A Poem of the Battle of Cattraeth",
+        "sizeBytes": 271408
+      },
+      {
+        "id": "25929",
+        "title": "Daemonologie.",
+        "sizeBytes": 159557
+      },
+      {
+        "id": "35363",
+        "title": "A Short History of Italy (476-1900)",
+        "sizeBytes": 740822
+      },
+      {
+        "id": "37388",
+        "title": "Tobacco Leaves: Being a Book of Facts for Smokers",
+        "sizeBytes": 219571
+      },
+      {
+        "id": "43593",
+        "title": "The Life of Ludwig van Beethoven, Volume III",
+        "sizeBytes": 1138593
+      },
+      {
+        "id": "27238",
+        "title": "Woodworking Tools 1600-1900",
+        "sizeBytes": 92191
+      },
+      {
+        "id": "56167",
+        "title": "The Viking Age. Volume 1 (of 2): The early history, manners, and customs of the ancestors of the English-speaking nations",
+        "sizeBytes": 1143975
+      },
+      {
+        "id": "64207",
+        "title": "Of Medicine, in Eight Books",
+        "sizeBytes": 1161961
+      },
+      {
+        "id": "49867",
+        "title": "The Learned Lady in England, 1650-1760",
+        "sizeBytes": 1175335
+      },
+      {
+        "id": "43865",
+        "title": "The Old Inns of Old England, Volume 1 (of 2): A Picturesque Account of the Ancient and Storied Hostelries of Our Own Country",
+        "sizeBytes": 421914
+      },
+      {
+        "id": "76961",
+        "title": "The literature of the Celts",
+        "sizeBytes": 868001
+      },
+      {
+        "id": "7800",
+        "title": "Outlines of English and American Literature: An Introduction to the Chief Writers of England and America, to the Books They Wrote, and to the Times in Which They Lived",
+        "sizeBytes": 1157394
+      },
+      {
+        "id": "28540",
+        "title": "Bibliomania; or Book-Madness: A Bibliographical Romance",
+        "sizeBytes": 2067166
+      },
+      {
+        "id": "34815",
+        "title": "Jane's All the World's Aircraft. 1913",
+        "sizeBytes": 762208
+      },
+      {
+        "id": "43296",
+        "title": "A History of the Inquisition of Spain; vol. 1",
+        "sizeBytes": 1675072
+      },
+      {
+        "id": "56387",
+        "title": "Frederick the Great and the Rise of Prussia",
+        "sizeBytes": 617332
+      },
+      {
+        "id": "56832",
+        "title": "The London Burial Grounds: Notes on Their History from the Earliest Times to the Present Day",
+        "sizeBytes": 451573
+      },
+      {
+        "id": "11954",
+        "title": "A Popular History of France from the Earliest Times, Volume 4",
+        "sizeBytes": 975081
+      },
+      {
+        "id": "40782",
+        "title": "Smithsonian Institution - United States National Museum - Bulletin 240: Contributions From the Museum of History and Technology; Papers 34-44 on Science and Technology",
+        "sizeBytes": 972031
+      },
+      {
+        "id": "43541",
+        "title": "A Diplomat in Japan: The inner history of the critical years in the evolution of Japan when the ports were opened and the monarchy restored, recorded by a diplomatist who took an active part in the events of the time, with an account of his personal experiences during that period",
+        "sizeBytes": 1029033
+      },
+      {
+        "id": "10797",
+        "title": "The Wits and Beaux of Society. Volume 2",
+        "sizeBytes": 575087
+      },
+      {
+        "id": "11329",
+        "title": "Lands of the Slave and the Free; Or, Cuba, the United States, and Canada",
+        "sizeBytes": 1181863
+      },
+      {
+        "id": "51635",
+        "title": "Hegel's Lectures on the History of Philosophy: Volume 1 (of 3)",
+        "sizeBytes": 1046124
+      },
+      {
+        "id": "61421",
+        "title": "Some Account of the Oxford University Press, 1468-1921",
+        "sizeBytes": 138510
+      },
+      {
+        "id": "2849",
+        "title": "Against Apion",
+        "sizeBytes": 241521
+      },
+      {
+        "id": "18993",
+        "title": "History of the World War : $b An authentic narrative of the world's greatest war",
+        "sizeBytes": 1524733
+      },
+      {
+        "id": "14058",
+        "title": "Readings on Fascism and National Socialism: Selected by members of the department of philosophy, University of Colorado",
+        "sizeBytes": 287699
+      },
+      {
+        "id": "71223",
+        "title": "Religion and the rise of capitalism : $b A historical study",
+        "sizeBytes": 718298
+      },
+      {
+        "id": "14078",
+        "title": "The Liberation of Italy, 1815-1870",
+        "sizeBytes": 783956
+      },
+      {
+        "id": "46407",
+        "title": "Memoirs of the Empress Catherine II.: Written by Herself",
+        "sizeBytes": 580358
+      },
+      {
+        "id": "19637",
+        "title": "Black Beauty - The Autobiography of a Horse",
+        "sizeBytes": 6556
+      },
+      {
+        "id": "60440",
+        "title": "London Labour and the London Poor, Vol. 2",
+        "sizeBytes": 3335304
+      },
+      {
+        "id": "34455",
+        "title": "Give Me Liberty: The Struggle for Self-Government in Virginia",
+        "sizeBytes": 700937
+      },
+      {
+        "id": "4061",
+        "title": "The Fifteen Decisive Battles of the World: from Marathon to Waterloo",
+        "sizeBytes": 1048524
+      },
+      {
+        "id": "20318",
+        "title": "Little Journeys to the Homes of the Great - Volume 14: Little Journeys to the Homes of Great Musicians",
+        "sizeBytes": 671019
+      },
+      {
+        "id": "13056",
+        "title": "The German Classics of the Nineteenth and Twentieth Centuries, Volume 10: Prince Otto Von Bismarck, Count Helmuth Von Moltke, Ferdinand Lassalle",
+        "sizeBytes": 1093081
+      },
+      {
+        "id": "41538",
+        "title": "The Progress of Invention in the Nineteenth Century.",
+        "sizeBytes": 924163
+      },
+      {
+        "id": "29739",
+        "title": "Little Masterpieces of Science: The Naturalist as Interpreter and Seer",
+        "sizeBytes": 263341
+      },
+      {
+        "id": "69392",
+        "title": "Eminent doctors: Their lives and their work; Vol. 2 of 2",
+        "sizeBytes": 624615
+      },
+      {
+        "id": "39989",
+        "title": "The Churches of Paris, from Clovis to Charles X",
+        "sizeBytes": 732327
+      },
+      {
+        "id": "23466",
+        "title": "Bartholomew de Las Casas; his life, apostolate, and writings",
+        "sizeBytes": 786917
+      },
+      {
+        "id": "50778",
+        "title": "William of Malmesbury's Chronicle of the Kings of England: From the earliest period to the reign of King Stephen",
+        "sizeBytes": 1428204
+      },
+      {
+        "id": "7025",
+        "title": "Rob Roy — Complete",
+        "sizeBytes": 1184815
+      },
+      {
+        "id": "3467",
+        "title": "The Life of Cesare Borgia",
+        "sizeBytes": 749662
+      },
+      {
+        "id": "7304",
+        "title": "The Life of Captain Matthew Flinders",
+        "sizeBytes": 943009
+      },
+      {
+        "id": "28556",
+        "title": "History of Woman Suffrage, Volume III",
+        "sizeBytes": 3971133
+      },
+      {
+        "id": "70458",
+        "title": "Primitive culture, vol. 1 (of 2) : $b Researches into the development of mythology, philosophy, religion, language, art, and custom",
+        "sizeBytes": 1164053
+      },
+      {
+        "id": "50692",
+        "title": "Cicero: Letters to Atticus, Vol. 2 of 3",
+        "sizeBytes": 736544
+      },
+      {
+        "id": "22599",
+        "title": "The Hindu-Arabic Numerals",
+        "sizeBytes": 345777
+      },
+      {
+        "id": "23800",
+        "title": "Contemporary American Composers: Being a Study of the Music of This Country, Its Present; Conditions and Its Future, with Critical Estimates and; Biographies of the Principal Living Composers; and an; Abundance of Portraits, Fac-simile Musical Autographs, and; Compositions",
+        "sizeBytes": 421250
+      },
+      {
+        "id": "16331",
+        "title": "New York Times Current History: The European War from the Beginning to March 1915, Vol 1, No. 2: Who Began the War, and Why?",
+        "sizeBytes": 868253
+      },
+      {
+        "id": "46449",
+        "title": "The Manufacture of Paper: With Illustrations, and a Bibliography of Works Relating to Cellulose and Paper-Making",
+        "sizeBytes": 502669
+      },
+      {
+        "id": "58814",
+        "title": "A Short History of the Royal Navy, 1217-1815. Volume II, 1689-1815",
+        "sizeBytes": 1315732
+      },
+      {
+        "id": "62972",
+        "title": "The Horse of America in His Derivation, History, and Development",
+        "sizeBytes": 1587846
+      },
+      {
+        "id": "74979",
+        "title": "The journal of the American-Irish Historical Society, Vol. IX, 1910",
+        "sizeBytes": 1420841
+      },
+      {
+        "id": "43894",
+        "title": "The History of Modern Painting, Volume 2 (of 4): Revised edition continued by the author to the end of the XIX century",
+        "sizeBytes": 927036
+      },
+      {
+        "id": "34479",
+        "title": "The History of Painting in Italy, Vol. 1 (of 6): From the Period of the Revival of the Fine Arts to the End of the Eighteenth Century",
+        "sizeBytes": 824906
+      },
+      {
+        "id": "21990",
+        "title": "The Campaign of 1776 around New York and Brooklyn: Including a new and circumstantial account of the battle of Long island and the loss of New York, with a review of events to the close of the year",
+        "sizeBytes": 1071257
+      },
+      {
+        "id": "29870",
+        "title": "The History of Woman Suffrage, Volume IV",
+        "sizeBytes": 3325939
+      },
+      {
+        "id": "47356",
+        "title": "Studies on Homer and the Homeric Age, Vol. 1 of 3: I. Prolegomena II. Achæis; or, the Ethnology of the Greek Races",
+        "sizeBytes": 1109272
+      },
+      {
+        "id": "53769",
+        "title": "Floreat Etona: Anecdotes and Memories of Eton College",
+        "sizeBytes": 526935
+      },
+      {
+        "id": "53264",
+        "title": "A history of the Peninsular War, Vol. 1, 1807-1809 : $b From the treaty of Fontainbleau to the battle of Corunna",
+        "sizeBytes": 1763927
+      },
+      {
+        "id": "3741",
+        "title": "The Writings of Thomas Paine — Volume 1 (1774-1779): The American Crisis",
+        "sizeBytes": 466456
+      },
+      {
+        "id": "14721",
+        "title": "Speeches & Letters of Abraham Lincoln, 1832-1865",
+        "sizeBytes": 535068
+      },
+      {
+        "id": "20619",
+        "title": "General Gordon, Saint and Soldier",
+        "sizeBytes": 171250
+      },
+      {
+        "id": "19553",
+        "title": "The Private Diary of Dr. John Dee, and the Catalog of His Library of Manuscripts",
+        "sizeBytes": 334742
+      },
+      {
+        "id": "26319",
+        "title": "A Text-Book of the History of Architecture: Seventh Edition, revised",
+        "sizeBytes": 845413
+      },
+      {
+        "id": "54036",
+        "title": "Armenian Legends and Poems",
+        "sizeBytes": 354549
+      },
+      {
+        "id": "43792",
+        "title": "The History of Modern Painting, Volume 1 (of 4): Revised edition continued by the author to the end of the XIX century",
+        "sizeBytes": 935874
+      },
+      {
+        "id": "54620",
+        "title": "Rude Stone Monuments in All Countries: Their Age and Uses",
+        "sizeBytes": 1322888
+      },
+      {
+        "id": "38866",
+        "title": "The Evolution of Photography: With a Chronological Record of Discoveries, Inventions, Etc., Contributions to Photographic Literature, and Personal Reminescences Extending over Forty Years",
+        "sizeBytes": 678082
+      },
+      {
+        "id": "46032",
+        "title": "Vitus Bering: the Discoverer of Bering Strait",
+        "sizeBytes": 392400
+      },
+      {
+        "id": "55901",
+        "title": "Critical, Historical, and Miscellaneous Essays; Vol. 1: With a Memoir and Index",
+        "sizeBytes": 1027933
+      },
+      {
+        "id": "10712",
+        "title": "White Jacket; Or, The World on a Man-of-War",
+        "sizeBytes": 873118
+      },
+      {
+        "id": "28456",
+        "title": "Great Men and Famous Women. Vol. 6: A series of pen and pencil sketches of the lives of more than 200 of the most prominent personages in History",
+        "sizeBytes": 660784
+      },
+      {
+        "id": "57201",
+        "title": "Seventeen Years Among the Sea Dyaks of Borneo: A Record of Intimate Association with the Natives of the Bornean Jungles",
+        "sizeBytes": 637267
+      },
+      {
+        "id": "61809",
+        "title": "The Story of a Great Delusion in a Series of Matter-of-Fact Chapters",
+        "sizeBytes": 1590951
+      },
+      {
+        "id": "67149",
+        "title": "A Child's History of the World",
+        "sizeBytes": 579705
+      },
+      {
+        "id": "51173",
+        "title": "The Stately Homes of England",
+        "sizeBytes": 1528660
+      },
+      {
+        "id": "925",
+        "title": "United States Presidents' Inaugural Speeches: From Washington to George W. Bush",
+        "sizeBytes": 839423
+      },
+      {
+        "id": "2517",
+        "title": "Lincoln's yarns and stories : $b A complete collection of the funny and witty anecdotes that made Lincoln famous as America's greatest story teller",
+        "sizeBytes": 833786
+      },
+      {
+        "id": "3414",
+        "title": "The South Pole; an account of the Norwegian Antarctic expedition in the \"Fram,\" 1910-1912 — Volume 1",
+        "sizeBytes": 623861
+      },
+      {
+        "id": "26138",
+        "title": "In the Flash Ranging Service: Observations of an American Soldier During His Service With the A.E.F. in France",
+        "sizeBytes": 155277
+      },
+      {
+        "id": "59058",
+        "title": "Aristotle's History of Animals: In Ten Books",
+        "sizeBytes": 804958
+      },
+      {
+        "id": "3293",
+        "title": "Chronicle of the Conquest of Granada, from the mss. of Fray Antonio Agapida",
+        "sizeBytes": 958879
+      },
+      {
+        "id": "58783",
+        "title": "The Letters of S. Ambrose, Bishop of Milan",
+        "sizeBytes": 1391573
+      },
+      {
+        "id": "820",
+        "title": "Edison: His Life and Inventions",
+        "sizeBytes": 1648711
+      },
+      {
+        "id": "12652",
+        "title": "George Washington, Volume I",
+        "sizeBytes": 654332
+      },
+      {
+        "id": "9603",
+        "title": "Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book I",
+        "sizeBytes": 1090761
+      },
+      {
+        "id": "37603",
+        "title": "The History of the Nineteenth Century in Caricature",
+        "sizeBytes": 349000
+      },
+      {
+        "id": "43348",
+        "title": "The Paston Letters, A.D. 1422-1509. Volume 1 (of 6): New Complete Library Edition",
+        "sizeBytes": 870165
+      },
+      {
+        "id": "16351",
+        "title": "Critical and Historical Essays: Lectures delivered at Columbia University",
+        "sizeBytes": 442376
+      },
+      {
+        "id": "43286",
+        "title": "The Criminal Prosecution and Capital Punishment of Animals",
+        "sizeBytes": 604556
+      },
+      {
+        "id": "61751",
+        "title": "The Book of the Sword",
+        "sizeBytes": 1136520
+      },
+      {
+        "id": "77444",
+        "title": "Walled towns",
+        "sizeBytes": 122965
+      },
+      {
+        "id": "14437",
+        "title": "Historical View of the Languages and Literature of the Slavic Nations: With a Sketch of Their Popular Poetry",
+        "sizeBytes": 839797
+      },
+      {
+        "id": "57247",
+        "title": "China Revolutionized",
+        "sizeBytes": 1104257
+      },
+      {
+        "id": "32183",
+        "title": "Folk-lore of Shakespeare",
+        "sizeBytes": 1155413
+      },
+      {
+        "id": "54710",
+        "title": "The Shame of the Cities",
+        "sizeBytes": 391166
+      },
+      {
+        "id": "56485",
+        "title": "Hyde Park, Its History and Romance",
+        "sizeBytes": 636950
+      },
+      {
+        "id": "58045",
+        "title": "Travels in the Interior of Brazil: Principally through the northern provinces, and the gold and diamond districts, during the years 1836-1841",
+        "sizeBytes": 1014679
+      },
+      {
+        "id": "73057",
+        "title": "History of the United States of America, Volume 8 (of 9) : $b During the second administration of James Madison",
+        "sizeBytes": 606798
+      },
+      {
+        "id": "2099",
+        "title": "A History of the Moravian Church",
+        "sizeBytes": 1044209
+      },
+      {
+        "id": "67742",
+        "title": "The archæology of the cuneiform inscriptions",
+        "sizeBytes": 394165
+      },
+      {
+        "id": "42770",
+        "title": "The Story of My Life, volumes 4-6",
+        "sizeBytes": 2398303
+      },
+      {
+        "id": "16960",
+        "title": "History of the United States",
+        "sizeBytes": 1363699
+      },
+      {
+        "id": "1039",
+        "title": "Missionary Travels and Researches in South Africa",
+        "sizeBytes": 1808565
+      },
+      {
+        "id": "8998",
+        "title": "Paris as It Was and as It Is: A Sketch Of The French Capital, Illustrative Of The Effects Of The Revolution",
+        "sizeBytes": 1466198
+      },
+      {
+        "id": "56955",
+        "title": "Catholic World, Vol. 24, October, 1876, to March, 1877: A Monthly Magazine of General Literature and Science",
+        "sizeBytes": 3046665
+      },
+      {
+        "id": "8102",
+        "title": "The Forme of Cury: A Roll of Ancient English Cookery Compiled, about A.D. 1390",
+        "sizeBytes": 305772
+      },
+      {
+        "id": "36924",
+        "title": "The Letters of Amerigo Vespucci, and Other Documents Illustrative of His Career",
+        "sizeBytes": 322783
+      },
+      {
+        "id": "37587",
+        "title": "The Katipunan; or, The Rise and Fall of the Filipino Commune",
+        "sizeBytes": 397637
+      },
+      {
+        "id": "68616",
+        "title": "Anastasia: The autobiography of H.I.H. the Grand Duchess Anastasia Nicholaevna of Russia",
+        "sizeBytes": 811751
+      },
+      {
+        "id": "32510",
+        "title": "The Life of William Ewart Gladstone, Vol. 2 (of 3): 1859-1880",
+        "sizeBytes": 1601991
+      },
+      {
+        "id": "38648",
+        "title": "Julia Ward Howe, 1819-1910",
+        "sizeBytes": 1338709
+      },
+      {
+        "id": "32573",
+        "title": "History of the Colony and Ancient Dominion of Virginia",
+        "sizeBytes": 1719816
+      },
+      {
+        "id": "35764",
+        "title": "The Chronicle of the Discovery and Conquest of Guinea. Vol. II",
+        "sizeBytes": 812351
+      },
+      {
+        "id": "57723",
+        "title": "The Orkneyinga Saga",
+        "sizeBytes": 914606
+      },
+      {
+        "id": "792",
+        "title": "Wieland; Or, The Transformation: An American Tale",
+        "sizeBytes": 499558
+      },
+      {
+        "id": "45737",
+        "title": "A Popular Handbook to the National Gallery, Volume I, Foreign Schools: Including by Special Permission Notes Collected from the Works of John Ruskin",
+        "sizeBytes": 2311301
+      },
+      {
+        "id": "36463",
+        "title": "Glacier National Park [Montana]",
+        "sizeBytes": 90876
+      },
+      {
+        "id": "13206",
+        "title": "A Short History of Monks and Monasteries",
+        "sizeBytes": 564881
+      },
+      {
+        "id": "27160",
+        "title": "Records of Woodhall Spa and Neighbourhood: Historical, Anecdotal, Physiographical, and Archaeological, with Other Matter",
+        "sizeBytes": 733443
+      },
+      {
+        "id": "60408",
+        "title": "Elizabeth, Empress of Austria and Queen of Hungary",
+        "sizeBytes": 169624
+      },
+      {
+        "id": "65011",
+        "title": "U.S. Marine Operations in Korea, 1950-1953, Volume 5 (of 5): Operations in West Korea",
+        "sizeBytes": 1657219
+      },
+      {
+        "id": "62493",
+        "title": "The Close of the Middle Ages, 1272-1494, 3rd Ed.",
+        "sizeBytes": 1289796
+      },
+      {
+        "id": "16764",
+        "title": "History of the Wars, Books I and II: The Persian War",
+        "sizeBytes": 564886
+      },
+      {
+        "id": "19352",
+        "title": "Herbal Simples Approved for Modern Uses of Cure",
+        "sizeBytes": 1222904
+      },
+      {
+        "id": "58529",
+        "title": "Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive",
+        "sizeBytes": 5567519
+      },
+      {
+        "id": "30",
+        "title": "The Bible, King James Version, Complete",
+        "sizeBytes": 4846763
+      },
+      {
+        "id": "37985",
+        "title": "A Literary History of the Arabs",
+        "sizeBytes": 1236773
+      },
+      {
+        "id": "1635",
+        "title": "Ion",
+        "sizeBytes": 38244
+      },
+      {
+        "id": "39695",
+        "title": "The Story of Switzerland",
+        "sizeBytes": 650705
+      },
+      {
+        "id": "53259",
+        "title": "Horton Genealogy: or Chronicles of the Descendants of Barnabas Horton, of Southold, L. I., 1640.",
+        "sizeBytes": 687992
+      },
+      {
+        "id": "3733",
+        "title": "Bel Ami; Or, The History of a Scoundrel: A Novel",
+        "sizeBytes": 311093
+      },
+      {
+        "id": "35087",
+        "title": "The Eleusinian Mysteries and Rites",
+        "sizeBytes": 144721
+      },
+      {
+        "id": "62502",
+        "title": "Records, Historical and Antiquarian, of Parishes Round Horncastle",
+        "sizeBytes": 675516
+      },
+      {
+        "id": "2582",
+        "title": "The Modern Regime, Volume 2",
+        "sizeBytes": 696372
+      },
+      {
+        "id": "63577",
+        "title": "Love Potions Through the Ages: A Study of Amatory Devices and Mores",
+        "sizeBytes": 629988
+      },
+      {
+        "id": "2580",
+        "title": "The French Revolution - Volume 3",
+        "sizeBytes": 1473730
+      },
+      {
+        "id": "56318",
+        "title": "Wellington's Army, 1809-1814",
+        "sizeBytes": 877025
+      },
+      {
+        "id": "12218",
+        "title": "Pastoral Poetry & Pastoral Drama: A Literary Inquiry, with Special Reference to the Pre-Restoration Stage in England",
+        "sizeBytes": 1112276
+      },
+      {
+        "id": "14052",
+        "title": "Rousseau (Volume 1 and 2)",
+        "sizeBytes": 1159982
+      },
+      {
+        "id": "77400",
+        "title": "The pneumatics of Hero of Alexandria",
+        "sizeBytes": 215635
+      },
+      {
+        "id": "76224",
+        "title": "Introduction to the textual criticism of the Greek New Testament",
+        "sizeBytes": 880127
+      },
+      {
+        "id": "49668",
+        "title": "Ancient Monuments of the Mississippi Valley: Smithsonian Contributions to Knowledge, Vol. I.",
+        "sizeBytes": 961528
+      },
+      {
+        "id": "4362",
+        "title": "Personal Memoirs of P. H. Sheridan, General, United States Army — Complete",
+        "sizeBytes": 1229320
+      },
+      {
+        "id": "50448",
+        "title": "The Coronado Expedition, 1540-1542.: Excerpted from the Fourteenth Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1892-1893, Part 1.",
+        "sizeBytes": 1078987
+      },
+      {
+        "id": "13363",
+        "title": "The Parish Clerk",
+        "sizeBytes": 604156
+      },
+      {
+        "id": "24065",
+        "title": "A History of Nursery Rhymes",
+        "sizeBytes": 172303
+      },
+      {
+        "id": "39316",
+        "title": "The Loyalists of Massachusetts and the Other Side of the American Revolution",
+        "sizeBytes": 1649861
+      },
+      {
+        "id": "6818",
+        "title": "The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou;: Being the Account of a Voyage to the Region North of Aylemer Lake",
+        "sizeBytes": 384964
+      },
+      {
+        "id": "32600",
+        "title": "History of the Reign of Philip the Second, King of Spain, Vols. 1 and 2",
+        "sizeBytes": 2071681
+      },
+      {
+        "id": "70408",
+        "title": "Napoleon's British visitors and captives, 1801-1815",
+        "sizeBytes": 614412
+      },
+      {
+        "id": "17700",
+        "title": "The Suppression of the African Slave Trade to the United States of America: 1638-1870",
+        "sizeBytes": 821641
+      },
+      {
+        "id": "40615",
+        "title": "A History of the Reformation (Vol. 1 of 2)",
+        "sizeBytes": 1163657
+      },
+      {
+        "id": "41563",
+        "title": "A History of Sanskrit Literature",
+        "sizeBytes": 817226
+      },
+      {
+        "id": "19564",
+        "title": "The Pirates' Who's Who: Giving Particulars Of The Lives and Deaths Of The Pirates And Buccaneers",
+        "sizeBytes": 547760
+      },
+      {
+        "id": "27716",
+        "title": "A Portrait of Old George Town",
+        "sizeBytes": 513020
+      },
+      {
+        "id": "11483",
+        "title": "The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)",
+        "sizeBytes": 619379
+      },
+      {
+        "id": "22557",
+        "title": "Canada",
+        "sizeBytes": 746186
+      },
+      {
+        "id": "50501",
+        "title": "The Mediæval Hospitals of England",
+        "sizeBytes": 783990
+      },
+      {
+        "id": "7960",
+        "title": "Early European History",
+        "sizeBytes": 1472410
+      },
+      {
+        "id": "23135",
+        "title": "History of circumcision from the earliest times to the present : $b Moral and physical reasons for its performance, with a history of eunuchism, hermaphrodism, etc., and of the different operations practiced upon the prepuce",
+        "sizeBytes": 694404
+      },
+      {
+        "id": "61236",
+        "title": "Emily of New Moon",
+        "sizeBytes": 681581
+      },
+      {
+        "id": "28920",
+        "title": "War and Peace, Book 01: 1805",
+        "sizeBytes": 4352
+      },
+      {
+        "id": "55300",
+        "title": "Society as I Have Found It",
+        "sizeBytes": 338697
+      },
+      {
+        "id": "43255",
+        "title": "Domesday Book and Beyond: Three Essays in the Early History of England",
+        "sizeBytes": 1525860
+      },
+      {
+        "id": "56402",
+        "title": "Brazil, the River Plate, and the Falkland Islands: With the Cape Horn route to Australia. Including notices of Lisbon, Madeira, the Canaries, and Cape Verde.",
+        "sizeBytes": 1028386
+      },
+      {
+        "id": "16450",
+        "title": "The Reminiscences of an Irish Land Agent",
+        "sizeBytes": 540708
+      },
+      {
+        "id": "21859",
+        "title": "Historical Sketches, Volume I (of 3): The Turks in Their Relation to Europe; Marcus Tullius Cicero; Apollonius of Tyana; Primitive Christianity",
+        "sizeBytes": 883727
+      },
+      {
+        "id": "6417",
+        "title": "A Political and Social History of Modern Europe V.1.",
+        "sizeBytes": 1434630
+      },
+      {
+        "id": "40436",
+        "title": "Plato and the Other Companions of Sokrates, 3rd ed. Volume 2",
+        "sizeBytes": 1319376
+      },
+      {
+        "id": "43681",
+        "title": "The Popular Religion and Folk-Lore of Northern India, Vol. 1 (of 2)",
+        "sizeBytes": 639530
+      },
+      {
+        "id": "1346",
+        "title": "The Eighteenth Brumaire of Louis Bonaparte",
+        "sizeBytes": 262695
+      },
+      {
+        "id": "7959",
+        "title": "The Reign of Tiberius, Out of the First Six Annals of Tacitus;: With His Account of Germany, and Life of Agricola",
+        "sizeBytes": 647613
+      },
+      {
+        "id": "28253",
+        "title": "McGill and its Story, 1821-1921",
+        "sizeBytes": 522012
+      },
+      {
+        "id": "35382",
+        "title": "The Romance of Biography (Vol 1 of 2): or Memoirs of Women Loved and Celebrated by Poets, from the Days of the Troubadours to the Present Age. 3rd ed. 2 Vols.",
+        "sizeBytes": 379653
+      },
+      {
+        "id": "36776",
+        "title": "Inventions in the Century",
+        "sizeBytes": 941263
+      },
+      {
+        "id": "1030",
+        "title": "The Cavalier Songs and Ballads of England from 1642 to 1684",
+        "sizeBytes": 408862
+      },
+      {
+        "id": "12425",
+        "title": "De Orbe Novo, Volume 1 (of 2): The Eight Decades of Peter Martyr D'Anghera",
+        "sizeBytes": 799786
+      },
+      {
+        "id": "48967",
+        "title": "Mythology among the Hebrews and Its Historical Development",
+        "sizeBytes": 1214809
+      },
+      {
+        "id": "41727",
+        "title": "The Traditional Games of England, Scotland, and Ireland (Vol 1 of 2): With Tunes, Singing-Rhymes and Methods of Playing etc.",
+        "sizeBytes": 877991
+      },
+      {
+        "id": "67547",
+        "title": "Memorials of Old Devonshire",
+        "sizeBytes": 682051
+      },
+      {
+        "id": "28299",
+        "title": "The Orbis Pictus",
+        "sizeBytes": 315655
+      },
+      {
+        "id": "77310",
+        "title": "The mediaeval stage, volume 2 (of 2)",
+        "sizeBytes": 1282390
+      },
+      {
+        "id": "6406",
+        "title": "The Monastery",
+        "sizeBytes": 1067908
+      },
+      {
+        "id": "19584",
+        "title": "A New System; or, an Analysis of Antient Mythology. Volume 2 (of 6)",
+        "sizeBytes": 674246
+      },
+      {
+        "id": "43002",
+        "title": "The Church of Grasmere: A History",
+        "sizeBytes": 408591
+      },
+      {
+        "id": "53674",
+        "title": "The Tuzuk-i-Jahangiri: or, Memoirs of Jahangir (Volume 1 of 2)",
+        "sizeBytes": 965942
+      },
+      {
+        "id": "55390",
+        "title": "Triumphs and Wonders of the 19th Century: The True Mirror of a Phenomenal Era: A volume of original, entertaining and instructive historic and descriptive writings, showing the many and marvellous achievements which distinguish an hundred years of material, intellectual, social and moral progress",
+        "sizeBytes": 1985181
+      },
+      {
+        "id": "32066",
+        "title": "The Fundamental Principles of Old and New World Civilizations: A Comparative Research Based on a Study of the Ancient Mexican Religious, Sociological, and Calendrical Systems",
+        "sizeBytes": 1624727
+      },
+      {
+        "id": "2581",
+        "title": "The Modern Regime, Volume 1",
+        "sizeBytes": 986096
+      },
+      {
+        "id": "19914",
+        "title": "Arabic Authors: A Manual of Arabian History and Literature",
+        "sizeBytes": 379388
+      },
+      {
+        "id": "9473",
+        "title": "The Knights of the Cross, or, Krzyzacy: Historical Romance",
+        "sizeBytes": 1309242
+      },
+      {
+        "id": "74973",
+        "title": "Lives of the early Medici : $b As told in their correspondence",
+        "sizeBytes": 818110
+      },
+      {
+        "id": "20948",
+        "title": "Memoirs of the Jacobites of 1715 and 1745. Volume III.",
+        "sizeBytes": 913619
+      },
+      {
+        "id": "45422",
+        "title": "The quest of the historical Jesus : $b a critical study of its progress from Reimarus to Wrede",
+        "sizeBytes": 1272775
+      },
+      {
+        "id": "47228",
+        "title": "Indian Myth and Legend",
+        "sizeBytes": 1002363
+      },
+      {
+        "id": "68150",
+        "title": "Salt mines and castles: The discovery and restitution of looted European art",
+        "sizeBytes": 643250
+      },
+      {
+        "id": "67707",
+        "title": "The History of the Manners and Customs of Ancient Greece, Volume 3 (of 3)",
+        "sizeBytes": 1227049
+      }
+    ]
+  },
+  "packages": [
+    {
+      "id": "en-history",
+      "name": "History Collection (English)",
+      "category": "history",
+      "language": "en",
+      "articleCount": 1000,
+      "totalSizeBytes": 1066777559,
+      "articles": [
+        "67979",
+        "1259",
+        "174",
+        "1184",
+        "98",
+        "25344",
+        "3207",
+        "1232",
+        "2600",
+        "205",
+        "26184",
+        "45",
+        "75883",
+        "25282",
+        "27698",
+        "7370",
+        "408",
+        "26",
+        "23",
+        "10636",
+        "59386",
+        "60230",
+        "41",
+        "2848",
+        "4200",
+        "39459",
+        "52621",
+        "60976",
+        "3300",
+        "26031",
+        "600",
+        "49266",
+        "1946",
+        "35899",
+        "69566",
+        "26602",
+        "815",
+        "20203",
+        "18047",
+        "45502",
+        "15399",
+        "52685",
+        "26315",
+        "27279",
+        "50503",
+        "2739",
+        "236",
+        "36965",
+        "132",
+        "27320",
+        "25682",
+        "10676",
+        "7142",
+        "61",
+        "25717",
+        "63550",
+        "245",
+        "61792",
+        "20",
+        "147",
+        "28500",
+        "45304",
+        "2707",
+        "51356",
+        "28178",
+        "20990",
+        "7700",
+        "46976",
+        "77145",
+        "45631",
+        "73639",
+        "37499",
+        "51143",
+        "1170",
+        "6400",
+        "4206",
+        "50922",
+        "13529",
+        "25842",
+        "4367",
+        "59",
+        "77238",
+        "29798",
+        "73",
+        "57764",
+        "22849",
+        "2850",
+        "2610",
+        "29728",
+        "20587",
+        "45634",
+        "38735",
+        "19800",
+        "59131",
+        "41617",
+        "8300",
+        "2087",
+        "1404",
+        "23781",
+        "25632",
+        "29362",
+        "77058",
+        "48155",
+        "27604",
+        "674",
+        "20439",
+        "33998",
+        "9662",
+        "73518",
+        "27450",
+        "63545",
+        "42108",
+        "19725",
+        "55771",
+        "271",
+        "43411",
+        "42629",
+        "25761",
+        "71905",
+        "23700",
+        "49513",
+        "816",
+        "55231",
+        "17450",
+        "50434",
+        "57724",
+        "45001",
+        "44028",
+        "38326",
+        "43231",
+        "14977",
+        "41443",
+        "11955",
+        "49654",
+        "18590",
+        "25092",
+        "75201",
+        "59468",
+        "3875",
+        "49260",
+        "70033",
+        "21200",
+        "66583",
+        "37887",
+        "20924",
+        "22550",
+        "44112",
+        "16119",
+        "15447",
+        "82",
+        "851",
+        "8419",
+        "67799",
+        "58985",
+        "24518",
+        "28890",
+        "53635",
+        "22789",
+        "48438",
+        "21091",
+        "72344",
+        "66555",
+        "58619",
+        "2455",
+        "31086",
+        "28773",
+        "2449",
+        "15725",
+        "61240",
+        "26450",
+        "4361",
+        "57821",
+        "375",
+        "1091",
+        "14033",
+        "2376",
+        "71860",
+        "57493",
+        "51161",
+        "2131",
+        "23349",
+        "38317",
+        "62250",
+        "66410",
+        "45917",
+        "55998",
+        "7524",
+        "43427",
+        "44125",
+        "23066",
+        "51912",
+        "1719",
+        "59563",
+        "75011",
+        "37734",
+        "12045",
+        "51",
+        "71536",
+        "1150",
+        "42722",
+        "421",
+        "40863",
+        "2440",
+        "657",
+        "24882",
+        "44886",
+        "36542",
+        "26052",
+        "735",
+        "27872",
+        "60290",
+        "42647",
+        "38485",
+        "38081",
+        "58834",
+        "67138",
+        "55643",
+        "16679",
+        "14194",
+        "1301",
+        "21009",
+        "54475",
+        "33231",
+        "21615",
+        "65919",
+        "66694",
+        "68185",
+        "44608",
+        "39232",
+        "11937",
+        "25326",
+        "47",
+        "40580",
+        "40058",
+        "598",
+        "42884",
+        "70419",
+        "57009",
+        "22049",
+        "22010",
+        "58984",
+        "26272",
+        "12410",
+        "46440",
+        "28311",
+        "38269",
+        "42638",
+        "29532",
+        "54392",
+        "45033",
+        "22788",
+        "24700",
+        "26901",
+        "54219",
+        "12422",
+        "59469",
+        "22815",
+        "69956",
+        "69018",
+        "18314",
+        "60688",
+        "68990",
+        "25622",
+        "917",
+        "16878",
+        "44638",
+        "30508",
+        "27513",
+        "73000",
+        "58750",
+        "1254",
+        "21532",
+        "38015",
+        "57037",
+        "20023",
+        "61178",
+        "54966",
+        "48612",
+        "6762",
+        "67462",
+        "2811",
+        "17299",
+        "58216",
+        "2760",
+        "67792",
+        "25012",
+        "73369",
+        "70731",
+        "1522",
+        "12400",
+        "21500",
+        "10940",
+        "32155",
+        "74869",
+        "22042",
+        "21851",
+        "17405",
+        "10884",
+        "32699",
+        "3891",
+        "54968",
+        "71428",
+        "76594",
+        "16546",
+        "29368",
+        "2085",
+        "66706",
+        "60692",
+        "42983",
+        "59779",
+        "43591",
+        "53276",
+        "6478",
+        "15877",
+        "16847",
+        "10381",
+        "3420",
+        "69492",
+        "31412",
+        "22485",
+        "58799",
+        "22400",
+        "22762",
+        "42959",
+        "26086",
+        "1",
+        "2009",
+        "1576",
+        "14975",
+        "22994",
+        "77443",
+        "60",
+        "46409",
+        "20556",
+        "57176",
+        "65909",
+        "57374",
+        "35110",
+        "19104",
+        "46681",
+        "4078",
+        "12096",
+        "44669",
+        "2048",
+        "54903",
+        "48244",
+        "52258",
+        "58031",
+        "42180",
+        "41873",
+        "57980",
+        "61113",
+        "6737",
+        "12111",
+        "20426",
+        "70619",
+        "30576",
+        "14140",
+        "20696",
+        "39308",
+        "48014",
+        "49038",
+        "24781",
+        "59843",
+        "68693",
+        "8459",
+        "27587",
+        "62291",
+        "74764",
+        "59101",
+        "44235",
+        "65236",
+        "5983",
+        "101",
+        "65868",
+        "10657",
+        "23601",
+        "24374",
+        "3350",
+        "34439",
+        "27012",
+        "15263",
+        "13249",
+        "31511",
+        "35977",
+        "10609",
+        "40057",
+        "29246",
+        "75021",
+        "36375",
+        "44315",
+        "68302",
+        "73848",
+        "14472",
+        "22976",
+        "37806",
+        "61614",
+        "14300",
+        "376",
+        "1450",
+        "46953",
+        "69079",
+        "25789",
+        "65425",
+        "20847",
+        "69002",
+        "2456",
+        "202",
+        "8525",
+        "60766",
+        "55620",
+        "10827",
+        "59822",
+        "19890",
+        "58776",
+        "55829",
+        "17976",
+        "62300",
+        "2577",
+        "9745",
+        "41424",
+        "3072",
+        "3335",
+        "20593",
+        "45848",
+        "72822",
+        "31193",
+        "28587",
+        "22030",
+        "41771",
+        "41625",
+        "10890",
+        "23186",
+        "19098",
+        "20411",
+        "44646",
+        "13144",
+        "75425",
+        "40986",
+        "5402",
+        "27710",
+        "22397",
+        "36020",
+        "49955",
+        "6589",
+        "8813",
+        "27114",
+        "25833",
+        "1237",
+        "2074",
+        "71772",
+        "44884",
+        "19447",
+        "29787",
+        "37586",
+        "5777",
+        "44568",
+        "32449",
+        "63350",
+        "41910",
+        "17462",
+        "23690",
+        "67691",
+        "65228",
+        "67845",
+        "70079",
+        "2360",
+        "41687",
+        "67552",
+        "1174",
+        "1349",
+        "944",
+        "22300",
+        "39341",
+        "63719",
+        "41788",
+        "15776",
+        "54788",
+        "22657",
+        "59007",
+        "847",
+        "39074",
+        "544",
+        "67637",
+        "28247",
+        "77429",
+        "24902",
+        "20580",
+        "56836",
+        "20927",
+        "52641",
+        "13940",
+        "74395",
+        "16528",
+        "54149",
+        "50801",
+        "11982",
+        "25504",
+        "30098",
+        "61308",
+        "62704",
+        "10840",
+        "44566",
+        "45249",
+        "754",
+        "56490",
+        "22094",
+        "8106",
+        "17150",
+        "41156",
+        "9328",
+        "53672",
+        "58465",
+        "20196",
+        "48042",
+        "25712",
+        "769",
+        "25112",
+        "2300",
+        "7033",
+        "77473",
+        "19900",
+        "34704",
+        "42438",
+        "33000",
+        "74723",
+        "58237",
+        "782",
+        "42996",
+        "70492",
+        "43671",
+        "12587",
+        "54812",
+        "13549",
+        "22169",
+        "25100",
+        "16780",
+        "33111",
+        "20906",
+        "57185",
+        "76057",
+        "33",
+        "48053",
+        "54027",
+        "76262",
+        "38202",
+        "70207",
+        "5500",
+        "62754",
+        "47019",
+        "11858",
+        "11273",
+        "58212",
+        "2995",
+        "36021",
+        "19488",
+        "30051",
+        "10590",
+        "47204",
+        "1929",
+        "35461",
+        "36548",
+        "15679",
+        "51066",
+        "22728",
+        "31270",
+        "25085",
+        "47787",
+        "16653",
+        "50573",
+        "25325",
+        "15076",
+        "77105",
+        "76682",
+        "45580",
+        "37408",
+        "42220",
+        "68680",
+        "70109",
+        "24950",
+        "69473",
+        "71625",
+        "44312",
+        "68713",
+        "2396",
+        "2464",
+        "68744",
+        "21498",
+        "69582",
+        "28226",
+        "16927",
+        "21569",
+        "56347",
+        "44443",
+        "17778",
+        "37955",
+        "3253",
+        "34856",
+        "14562",
+        "48154",
+        "42686",
+        "5716",
+        "12233",
+        "52834",
+        "15293",
+        "17385",
+        "6756",
+        "35041",
+        "20300",
+        "28020",
+        "16479",
+        "66791",
+        "13042",
+        "24765",
+        "20955",
+        "59444",
+        "37404",
+        "4943",
+        "52286",
+        "67330",
+        "16449",
+        "22125",
+        "25000",
+        "27586",
+        "16431",
+        "20450",
+        "55593",
+        "57431",
+        "32624",
+        "60542",
+        "27690",
+        "72778",
+        "32783",
+        "26524",
+        "8642",
+        "20265",
+        "17845",
+        "43970",
+        "28152",
+        "71904",
+        "74099",
+        "40498",
+        "41785",
+        "70176",
+        "70377",
+        "42715",
+        "65688",
+        "18787",
+        "731",
+        "2121",
+        "51165",
+        "10717",
+        "76183",
+        "4094",
+        "29496",
+        "73605",
+        "16783",
+        "52160",
+        "30802",
+        "45353",
+        "16784",
+        "59959",
+        "21837",
+        "71503",
+        "13715",
+        "14809",
+        "45849",
+        "63659",
+        "59924",
+        "64529",
+        "29603",
+        "47476",
+        "5",
+        "65363",
+        "59455",
+        "40505",
+        "76148",
+        "34341",
+        "38535",
+        "54879",
+        "64037",
+        "2445",
+        "22003",
+        "24726",
+        "39342",
+        "59512",
+        "55368",
+        "14496",
+        "46479",
+        "34081",
+        "50747",
+        "19576",
+        "69502",
+        "19209",
+        "72171",
+        "46661",
+        "6867",
+        "33062",
+        "2578",
+        "5998",
+        "3793",
+        "42231",
+        "66116",
+        "27901",
+        "32507",
+        "44267",
+        "23200",
+        "16180",
+        "505",
+        "29143",
+        "58658",
+        "148",
+        "13789",
+        "30253",
+        "63299",
+        "35916",
+        "42473",
+        "5246",
+        "41580",
+        "57043",
+        "73069",
+        "2788",
+        "9803",
+        "45645",
+        "36192",
+        "40852",
+        "13701",
+        "43711",
+        "38600",
+        "53360",
+        "66887",
+        "28513",
+        "17314",
+        "42719",
+        "275",
+        "47367",
+        "10633",
+        "57978",
+        "3100",
+        "23881",
+        "52423",
+        "32343",
+        "33743",
+        "71209",
+        "34162",
+        "45981",
+        "36206",
+        "77379",
+        "48991",
+        "58809",
+        "12297",
+        "43491",
+        "71283",
+        "26419",
+        "10770",
+        "77416",
+        "2853",
+        "34122",
+        "24979",
+        "70864",
+        "17306",
+        "58418",
+        "59755",
+        "69300",
+        "70963",
+        "28057",
+        "51104",
+        "11716",
+        "60321",
+        "10661",
+        "41218",
+        "48602",
+        "15784",
+        "55397",
+        "69852",
+        "7829",
+        "14517",
+        "60814",
+        "44548",
+        "2759",
+        "5199",
+        "20947",
+        "33614",
+        "28289",
+        "11953",
+        "50577",
+        "20583",
+        "28641",
+        "28334",
+        "12077",
+        "15772",
+        "26378",
+        "67970",
+        "40766",
+        "51495",
+        "2787",
+        "28384",
+        "24790",
+        "59754",
+        "9842",
+        "25929",
+        "35363",
+        "37388",
+        "43593",
+        "27238",
+        "56167",
+        "64207",
+        "49867",
+        "43865",
+        "76961",
+        "7800",
+        "28540",
+        "34815",
+        "43296",
+        "56387",
+        "56832",
+        "11954",
+        "40782",
+        "43541",
+        "10797",
+        "11329",
+        "51635",
+        "61421",
+        "2849",
+        "18993",
+        "14058",
+        "71223",
+        "14078",
+        "46407",
+        "19637",
+        "60440",
+        "34455",
+        "4061",
+        "20318",
+        "13056",
+        "41538",
+        "29739",
+        "69392",
+        "39989",
+        "23466",
+        "50778",
+        "7025",
+        "3467",
+        "7304",
+        "28556",
+        "70458",
+        "50692",
+        "22599",
+        "23800",
+        "16331",
+        "46449",
+        "58814",
+        "62972",
+        "74979",
+        "43894",
+        "34479",
+        "21990",
+        "29870",
+        "47356",
+        "53769",
+        "53264",
+        "3741",
+        "14721",
+        "20619",
+        "19553",
+        "26319",
+        "54036",
+        "43792",
+        "54620",
+        "38866",
+        "46032",
+        "55901",
+        "10712",
+        "28456",
+        "57201",
+        "61809",
+        "67149",
+        "51173",
+        "925",
+        "2517",
+        "3414",
+        "26138",
+        "59058",
+        "3293",
+        "58783",
+        "820",
+        "12652",
+        "9603",
+        "37603",
+        "43348",
+        "16351",
+        "43286",
+        "61751",
+        "77444",
+        "14437",
+        "57247",
+        "32183",
+        "54710",
+        "56485",
+        "58045",
+        "73057",
+        "2099",
+        "67742",
+        "42770",
+        "16960",
+        "1039",
+        "8998",
+        "56955",
+        "8102",
+        "36924",
+        "37587",
+        "68616",
+        "32510",
+        "38648",
+        "32573",
+        "35764",
+        "57723",
+        "792",
+        "45737",
+        "36463",
+        "13206",
+        "27160",
+        "60408",
+        "65011",
+        "62493",
+        "16764",
+        "19352",
+        "58529",
+        "30",
+        "37985",
+        "1635",
+        "39695",
+        "53259",
+        "3733",
+        "35087",
+        "62502",
+        "2582",
+        "63577",
+        "2580",
+        "56318",
+        "12218",
+        "14052",
+        "77400",
+        "76224",
+        "49668",
+        "4362",
+        "50448",
+        "13363",
+        "24065",
+        "39316",
+        "6818",
+        "32600",
+        "70408",
+        "17700",
+        "40615",
+        "41563",
+        "19564",
+        "27716",
+        "11483",
+        "22557",
+        "50501",
+        "7960",
+        "23135",
+        "61236",
+        "28920",
+        "55300",
+        "43255",
+        "56402",
+        "16450",
+        "21859",
+        "6417",
+        "40436",
+        "43681",
+        "1346",
+        "7959",
+        "28253",
+        "35382",
+        "36776",
+        "1030",
+        "12425",
+        "48967",
+        "41727",
+        "67547",
+        "28299",
+        "77310",
+        "6406",
+        "19584",
+        "43002",
+        "53674",
+        "55390",
+        "32066",
+        "2581",
+        "19914",
+        "9473",
+        "74973",
+        "20948",
+        "45422",
+        "47228",
+        "68150",
+        "67707"
+      ]
+    }
+  ]
+}
