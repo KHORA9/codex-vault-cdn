@@ -1,0 +1,5008 @@
+{
+  "category": "survival",
+  "language": "en",
+  "count": 1000,
+  "generatedAt": "2026-01-13T21:27:20.190Z",
+  "books": [
+    {
+      "id": "55643",
+      "title": "The English Peasantry and the Enclosure of Common Fields",
+      "author": "Slater, Gilbert"
+    },
+    {
+      "id": "14613",
+      "title": "The foundations of Japan : $b Notes made during journeys of 6,000 miles in the rural districts as a basis for a sounder knowledge of the Japanese people",
+      "author": "Robertson Scott, J. W. (John William)"
+    },
+    {
+      "id": "51764",
+      "title": "Fiue hundred pointes of good husbandrie",
+      "author": "Tusser, Thomas"
+    },
+    {
+      "id": "16594",
+      "title": "A Short History of English Agriculture",
+      "author": "Curtler, W. H. R. (William Henry Ricketts)"
+    },
+    {
+      "id": "232",
+      "title": "The Georgics",
+      "author": "Virgil"
+    },
+    {
+      "id": "20772",
+      "title": "Agriculture for Beginners: Revised Edition",
+      "author": "Burkett, Charles William"
+    },
+    {
+      "id": "56640",
+      "title": "Pleasant Talk About Fruits, Flowers and Farming",
+      "author": "Beecher, Henry Ward"
+    },
+    {
+      "id": "24402",
+      "title": "Catalogue of Economic Plants in the Collection of the U. S. Department of Agriculture",
+      "author": "Saunders, William"
+    },
+    {
+      "id": "12140",
+      "title": "Roman Farm Management: The Treatises of Cato and Varro",
+      "author": "Cato, Marcus Porcius"
+    },
+    {
+      "id": "5350",
+      "title": "Farmers of Forty Centuries; Or, Permanent Agriculture in China, Korea, and Japan",
+      "author": "King, F. H. (Franklin Hiram)"
+    },
+    {
+      "id": "40336",
+      "title": "The Agrarian Problem in the Sixteenth Century",
+      "author": "Tawney, R. H. (Richard Henry)"
+    },
+    {
+      "id": "32392",
+      "title": "Notes on agriculture in Cyprus and its products",
+      "author": "Bevan, William"
+    },
+    {
+      "id": "29258",
+      "title": "The Enclosures in England: An Economic Reconstruction",
+      "author": "Fitt, Harriett Bradley"
+    },
+    {
+      "id": "17683",
+      "title": "The Prairie Farmer, Vol. 56, No. 2, January 12, 1884: A Weekly Journal for the Farm, Orchard and Fireside",
+      "author": "Various"
+    },
+    {
+      "id": "22040",
+      "title": "Prairie Farmer, Vol. 56: No. 3, January 19, 1884.: A Weekly Journal for the Farm, Orchard and Fireside",
+      "author": "Various"
+    },
+    {
+      "id": "35439",
+      "title": "Canada West",
+      "author": "Canada. Department of the Interior"
+    },
+    {
+      "id": "47264",
+      "title": "The Argentine Republic: Its Development and Progress",
+      "author": "Denis, Pierre"
+    },
+    {
+      "id": "17512",
+      "title": "Prairie Farmer, Vol. 56: No. 1, January 5, 1884.: A Weekly Journal for the Farm, Orchard and Fireside",
+      "author": "Various"
+    },
+    {
+      "id": "2899",
+      "title": "The Agrarian Crusade: A Chronicle of the Farmer in Politics",
+      "author": "Buck, Solon J. (Solon Justus)"
+    },
+    {
+      "id": "45154",
+      "title": "The Library of Work and Play: Outdoor Work",
+      "author": "Miller, Mary Rogers"
+    },
+    {
+      "id": "77303",
+      "title": "A tour through North America : $b Together with a comprehensive view of the Canadas and the United States, as adapted for agricultural emigration",
+      "author": "Shirreff, Patrick"
+    },
+    {
+      "id": "29665",
+      "title": "Prairie Farmer, Vol. 56: No. 4, January 26, 1884: A Weekly Journal for the Farm, Orchard and Fireside",
+      "author": "Various"
+    },
+    {
+      "id": "57457",
+      "title": "The Book of Husbandry",
+      "author": "Fitzherbert, Anthony"
+    },
+    {
+      "id": "38955",
+      "title": "Prairie Farmer, Vol. 56: No. 12, March 22, 1884: A Weekly Journal for the Farm, Orchard and Fireside",
+      "author": "Various"
+    },
+    {
+      "id": "33243",
+      "title": "Frying Pan Farm",
+      "author": "Pryor, Elizabeth Brown"
+    },
+    {
+      "id": "30975",
+      "title": "Soil Culture: Containing a Comprehensive View of Agriculture, Horticulture, Pomology, Domestic Animals, Rural Economy, and Agricultural Literature",
+      "author": "Walden, J. H."
+    },
+    {
+      "id": "16900",
+      "title": "The First Book of Farming",
+      "author": "Goodrich, C. L. (Charles Landon)"
+    },
+    {
+      "id": "30808",
+      "title": "History of Farming in Ontario",
+      "author": "James, C. C. (Charles Canniff)"
+    },
+    {
+      "id": "12000",
+      "title": "A Walk from London to John O'Groat's: With Notes by the Way",
+      "author": "Burritt, Elihu"
+    },
+    {
+      "id": "67813",
+      "title": "Field, Forest and Farm: Things interesting to young nature-lovers, including some matters of moment to gardeners and fruit-growers",
+      "author": "Fabre, Jean-Henri"
+    },
+    {
+      "id": "40190",
+      "title": "Science and Practice in Farm Cultivation",
+      "author": "Buckman, James"
+    },
+    {
+      "id": "28730",
+      "title": "Agriculture in Virginia, 1607-1699",
+      "author": "Carrier, Lyman"
+    },
+    {
+      "id": "32158",
+      "title": "Rural Wealth and Welfare: Economic Principles Illustrated and Applied in Farm Life",
+      "author": "Fairchild, Geo. T. (George Thompson)"
+    },
+    {
+      "id": "43844",
+      "title": "Claret and Olives, from the Garonne to the Rhone: Notes, social, picturesque, and legendary, by the way.",
+      "author": "Reach, Angus B. (Angus Bethune)"
+    },
+    {
+      "id": "67756",
+      "title": "Bob Taylor's Magazine, Vol. I, No. 2, May 1905",
+      "author": "Various"
+    },
+    {
+      "id": "32863",
+      "title": "Cottage Economy, to Which is Added The Poor Man's Friend",
+      "author": "Cobbett, William"
+    },
+    {
+      "id": "35816",
+      "title": "The Philippine Agricultural Review. Vol. VIII, First Quarter, 1915 No. 1",
+      "author": "Various"
+    },
+    {
+      "id": "76047",
+      "title": "Agricultural prices",
+      "author": "Wallace, Henry A. (Henry Agard)"
+    },
+    {
+      "id": "48753",
+      "title": "Ten Acres Enough: A practical experience, showing how a very small farm may be made to keep a very large family",
+      "author": "Morris, Edmund"
+    },
+    {
+      "id": "28506",
+      "title": "Our Italy",
+      "author": "Warner, Charles Dudley"
+    },
+    {
+      "id": "74799",
+      "title": "Adobe days : $b being the truthful narrative of the events in the life of a California girl on a sheep ranch and in El Pueblo de Nuestra Señora de Los Angeles while it was yet a small and humble town; together with an account of how three young men from Maine in eighteen hundred and fifty-three drove sheep and cattle across the plains, mountains and deserts from Illinois to the Pacific coast; and the strange prophecy of Admiral Thatcher about San Pedro harbor",
+      "author": "Bixby Smith, Sarah"
+    },
+    {
+      "id": "65270",
+      "title": "Bob Taylor's Magazine, Vol. I, No. 1, April 1905",
+      "author": "Various"
+    },
+    {
+      "id": "26975",
+      "title": "Chapters in Rural Progress",
+      "author": "Butterfield, Kenyon L. (Kenyon Leech)"
+    },
+    {
+      "id": "46995",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 01 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "65286",
+      "title": "Prairie Farmer, Vol. 56: No. 5, February 2, 1884.: A Weekly Journal for the Farm, Orchard and Fireside",
+      "author": "Various"
+    },
+    {
+      "id": "27257",
+      "title": "Electricity for the farm: Light, heat and power by inexpensive methods from the water wheel or farm engine",
+      "author": "Anderson, Frederick Irving"
+    },
+    {
+      "id": "60313",
+      "title": "Agriculture of the Hidatsa Indians: An Indian Interpretation",
+      "author": "Wilson, Gilbert Livingstone"
+    },
+    {
+      "id": "31105",
+      "title": "The Elements of Agriculture: A Book for Young Farmers, with Questions Prepared for the Use of Schools",
+      "author": "Waring, George E. (George Edwin)"
+    },
+    {
+      "id": "70973",
+      "title": "The agricultural and forest products of British West Africa",
+      "author": "Dudgeon, Gerald C. (Gerald Cecil)"
+    },
+    {
+      "id": "33060",
+      "title": "A Living from the Land",
+      "author": "Duryee, William Budington"
+    },
+    {
+      "id": "74741",
+      "title": "Horse-hoeing husbandry : $b or, an essay on the principles of vegetation and tillage. Designed to introduce a new method of culture; whereby the produce of land will be increased, and the usual expence lessened. Together with accurate descriptions and cuts of the instruments employed in it.",
+      "author": "Tull, Jethro"
+    },
+    {
+      "id": "42187",
+      "title": "Catholic Colonization in Minnesota: Revised Edition",
+      "author": "Catholic Colonization Bureau"
+    },
+    {
+      "id": "16525",
+      "title": "The Fat of the Land: The Story of an American Farm",
+      "author": "Streeter, John Williams"
+    },
+    {
+      "id": "39869",
+      "title": "Farming with Dynamite: A Few Hints to Farmers",
+      "author": "E.I. du Pont de Nemours & Company"
+    },
+    {
+      "id": "77164",
+      "title": "Walks and talks of an American farmer in England (Part 1 of 2)",
+      "author": "Olmsted, Frederick Law"
+    },
+    {
+      "id": "34245",
+      "title": "The Khedive's Country",
+      "author": "Fenn, George Manville"
+    },
+    {
+      "id": "35696",
+      "title": "What I know of farming:: a series of brief and plain expositions of practical agriculture as an art based upon science",
+      "author": "Greeley, Horace"
+    },
+    {
+      "id": "64353",
+      "title": "Fields, factories and workshops : $b or, Industry combined with agriculture and brain work with manual work",
+      "author": "Kropotkin, Petr Alekseevich, kniaz"
+    },
+    {
+      "id": "26313",
+      "title": "The Young Farmer: Some Things He Should Know",
+      "author": "Hunt, Thomas Forsyth"
+    },
+    {
+      "id": "21657",
+      "title": "Deep Furrows",
+      "author": "Moorhouse, Herbert Joseph"
+    },
+    {
+      "id": "53231",
+      "title": "The Southern States, March, 1894: An illustrated monthly magazine devoted to the South",
+      "author": "Various"
+    },
+    {
+      "id": "25905",
+      "title": "The $100 Prize Essay on the Cultivation of the Potato.: Prize offered by W. T. Wylie and awarded to D. H. Compton.; How to Cook the Potato, Furnished by Prof. Blot.",
+      "author": "Compton, D. A."
+    },
+    {
+      "id": "58962",
+      "title": "Making Home Profitable",
+      "author": "Saint Maur, Kate V. (Kate Vandenhoff)"
+    },
+    {
+      "id": "61215",
+      "title": "Trotwood's Monthly, Vol. I, No. 6. March, 1906",
+      "author": "Various"
+    },
+    {
+      "id": "4525",
+      "title": "The Farm That Won't Wear Out",
+      "author": "Hopkins, Cyril G. (Cyril George)"
+    },
+    {
+      "id": "59316",
+      "title": "Computers on the Farm: Farm Uses for Computers, How to Select Software and Hardware, and Online Information Sources in Agriculture",
+      "author": "Smith, Deborah Takiff"
+    },
+    {
+      "id": "62454",
+      "title": "Trotwood's Monthly, Vol. I, No. 1, October 1905",
+      "author": "Various"
+    },
+    {
+      "id": "48812",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 12 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "59579",
+      "title": "The American Agriculturist. Vol. II. No. XI, December 1843: Designed to Improve the Planter, the Farmer, the Stock-breeder, and the Horticulturist",
+      "author": "Various"
+    },
+    {
+      "id": "48748",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 04 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "48775",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 08 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "49036",
+      "title": "Atoms in Agriculture: Applications of Nuclear Science to Agriculture (Revised)",
+      "author": "Osborne, Thomas S."
+    },
+    {
+      "id": "48786",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 09 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "49800",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 03 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "48759",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 05 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "22973",
+      "title": "The English Husbandman: The First Part: Contayning the Knowledge of the true Nature of euery Soyle within this Kingdome: how to Plow it; and the manner of the Plough, and other Instruments",
+      "author": "Markham, Gervase"
+    },
+    {
+      "id": "29714",
+      "title": "The Negro Farmer",
+      "author": "Kelsey, Carl"
+    },
+    {
+      "id": "48741",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 02 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "12022",
+      "title": "A start in life. A journey across America. Fruit farming in California",
+      "author": "Dowsett, C. F. (Charles Finch)"
+    },
+    {
+      "id": "48760",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 06 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "71610",
+      "title": "Trotwood's Monthly, Vol. II, No. 1, April, 1906",
+      "author": "Various"
+    },
+    {
+      "id": "69970",
+      "title": "The English Husbandman (The Second Booke): $b Contayning the Ordering of the Kitchin-Garden, and the Planting of strange flowers: the breeding of all manner of Cattell.",
+      "author": "Markham, Gervase"
+    },
+    {
+      "id": "77165",
+      "title": "Walks and talks of an American farmer in England (Part 2 of 2) : $b In the years 1850-51.",
+      "author": "Olmsted, Frederick Law"
+    },
+    {
+      "id": "5152",
+      "title": "One Thousand Questions in California Agriculture Answered",
+      "author": "Wickson, Edward J. (Edward James)"
+    },
+    {
+      "id": "70553",
+      "title": "Trotwood's Monthly, Vol. I, No. 3, December 1905",
+      "author": "Various"
+    },
+    {
+      "id": "48805",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 11 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "59362",
+      "title": "Weather, Crops, and Markets. Vol. 2, No. 6",
+      "author": "Anonymous"
+    },
+    {
+      "id": "11555",
+      "title": "Our Farm of Four Acres and the Money We Made by It",
+      "author": "Coulton, Miss"
+    },
+    {
+      "id": "48802",
+      "title": "The Rural Magazine, and Literary Evening Fire-Side, Vol. 1 No. 10 (1820)",
+      "author": "Various"
+    },
+    {
+      "id": "70741",
+      "title": "A decade of negro extension work, 1914-1924",
+      "author": "Martin, O. B. (Oscar Baker)"
+    },
+    {
+      "id": "18298",
+      "title": "Essays in Natural History and Agriculture",
+      "author": "Garnett, Thomas"
+    },
+    {
+      "id": "4509",
+      "title": "Three Acres and Liberty",
+      "author": "Hall, Bolton"
+    },
+    {
+      "id": "71611",
+      "title": "Trotwood's Monthly, Vol. II, No. 2, May, 1906",
+      "author": "Various"
+    },
+    {
+      "id": "58445",
+      "title": "The Market Reporter, Vol. 4, No. 15",
+      "author": "Various"
+    },
+    {
+      "id": "24080",
+      "title": "The Stewardship of the Soil: Baccalaureate Address by John Henry Worst, President, North Dakota Agricultural College",
+      "author": "Worst, John H. (John Henry)"
+    },
+    {
+      "id": "71627",
+      "title": "Trotwood's Monthly, Vol. II, No. 3, June, 1906",
+      "author": "Various"
+    },
+    {
+      "id": "29057",
+      "title": "Address delivered by Hon. Henry H. Crapo, Governor of Michigan, before the Central Michigan Agricultural Society, at their Sheep-shearing Exhibition held at the Agricultural College Farm, on Thursday, May 24th, 1866",
+      "author": "Crapo, Henry Howland"
+    },
+    {
+      "id": "60230",
+      "title": "The Natural History of Pliny, Volume 2 (of 6)",
+      "author": "Pliny, the Elder"
+    },
+    {
+      "id": "24923",
+      "title": "The Variation of Animals and Plants Under Domestication, Vol. I.",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "22587",
+      "title": "Northern Nut Growers Association Thirty-Fourth Annual Report 1943",
+      "author": "Unknown"
+    },
+    {
+      "id": "45917",
+      "title": "Origin of Cultivated Plants: The International Scientific Series Volume XLVIII",
+      "author": "Candolle, Alphonse de"
+    },
+    {
+      "id": "27513",
+      "title": "The Book of the National Parks",
+      "author": "Yard, Robert Sterling"
+    },
+    {
+      "id": "38015",
+      "title": "De Re Metallica, Translated from the First Latin Edition of 1556",
+      "author": "Agricola, Georg"
+    },
+    {
+      "id": "15191",
+      "title": "The Commercial Products of the Vegetable Kingdom: Considered in Their Various Uses to Man and in Their Relation to the Arts and Manufactures; Forming a Practical Treatise & Handbook of Reference for the Colonist, Manufacturer, Merchant, and Consumer, on the Cultivation, Preparation for Shipment, and Commercial Value, &c. of the Various Substances Obtained From Trees and Plants, Entering into the Husbandry of Tropical and Sub-tropical Regions, &c.",
+      "author": "Simmonds, P. L. (Peter Lund)"
+    },
+    {
+      "id": "61113",
+      "title": "The Natural History of Pliny, Volume 4 (of 6)",
+      "author": "Pliny, the Elder"
+    },
+    {
+      "id": "38481",
+      "title": "Scientific American, Vol. XXXVII.—No. 2. [New Series.], July 14, 1877: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures",
+      "author": "Various"
+    },
+    {
+      "id": "944",
+      "title": "The Voyage of the Beagle",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "55387",
+      "title": "One Hundred Proofs That the Earth Is Not a Globe",
+      "author": "Carpenter, William"
+    },
+    {
+      "id": "11858",
+      "title": "George Washington: Farmer: Being an Account of His Home Life and Agricultural Activities",
+      "author": "Haworth, Paul Leland"
+    },
+    {
+      "id": "71254",
+      "title": "Ukraine, the land and its people : $b an introduction to its geography",
+      "author": "Rudnytskyi, Stepan"
+    },
+    {
+      "id": "6078",
+      "title": "Louis Agassiz: His Life and Correspondence",
+      "author": "Agassiz, Louis"
+    },
+    {
+      "id": "20417",
+      "title": "The Outline of Science, Vol. 1 (of 4): A Plain Story Simply Told",
+      "author": "Thomson, J. Arthur (John Arthur)"
+    },
+    {
+      "id": "26132",
+      "title": "The Apple-Tree: The Open Country Books—No. 1",
+      "author": "Bailey, L. H. (Liberty Hyde)"
+    },
+    {
+      "id": "22472",
+      "title": "The Book of the Damned",
+      "author": "Fort, Charles"
+    },
+    {
+      "id": "73605",
+      "title": "A century of science in America : $b with special reference to the American Journal of Science, 1818-1918",
+      "author": "Unknown"
+    },
+    {
+      "id": "19209",
+      "title": "The Andes and the Amazon; Or, Across the Continent of South America",
+      "author": "Orton, James"
+    },
+    {
+      "id": "76505",
+      "title": "Australian insects",
+      "author": "Froggatt, Walter W. (Walter Wilson)"
+    },
+    {
+      "id": "37388",
+      "title": "Tobacco Leaves: Being a Book of Facts for Smokers",
+      "author": "Brennan, William Augustine"
+    },
+    {
+      "id": "68470",
+      "title": "Fossil plants, Vol. 2 : $b A text-book for students of botany and geology",
+      "author": "Seward, A. C. (Albert Charles)"
+    },
+    {
+      "id": "67684",
+      "title": "Views of nature: or Contemplations on the sublime phenomena of creation: with scientific illustrations",
+      "author": "Humboldt, Alexander von"
+    },
+    {
+      "id": "36457",
+      "title": "A Treatise on Meteorological Instruments: Explanatory of Their Scientific Principles, Method of Construction, and Practical Utility",
+      "author": "Negretti, Enrico Angelo Lodovico"
+    },
+    {
+      "id": "42854",
+      "title": "Encyclopaedia Britannica, 11th Edition, \"Magnetite\" to \"Malt\": Volume 17, Slice 4",
+      "author": "Various"
+    },
+    {
+      "id": "14565",
+      "title": "Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1",
+      "author": "Humboldt, Alexander von"
+    },
+    {
+      "id": "61184",
+      "title": "Proceedings of the California Academy of Sciences, Volume III, 1863-1867",
+      "author": "Various"
+    },
+    {
+      "id": "33224",
+      "title": "Principles of Geology: or, The Modern Changes of the Earth and its Inhabitants Considered as Illustrative of Geology",
+      "author": "Lyell, Charles, Sir"
+    },
+    {
+      "id": "37957",
+      "title": "Man and Nature; Or, Physical Geography as Modified by Human Action",
+      "author": "Marsh, George P. (George Perkins)"
+    },
+    {
+      "id": "24471",
+      "title": "Tobacco; Its History, Varieties, Culture, Manufacture and Commerce",
+      "author": "Billings, E. R."
+    },
+    {
+      "id": "44525",
+      "title": "Report on the Radiolaria Collected by H.M.S. Challenger During the Years 1873-1876, First Part: Porulosa (Spumellaria and Acantharia): Report on the Scientific Results of the Voyage of H.M.S. Challenger During the Years 1873-76, Vol. XVIII",
+      "author": "Haeckel, Ernst"
+    },
+    {
+      "id": "37461",
+      "title": "Encyclopaedia Britannica, 11th Edition, \"Geodesy\" to \"Geometry\": Volume 11, Slice 6",
+      "author": "Various"
+    },
+    {
+      "id": "6322",
+      "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 1",
+      "author": "Humboldt, Alexander von"
+    },
+    {
+      "id": "43396",
+      "title": "The Desert World",
+      "author": "Mangin, Arthur"
+    },
+    {
+      "id": "26492",
+      "title": "Studies of American Fungi. Mushrooms, Edible, Poisonous, etc.",
+      "author": "Atkinson, George Francis"
+    },
+    {
+      "id": "68043",
+      "title": "Fossil plants, Vol. 1 : $b [A text-book] for students of botany and geology",
+      "author": "Seward, A. C. (Albert Charles)"
+    },
+    {
+      "id": "6137",
+      "title": "The Home of the Blizzard: Being the Story of the Australasian Antarctic Expedition, 1911-1914",
+      "author": "Mawson, Douglas, Sir"
+    },
+    {
+      "id": "66639",
+      "title": "The World of Flying Saucers: A Scientific Examination of a Major Myth of the Space Age",
+      "author": "Menzel, Donald H. (Donald Howard)"
+    },
+    {
+      "id": "3704",
+      "title": "Journal of Researches into the Natural History and Geology of the Countries Visited During the Voyage Round the World of H.M.S. Beagle Under the Command of Captain Fitz Roy, R.N.",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "48874",
+      "title": "A Brief History of Forestry.: In Europe, the United States and Other Countries",
+      "author": "Fernow, B. E. (Bernhard Eduard)"
+    },
+    {
+      "id": "39867",
+      "title": "Terrestrial and Celestial Globes Volume 2: Their History and Construction Including a Consideration of their Value as Aids in the Study of Geography and Astronomy",
+      "author": "Stevenson, Edward Luther"
+    },
+    {
+      "id": "12299",
+      "title": "The Mechanical Properties of Wood: Including a Discussion of the Factors Affecting the Mechanical Properties, and Methods of Timber Testing",
+      "author": "Record, Samuel J. (Samuel James)"
+    },
+    {
+      "id": "56315",
+      "title": "Texas Fossils: An Amateur Collector's Handbook",
+      "author": "Matthews, William Henry"
+    },
+    {
+      "id": "20778",
+      "title": "Sylva; Or, A Discourse of Forest Trees. Vol. 1 (of 2)",
+      "author": "Evelyn, John"
+    },
+    {
+      "id": "46377",
+      "title": "A Practical Handbook on the Distillation of Alcohol from Farm Products",
+      "author": "Wright, F. B. (Frederic B.)"
+    },
+    {
+      "id": "49622",
+      "title": "Handbook of Birmingham: Prepared for the Members of the British Association, 1886",
+      "author": "British Association for the Advancement of Science"
+    },
+    {
+      "id": "46036",
+      "title": "The sidereal messenger of Galileo Galilei : $b and a part of the preface to Kepler's Dioptrics containing the original account of Galileo's astronomical discoveries",
+      "author": "Galilei, Galileo"
+    },
+    {
+      "id": "38456",
+      "title": "Narrative of the Circumnavigation of the Globe by the Austrian Frigate Novara, Volume I: (Commodore B. Von Wullerstorf-Urbair,) Undertaken by Order of the Imperial Government in the Years 1857, 1858, & 1859, Under the Immediate Auspices of His I. and R. Highness the Archduke Ferdinand Maximilian, Commander-In-Chief of the; Austrian Navy.",
+      "author": "Scherzer, Karl, Ritter von"
+    },
+    {
+      "id": "10251",
+      "title": "Town Geology",
+      "author": "Kingsley, Charles"
+    },
+    {
+      "id": "24931",
+      "title": "Elements of Agricultural Chemistry",
+      "author": "Anderson, Thomas"
+    },
+    {
+      "id": "73426",
+      "title": "The autobiography of Arthur Young : $b with selections from his correspondence",
+      "author": "Young, Arthur"
+    },
+    {
+      "id": "15491",
+      "title": "Micrographia: Some Physiological Descriptions of Minute Bodies Made by Magnifying Glasses with Observations and Inquiries Thereupon",
+      "author": "Hooke, Robert"
+    },
+    {
+      "id": "23435",
+      "title": "Farm drainage: The Principles, Processes, and Effects of Draining Land with Stones, Wood, Plows, and Open Ditches, and Especially with Tiles",
+      "author": "French, Henry F. (Henry Flagg)"
+    },
+    {
+      "id": "40956",
+      "title": "Encyclopaedia Britannica, 11th Edition, \"Joints\" to \"Justinian I.\": Volume 15, Slice 5",
+      "author": "Various"
+    },
+    {
+      "id": "43391",
+      "title": "Appletons' Popular Science Monthly, December 1898: Volume LIV, No. 2, December 1898",
+      "author": "Various"
+    },
+    {
+      "id": "28248",
+      "title": "The Testimony of the Rocks: or, Geology in Its Bearings on the Two Theologies, Natural and Revealed",
+      "author": "Miller, Hugh"
+    },
+    {
+      "id": "27274",
+      "title": "Manures and the principles of manuring",
+      "author": "Aikman, Charles Morton"
+    },
+    {
+      "id": "47871",
+      "title": "James Geikie, the Man and the Geologist",
+      "author": "Newbigin, Marion I. (Marion Isabel)"
+    },
+    {
+      "id": "28273",
+      "title": "The Cruise of the Betsey: or, A Summer Ramble Among the Fossiliferous Deposits of the Hebrides. With Rambles of a Geologist or, Ten Thousand Miles Over the Fossiliferous Deposits of Scotland",
+      "author": "Miller, Hugh"
+    },
+    {
+      "id": "39791",
+      "title": "Farm Mechanics: Machinery and Its Use to Save Hand Labor on the Farm.",
+      "author": "Shearer, Herbert A."
+    },
+    {
+      "id": "34175",
+      "title": "Domestic Animals: History and description of the horse, mule, cattle, sheep, swine, poultry and farm dogs; with directions for their management, breeding, crossing, rearing, feeding, and preparation for a profitable market; also their diseases and remedies. Together with full directions for the management of the dairy.",
+      "author": "Allen, Richard Lamb"
+    },
+    {
+      "id": "28758",
+      "title": "Philosophical Transactions of the Royal Society - Vol 1 - 1666: Giving some Accompt of the present Undertakings, Studies, and Labours of the Ingenious in many considerable parts of the World",
+      "author": "Various"
+    },
+    {
+      "id": "28058",
+      "title": "A Text-Book of Precious Stones for Jewelers and the Gem-Loving Public",
+      "author": "Wade, Frank Bertram"
+    },
+    {
+      "id": "65776",
+      "title": "Field Book: Pennsylvanian Plant Fossils of Illinois",
+      "author": "Collinson, Charles William"
+    },
+    {
+      "id": "56171",
+      "title": "A Journey in Brazil",
+      "author": "Agassiz, Louis"
+    },
+    {
+      "id": "64677",
+      "title": "A Text-book of Entomology: Including the Anatomy, Physiology, Embryology and Metamorphoses of Insects for Use in Agricultural and Technical Schools and Colleges as Well as by the Working Entomologist",
+      "author": "Packard, A. S. (Alpheus Spring)"
+    },
+    {
+      "id": "3332",
+      "title": "The Variation of Animals and Plants under Domestication",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "18556",
+      "title": "Catalogue of Violent and Destructive Earthquakes in the Philippines: With an Appendix: Earthquakes in the Marianas Islands 1599-1909",
+      "author": "Saderra Masó, Miguel"
+    },
+    {
+      "id": "22771",
+      "title": "Cattle and Their Diseases: Embracing Their History and Breeds, Crossing and Breeding, and Feeding and Management; with the Diseases to Which They Are Subject, and the Remedies Best Adapted to Their Cure",
+      "author": "Jennings, Robert"
+    },
+    {
+      "id": "46994",
+      "title": "The pears of New York",
+      "author": "Hedrick, U. P."
+    },
+    {
+      "id": "45703",
+      "title": "Water Supply: the Present Practice of Sinking and Boring Wells: With Geological Considerations and Examples of Wells Executed",
+      "author": "Spon, Ernest"
+    },
+    {
+      "id": "43232",
+      "title": "The Preparation of Illustrations for Reports of the United States Geological Survey: With Brief Descriptions of Processes of Reproduction",
+      "author": "Ridgway, John L."
+    },
+    {
+      "id": "52709",
+      "title": "Popular Scientific Recreations: in Natural Philosphy, Astronomy, Geology, Chemistry, etc., etc., etc.",
+      "author": "Tissandier, Gaston"
+    },
+    {
+      "id": "70648",
+      "title": "The course of creation",
+      "author": "Anderson, John"
+    },
+    {
+      "id": "68412",
+      "title": "Philosophical transactions, Vol. L. Part II. For the year 1758.: Giving some account of the present undertakings, studies, and labours, of the ingenious, in many considerable parts of the world.",
+      "author": "Various"
+    },
+    {
+      "id": "33483",
+      "title": "The Eruption of Vesuvius in 1872",
+      "author": "Palmieri, Luigi"
+    },
+    {
+      "id": "25583",
+      "title": "Northern Nut Growers Association Incorporated 39th Annual Report: at Norris, Tenn. September 13-15 1948",
+      "author": "Unknown"
+    },
+    {
+      "id": "61520",
+      "title": "The Tropical World: Aspects of man and nature in the equatorial regions of the globe.",
+      "author": "Hartwig, G. (Georg)"
+    },
+    {
+      "id": "52466",
+      "title": "The Subterranean World",
+      "author": "Hartwig, G. (Georg)"
+    },
+    {
+      "id": "18866",
+      "title": "Scientific American, Volume 40, No. 13, March 29, 1879: A Weekly Journal of Practical Information, Art, Science,; Mechanics, Chemistry, and Manufactures",
+      "author": "Various"
+    },
+    {
+      "id": "39866",
+      "title": "Terrestrial and Celestial Globes Volume 1: Their History and Construction Including a Consideration of their Value as Aids in the Study of Geography and Astronomy",
+      "author": "Stevenson, Edward Luther"
+    },
+    {
+      "id": "47015",
+      "title": "Mars and Its Canals",
+      "author": "Lowell, Percival"
+    },
+    {
+      "id": "75040",
+      "title": "The wonders of the world : $b a complete museum, descriptive and pictorial, of the wonderful phenomena and results of nature, science and art",
+      "author": "Abbott, John Loraine"
+    },
+    {
+      "id": "987",
+      "title": "The Scientific Monthly, October to December, 1915",
+      "author": "Various"
+    },
+    {
+      "id": "56311",
+      "title": "The Book of the Ocean",
+      "author": "Ingersoll, Ernest"
+    },
+    {
+      "id": "70725",
+      "title": "The Republic of Costa Rica",
+      "author": "Niederlein, Gustavo"
+    },
+    {
+      "id": "52839",
+      "title": "Texas Rocks and Minerals: An Amateur's Guide",
+      "author": "Girard, Roselle M."
+    },
+    {
+      "id": "25703",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the 44th Annual Meeting: Rochester, N.Y. August 31 and September 1, 1953",
+      "author": "Unknown"
+    },
+    {
+      "id": "41570",
+      "title": "The Asteroids; Or Minor Planets Between Mars and Jupiter.",
+      "author": "Kirkwood, Daniel"
+    },
+    {
+      "id": "70356",
+      "title": "Heroes of science : $b Botanists, zoologists, and geologists",
+      "author": "Duncan, P. Martin (Peter Martin)"
+    },
+    {
+      "id": "12082",
+      "title": "Color Images from Mars Rovers: Spirit and Opportunity",
+      "author": "Webster, Bob"
+    },
+    {
+      "id": "25935",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the 43rd Annual Meeting: Rockport, Indiana, August 25, 26 and 27, 1952",
+      "author": "Unknown"
+    },
+    {
+      "id": "22721",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Thirty-Eighth Annual Meeting: Guelph, Ontario, September 3, 4, 5, 1947",
+      "author": "Unknown"
+    },
+    {
+      "id": "60215",
+      "title": "Galileo Galilei and the Roman Curia: From Authentic Sources",
+      "author": "Gebler, Karl von"
+    },
+    {
+      "id": "23546",
+      "title": "Wealth of the World's Waste Places and Oceania",
+      "author": "Gilson, Jewett C. (Jewett Castello)"
+    },
+    {
+      "id": "72508",
+      "title": "Nature readers : $b Sea-side and way-side. No. 4",
+      "author": "Wright, Julia McNair"
+    },
+    {
+      "id": "27327",
+      "title": "Agricultural Implements and Machines in the Collection of the National Museum of History and Technology: Smithsonian Studies in History and Technology, No. 17",
+      "author": "Schlebecker, John T."
+    },
+    {
+      "id": "14012",
+      "title": "Ice-Caves of France and Switzerland",
+      "author": "Browne, G. F. (George Forrest)"
+    },
+    {
+      "id": "35408",
+      "title": "The Religion of Geology and Its Connected Sciences",
+      "author": "Hitchcock, Edward"
+    },
+    {
+      "id": "39723",
+      "title": "The World Before the Deluge",
+      "author": "Figuier, Louis"
+    },
+    {
+      "id": "6335",
+      "title": "The Antiquity of Man",
+      "author": "Lyell, Charles, Sir"
+    },
+    {
+      "id": "34562",
+      "title": "John Deere's Steel Plow",
+      "author": "Kendall, Edward C."
+    },
+    {
+      "id": "37904",
+      "title": "The International Monthly, Volume 4, No. 4, November 1, 1851",
+      "author": "Various"
+    },
+    {
+      "id": "15417",
+      "title": "Scientific American Supplement, No. 388, June 9, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "52179",
+      "title": "The Geologic Story of Palo Duro Canyon",
+      "author": "Matthews, William Henry"
+    },
+    {
+      "id": "52838",
+      "title": "Creation of the Teton Landscape: The Geologic Story of Grand Teton National Park",
+      "author": "Reed, John C. (John Calvin)"
+    },
+    {
+      "id": "57340",
+      "title": "Coffee and chicory : $b Their culture, chemical composition, preparation for market, and consumption, with simple tests for detecting adulteration, and practical hints for the producer and consumer",
+      "author": "Simmonds, P. L. (Peter Lund)"
+    },
+    {
+      "id": "40706",
+      "title": "An Introduction to the History of Science",
+      "author": "Libby, Walter"
+    },
+    {
+      "id": "4527",
+      "title": "The Story of the Soil; from the Basis of Absolute Science and Real Life",
+      "author": "Hopkins, Cyril G. (Cyril George)"
+    },
+    {
+      "id": "30310",
+      "title": "Special report on diseases of cattle",
+      "author": "United States. Bureau of Animal Industry"
+    },
+    {
+      "id": "3772",
+      "title": "The Student's Elements of Geology",
+      "author": "Lyell, Charles, Sir"
+    },
+    {
+      "id": "38455",
+      "title": "ASCE 1193: The Water-Works and Sewerage of Monterrey, N. L., Mexico: The 4th article from the June, 1911, Volume LXXII, Transactions of the American Society of Civil Engineers. Paper No. 1193, Feb. 1, 1911.",
+      "author": "Conway, G. R. G. (George Robert Graham)"
+    },
+    {
+      "id": "7014",
+      "title": "Personal Narrative of Travels to the Equinoctial Regions of America, During the Year 1799-1804 — Volume 2",
+      "author": "Humboldt, Alexander von"
+    },
+    {
+      "id": "34834",
+      "title": "A Text-Book of Astronomy",
+      "author": "Comstock, George C. (George Cary)"
+    },
+    {
+      "id": "28570",
+      "title": "Astronomy of To-day: A Popular Introduction in Non-Technical Language",
+      "author": "Dolmage, Cecil Goodrich Julius"
+    },
+    {
+      "id": "29420",
+      "title": "American Rural Highways",
+      "author": "Agg, T. R. (Thomas Radford)"
+    },
+    {
+      "id": "54970",
+      "title": "Everglades Wildguide: Handbook 143",
+      "author": "George, Jean Craighead"
+    },
+    {
+      "id": "68925",
+      "title": "The zoology of the voyage of H.M.S. Beagle [vol. 1 of 5] : $b Fossil mammalia",
+      "author": "Owen, Richard"
+    },
+    {
+      "id": "62918",
+      "title": "Essay on the Theory of the Earth",
+      "author": "Cuvier, Georges, baron"
+    },
+    {
+      "id": "33049",
+      "title": "The Origin of the World According to Revelation and Science",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "43027",
+      "title": "Getting Gold: A Gold-Mining Handbook for Practical Men",
+      "author": "Johnson, J. C. F. (Joseph Colin Francis)"
+    },
+    {
+      "id": "47147",
+      "title": "An Introduction to the Study of Meteorites: With a List of the Meteorites Represented in the Collection",
+      "author": "British Museum (Natural History). Department of Mineralogy"
+    },
+    {
+      "id": "65704",
+      "title": "Guide to the Geologic Map of Illinois",
+      "author": "Illinois State Geological Survey"
+    },
+    {
+      "id": "8082",
+      "title": "Canyons of the Colorado",
+      "author": "Powell, John Wesley"
+    },
+    {
+      "id": "55382",
+      "title": "Field book of common rocks and minerals : $b for identifying the rocks and minerals of the United States and interpreting their origins and meanings",
+      "author": "Loomis, Frederic Brewster"
+    },
+    {
+      "id": "56205",
+      "title": "Voyager 1 Encounters Saturn",
+      "author": "United States. National Aeronautics and Space Administration"
+    },
+    {
+      "id": "72123",
+      "title": "The Arctic World : $b Its plants, animals, and natural phenomena. With a historical sketch of Arctic discovery, down to the British polar expedition: 1875-76.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "47059",
+      "title": "Meteorology: The Science of the Atmosphere",
+      "author": "Talman, Charles Fitzhugh"
+    },
+    {
+      "id": "48516",
+      "title": "Curiosities of Science, Past and Present: A Book for Old and Young",
+      "author": "Timbs, John"
+    },
+    {
+      "id": "39205",
+      "title": "Sheep, Swine, and Poultry: Embracing the History and Varieties of Each; The Best Modes of Breeding; Their Feeding and Management; Together with etc.",
+      "author": "Jennings, Robert"
+    },
+    {
+      "id": "27516",
+      "title": "The Toilers of the Field",
+      "author": "Jefferies, Richard"
+    },
+    {
+      "id": "2355",
+      "title": "The Formation of Vegetable Mould Through the Action of Worms: With Observations on Their Habits",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "5883",
+      "title": "The Flying Saucers are Real",
+      "author": "Keyhoe, Donald E. (Donald Edward)"
+    },
+    {
+      "id": "42124",
+      "title": "American Forest Trees",
+      "author": "Gibson, Henry H."
+    },
+    {
+      "id": "67668",
+      "title": "Hints to Travellers, Scientific and General, Vol. 2: Tenth edition, revised and corrected",
+      "author": "Royal Geographical Society (Great Britain)"
+    },
+    {
+      "id": "50957",
+      "title": "Man and the Glacial Period",
+      "author": "Wright, G. Frederick (George Frederick)"
+    },
+    {
+      "id": "61462",
+      "title": "Standard methods for the examination of water and sewage",
+      "author": "American Public Health Association. Laboratory Section"
+    },
+    {
+      "id": "25831",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Thirty-Seventh  Annual Report: Wooster, Ohio, September 3, 4, 5, 1946",
+      "author": "Unknown"
+    },
+    {
+      "id": "38482",
+      "title": "Scientific American, Vol. XLIII.—No. 1. [New Series.], July 3, 1880: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures",
+      "author": "Various"
+    },
+    {
+      "id": "71082",
+      "title": "Political and commercial geology and the world's mineral resources",
+      "author": "Unknown"
+    },
+    {
+      "id": "4924",
+      "title": "Dry-Farming : A System of Agriculture for Countries under a Low Rainfall",
+      "author": "Widtsoe, John Andreas"
+    },
+    {
+      "id": "26598",
+      "title": "Seasoning of Wood",
+      "author": "Wagner, J. B. (Joseph Bernard)"
+    },
+    {
+      "id": "69102",
+      "title": "The Moon",
+      "author": "Farrington, Oliver C. (Oliver Cummings)"
+    },
+    {
+      "id": "60990",
+      "title": "Gem-Stones and Their Distinctive Characters",
+      "author": "Smith, George Frederick Herbert"
+    },
+    {
+      "id": "47436",
+      "title": "The American Journal of Science and Arts, Volume 50 (First Series): General Index to Forty-Nine Volumes",
+      "author": "Various"
+    },
+    {
+      "id": "7111",
+      "title": "The Land of Midian (Revisited) — Volume 1",
+      "author": "Burton, Richard Francis, Sir"
+    },
+    {
+      "id": "68721",
+      "title": "Earth dams, a study",
+      "author": "Bassell, Burr"
+    },
+    {
+      "id": "23682",
+      "title": "Crops and Methods for Soil Improvement",
+      "author": "Agee, Alva"
+    },
+    {
+      "id": "40240",
+      "title": "Letters on Astronomy: in which the Elements of the Science are Familiarly Explained in Connection with Biographical Sketches of the Most Eminent Astronomers",
+      "author": "Olmsted, Denison"
+    },
+    {
+      "id": "41953",
+      "title": "Cyrus Hall McCormick: His Life and Work",
+      "author": "Casson, Herbert Newton"
+    },
+    {
+      "id": "61652",
+      "title": "Physical Geography",
+      "author": "Somerville, Mary"
+    },
+    {
+      "id": "22387",
+      "title": "A Tour in Ireland. 1776-1779",
+      "author": "Young, Arthur"
+    },
+    {
+      "id": "40472",
+      "title": "The History of Creation, Vol. 1 (of 2): Or the Development of the Earth and its Inhabitants by the Action of Natural Causes",
+      "author": "Haeckel, Ernst"
+    },
+    {
+      "id": "47263",
+      "title": "The peaches of New York",
+      "author": "Hedrick, U. P."
+    },
+    {
+      "id": "50671",
+      "title": "Earth Features and Their Meaning: An Introduction to Geology for the Student and the General Reader",
+      "author": "Hobbs, William Herbert"
+    },
+    {
+      "id": "39910",
+      "title": "Omphalos: An Attempt to Untie the Geological Knot",
+      "author": "Gosse, Philip Henry"
+    },
+    {
+      "id": "34350",
+      "title": "A Manual of Elementary Geology: or, The Ancient Changes of the Earth and its Inhabitants as Illustrated by Geological Monuments",
+      "author": "Lyell, Charles, Sir"
+    },
+    {
+      "id": "12861",
+      "title": "Theory of the Earth, With Proofs and Illustrations, Volume 1 (of 4)",
+      "author": "Hutton, James"
+    },
+    {
+      "id": "66308",
+      "title": "Guide to Rocks and Minerals of Illinois",
+      "author": "Illinois State Geological Survey"
+    },
+    {
+      "id": "15193",
+      "title": "Scientific American Supplement, No. 841, February 13, 1892",
+      "author": "Various"
+    },
+    {
+      "id": "37968",
+      "title": "The Nut Culturist: A Treatise on Propogation, Planting, and Cultivation of Nut Bearing Trees and Shrubs Adapted to the Climate of the United States",
+      "author": "Fuller, Andrew S. (Andrew Samuel)"
+    },
+    {
+      "id": "66493",
+      "title": "The Ancient Volcanoes of Great Britain, Volume 2 (of 2)",
+      "author": "Geikie, Archibald"
+    },
+    {
+      "id": "38264",
+      "title": "Guatemala, the country of the future",
+      "author": "Pepper, Charles M. (Charles Melville)"
+    },
+    {
+      "id": "31827",
+      "title": "Etna: A History of the Mountain and of its Eruptions",
+      "author": "Rodwell, G. F. (George Farrer)"
+    },
+    {
+      "id": "62342",
+      "title": "Stonehenge and Other British Stone Monuments Astronomically Considered",
+      "author": "Lockyer, Norman, Sir"
+    },
+    {
+      "id": "25185",
+      "title": "Mysteries of Bee-keeping Explained",
+      "author": "Quinby, M. (Moses)"
+    },
+    {
+      "id": "12363",
+      "title": "The Botanist's Companion, Volume II: Or an Introduction to the Knowledge of Practical Botany, and the Uses of Plants. Either Growing Wild in Great Britain, or Cultivated for the Puroses of Agriculture, Medicine, Rural Oeconomy, or the Arts",
+      "author": "Salisbury, William"
+    },
+    {
+      "id": "25566",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Fifteenth Annual Meeting: New York City, September 3, 4 and 5, 1924",
+      "author": "Unknown"
+    },
+    {
+      "id": "74316",
+      "title": "Geology, Vol. 1 [of 3] : $b Geologic processes and their results",
+      "author": "Salisbury, Rollin D."
+    },
+    {
+      "id": "25520",
+      "title": "The Stock-Feeder's Manual: the chemistry of food in relation to the breeding and feeding of live stock",
+      "author": "Cameron, Charles Alexander, Sir"
+    },
+    {
+      "id": "40404",
+      "title": "The Elements of Geology",
+      "author": "Norton, William Harmon"
+    },
+    {
+      "id": "29048",
+      "title": "The Fabric of Civilization: A Short Survey of the Cotton Industry in the United States",
+      "author": "Guaranty Trust Company of New York"
+    },
+    {
+      "id": "47119",
+      "title": "Fragments of Earth Lore: Sketches & Addresses Geological and Geographical",
+      "author": "Geikie, James"
+    },
+    {
+      "id": "60143",
+      "title": "Prairie, Peak, and Plateau: A Guide to the Geology of Colorado",
+      "author": "Chronic, John"
+    },
+    {
+      "id": "64434",
+      "title": "A Pictorial Atlas of Fossil Remains, consisting of coloured illustrations selected from Parkinson's \"Organic remains of a former world,\" and Artis's \"Antediluvian phytology.\"",
+      "author": "Mantell, Gideon Algernon"
+    },
+    {
+      "id": "60277",
+      "title": "Aërial Navigation: A Popular Treatise on the Growth of Air Craft and on Aëronautical Meteorology",
+      "author": "Zahm, Albert Francis"
+    },
+    {
+      "id": "67533",
+      "title": "The Book of Alfalfa: History, Cultivation and Merits: Its Uses as a Forage and Fertilizer",
+      "author": "Coburn, F. D. (Foster Dwight)"
+    },
+    {
+      "id": "3620",
+      "title": "Geological Observations on South America",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "15884",
+      "title": "Young Folks' Library, Volume XI (of 20): Wonders of Earth, Sea and Sky",
+      "author": "Unknown"
+    },
+    {
+      "id": "27842",
+      "title": "The Economic Aspect of Geology",
+      "author": "Leith, C. K. (Charles Kenneth)"
+    },
+    {
+      "id": "47648",
+      "title": "Geology: The Science of the Earth's Crust",
+      "author": "Miller, William J. (William John)"
+    },
+    {
+      "id": "42245",
+      "title": "Thunder and Lightning",
+      "author": "Flammarion, Camille"
+    },
+    {
+      "id": "45261",
+      "title": "The Argentine in the Twentieth Century",
+      "author": "Martínez, Alberto B."
+    },
+    {
+      "id": "68391",
+      "title": "Round the year with the stars: The chief beauties of the starry heavens as seen with the naked eye",
+      "author": "Serviss, Garrett Putman"
+    },
+    {
+      "id": "16728",
+      "title": "A Catechism of Familiar Things;: Their History, and the Events Which Led to Their Discovery.; With a Short Explanation of Some of the Principal Natural Phenomena. For the Use of Schools and Families. Enlarged and Revised Edition.",
+      "author": "Anonymous"
+    },
+    {
+      "id": "20032",
+      "title": "Northern Nut Growers Report of the Proceedings at the Twenty-First Annual Meeting: Cedar Rapids, Iowa, September 17, 18, and 19, 1930",
+      "author": "Unknown"
+    },
+    {
+      "id": "29659",
+      "title": "Manual of American grape-growing",
+      "author": "Hedrick, U. P."
+    },
+    {
+      "id": "43320",
+      "title": "The Wonder Book of Volcanoes and Earthquakes",
+      "author": "Houston, Edwin J. (Edwin James)"
+    },
+    {
+      "id": "70382",
+      "title": "The music of the spheres : $b A nature lover's astronomy",
+      "author": "Grondal, Florence Armstrong"
+    },
+    {
+      "id": "20903",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Twenty-Fifth Annual Meeting: Battle Creek, Michigan, September 10 and 11, 1934",
+      "author": "Unknown"
+    },
+    {
+      "id": "25509",
+      "title": "The World's Greatest Books — Volume 15 — Science",
+      "author": "Unknown"
+    },
+    {
+      "id": "59662",
+      "title": "The Coal Measures Amphibia of North America",
+      "author": "Moodie, Roy Lee"
+    },
+    {
+      "id": "61398",
+      "title": "The Polar World: A popular description of man and nature in the Arctic and Antarctic regions of the globe",
+      "author": "Hartwig, G. (Georg)"
+    },
+    {
+      "id": "32414",
+      "title": "Home Pork Making",
+      "author": "Fulton, A. W. (Albert Watson)"
+    },
+    {
+      "id": "46327",
+      "title": "The cherries of New York",
+      "author": "Hedrick, U. P."
+    },
+    {
+      "id": "59737",
+      "title": "The Common Rocks and Minerals of Missouri",
+      "author": "Keller, W. D."
+    },
+    {
+      "id": "16325",
+      "title": "Science in Arcady",
+      "author": "Allen, Grant"
+    },
+    {
+      "id": "14279",
+      "title": "The Ancient Life History of the Earth: A Comprehensive Outline of the Principles and Leading Facts of Palæontological Science",
+      "author": "Nicholson, Henry Alleyne"
+    },
+    {
+      "id": "54420",
+      "title": "The Practical Astronomer: Comprising illustrations of light and colours--practical descriptions of all kinds of telescopes--the use of the equatorial-transit--circular, and other astronomical instruments, a particular account of the Earl of Rosse's large telescopes, and other topics connected with astronomy",
+      "author": "Dick, Thomas"
+    },
+    {
+      "id": "69560",
+      "title": "Leisure hours among the gems",
+      "author": "Hamlin, Augustus C. (Augustus Choate)"
+    },
+    {
+      "id": "5109",
+      "title": "Ragnarok : the Age of Fire and Gravel",
+      "author": "Donnelly, Ignatius"
+    },
+    {
+      "id": "56135",
+      "title": "Tobacco: Growing, Curing, & Manufacturing: A Handbook for Planters in All Parts of the World",
+      "author": "Unknown"
+    },
+    {
+      "id": "47626",
+      "title": "The Ocean World: Being a Description of the Sea and Its Living Inhabitants.",
+      "author": "Figuier, Louis"
+    },
+    {
+      "id": "52848",
+      "title": "Space Nomads: Meteorites in Sky, Field, and Laboratory",
+      "author": "LaPaz, Lincoln"
+    },
+    {
+      "id": "19448",
+      "title": "Talks on Manures: A Series of Familiar and Practical Talks Between the Author and the Deacon, the Doctor, and Other Neighbors, on the Whole Subject",
+      "author": "Harris, Joseph"
+    },
+    {
+      "id": "55541",
+      "title": "A treatise on the origin, progress, prevention, and cure of dry rot in timber : $b with remarks on the means of preserving wood from destruction by sea worms, beetles, ants, etc.",
+      "author": "Britton, Thomas Allen"
+    },
+    {
+      "id": "69830",
+      "title": "My experiments with volcanoes",
+      "author": "Jaggar, Thomas Augustus"
+    },
+    {
+      "id": "45978",
+      "title": "The grapes of New York",
+      "author": "Hedrick, U. P."
+    },
+    {
+      "id": "20917",
+      "title": "The Cultivation of The Native Grape, and Manufacture of American Wines",
+      "author": "Husmann, George"
+    },
+    {
+      "id": "40318",
+      "title": "The book of cheese",
+      "author": "Thom, Charles"
+    },
+    {
+      "id": "42660",
+      "title": "Experiments on Animals",
+      "author": "Paget, Stephen"
+    },
+    {
+      "id": "44097",
+      "title": "Appletons' Popular Science Monthly, January 1899: Volume LIV, No. 3, January 1899",
+      "author": "Various"
+    },
+    {
+      "id": "63087",
+      "title": "Color Standards and Color Nomenclature: With fifty-three colored plates and eleven hundred and fifteen named colors",
+      "author": "Ridgway, Robert"
+    },
+    {
+      "id": "65071",
+      "title": "Matthew Fontaine Maury, the Pathfinder of the Seas",
+      "author": "Lewis, Charles Lee"
+    },
+    {
+      "id": "68670",
+      "title": "The micro-organisms of the soil",
+      "author": "Russell, Edward J. (Edward John)"
+    },
+    {
+      "id": "45112",
+      "title": "Astronomy for Young Folks",
+      "author": "Lewis, Isabel Martin"
+    },
+    {
+      "id": "1216",
+      "title": "Reflections on the Decline of Science in England, and on Some of Its Causes",
+      "author": "Babbage, Charles"
+    },
+    {
+      "id": "36024",
+      "title": "North America",
+      "author": "Russell, Israel C. (Cook)"
+    },
+    {
+      "id": "60007",
+      "title": "Earthquakes and other earth movements",
+      "author": "Milne, John"
+    },
+    {
+      "id": "63615",
+      "title": "A Century's Progress in Astronomy",
+      "author": "Macpherson, Hector"
+    },
+    {
+      "id": "34502",
+      "title": "Charles Lyell and Modern Geology",
+      "author": "Bonney, T. G. (Thomas George)"
+    },
+    {
+      "id": "43282",
+      "title": "Scientific American, Vol. XXXIX.No. 6. [New Series.], August 10, 1878",
+      "author": "Various"
+    },
+    {
+      "id": "65307",
+      "title": "The Romance of Modern Geology: Describing in simple but exact language the making of the earth with some account of prehistoric animal life",
+      "author": "Grew, Edwin Sharpe"
+    },
+    {
+      "id": "69025",
+      "title": "The filtration of public water-supplies: Third edition, revised and enlarged.",
+      "author": "Hazen, Allen"
+    },
+    {
+      "id": "52424",
+      "title": "Cave Hunting: Researches on the evidence of caves respecting the early inhabitants of Europe",
+      "author": "Dawkins, William Boyd"
+    },
+    {
+      "id": "33560",
+      "title": "A New Genus of Pennsylvanian Fish (Crossopterygii, Coelacanthiformes) from Kansas",
+      "author": "Echols, Joan"
+    },
+    {
+      "id": "16773",
+      "title": "Scientific American Supplement, No. 443,  June 28, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "51133",
+      "title": "How to Use the Popular Science Library; History of Science; General Index",
+      "author": "Serviss, Garrett Putman"
+    },
+    {
+      "id": "58592",
+      "title": "Milch Cows and Dairy Farming: Comprising the Breeds, Breeding, and Management, in Health and Disease, of Dairy and Other Stock, the Selection of Milch Cows, with a Full Explanation of Guenon's Method; The Culture of Forage Plants, and the Production of Milk, Butter, and Cheese: Embodying the Most Recent Improvements, and Adapted to Farming in the United States and British Provinces. With a Treatise upon the Dairy Husbandry of Holland; To Which Is Added Horsfall's System of Dairy Management",
+      "author": "Flint, Charles Louis"
+    },
+    {
+      "id": "49069",
+      "title": "The Floors of the Ocean: 1. The North Atlantic: Text to accompany the physiographic diagram of the North Atlantic",
+      "author": "Heezen, Bruce C."
+    },
+    {
+      "id": "43976",
+      "title": "Ancient Plants: Being a Simple Account of the past Vegetation of the Earth and of the Recent Important Discoveries Made in This Realm of Nature",
+      "author": "Stopes, Marie Carmichael"
+    },
+    {
+      "id": "13254",
+      "title": "The Dollar Hen",
+      "author": "Hastings, Milo"
+    },
+    {
+      "id": "45361",
+      "title": "Appletons' Popular Science Monthly, July 1899: Volume LV, No. 3, July 1899",
+      "author": "Various"
+    },
+    {
+      "id": "37596",
+      "title": "American Pomology. Apples",
+      "author": "Warder, J. A. (John Aston)"
+    },
+    {
+      "id": "17475",
+      "title": "The Lobster Fishery of Maine: Bulletin of the United States Fish Commission, Vol. 19, Pages 241-265, 1899",
+      "author": "Cobb, John N. (John Nathan)"
+    },
+    {
+      "id": "57098",
+      "title": "British Museum (Natural History) General Guide",
+      "author": "British Museum (Natural History)"
+    },
+    {
+      "id": "73651",
+      "title": "Modern shipbuilding and the men engaged in it",
+      "author": "Pollock, David"
+    },
+    {
+      "id": "49966",
+      "title": "Geology of Devils Tower National Monument, Wyoming: A Contribution to General Geology",
+      "author": "Robinson, Charles Sherwood"
+    },
+    {
+      "id": "40473",
+      "title": "The History of Creation, Vol. 2 (of 2): Or the Development of the Earth and its Inhabitants by the Action of Natural Causes",
+      "author": "Haeckel, Ernst"
+    },
+    {
+      "id": "47999",
+      "title": "Natural Gemstones",
+      "author": "Geological Survey (U.S.)"
+    },
+    {
+      "id": "51116",
+      "title": "The Geologic Story of Arches National Park: Geological Survey Bulletin 1393",
+      "author": "Lohman, Stanley William"
+    },
+    {
+      "id": "49572",
+      "title": "Observations of a Naturalist in the Pacific Between 1896 and 1899, Volume 1: Vanua Levu, Fiji",
+      "author": "Guppy, H. B. (Henry Brougham)"
+    },
+    {
+      "id": "55126",
+      "title": "Cloud Studies",
+      "author": "Clayden, Arthur William"
+    },
+    {
+      "id": "75114",
+      "title": "The new air world : $b The science of meteorology simplified",
+      "author": "Moore, Willis L. (Willis Luther)"
+    },
+    {
+      "id": "31627",
+      "title": "Volcanoes: Past and Present",
+      "author": "Hull, Edward"
+    },
+    {
+      "id": "14327",
+      "title": "Lippincott's Magazine of Popular Literature and Science, Volume 11, No. 22, January, 1873",
+      "author": "Various"
+    },
+    {
+      "id": "63553",
+      "title": "An Expedition to Mount St. Elias, Alaska",
+      "author": "Russell, Israel C. (Cook)"
+    },
+    {
+      "id": "1697",
+      "title": "Madam How and Lady Why; Or, First Lessons in Earth Lore for Children",
+      "author": "Kingsley, Charles"
+    },
+    {
+      "id": "24629",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Eleventh Annual Meeting: Washington, D. C. October 7 and 8, 1920",
+      "author": "Unknown"
+    },
+    {
+      "id": "40888",
+      "title": "Jethro Wood, Inventor of the Modern Plow.: A Brief Account of His Life, Services, and Trials; Together with Facts Subsequent to his Death, and Incident to His Great Invention",
+      "author": "Gilbert, Frank"
+    },
+    {
+      "id": "36470",
+      "title": "Photographs of Nebulæ and Clusters, Made with the Crossley Reflector",
+      "author": "Keeler, James Edward"
+    },
+    {
+      "id": "25389",
+      "title": "Right Use of Lime in Soil Improvement",
+      "author": "Agee, Alva"
+    },
+    {
+      "id": "32598",
+      "title": "Earth and Sky Every Child Should Know: Easy studies of the earth and the stars for any time and place",
+      "author": "Rogers, Julia Ellen"
+    },
+    {
+      "id": "37041",
+      "title": "Preservation of Bull Semen at Sub-Zero Temperatures",
+      "author": "VanDemark, N. L."
+    },
+    {
+      "id": "66818",
+      "title": "The Strange Adventures of a Pebble",
+      "author": "Hawksworth, Hallam"
+    },
+    {
+      "id": "55800",
+      "title": "Mosaic of New Mexico's Scenery, Rocks, and History",
+      "author": "Unknown"
+    },
+    {
+      "id": "66061",
+      "title": "The Story of Milk",
+      "author": "Frederiksen, Johan Ditlev"
+    },
+    {
+      "id": "49791",
+      "title": "Miscellanea Curiosa, Vol. 1: Containing a collection of some of the principal phaenomena in nature, accounted for by the greatest philosophers of this age",
+      "author": "Unknown"
+    },
+    {
+      "id": "51048",
+      "title": "The Geologic Story of Canyonlands National Park",
+      "author": "Lohman, Stanley William"
+    },
+    {
+      "id": "24762",
+      "title": "Diggers in the Earth",
+      "author": "Tappan, Eva March"
+    },
+    {
+      "id": "76146",
+      "title": "Fossil plants, Vol. 3 : $b A text-book for students of botany and geology",
+      "author": "Seward, A. C. (Albert Charles)"
+    },
+    {
+      "id": "76003",
+      "title": "Minerals in rock sections : $b The practical methods of identifying minerals in rock sections with the microscope, especially arranged for students in technical and scientific schools",
+      "author": "Luquer, Lea McIlvaine"
+    },
+    {
+      "id": "11385",
+      "title": "Scientific American Supplement, No. 446, July 19, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "26718",
+      "title": "Health on the Farm: A Manual of Rural Sanitation and Hygiene",
+      "author": "Harris, H. F. (Henry Fauntleroy)"
+    },
+    {
+      "id": "73302",
+      "title": "Principles and practice of agricultural analysis. Volume 1 (of 3), Soils",
+      "author": "Wiley, Harvey Washington"
+    },
+    {
+      "id": "32702",
+      "title": "The Romance of the Reaper",
+      "author": "Casson, Herbert Newton"
+    },
+    {
+      "id": "49245",
+      "title": "The Unexploited West: A Compilation of all of the authentic information available at the present time as to the Natural Resources of the Unexploited Regions of Northern Canada",
+      "author": "Chambers, Ernest J."
+    },
+    {
+      "id": "56478",
+      "title": "Old Mines of Southern California: Desert-Mountain-Coastal Areas Including the Calico-Salton Sea Colorado River Districts and Southern Counties",
+      "author": "Fairbanks, Harold W. (Harold Wellman)"
+    },
+    {
+      "id": "27862",
+      "title": "The Cauliflower",
+      "author": "Crozier, A. A. (Arthur Alger)"
+    },
+    {
+      "id": "8952",
+      "title": "Scientific American, Volume 22, No. 1, January 1, 1870: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures.",
+      "author": "Various"
+    },
+    {
+      "id": "63355",
+      "title": "Studies on Fermentation: The diseases of beer, their causes, and the means of preventing them",
+      "author": "Pasteur, Louis"
+    },
+    {
+      "id": "52216",
+      "title": "Glacières; or, Freezing Caverns",
+      "author": "Balch, Edwin Swift"
+    },
+    {
+      "id": "54090",
+      "title": "Bamboo, Considered as a Paper-making Material: With remarks upon its cultivation and treatment. Supplemented by a consideration of the present position of the paper trade in relation to the supply of raw material.",
+      "author": "Routledge, Thomas"
+    },
+    {
+      "id": "11745",
+      "title": "Blackwood's Edinburgh Magazine — Volume 53, No. 330, April 1843",
+      "author": "Various"
+    },
+    {
+      "id": "73887",
+      "title": "Modern ships of war",
+      "author": "Reed, Edward J. (Edward James), Sir"
+    },
+    {
+      "id": "52925",
+      "title": "The Cultivation and Manufacture of Tea",
+      "author": "Money, Edward"
+    },
+    {
+      "id": "65867",
+      "title": "Philosophical transactions, Vol. L. Part I. For the year 1757.: Giving some account of the present undertakings, studies, and labours, of the ingenious, in many considerable parts of the world.",
+      "author": "Various"
+    },
+    {
+      "id": "2485",
+      "title": "The Movements and Habits of Climbing Plants",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "33429",
+      "title": "The Philosophy of the Weather. And a Guide to Its Changes",
+      "author": "Butler, T. B. (Thomas Belden)"
+    },
+    {
+      "id": "45287",
+      "title": "The A B C of Mining: A Handbook for Prospectors",
+      "author": "Bramble, Charles A."
+    },
+    {
+      "id": "50229",
+      "title": "Miscellanea Curiosa, Vol. 3: containing a collection of curious travels, voyages, and natural histories of countries as they have been delivered in to the Royal Society",
+      "author": "Royal Society (Great Britain)"
+    },
+    {
+      "id": "75389",
+      "title": "Principles and practice of agricultural analysis. Volume 3 (of 3), Agricultural products",
+      "author": "Wiley, Harvey Washington"
+    },
+    {
+      "id": "42741",
+      "title": "The Story of the Earth and Man",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "63788",
+      "title": "Plants Poisonous to Live Stock",
+      "author": "Long, Harold Cecil"
+    },
+    {
+      "id": "44792",
+      "title": "Buffon's Natural History, Volume 01 (of 10): Containing a Theory of the Earth, a General History of Man, of the Brute Creation, and of Vegetables, Mineral, &c. &c",
+      "author": "Buffon, Georges Louis Leclerc, comte de"
+    },
+    {
+      "id": "42128",
+      "title": "The Edinburgh New Philosophical Journal, Vol. XLIX: April-October 1850",
+      "author": "Various"
+    },
+    {
+      "id": "1043",
+      "title": "The Story of Evolution",
+      "author": "McCabe, Joseph"
+    },
+    {
+      "id": "12443",
+      "title": "The jute industry : $b from seed to finished cloth",
+      "author": "Woodhouse, Thomas"
+    },
+    {
+      "id": "33165",
+      "title": "Coal, and What We Get from It",
+      "author": "Meldola, Raphael"
+    },
+    {
+      "id": "71408",
+      "title": "Common names of a selected list of plants",
+      "author": "Anderson, Kling L."
+    },
+    {
+      "id": "8687",
+      "title": "Scientific American Supplement, No. 362, December 9, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "31729",
+      "title": "The Apple: The Kansas Apple, the Big Red Apple; the Luscious, Red-Cheeked First Love of the Farmer's Boy; the Healthful, Hearty Heart of the Darling Dumpling. What It Is; How to Grow It; Its Commercial and Economic Importance; How to Utilize It.",
+      "author": "Unknown"
+    },
+    {
+      "id": "34192",
+      "title": "The Glaciers of the Alps: Being a narrative of excursions and ascents, an account of the origin and phenomena of glaciers and an exposition of the physical principles to which they are related",
+      "author": "Tyndall, John"
+    },
+    {
+      "id": "68530",
+      "title": "Crystals",
+      "author": "Tutton, A. E. H. (Alfred Edwin Howard)"
+    },
+    {
+      "id": "37855",
+      "title": "Climatic Changes: Their Nature and Causes",
+      "author": "Huntington, Ellsworth"
+    },
+    {
+      "id": "43695",
+      "title": "Appletons' Popular Science Monthly, February 1899: Volume LIV, No. 4, February 1899",
+      "author": "Various"
+    },
+    {
+      "id": "71849",
+      "title": "Travels into North America, Volume 1 (of 3)",
+      "author": "Kalm, Pehr"
+    },
+    {
+      "id": "54790",
+      "title": "The Raisin Industry: A practical treatise on the raisin grapes, their history, culture and curing",
+      "author": "Eisen, Gustavus A."
+    },
+    {
+      "id": "42917",
+      "title": "The Eagle's Nest: Ten Lectures on the Relation of Natural Science to Art, Given Before the University of Oxford, in Lent Term, 1872",
+      "author": "Ruskin, John"
+    },
+    {
+      "id": "55975",
+      "title": "Voyager Encounters Jupiter",
+      "author": "United States. National Aeronautics and Space Administration"
+    },
+    {
+      "id": "73335",
+      "title": "Aberdeenshire",
+      "author": "Mackie, Alexander"
+    },
+    {
+      "id": "11498",
+      "title": "Scientific American Supplement, No. 601, July 9, 1887",
+      "author": "Various"
+    },
+    {
+      "id": "33921",
+      "title": "Cacao Culture in the Philippines",
+      "author": "Lyon, William Scrugham"
+    },
+    {
+      "id": "52869",
+      "title": "On the Connexion of the Physical Sciences",
+      "author": "Somerville, Mary"
+    },
+    {
+      "id": "58197",
+      "title": "Popular Superstitions, and the Truths Contained Therein: With an Account of Mesmerism",
+      "author": "Mayo, Herbert"
+    },
+    {
+      "id": "17712",
+      "title": "The moon : $b a full description and map of its principal physical features",
+      "author": "Elger, Thomas Gwyn"
+    },
+    {
+      "id": "43819",
+      "title": "Every-day Science: Volume 7. The Conquest of Time and Space",
+      "author": "Williams, Henry Smith"
+    },
+    {
+      "id": "47021",
+      "title": "The Story of the Solar System",
+      "author": "Chambers, George F. (George Frederick)"
+    },
+    {
+      "id": "58915",
+      "title": "Voyage to Jupiter",
+      "author": "Morrison, David"
+    },
+    {
+      "id": "46473",
+      "title": "Appletons' Popular Science Monthly, March 1900: Vol. 56, Nov. 1899 to April, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "33084",
+      "title": "Practical Angora Goat Raising",
+      "author": "Unknown"
+    },
+    {
+      "id": "26142",
+      "title": "Peat and its Uses as Fertilizer and Fuel",
+      "author": "Johnson, Samuel W. (Samuel William)"
+    },
+    {
+      "id": "47183",
+      "title": "Appletons' Popular Science Monthly, April 1900: Vol. 56, Nov. 1899 to April, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "54378",
+      "title": "Through the Telescope",
+      "author": "Baikie, James"
+    },
+    {
+      "id": "38045",
+      "title": "Marvels of Scientific Invention: An Interesting Account in Non-Technical Language of the Invention of Guns, Torpedoes, Submarine Mines, Up-to-Date Smelting, Freezing, Colour Photography, and Many Other Recent Discoveries of Science",
+      "author": "Corbin, Thomas W."
+    },
+    {
+      "id": "40080",
+      "title": "A Pictorial Booklet on Early Jamestown Commodities and Industries",
+      "author": "Hudson, J. Paul"
+    },
+    {
+      "id": "56305",
+      "title": "The Moon: considered as a planet, a world, and a satellite.",
+      "author": "Nasmyth, James"
+    },
+    {
+      "id": "8195",
+      "title": "Scientific American Supplement, No. 275, April 9, 1881",
+      "author": "Various"
+    },
+    {
+      "id": "62891",
+      "title": "The Medals of Creation, Volumes 1 and 2: First Lessons in Geology and the Study of Organic Remains",
+      "author": "Mantell, Gideon Algernon"
+    },
+    {
+      "id": "25062",
+      "title": "A Study of Recent Earthquakes",
+      "author": "Davison, Charles"
+    },
+    {
+      "id": "35121",
+      "title": "Asbestos, Its production and use: With some account of the asbestos mines of Canada",
+      "author": "Jones, Robert H."
+    },
+    {
+      "id": "20221",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Twenty-Fourth Annual Meeting: Downington, Pennsylvania, September 11 and 12, 1933",
+      "author": "Unknown"
+    },
+    {
+      "id": "35316",
+      "title": "Dragons of the Air: An Account of Extinct Flying Reptiles",
+      "author": "Seeley, H. G. (Harry Govier)"
+    },
+    {
+      "id": "47067",
+      "title": "Margaret Mahaney Talks About Turkeys",
+      "author": "Mahaney, Margaret"
+    },
+    {
+      "id": "59658",
+      "title": "Some Salient Points in the Science of the Earth",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "45020",
+      "title": "The Divining Rod: Virgula Divina—Baculus Divinatorius (Water-Witching)",
+      "author": "Latimer, Charles"
+    },
+    {
+      "id": "44502",
+      "title": "Every-day Science: Volume 6. The Conquest of Nature",
+      "author": "Williams, Henry Smith"
+    },
+    {
+      "id": "62838",
+      "title": "Lamb Slaughtering, Cutting, Preserving, and Cooking on the Farm",
+      "author": "Cross, H. Russell"
+    },
+    {
+      "id": "50487",
+      "title": "Guidebook of Palo Duro Canyon",
+      "author": "West Texas State University. Geological Society"
+    },
+    {
+      "id": "66755",
+      "title": "Animal Life in Field and Garden",
+      "author": "Fabre, Jean-Henri"
+    },
+    {
+      "id": "72770",
+      "title": "The plums of New York",
+      "author": "Hedrick, U. P."
+    },
+    {
+      "id": "25206",
+      "title": "Rollo's Philosophy. [Air]",
+      "author": "Abbott, Jacob"
+    },
+    {
+      "id": "45115",
+      "title": "Appletons' Popular Science Monthly, June 1899: Volume LV",
+      "author": "Various"
+    },
+    {
+      "id": "23656",
+      "title": "Northern Nut Growers Association, Report of the Proceedings at the Third Annual Meeting: Lancaster, Pennsylvania, December 18 and 19, 1912",
+      "author": "Unknown"
+    },
+    {
+      "id": "42412",
+      "title": "Blackwood's Edinburgh Magazine, No. 401, March 1849",
+      "author": "Various"
+    },
+    {
+      "id": "60070",
+      "title": "Texas Gemstones",
+      "author": "King, Elbert A."
+    },
+    {
+      "id": "48394",
+      "title": "An Account of the Insects Noxious to Agriculture and Plants in New Zealand: The Scale Insects (Coccididae)",
+      "author": "Maskell, William Miles"
+    },
+    {
+      "id": "73879",
+      "title": "The geography and geology of south-eastern Egypt",
+      "author": "Ball, John"
+    },
+    {
+      "id": "7116",
+      "title": "Vestiges of the Natural History of Creation",
+      "author": "Chambers, Robert"
+    },
+    {
+      "id": "47108",
+      "title": "Deserts: Geology and Resources",
+      "author": "Walker, A. S. (Alta Sharon)"
+    },
+    {
+      "id": "2690",
+      "title": "Coral Reefs",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "33074",
+      "title": "The Pig: Breeding, Rearing, and Marketing",
+      "author": "Spencer, Sanders"
+    },
+    {
+      "id": "68093",
+      "title": "Keeping one cow: Being the experience of a number of practical writers, in a clear and condensed form, upon the management of a single milch cow",
+      "author": "Various"
+    },
+    {
+      "id": "29383",
+      "title": "The Hawaiian Islands: Their Resources, Agricultural, Commercial and Financial",
+      "author": "Hawaii. Department of Foreign Affairs"
+    },
+    {
+      "id": "66130",
+      "title": "History of the Water Supply of the World: arranged in a comprehensive form from eminent authorities, containing a description of the various methods of water supply, pollution and purification of waters, and sanitary effects, with analyses of potable waters, also geology and water strata of Hamilton county, Ohio, statistics of the Ohio river, proposed water supply of Cincinnati.",
+      "author": "Bell, Thomas J. (Thomas Jefferson)"
+    },
+    {
+      "id": "73350",
+      "title": "The modern packing house : $b A complete treatise on the design, construction, equipment and operation of meat packing houses, according to present American praactice, including methods of converting by-products into commercial articles",
+      "author": "Wilder, F. W. (Fred William)"
+    },
+    {
+      "id": "8452",
+      "title": "Scientific American Supplement, No. 363, December 16, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "29733",
+      "title": "The Farmer and His Community",
+      "author": "Sanderson, Dwight"
+    },
+    {
+      "id": "67527",
+      "title": "The Foot-prints of the Creator : $b or, The Asterolepis of Stromness",
+      "author": "Miller, Hugh"
+    },
+    {
+      "id": "40187",
+      "title": "Modern Geography",
+      "author": "Newbigin, Marion I. (Marion Isabel)"
+    },
+    {
+      "id": "49288",
+      "title": "The Dinosaur Quarry. Dinosaur National Monument, Colorado-Utah",
+      "author": "Good, John M. (John Maxwell)"
+    },
+    {
+      "id": "2871",
+      "title": "The Variation of Animals and Plants under Domestication — Volume 1",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "31899",
+      "title": "Conservation Through Engineering: Extract from the Annual Report of the Secretary of the Interior",
+      "author": "Lane, Franklin K."
+    },
+    {
+      "id": "18763",
+      "title": "Scientific American Supplement, No. 365, December 30, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "32482",
+      "title": "The Introduction of Self-Registering Meteorological Instruments",
+      "author": "Multhauf, Robert P."
+    },
+    {
+      "id": "19302",
+      "title": "Dinosaurs, with Special Reference to the American Museum Collections",
+      "author": "Matthew, William Diller"
+    },
+    {
+      "id": "57178",
+      "title": "The Life of a Fossil Hunter",
+      "author": "Sternberg, Charles H. (Charles Hazelius)"
+    },
+    {
+      "id": "65426",
+      "title": "Industrial Minerals and Metals of Illinois",
+      "author": "Lamar, J. E. (John Everts)"
+    },
+    {
+      "id": "3679",
+      "title": "Getting Gold: A Practical Treatise for Prospectors, Miners and Students",
+      "author": "Johnson, J. C. F. (Joseph Colin Francis)"
+    },
+    {
+      "id": "32367",
+      "title": "Outlines of dairy bacteriology, 10th edition: A concise manual for the use of students in dairying",
+      "author": "Russell, H. L. (Harry Luman)"
+    },
+    {
+      "id": "44738",
+      "title": "Devonshire",
+      "author": "Knight, Francis A. (Francis Arnold)"
+    },
+    {
+      "id": "49078",
+      "title": "The Shire Horse in Peace and War",
+      "author": "Frost, J. Albert"
+    },
+    {
+      "id": "50420",
+      "title": "History of the Beef Cattle Industry in Illinois",
+      "author": "Farley, Frank Webster"
+    },
+    {
+      "id": "46894",
+      "title": "Volcanoes",
+      "author": "Tilling, Robert I."
+    },
+    {
+      "id": "53678",
+      "title": "On Naval Timber and Arboriculture: With Critical Notes on Authors who have Recently Treated the Subject of Planting",
+      "author": "Matthew, Patrick"
+    },
+    {
+      "id": "36261",
+      "title": "The Chain of Life in Geological Time: A Sketch of the Origin and Succession of Animals and Plants",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "33272",
+      "title": "Green Spring Farm, Fairfax County, Virginia",
+      "author": "Netherton, Ross De Witt"
+    },
+    {
+      "id": "40952",
+      "title": "Mushroom Culture: Its Extension and Improvement",
+      "author": "Robinson, W. (William)"
+    },
+    {
+      "id": "49130",
+      "title": "Hovey's Handbook of the Mammoth Cave of Kentucky: A Practical Guide to the Regulation Routes",
+      "author": "Hovey, Horace Carver"
+    },
+    {
+      "id": "30297",
+      "title": "Records of the Fossil Mammal Sinclairella, Family Apatemyidae, From the Chadronian and Orellan",
+      "author": "Clemens, William A. (William Alvin)"
+    },
+    {
+      "id": "44569",
+      "title": "The Diatomaceæ of Philadelphia and Vicinity",
+      "author": "Boyer, Charles S. (Charles Sumner)"
+    },
+    {
+      "id": "48876",
+      "title": "Outlines of Creation",
+      "author": "Noyce, Elisha"
+    },
+    {
+      "id": "73615",
+      "title": "Comparative geography",
+      "author": "Ritter, Carl"
+    },
+    {
+      "id": "45084",
+      "title": "Notes on Collecting and Preserving Natural-History Objects",
+      "author": "Unknown"
+    },
+    {
+      "id": "52663",
+      "title": "American Journal of Science, Vol. 1.",
+      "author": "Various"
+    },
+    {
+      "id": "46421",
+      "title": "Coyotes in Their Economic Relations",
+      "author": "Lantz, David E. (David Ernest)"
+    },
+    {
+      "id": "41351",
+      "title": "Practical Exercises in Elementary Meteorology",
+      "author": "Ward, Robert DeCourcy"
+    },
+    {
+      "id": "55168",
+      "title": "Fossils: A Story of the Rocks and Their Record of Prehistoric Life",
+      "author": "Markman, Harvey C."
+    },
+    {
+      "id": "63322",
+      "title": "The Philosophy of Earthquakes, Natural and Religious: or, An Inquiry Into Their Cause, and Their Purpose",
+      "author": "Stukeley, William"
+    },
+    {
+      "id": "8718",
+      "title": "Scientific American Supplement, No. 401, September 8, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "8951",
+      "title": "Scientific American, Volume 17, No. 26 December 28, 1867: A Weekly Journal of Practical Information, Art, Science, Mechanics, Chemistry, and Manufactures.",
+      "author": "Various"
+    },
+    {
+      "id": "11734",
+      "title": "Scientific American Supplement, No. 460, October 25, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "73975",
+      "title": "Soils, their formation, properties, composition, and relations to climate and plant growth in the humid and arid regions",
+      "author": "Hilgard, Eugene W. (Eugene Woldemar)"
+    },
+    {
+      "id": "39466",
+      "title": "Reading the Weather",
+      "author": "Longstreth, T. Morris (Thomas Morris)"
+    },
+    {
+      "id": "57954",
+      "title": "Useful Knowledge: Volume 2. Vegetables: Or, a familiar account of the various productions of nature",
+      "author": "Bingley, William"
+    },
+    {
+      "id": "60574",
+      "title": "The Geologic Story of Yellowstone National Park",
+      "author": "Keefer, William R."
+    },
+    {
+      "id": "8862",
+      "title": "Scientific American Supplement, No. 384, May 12, 1883",
+      "author": "Various"
+    },
+    {
+      "id": "19373",
+      "title": "Northern Nut Growers Association, Report Of The Proceedings At The Tenth Annual Meeting.: Battle Creek, Michigan, December 9 and 10, 1919",
+      "author": "Unknown"
+    },
+    {
+      "id": "21592",
+      "title": "The Art of Making Whiskey: So As to Obtain a Better, Purer, Cheaper and Greater Quantity of Spirit, From a Given Quantity of Grain. Also, the Art of Converting It into Gin, after the Process of the Holland Distillers",
+      "author": "Boucherie, Anthony"
+    },
+    {
+      "id": "40282",
+      "title": "Evolution and Classification of the Pocket Gophers of the Subfamily Geomyinae",
+      "author": "Russell, Robert J."
+    },
+    {
+      "id": "51021",
+      "title": "The Geological History of Plants",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "55695",
+      "title": "Pioneer Saturn Encounter",
+      "author": "United States. National Aeronautics and Space Administration"
+    },
+    {
+      "id": "38403",
+      "title": "Scientific American Supplement, No. 648, June 2, 1888.",
+      "author": "Various"
+    },
+    {
+      "id": "68282",
+      "title": "Butchering and curing meats in China",
+      "author": "Levine, Carl Oscar"
+    },
+    {
+      "id": "75110",
+      "title": "A history of land mammals in the western hemisphere",
+      "author": "Scott, William Berryman"
+    },
+    {
+      "id": "12490",
+      "title": "Scientific American Supplement, No. 492, June 6, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "42043",
+      "title": "Illogical Geology, the Weakest Point in the Evolution Theory",
+      "author": "Price, George McCready"
+    },
+    {
+      "id": "43297",
+      "title": "The Natural History of Clay",
+      "author": "Searle, Alfred B. (Alfred Broadhead)"
+    },
+    {
+      "id": "47238",
+      "title": "The Popular Science Monthly, July, 1900: Vol. 57, May, 1900 to October, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "46911",
+      "title": "Wonders of the Yellowstone",
+      "author": "Richardson, James (Geologist)"
+    },
+    {
+      "id": "48300",
+      "title": "Scientific American, Volume 56, No. 9, February 26, 1887",
+      "author": "Various"
+    },
+    {
+      "id": "20202",
+      "title": "Walnut Growing in Oregon",
+      "author": "Unknown"
+    },
+    {
+      "id": "51382",
+      "title": "The National Geographic Magazine, Vol. II., No. 2, May, 1890",
+      "author": "Various"
+    },
+    {
+      "id": "53063",
+      "title": "The netherworld of Mendip : $b explorations in the great caverns of Somerset, Yorkshire, Derbyshire, and elsewhere",
+      "author": "Baker, Ernest A. (Ernest Albert)"
+    },
+    {
+      "id": "57379",
+      "title": "The Nile in 1904",
+      "author": "Willcocks, William, Sir"
+    },
+    {
+      "id": "50584",
+      "title": "Insects and Diseases of Trees in the South",
+      "author": "Anonymous"
+    },
+    {
+      "id": "68122",
+      "title": "The Hollow Earth",
+      "author": "Ives, F. T. (Franklin Titus)"
+    },
+    {
+      "id": "18562",
+      "title": "Outlines of the Earth's History: A Popular Study in Physiography",
+      "author": "Shaler, Nathaniel Southgate"
+    },
+    {
+      "id": "17354",
+      "title": "Cave Regions of the Ozarks and Black Hills",
+      "author": "Owen, Luella Agnes"
+    },
+    {
+      "id": "69022",
+      "title": "Worlds in the making: The evolution of the universe",
+      "author": "Arrhenius, Svante"
+    },
+    {
+      "id": "72103",
+      "title": "Travels into North America, Volume 2 (of 3)",
+      "author": "Kalm, Pehr"
+    },
+    {
+      "id": "44880",
+      "title": "Appletons' Popular Science Monthly, May 1899: Volume LV, No. 1, May 1899",
+      "author": "Various"
+    },
+    {
+      "id": "26552",
+      "title": "Fruits of Queensland",
+      "author": "Benson, Albert H. (Albert Henry)"
+    },
+    {
+      "id": "47181",
+      "title": "Appletons' Popular Science Monthly, February 1900: Vol. 56, November, 1899 to April, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "71807",
+      "title": "The story of rope : $b The history and the modern development of rope-making",
+      "author": "Plymouth Cordage Company"
+    },
+    {
+      "id": "40121",
+      "title": "The Meeting-Place of Geology and History",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "35510",
+      "title": "The Preparation of Plantation Rubber",
+      "author": "Morgan, Sidney"
+    },
+    {
+      "id": "40268",
+      "title": "Significant Achievements in Space Bioscience 1958-1964",
+      "author": "United States. National Aeronautics and Space Administration"
+    },
+    {
+      "id": "40670",
+      "title": "Makers of Modern Agriculture",
+      "author": "Macdonald, William"
+    },
+    {
+      "id": "45602",
+      "title": "Buffon's Natural History, Volume 02 (of 10): Containing a Theory of the Earth, a General History of Man, of the Brute Creation, and of Vegetables, Mineral, &c. &c",
+      "author": "Buffon, Georges Louis Leclerc, comte de"
+    },
+    {
+      "id": "52655",
+      "title": "The Ornithosauria: An elementary study of the bones of Pterodactyles made from fossil remains found in the Cambridge Upper Greensand, and arranged in the Woodwardian Museum of the University of Cambridge",
+      "author": "Seeley, H. G. (Harry Govier)"
+    },
+    {
+      "id": "54329",
+      "title": "Symmes's Theory of Concentric Spheres: Demonstrating that the Earth is hollow, habitable within, and widely open about the poles",
+      "author": "McBride, James"
+    },
+    {
+      "id": "11604",
+      "title": "The Atlantic Monthly, Volume 06, No. 33, July, 1860: A Magazine Of Literature, Art, And Politics",
+      "author": "Various"
+    },
+    {
+      "id": "19547",
+      "title": "Obed Hussey, Who, of All Inventors, Made Bread Cheap",
+      "author": "Unknown"
+    },
+    {
+      "id": "60512",
+      "title": "A Hand-book of Precious Stones",
+      "author": "Rothschild, Meyer D."
+    },
+    {
+      "id": "72330",
+      "title": "The mighty deep : $b and what we know of it",
+      "author": "Giberne, Agnes"
+    },
+    {
+      "id": "10855",
+      "title": "Is Mars habitable? A critical examination of Professor Percival Lowell's book \"Mars and its canals,\" with an alternative explanation",
+      "author": "Wallace, Alfred Russel"
+    },
+    {
+      "id": "17855",
+      "title": "Hemp Hurds as Paper-Making Material",
+      "author": "Dewey, Lyster H. (Lyster Hoxie)"
+    },
+    {
+      "id": "24236",
+      "title": "Time and Tide: A Romance of the Moon",
+      "author": "Ball, Robert S. (Robert Stawell)"
+    },
+    {
+      "id": "49505",
+      "title": "The Romance of the Microscope: An interesting description of its uses in all branches of science, industry, agriculture, and in the detection of crime, with a short account of its origin, history, and development",
+      "author": "Ealand, C. A. (Charles Aubrey)"
+    },
+    {
+      "id": "13401",
+      "title": "Scientific American Supplement, No. 520, December 19, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "58879",
+      "title": "Hertfordshire",
+      "author": "Lydekker, Richard"
+    },
+    {
+      "id": "59074",
+      "title": "Australasian Fossils: A Students' Manual of Palaeontology",
+      "author": "Chapman, Frederick"
+    },
+    {
+      "id": "61765",
+      "title": "The Pleistocene of North America: and its vertebrated animals from the states east of the Mississippi River and from the Canadian provinces east of longitude 95°",
+      "author": "Hay, Oliver Perry"
+    },
+    {
+      "id": "75644",
+      "title": "The sacred theory of the Earth, Volume 1 (of 2) : $b Containing an account of the original of the Earth, and of all the general changes which it hath already undergone, or is to undergo, till the consummation of all things.",
+      "author": "Burnet, Thomas"
+    },
+    {
+      "id": "19465",
+      "title": "Draining for Profit, and Draining for Health",
+      "author": "Waring, George E. (George Edwin)"
+    },
+    {
+      "id": "62685",
+      "title": "Ducks and Geese: Standard Breeds and Management",
+      "author": "Howard, George E. (George Ellsworth)"
+    },
+    {
+      "id": "15052",
+      "title": "Scientific American Supplement, No. 832,  December 12, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "52973",
+      "title": "Geology and Revelation: or, the Ancient History of the Earth, considered in the geological facts and revealed religion.",
+      "author": "Molloy, Gerald"
+    },
+    {
+      "id": "71158",
+      "title": "Three textile raw materials and their manufacture",
+      "author": "International Acceptance Bank"
+    },
+    {
+      "id": "50355",
+      "title": "Titan of Chasms: The Grand Canyon of Arizona",
+      "author": "Powell, John Wesley"
+    },
+    {
+      "id": "60961",
+      "title": "The Book of Shells: Containing the Classes Mollusca, Conchifera, Cirrhipeda, Annulata, and Crustacea",
+      "author": "Society for Promoting Christian Knowledge (Great Britain). Committee of General Literature and Education"
+    },
+    {
+      "id": "71368",
+      "title": "The anatomy of the domestic fowl",
+      "author": "Kaupp, B. F. (Benjamin Franklyn)"
+    },
+    {
+      "id": "73616",
+      "title": "Something about sugar : $b Its history, growth, manufacture and distribution",
+      "author": "Rolph, George M. (George Morrison)"
+    },
+    {
+      "id": "6167",
+      "title": "Business Hints for Men and Women",
+      "author": "Calhoun, A. R. (Alfred Rochefort)"
+    },
+    {
+      "id": "38051",
+      "title": "The Tomato",
+      "author": "Work, Paul"
+    },
+    {
+      "id": "16270",
+      "title": "Scientific American Supplement, No. 623, December 10, 1887",
+      "author": "Various"
+    },
+    {
+      "id": "43581",
+      "title": "Fruits of the Hawaiian Islands",
+      "author": "Wilder, Gerrit Parmile"
+    },
+    {
+      "id": "18288",
+      "title": "Northern Nut Growers Association, report of the proceedings at the sixth annual meeting: Rochester, New York, September 1 and 2, 1915",
+      "author": "Unknown"
+    },
+    {
+      "id": "33925",
+      "title": "The Geological Story of the Isle of Wight",
+      "author": "Hughes, J. Cecil (John Cecil)"
+    },
+    {
+      "id": "36064",
+      "title": "Farm Gardening with Hints on Cheap Manuring: Quick Cash Crops and How to Grow Them",
+      "author": "Anonymous"
+    },
+    {
+      "id": "36252",
+      "title": "Sounding the Ocean of Air: Being Six Lectures Delivered Before the Lowell Institute of Boston, in December 1898",
+      "author": "Rotch, Abbott Lawrence"
+    },
+    {
+      "id": "37224",
+      "title": "Popular Books on Natural Science: For Practical Use in Every Household, for Readers of All Classes",
+      "author": "Bernstein, Aaron David"
+    },
+    {
+      "id": "50767",
+      "title": "Life's Dawn on Earth: Being the history of the oldest known fossil remains, and their relations to geological time and to the development of the animal kingdom",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "57898",
+      "title": "Useful Knowledge: Volume 1. Minerals: Or, a familiar account of the various productions of nature",
+      "author": "Bingley, William"
+    },
+    {
+      "id": "3054",
+      "title": "Volcanic Islands",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "1707",
+      "title": "A History of Science — Volume 3",
+      "author": "Williams, Henry Smith"
+    },
+    {
+      "id": "14009",
+      "title": "Scientific American Supplement, No. 787, January 31, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "16938",
+      "title": "Pressure, Resistance, and Stability of Earth: American Society of Civil Engineers: Transactions, Paper No. 1174, Volume LXX, December 1910",
+      "author": "Meem, J. C."
+    },
+    {
+      "id": "22302",
+      "title": "The Western United States: A Geographical Reader",
+      "author": "Fairbanks, Harold W. (Harold Wellman)"
+    },
+    {
+      "id": "38428",
+      "title": "Through a Microscope: Something of the Science, Together with many Curious Observations Indoor and Out and Directions for a Home-made Microscope.",
+      "author": "Wells, Samuel"
+    },
+    {
+      "id": "62068",
+      "title": "The Face of the Earth as Seen from the Air: A Study in the Application of Airplane Photography to Geography",
+      "author": "Lee, Willis T. (Willis Thomas)"
+    },
+    {
+      "id": "66711",
+      "title": "The Almond in California",
+      "author": "Taylor, R. H. (Ralph Hawley)"
+    },
+    {
+      "id": "28752",
+      "title": "Pleasures of the telescope: An Illustrated Guide for Amateur Astronomers and a Popular Description of the Chief Wonders of the Heavens for General Readers",
+      "author": "Serviss, Garrett Putman"
+    },
+    {
+      "id": "40256",
+      "title": "Barium: A Cause of the Loco-Weed Disease",
+      "author": "Crawford, Albert C. (Albert Cornelius)"
+    },
+    {
+      "id": "71495",
+      "title": "The Ohio Naturalist, Vol. I, No. 7, May, 1901",
+      "author": "Ohio State University. Biological Club"
+    },
+    {
+      "id": "33029",
+      "title": "Ducks and Geese",
+      "author": "Lamon, Harry M."
+    },
+    {
+      "id": "49271",
+      "title": "Common Minerals and Rocks",
+      "author": "Crosby, William O. (William Otis)"
+    },
+    {
+      "id": "65618",
+      "title": "Practical Farm Buildings: Plans and Suggestions",
+      "author": "Hunter, Andrew Frederick"
+    },
+    {
+      "id": "67569",
+      "title": "Tractor Principles: The Action, Mechanism, Handling, Care, Maintenance and Repair of the Gas Engine Tractor",
+      "author": "Whitman, Roger B. (Roger Bradbury)"
+    },
+    {
+      "id": "60550",
+      "title": "The Science of Brickmaking",
+      "author": "Harris, George Frederick"
+    },
+    {
+      "id": "6019",
+      "title": "The Earth as Modified by Human Action",
+      "author": "Marsh, George P. (George Perkins)"
+    },
+    {
+      "id": "74831",
+      "title": "The topography and geology of the Fayum province of Egypt",
+      "author": "Beadnell, H. J. L. (Hugh John Llewellyn)"
+    },
+    {
+      "id": "37359",
+      "title": "Motor Truck Logging Methods: Engineering Experiment Station Series, Bulletin No. 12",
+      "author": "Knapp, Frederick Malcolm"
+    },
+    {
+      "id": "72471",
+      "title": "The Fayûm and Lake Mœris",
+      "author": "Brown, R. H. (Robert Hanbury)"
+    },
+    {
+      "id": "75119",
+      "title": "Report on the geology of the Henry Mountains",
+      "author": "Gilbert, Grove Karl"
+    },
+    {
+      "id": "46171",
+      "title": "Florida Caverns State Park: Marianna, Florida",
+      "author": "Vernon, Robert O. (Robert Orion)"
+    },
+    {
+      "id": "66333",
+      "title": "A Monograph of the Trilobites of North America: with Coloured Models of the Species",
+      "author": "Green, Jacob"
+    },
+    {
+      "id": "40091",
+      "title": "The Solution of the Pyramid Problem; or, Pyramid Discoveries: With a New Theory as to their Ancient Use",
+      "author": "Ballard, Robert"
+    },
+    {
+      "id": "35317",
+      "title": "Geology",
+      "author": "Geikie, James"
+    },
+    {
+      "id": "13939",
+      "title": "Scientific American Supplement, No. 484, April 11, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "37350",
+      "title": "The Ancestry of Modern Amphibia: A Review of the Evidence",
+      "author": "Eaton, Theodore H. (Theodore Hildreth)"
+    },
+    {
+      "id": "47261",
+      "title": "The Popular Science Monthly, August, 1900: Vol. 57, May, 1900 to October, 1900",
+      "author": "Various"
+    },
+    {
+      "id": "53562",
+      "title": "Underground Treasures: How and Where to Find Them: A Key for the Ready Determination of All the Useful Minerals Within the United States",
+      "author": "Orton, James"
+    },
+    {
+      "id": "8484",
+      "title": "Scientific American Supplement, No. 430, March 29, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "11383",
+      "title": "Scientific American Supplement, No. 531, March 6, 1886",
+      "author": "Various"
+    },
+    {
+      "id": "42346",
+      "title": "A Possible Solution of the Number Series on Pages 51 to 58 of the Dresden Codex",
+      "author": "Guthe, Carl E. (Carl Eugen)"
+    },
+    {
+      "id": "9666",
+      "title": "Scientific American Supplement, No. 497, July 11, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "59262",
+      "title": "The Underworld of Oregon Caves National Monument",
+      "author": "Contor, Roger J."
+    },
+    {
+      "id": "67465",
+      "title": "Poultry diseases: Causes, symptoms and treatment, with notes on post-mortem examinations",
+      "author": "Wortley, E. J. (E. Jocelyn)"
+    },
+    {
+      "id": "8408",
+      "title": "Scientific American Supplement, No. 299, September 24, 1881",
+      "author": "Various"
+    },
+    {
+      "id": "47727",
+      "title": "The different modes of cultivating the pine-apple: From its first introduction into Europe to the late improvements of T.A. Knight, esq.",
+      "author": "Loudon, J. C. (John Claudius)"
+    },
+    {
+      "id": "62414",
+      "title": "Geology and Inhabitants of the Ancient World",
+      "author": "Owen, Richard"
+    },
+    {
+      "id": "33050",
+      "title": "Drainage Modifications and Glaciation in the Danbury Region Connecticut: State of Connecticut State Geological and Natural History Survey Bulletin No. 30",
+      "author": "Harvey, Ruth Sawyer"
+    },
+    {
+      "id": "35433",
+      "title": "Observations on Mount Vesuvius, Mount Etna, and Other Volcanos",
+      "author": "Hamilton, William, Sir"
+    },
+    {
+      "id": "66703",
+      "title": "The Story of a Boulder; or, Gleanings from the Note-book of a Field Geologist",
+      "author": "Geikie, Archibald"
+    },
+    {
+      "id": "10878",
+      "title": "The Mule: A Treatise on the Breeding, Training, and Uses to Which He May Be Put",
+      "author": "Riley, Harvey"
+    },
+    {
+      "id": "14179",
+      "title": "Theory of the Earth, With Proofs and Illustrations, Volume 2 (of 4)",
+      "author": "Hutton, James"
+    },
+    {
+      "id": "24994",
+      "title": "Wheat Growing in Australia",
+      "author": "Australia. Department of External Affairs"
+    },
+    {
+      "id": "26801",
+      "title": "Village Improvements and Farm Villages",
+      "author": "Waring, George E. (George Edwin)"
+    },
+    {
+      "id": "38148",
+      "title": "The Geography of the Region about Devil's Lake and the Dalles of the Wisconsin: With Some Notes on Its Surface Geology",
+      "author": "Salisbury, Rollin D."
+    },
+    {
+      "id": "43963",
+      "title": "The Principles of Stratigraphical Geology",
+      "author": "Marr, J. E. (John Edward)"
+    },
+    {
+      "id": "44477",
+      "title": "Hints on Dairying",
+      "author": "Curtis, T. D. (Thomas Day)"
+    },
+    {
+      "id": "52824",
+      "title": "The Story of a Loaf of Bread",
+      "author": "Wood, T. B. (Thomas Barlow)"
+    },
+    {
+      "id": "55146",
+      "title": "Common objects of the microscope",
+      "author": "Wood, J. G. (John George)"
+    },
+    {
+      "id": "58235",
+      "title": "Beach Rambles in Search of Seaside Pebbles and Crystals: With Some Observations on the Origin of the Diamond and Other Precious Stones",
+      "author": "Francis, John George"
+    },
+    {
+      "id": "45032",
+      "title": "The Principal Species of Wood: Their Characteristic Properties: First Edition",
+      "author": "Snow, Charles H. (Charles Henry)"
+    },
+    {
+      "id": "49829",
+      "title": "The Geological History of Fossil Butte National Monument and Fossil Basin",
+      "author": "McGrew, Paul O. (Paul Orman)"
+    },
+    {
+      "id": "66268",
+      "title": "The Atom and the Ocean",
+      "author": "Hull, E. W. Seabrook"
+    },
+    {
+      "id": "15229",
+      "title": "A Review of the Resources and Industries of the State of Washington, 1909",
+      "author": "Howell, Ithamar M. (Ithamar Martindale)"
+    },
+    {
+      "id": "41840",
+      "title": "The Elements of Geology; Adapted to the Use of Schools and Colleges",
+      "author": "Loomis, Justin R. (Justin Rudolph)"
+    },
+    {
+      "id": "61683",
+      "title": "The description and use of the globes and the orrery: To which is prefix'd, by way of introduction, a brief account of the solar system",
+      "author": "Harris, Joseph"
+    },
+    {
+      "id": "54376",
+      "title": "Pleasant Ways in Science",
+      "author": "Proctor, Richard A. (Richard Anthony)"
+    },
+    {
+      "id": "62053",
+      "title": "The Geology of Mt. Mansfield State Forest",
+      "author": "Christman, Robert A. (Robert Adam)"
+    },
+    {
+      "id": "67331",
+      "title": "Illustrations of the Huttonian Theory of the Earth",
+      "author": "Playfair, John"
+    },
+    {
+      "id": "69062",
+      "title": "A bacteriological study of ham souring",
+      "author": "McBryde, Charles Neil"
+    },
+    {
+      "id": "38321",
+      "title": "Economy of the Round Dairy Barn",
+      "author": "Fraser, Wilber J. (Wilber John)"
+    },
+    {
+      "id": "48126",
+      "title": "Ancient Landscapes of the Grand Canyon Region: The Geology of Grand Canyon, Zion, Bryce, Petrified Forest & Painted Desert",
+      "author": "McKee, Edwin D. (Edwin Dinwiddie)"
+    },
+    {
+      "id": "11865",
+      "title": "The Mirror of Literature, Amusement, and Instruction. Volume 20, No. 564, September 1, 1832",
+      "author": "Various"
+    },
+    {
+      "id": "47330",
+      "title": "Weather Warnings for Watchers",
+      "author": "Anonymous"
+    },
+    {
+      "id": "53751",
+      "title": "Secrets of Earth and Sea",
+      "author": "Lankester, E. Ray (Edwin Ray), Sir"
+    },
+    {
+      "id": "62994",
+      "title": "Craters of the Moon: A Guide to Craters of the Moon National Monument, Idaho",
+      "author": "United States. National Park Service. Division of Publications"
+    },
+    {
+      "id": "62831",
+      "title": "Glaciers and Glaciation in Glacier National Park",
+      "author": "Dyson, James L. (James Lindsay)"
+    },
+    {
+      "id": "17755",
+      "title": "Scientific American Supplement, No. 717,  September  28, 1889",
+      "author": "Various"
+    },
+    {
+      "id": "35937",
+      "title": "Are the Planets Inhabited?",
+      "author": "Maunder, E. Walter (Edward Walter)"
+    },
+    {
+      "id": "67873",
+      "title": "Volcanoes: What They are and What They Teach",
+      "author": "Judd, John W. (John Wesley)"
+    },
+    {
+      "id": "8559",
+      "title": "Scientific American Supplement, No. 360, November 25, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "15035",
+      "title": "Fishing Grounds of the Gulf of Maine",
+      "author": "Rich, Walter H. (Walter Herbert)"
+    },
+    {
+      "id": "75032",
+      "title": "Blackwood's Edinburgh Magazine, Vol. 76, No. 468, October, 1854",
+      "author": "Various"
+    },
+    {
+      "id": "16972",
+      "title": "Scientific American Supplement, No. 711, August 17, 1889",
+      "author": "Various"
+    },
+    {
+      "id": "42888",
+      "title": "Fur Farming for Profit, with Especial Reference to Skunk Raising",
+      "author": "Laymon, Hermon Basil"
+    },
+    {
+      "id": "58276",
+      "title": "The Florist and Horticultural Journal, Vol. II. No. 7, July, 1853: A Monthly Magazine of Horticulture, Agriculture, Botany, Agricultural Chemistry, Entomology, &c.",
+      "author": "Various"
+    },
+    {
+      "id": "59881",
+      "title": "Bryce Canyon National Park, Utah (1952)",
+      "author": "United States. National Park Service"
+    },
+    {
+      "id": "72100",
+      "title": "Geological facts; or, the crust of the earth, what it is, and what are its uses",
+      "author": "Barrett, W. G. (William Garland)"
+    },
+    {
+      "id": "9076",
+      "title": "Scientific American Supplement, No. 433, April 19, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "30706",
+      "title": "The Rain Cloud: or, An Account of the Nature, Properties, Dangers and Uses of Rain in Various Parts of the World",
+      "author": "Tomlinson, Charles"
+    },
+    {
+      "id": "43826",
+      "title": "The Story of the Hills: A Book About Mountains for General Readers.",
+      "author": "Hutchinson, H. N. (Henry Neville)"
+    },
+    {
+      "id": "51639",
+      "title": "Implement sheds",
+      "author": "Ekblaw, K. J. T. (Karl John Theodore)"
+    },
+    {
+      "id": "61230",
+      "title": "The Geology of Button Bay State Park",
+      "author": "Dodge, Harry W."
+    },
+    {
+      "id": "24552",
+      "title": "Northern Nut Growers Association, Report of the Proceedings at the Fourth Annual Meeting: Washington D.C.  November 18 and 19, 1913",
+      "author": "Unknown"
+    },
+    {
+      "id": "48008",
+      "title": "Inorganic Plant Poisons and Stimulants",
+      "author": "Brenchley, Winifred Elsie"
+    },
+    {
+      "id": "52325",
+      "title": "The Geologic Story of Colorado National Monument: Revised Edition",
+      "author": "Lohman, Stanley William"
+    },
+    {
+      "id": "28065",
+      "title": "The Pecan and its Culture",
+      "author": "Hume, H. Harold (Hardrada Harold)"
+    },
+    {
+      "id": "36344",
+      "title": "The Mentor: The Weather: Serial Number 110; 1 July, 1916",
+      "author": "Talman, Charles Fitzhugh"
+    },
+    {
+      "id": "50383",
+      "title": "The National Geographic Magazine, Vol. I., No. 3, July, 1889",
+      "author": "Various"
+    },
+    {
+      "id": "74220",
+      "title": "Agricola : $b A study of agriculture and rustic life in the Greco-Roman world from the point of view of labour",
+      "author": "Heitland, William Emerton"
+    },
+    {
+      "id": "4022",
+      "title": "Coral Reefs; Volcanic Islands; South American Geology — Complete",
+      "author": "Darwin, Charles"
+    },
+    {
+      "id": "21900",
+      "title": "The Principles of Breeding: or, Glimpses at the Physiological Laws involved in the Reproduction and Improvement of Domestic Animals",
+      "author": "Goodale, S. L. (Stephen Lincoln)"
+    },
+    {
+      "id": "27778",
+      "title": "Outlines of Dairy Bacteriology, 8th edition: A Concise Manual for the Use of Students in Dairying",
+      "author": "Russell, H. L. (Harry Luman)"
+    },
+    {
+      "id": "49302",
+      "title": "Sweet Clover: Growing the Crop",
+      "author": "Coe, H. S."
+    },
+    {
+      "id": "66317",
+      "title": "Inside Illinois: Mineral Resources",
+      "author": "Illinois State Geological Survey"
+    },
+    {
+      "id": "72438",
+      "title": "Principles and practice of agricultural analysis. Volume 2 (of 3), Fertilizers",
+      "author": "Wiley, Harvey Washington"
+    },
+    {
+      "id": "56113",
+      "title": "Irrigation works : $b the principles on which their design and working should be based, with special details relating to Indian canals and some proposed improvements",
+      "author": "Bellasis, E. S. (Edward Skelton)"
+    },
+    {
+      "id": "63923",
+      "title": "The Old Red Sandstone; or, New Walks in an Old Field",
+      "author": "Miller, Hugh"
+    },
+    {
+      "id": "62693",
+      "title": "Climate and Time in Their Geological Relations: A Theory of Secular Changes of the Earth's Climate",
+      "author": "Croll, James"
+    },
+    {
+      "id": "62715",
+      "title": "Drug Plants Under Cultivation",
+      "author": "Stockberger, W. W. (Warner Webster)"
+    },
+    {
+      "id": "35448",
+      "title": "Herd Record of the Association of Breeders of Thorough-Bred Neat Stock: Short Horns, Ayrshires and Devons",
+      "author": "Various"
+    },
+    {
+      "id": "38072",
+      "title": "Wind and Weather",
+      "author": "McAdie, Alexander"
+    },
+    {
+      "id": "55774",
+      "title": "The Law of Storms: The various phenomena by which their approach can be ascertained with certainty, and practical directions to mariners for the avoidance of their fury, compiled from various sources",
+      "author": "Ross, John"
+    },
+    {
+      "id": "60234",
+      "title": "The Geologic Story of Mount Rainier: A look at the geologic past of one of America's most scenic volcanoes",
+      "author": "Crandell, Dwight R. (Dwight Raymond)"
+    },
+    {
+      "id": "62521",
+      "title": "Links With the Past in the Plant World",
+      "author": "Seward, A. C. (Albert Charles)"
+    },
+    {
+      "id": "69389",
+      "title": "The Arctic regions and the northern whale-fishery",
+      "author": "Scoresby, William"
+    },
+    {
+      "id": "69995",
+      "title": "Report on the lands of the arid region of the United States, with a more detailed account of the lands of Utah",
+      "author": "Powell, John Wesley"
+    },
+    {
+      "id": "70654",
+      "title": "Submerged forests",
+      "author": "Reid, Clement"
+    },
+    {
+      "id": "24163",
+      "title": "The Shepherd of Banbury's Rules to Judge of the Changes of the Weather, Grounded on Forty Years' Experience",
+      "author": "Claridge, John (Shepherd)"
+    },
+    {
+      "id": "40376",
+      "title": "Cork: Its Origin and Industrial Uses",
+      "author": "Stecher, Gilbert Erwin"
+    },
+    {
+      "id": "53447",
+      "title": "The Fishing Industry",
+      "author": "Gibbs, William E. (William Edward)"
+    },
+    {
+      "id": "60710",
+      "title": "The Geology of Groton State Forest",
+      "author": "Christman, Robert A. (Robert Adam)"
+    },
+    {
+      "id": "62686",
+      "title": "Forestry for Farmers",
+      "author": "Fernow, B. E. (Bernhard Eduard)"
+    },
+    {
+      "id": "62871",
+      "title": "Thoughts on a Pebble, or, A First Lesson in Geology",
+      "author": "Mantell, Gideon Algernon"
+    },
+    {
+      "id": "69092",
+      "title": "The Ohio naturalist, Vol. 1, No. 4, February 1901",
+      "author": "Ohio State University. Biological Club"
+    },
+    {
+      "id": "6131",
+      "title": "Wonders of Creation: A Descriptive Account of Volcanoes and Their Phenomena",
+      "author": "Anonymous"
+    },
+    {
+      "id": "13347",
+      "title": "Wildflowers of the Farm",
+      "author": "Cooke, Arthur O. (Arthur Owens)"
+    },
+    {
+      "id": "33844",
+      "title": "The Cocoanut: With reference to its products and cultivation in the Philippines",
+      "author": "Lyon, William Scrugham"
+    },
+    {
+      "id": "59979",
+      "title": "Glen Canyon Dam",
+      "author": "United States. Bureau of Reclamation"
+    },
+    {
+      "id": "2632",
+      "title": "The Lights of the Church and the Light of Science: Essay #6 from \"Science and Hebrew Tradition\"",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "8717",
+      "title": "Scientific American Supplement, No. 344, August 5, 1882",
+      "author": "Various"
+    },
+    {
+      "id": "16360",
+      "title": "Scientific American Supplement, No. 561, October 2, 1886",
+      "author": "Various"
+    },
+    {
+      "id": "59836",
+      "title": "The Geologic Story of Glacier National Park",
+      "author": "Dyson, James L. (James Lindsay)"
+    },
+    {
+      "id": "69504",
+      "title": "The northern whale-fishery",
+      "author": "Scoresby, William"
+    },
+    {
+      "id": "33679",
+      "title": "Seeds of Michigan Weeds",
+      "author": "Beal, W. J. (William James)"
+    },
+    {
+      "id": "62852",
+      "title": "How to Select Cows: or, The Guenon system simplified, explained, and practically applied",
+      "author": "Hazard, Willis P. (Willis Pope)"
+    },
+    {
+      "id": "63396",
+      "title": "The Geologic Story of the Great Plains: A nontechnical description of the origin and evolution of the landscape of the Great Plains",
+      "author": "Trimble, Donald E."
+    },
+    {
+      "id": "18791",
+      "title": "Outlines of a mechanical theory of storms : $b containing the true law of lunar influence, with practical instructions to the navigator, to enable him approximately to calculate the coming changes of the wind and weather, for any given day, and for any part of the ocean",
+      "author": "Bassnett, Thomas"
+    },
+    {
+      "id": "25597",
+      "title": "Northern Nut Growers Association, Report of the Proceedings at the Seventh Annual Meeting: Washington, D. C. September 8 and 9, 1916.",
+      "author": "Unknown"
+    },
+    {
+      "id": "35419",
+      "title": "Wood and Forest",
+      "author": "Noyes, William"
+    },
+    {
+      "id": "64319",
+      "title": "The History of Esculent Fish",
+      "author": "North, Roger"
+    },
+    {
+      "id": "66492",
+      "title": "The Ancient Volcanoes of Great Britain, Volume 1 (of 2)",
+      "author": "Geikie, Archibald"
+    },
+    {
+      "id": "75392",
+      "title": "The wonders of radium",
+      "author": "Shipley, Maynard"
+    },
+    {
+      "id": "18820",
+      "title": "The Continental Monthly, Vol. 5, No. 4, April, 1864",
+      "author": "Various"
+    },
+    {
+      "id": "36496",
+      "title": "On the cattle plague: or, Contagious typhus in horned cattle. Its history, origin, description, and treatment",
+      "author": "Bourguignon, Honoré"
+    },
+    {
+      "id": "38467",
+      "title": "Natural and Artificial Duck Culture",
+      "author": "Rankin, James"
+    },
+    {
+      "id": "57860",
+      "title": "A Manual of Conchology: According to the System Laid Down by Lamarck, with the Late Improvements by De Blainville. Exemplified and Arranged for the Use of Students.",
+      "author": "Wyatt, Thomas"
+    },
+    {
+      "id": "60195",
+      "title": "The Coming Ice Age",
+      "author": "Taber, C. A. M. (Charles Austin Mendell)"
+    },
+    {
+      "id": "29586",
+      "title": "The Story of the Cotton Plant",
+      "author": "Wilkinson, Frederick"
+    },
+    {
+      "id": "66403",
+      "title": "Mammoth Hot Springs Area: Yellowstone National Park",
+      "author": "Anonymous"
+    },
+    {
+      "id": "19050",
+      "title": "Northern Nut Growers Association, report of the proceedings at the eighth annual meeting: Stamford, Connecticut, September 5 and 6, 1917",
+      "author": "Unknown"
+    },
+    {
+      "id": "39011",
+      "title": "Disease in plants",
+      "author": "Ward, H. Marshall (Harry Marshall)"
+    },
+    {
+      "id": "49070",
+      "title": "Nuclear Clocks: Revised",
+      "author": "Faul, Henry"
+    },
+    {
+      "id": "51244",
+      "title": "The Livestock Producer and Armour",
+      "author": "Unknown"
+    },
+    {
+      "id": "59379",
+      "title": "Plain Concrete for Farm Use",
+      "author": "Miller, T. A. H. (Thomas Arrington Huntington)"
+    },
+    {
+      "id": "33045",
+      "title": "The Ranidae: How to breed, feed and raise the edible frog",
+      "author": "Unknown"
+    },
+    {
+      "id": "47460",
+      "title": "Practical Skunk Raising: A Book of Information Concerning the Raising of Skunks for Profit",
+      "author": "Pratt, William Edwin"
+    },
+    {
+      "id": "60911",
+      "title": "The Wonderland of Trinidad",
+      "author": "Barber Asphalt Paving Co."
+    },
+    {
+      "id": "8502",
+      "title": "Common Diseases of Farm Animals",
+      "author": "Craig, Robert Alexander"
+    },
+    {
+      "id": "9266",
+      "title": "Scientific American Supplement, No. 447, July 26, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "40157",
+      "title": "Breeding minks in Louisiana for their fur: A profitable industry",
+      "author": "Elfer, William André"
+    },
+    {
+      "id": "59599",
+      "title": "Farmhouse Plans",
+      "author": "Ashby, Wallace"
+    },
+    {
+      "id": "67234",
+      "title": "The Book of Stars: Being a Simple Explanation of the Stars and Their Uses to Boy Life",
+      "author": "Collins, A. Frederick (Archie Frederick)"
+    },
+    {
+      "id": "62174",
+      "title": "Water pollution—Wells",
+      "author": "Watson, Irving A. (Irving Allison)"
+    },
+    {
+      "id": "63227",
+      "title": "Flytraps and Their Operation [1930]",
+      "author": "Bishopp, F. C. (Fred Corry)"
+    },
+    {
+      "id": "42356",
+      "title": "On the Red Chalk of England",
+      "author": "Wiltshire, Thomas"
+    },
+    {
+      "id": "63907",
+      "title": "Weale's Series of Scientific and Technical Works",
+      "author": "Crosby Lockwood and Son"
+    },
+    {
+      "id": "69909",
+      "title": "Cork: Being the story of the origin of cork, the processes employed in its manufacture & its various uses in the world to-day",
+      "author": "Armstrong Cork Company"
+    },
+    {
+      "id": "15889",
+      "title": "Scientific American Supplement, No. 613, October 1, 1887",
+      "author": "Various"
+    },
+    {
+      "id": "39928",
+      "title": "Man's Place in the Universe: A Study of the Results of Scientific Research in Relation to the Unity or Plurality of Worlds, 3rd Edition",
+      "author": "Wallace, Alfred Russel"
+    },
+    {
+      "id": "63519",
+      "title": "Fossil Forests of the Yellowstone National Park",
+      "author": "Knowlton, Frank Hall"
+    },
+    {
+      "id": "65151",
+      "title": "How Old Is It? The Story of Dating in Archeaology",
+      "author": "Schoenwetter, James"
+    },
+    {
+      "id": "67391",
+      "title": "Gilbert Weather Bureau (Meteorology) for Boys",
+      "author": "Gilbert, A. C. (Alfred Carlton)"
+    },
+    {
+      "id": "69991",
+      "title": "Stock and stalks : $b A book for the dairy farmer",
+      "author": "Roberts, James Russel"
+    },
+    {
+      "id": "27632",
+      "title": "Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911: Water Purification Plant, Washington, D. C. Results of Operation.",
+      "author": "American Society of Civil Engineers"
+    },
+    {
+      "id": "38928",
+      "title": "Meteorology; or, Weather Explained",
+      "author": "M'Pherson, J. G. (John Gordon)"
+    },
+    {
+      "id": "54609",
+      "title": "The Ohio Journal of Science, Vol. XVI, No. 1, November 1915",
+      "author": "Various"
+    },
+    {
+      "id": "68690",
+      "title": "The Vailan or annular theory: A synopsis of Prof. I. N. Vail's argument in support of the claim that this Earth once possessed a Saturn-like system of rings",
+      "author": "Bowers, Stephen"
+    },
+    {
+      "id": "72529",
+      "title": "A history of Vermont's maple sugar industry",
+      "author": "Vermont Maple Sugar Makers Association"
+    },
+    {
+      "id": "4598",
+      "title": "The Story of Creation as Told By Theology and By Science",
+      "author": "Ackland, T. S. (Thomas Suter)"
+    },
+    {
+      "id": "38189",
+      "title": "A Treatise on Sheep:: The Best Means for their Improvement, General Management, and the Treatment of their Diseases.",
+      "author": "Blacklock, Ambrose"
+    },
+    {
+      "id": "4204",
+      "title": "The Elements of Geology",
+      "author": "Norton, William Harmon"
+    },
+    {
+      "id": "72714",
+      "title": "The evolution of climate",
+      "author": "Brooks, C. E. P. (Charles Ernest Pelham)"
+    },
+    {
+      "id": "10060",
+      "title": "Discourses: Biological & Geological: Essays",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "27796",
+      "title": "Buchanan's Journal of Man, December 1887: Volume 1, Number 11",
+      "author": "Unknown"
+    },
+    {
+      "id": "47340",
+      "title": "Earthquakes",
+      "author": "Shedlock, Kaye M."
+    },
+    {
+      "id": "52825",
+      "title": "Petroleum",
+      "author": "Lidgett, Albert"
+    },
+    {
+      "id": "63094",
+      "title": "Sewage and sewerage of farm homes [1922]",
+      "author": "Warren, George M. (George Milton)"
+    },
+    {
+      "id": "47898",
+      "title": "Grasses : $b A handbook for use in the field and laboratory",
+      "author": "Ward, H. Marshall (Harry Marshall)"
+    },
+    {
+      "id": "56132",
+      "title": "Earthwork Slips and Subsidences upon Public Works: Their Causes, Prevention, and Reparation",
+      "author": "Newman, John"
+    },
+    {
+      "id": "5706",
+      "title": "Time and Change",
+      "author": "Burroughs, John"
+    },
+    {
+      "id": "16767",
+      "title": "Half-hours with the Telescope: Being a Popular Guide to the Use of the Telescope as a Means of Amusement and Instruction.",
+      "author": "Proctor, Richard A. (Richard Anthony)"
+    },
+    {
+      "id": "23921",
+      "title": "Barometer and Weather Guide",
+      "author": "Unknown"
+    },
+    {
+      "id": "59546",
+      "title": "Turkey Raising",
+      "author": "Marsden, Stanley J."
+    },
+    {
+      "id": "61402",
+      "title": "Sand dunes story",
+      "author": "Bessken, Donna P. (Donna Paul)"
+    },
+    {
+      "id": "63166",
+      "title": "Growing Crimson Clover",
+      "author": "Kephart, L. W. (Leonard Wheeler)"
+    },
+    {
+      "id": "65808",
+      "title": "Pecan Diseases and Pests and Their Control",
+      "author": "Rosburg, David W."
+    },
+    {
+      "id": "71486",
+      "title": "The Kansas University science bulletin, Vol. I, No. 6, September 1902",
+      "author": "Unknown"
+    },
+    {
+      "id": "57800",
+      "title": "The flow of time in the Connecticut valley : $b geological imprints",
+      "author": "Bain, George W. (George William)"
+    },
+    {
+      "id": "22603",
+      "title": "Rational Horse-Shoeing",
+      "author": "Russell, John E. (John Edwards)"
+    },
+    {
+      "id": "34056",
+      "title": "Remarks on some fossil impressions in the sandstone rocks of Connecticut River",
+      "author": "Warren, John Collins"
+    },
+    {
+      "id": "56909",
+      "title": "River and Canal Engineering, the characteristics of open flowing streams, and the principles and methods to be followed in dealing with them.",
+      "author": "Bellasis, E. S. (Edward Skelton)"
+    },
+    {
+      "id": "67685",
+      "title": "Rocks and Their Origins",
+      "author": "Cole, Grenville A. J. (Grenville Arthur James)"
+    },
+    {
+      "id": "24063",
+      "title": "A Handbook of Some South Indian Grasses",
+      "author": "Rangachari, K."
+    },
+    {
+      "id": "48195",
+      "title": "A Report upon the Mollusk Fisheries of Massachusetts",
+      "author": "Massachusetts. Commissioners on Fisheries and Game"
+    },
+    {
+      "id": "67942",
+      "title": "The honey bee: a manual of instruction in apiculture",
+      "author": "Benton, Frank"
+    },
+    {
+      "id": "61711",
+      "title": "Pig Raising: A Manual for Pig Clubs",
+      "author": "Nolan, Aretas Wilbur"
+    },
+    {
+      "id": "16792",
+      "title": "Scientific American Supplement, No. 508, September 26, 1885",
+      "author": "Various"
+    },
+    {
+      "id": "50882",
+      "title": "Introduction to the Study of Palæontological Botany",
+      "author": "Balfour, John Hutton"
+    },
+    {
+      "id": "62608",
+      "title": "Rat Proofing Buildings and Premises",
+      "author": "Silver, James"
+    },
+    {
+      "id": "51068",
+      "title": "Agatized Rainbows: A Story of the Petrified Forest",
+      "author": "Brodrick, Harold J."
+    },
+    {
+      "id": "65287",
+      "title": "The Manufacture of Tomato Products: Including whole tomato pulp or puree, tomato catsup, chili sauce, tomato soup, trimming pulp",
+      "author": "Hier, W. G. (Wayland Gladstone)"
+    },
+    {
+      "id": "67134",
+      "title": "Dairy Disagreeables Busy the Bacteriologists",
+      "author": "Hall, Frank H. (Frank Henry)"
+    },
+    {
+      "id": "45754",
+      "title": "ABC Butter Making: A Hand-Book for the Beginner",
+      "author": "Burch, Frederick S."
+    },
+    {
+      "id": "55207",
+      "title": "The Kansas University Quarterly, Vol. I, No. 1 (1892)",
+      "author": "Various"
+    },
+    {
+      "id": "72042",
+      "title": "The Corning Egg Farm book, by Corning himself",
+      "author": "Corning, Edward"
+    },
+    {
+      "id": "4759",
+      "title": "The Romance of Rubber",
+      "author": "United States Rubber Company"
+    },
+    {
+      "id": "59625",
+      "title": "Hemp",
+      "author": "Robinson, Brittain B. (Brittain Bragunier)"
+    },
+    {
+      "id": "5726",
+      "title": "The Fairy-Land of Science",
+      "author": "Buckley, Arabella B. (Arabella Burton)"
+    },
+    {
+      "id": "43597",
+      "title": "Notes on the Fenland; with A Description of the Shippea Man",
+      "author": "Hughes, Thomas McKenny"
+    },
+    {
+      "id": "62998",
+      "title": "Sweet-Clover Seed",
+      "author": "Coe, H. S."
+    },
+    {
+      "id": "63170",
+      "title": "Crimson Clover [1947]",
+      "author": "Hollowell, E. A. (Eugene Amos)"
+    },
+    {
+      "id": "69491",
+      "title": "The Ohio naturalist, Vol. 1, No. 8, June 1901",
+      "author": "Ohio State University. Biological Club"
+    },
+    {
+      "id": "24719",
+      "title": "Amateur Fish Culture",
+      "author": "Walker, Charles Edward"
+    },
+    {
+      "id": "59080",
+      "title": "The Earth's Beginning",
+      "author": "Ball, Robert S. (Robert Stawell)"
+    },
+    {
+      "id": "63131",
+      "title": "Sewage and sewerage of farm homes [1928]",
+      "author": "Warren, George M. (George Milton)"
+    },
+    {
+      "id": "16614",
+      "title": "The Birth-Time of the World and Other Scientific Essays",
+      "author": "Joly, John"
+    },
+    {
+      "id": "61400",
+      "title": "The Geology of Calvin Coolidge State Forest",
+      "author": "Dodge, Harry W."
+    },
+    {
+      "id": "63344",
+      "title": "Paper Shell Pecans",
+      "author": "Keystone Pecan Company"
+    },
+    {
+      "id": "70461",
+      "title": "An Egyptian oasis : $b An account of the oasis of Kharga in the Libyan desert, with special reference to its history, physical geography, and water-supply",
+      "author": "Beadnell, H. J. L. (Hugh John Llewellyn)"
+    },
+    {
+      "id": "36936",
+      "title": "Lectures on Ventilation: Being a Course Delivered in the Franklin Institute of Philadelphia",
+      "author": "Leeds, Lewis W."
+    },
+    {
+      "id": "33405",
+      "title": "Familiar Talks on Science: World-Building and Life; Earth, Air and Water.",
+      "author": "Gray, Elisha"
+    },
+    {
+      "id": "41952",
+      "title": "Scott Greenwood and Co. Catalogue of Special Technical Works, 1903: For Manufacturers, Students, and Technical Schools, by Expert Writers",
+      "author": "Scott, Greenwood & Co."
+    },
+    {
+      "id": "2937",
+      "title": "Coral and Coral Reefs",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "7262",
+      "title": "The Country Housewife and Lady's Director in the Management of a House, and the Delights and Profits of a Farm",
+      "author": "Bradley, Richard"
+    },
+    {
+      "id": "34586",
+      "title": "A treatise on grain stacking : $b Instructions how to properly stack all kinds of grain, so as to preserve in the best possible manner for threshing and market.",
+      "author": "De Lamater, John N."
+    },
+    {
+      "id": "50932",
+      "title": "Petrified Forest National Monument, Arizona",
+      "author": "Smith, Dama Margaret"
+    },
+    {
+      "id": "60730",
+      "title": "The Geology of Darling State Park",
+      "author": "Dodge, Harry W."
+    },
+    {
+      "id": "65551",
+      "title": "Devils Postpile National Monument, California [1984]",
+      "author": "United States. National Park Service"
+    },
+    {
+      "id": "19905",
+      "title": "Clovers and How to Grow Them",
+      "author": "Shaw, Thomas"
+    },
+    {
+      "id": "59688",
+      "title": "Chiricahua National Monument (1958)",
+      "author": "United States. National Park Service"
+    },
+    {
+      "id": "62782",
+      "title": "Sweet Clover: Utilization",
+      "author": "Coe, H. S."
+    },
+    {
+      "id": "67287",
+      "title": "Relics of Primeval Life: Beginning of Life in the Dawn of Geological Time",
+      "author": "Dawson, John William, Sir"
+    },
+    {
+      "id": "2936",
+      "title": "Geological Contemporaneity and Persistent Types of Life",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "53136",
+      "title": "Fig Culture: Edible Figs: Their Culture and Curing. Fig Culture in the Gulf States.",
+      "author": "Eisen, Gustavus A."
+    },
+    {
+      "id": "60989",
+      "title": "The Geology of D.A.R. State Park, Mt. Philo State Forest Park, Sand Bar State Park",
+      "author": "Dodge, Harry W."
+    },
+    {
+      "id": "62675",
+      "title": "Some Common Birds in Their Relation to Agriculture",
+      "author": "Beal, F. E. L. (Foster Ellenborough Lascelles)"
+    },
+    {
+      "id": "63007",
+      "title": "Spices, Their Nature and Growth; The Vanilla Bean; A Talk on Tea",
+      "author": "McCormick & Co. (Baltimore, Md.)"
+    },
+    {
+      "id": "30620",
+      "title": "Two New Pelycosaurs from the Lower Permian of Oklahoma",
+      "author": "Fox, Richard C."
+    },
+    {
+      "id": "51042",
+      "title": "The Nakimu Caves, Glacier Dominion Park, B. C.",
+      "author": "Canada. National Parks Branch"
+    },
+    {
+      "id": "62462",
+      "title": "Mineral Survey Procedures Guide, 1980",
+      "author": "Unknown"
+    },
+    {
+      "id": "18521",
+      "title": "An Expository Outline of the \"Vestiges of the Natural History of Creation\": With a Notice of the Author's \"Explanations:\" A Sequel to the Vestiges",
+      "author": "Laing, S. (Samuel)"
+    },
+    {
+      "id": "48915",
+      "title": "Account of the Skeleton of the Mammoth: A non-descript carnivorous animal of immense size, found in America",
+      "author": "Peale, Rembrandt"
+    },
+    {
+      "id": "66012",
+      "title": "Identifying Hardwoods Growing on Pine Sites",
+      "author": "Brown, Clair A. (Clair Alan)"
+    },
+    {
+      "id": "15833",
+      "title": "Scientific American Supplement, No. 441, June 14, 1884.",
+      "author": "Various"
+    },
+    {
+      "id": "24559",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Fifth Annual Meeting: Evansville, Indiana, August 20 and 21, 1914",
+      "author": "Unknown"
+    },
+    {
+      "id": "43087",
+      "title": "Total Per Cent Lambing Rules",
+      "author": "Boylan, Thomas"
+    },
+    {
+      "id": "47765",
+      "title": "A Profitable Instruction of the Perfite Ordering of Bees: With the Maruellous Nature, Propertie, and Gouernemente of Them: and the Necessarie Vses Both of Their Honie and Waxe, Seruing Diuersly, as Well in Inward as Outward Causes: Gathered Out of the Best Writers",
+      "author": "Hill, Thomas"
+    },
+    {
+      "id": "67769",
+      "title": "Bee Keeping for Profit. A New System of Bee Management (1880): First Edition.",
+      "author": "Cotton, Lizzie E., Mrs."
+    },
+    {
+      "id": "25975",
+      "title": "The Deluge in the Light of Modern Science: A Discourse",
+      "author": "Denton, William"
+    },
+    {
+      "id": "49454",
+      "title": "The Mentor: Reclaiming the Desert, Vol. 6, Num. 17, Serial No. 165, October 15, 1918",
+      "author": "Blanchard, C. J. (Clarence John)"
+    },
+    {
+      "id": "61096",
+      "title": "Diamonds",
+      "author": "Crookes, William"
+    },
+    {
+      "id": "20168",
+      "title": "Guano: A Treatise of Practical Information for Farmers",
+      "author": "Robinson, Solon"
+    },
+    {
+      "id": "28594",
+      "title": "The Peanut Plant: Its Cultivation And Uses",
+      "author": "Jones, B. W."
+    },
+    {
+      "id": "47638",
+      "title": "A treatise on the culture of the tobacco plant with the manner in which it is usually cured: Adapted to northern climates, and designed for the use of the landholders of Great-Britain.",
+      "author": "Carver, Jonathan"
+    },
+    {
+      "id": "62678",
+      "title": "Some Common Birds Useful to the Farmer (1926 edition)",
+      "author": "Beal, F. E. L. (Foster Ellenborough Lascelles)"
+    },
+    {
+      "id": "66218",
+      "title": "The Geography of New Jersey",
+      "author": "Snyder, Henry"
+    },
+    {
+      "id": "63165",
+      "title": "Crimson Clover: Growing the Crop",
+      "author": "Westgate, J. M. (John Minton)"
+    },
+    {
+      "id": "1331",
+      "title": "ABC's of Science",
+      "author": "Oliver, Charles A. (Charles Alexander)"
+    },
+    {
+      "id": "38606",
+      "title": "Poultry: A Practical Guide to the Choice, Breeding, Rearing, and Management of all Descriptions of Fowls, Turkeys, Guinea-fowls, Ducks, and Geese, for Profit and Exhibition.",
+      "author": "Piper, Hugh"
+    },
+    {
+      "id": "49200",
+      "title": "Stellar Evolution and Its Relations to Geological Time",
+      "author": "Croll, James"
+    },
+    {
+      "id": "50986",
+      "title": "Glaciers of the Rockies and Selkirks, 2nd. ed.: With Notes on Five Great Glaciers of the Canadian National Parks",
+      "author": "Coleman, A. P. (Arthur Philemon)"
+    },
+    {
+      "id": "34729",
+      "title": "How to Prosper in Boll Weevil Territory",
+      "author": "Alford, George Howard"
+    },
+    {
+      "id": "55729",
+      "title": "Bananas: Nature's Institution for the Promotion of Laziness",
+      "author": "Perry, Edward Wilkin"
+    },
+    {
+      "id": "59318",
+      "title": "Rodent Control Aided by Emergency Conservation Work",
+      "author": "Young, Stanley Paul"
+    },
+    {
+      "id": "68564",
+      "title": "Barrier beaches of the Atlantic coast",
+      "author": "Merrill, Frederick J. H. (Frederick James Hamilton)"
+    },
+    {
+      "id": "75564",
+      "title": "The puzzle of life and how it has been put together : $b A short history of the formation of the earth, with its vegetable and animal life, from the earliest times, including an account of prehistoric man, his weapons, tools, and works",
+      "author": "Nicols, Arthur"
+    },
+    {
+      "id": "32818",
+      "title": "Theory and Practice, Applied to the Cultivation of the Cucumber in the Winter Season: To Which Is Added a Chapter on Melons",
+      "author": "Moore, Thomas"
+    },
+    {
+      "id": "63169",
+      "title": "Crimson Clover [1938]",
+      "author": "Hollowell, E. A. (Eugene Amos)"
+    },
+    {
+      "id": "33760",
+      "title": "Fossil Ice Crystals: An Instance of the Practical Value of \"Pure Science\"",
+      "author": "Udden, Johan August"
+    },
+    {
+      "id": "39779",
+      "title": "American grape training : $b An account of the leading forms now in use of training the American grapes",
+      "author": "Bailey, L. H. (Liberty Hyde)"
+    },
+    {
+      "id": "58151",
+      "title": "An Essay on the Encroachments of the German Ocean Along the Norfolk Coast: With a Design to Arrest Its Further Depredations",
+      "author": "Hewitt, William"
+    },
+    {
+      "id": "40439",
+      "title": "Plato's Doctrine Respecting the Rotation of the Earth and Aristotle's Comment Upon That Doctrine",
+      "author": "Grote, George"
+    },
+    {
+      "id": "46969",
+      "title": "The Geologic Setting of the John Day Country: Grant County, Oregon",
+      "author": "Thayer, Thomas P."
+    },
+    {
+      "id": "49300",
+      "title": "Biscayne Bay, Dade Co., Florida, Between the 25th and 26th Degrees of Latitude.: A complete manual of information concerning the climate, soil, products, etc., of the lands bordering on Biscayne Bay, in Florida.",
+      "author": "Unknown"
+    },
+    {
+      "id": "63229",
+      "title": "The Bedbug [1934]",
+      "author": "Marlatt, C. L."
+    },
+    {
+      "id": "73626",
+      "title": "Insect manufactures",
+      "author": "Anonymous"
+    },
+    {
+      "id": "17171",
+      "title": "New England Salmon Hatcheries and Salmon Fisheries in the Late 19th Century",
+      "author": "Various"
+    },
+    {
+      "id": "42718",
+      "title": "Field Mice as Farm and Orchard Pests",
+      "author": "Lantz, David E. (David Ernest)"
+    },
+    {
+      "id": "62982",
+      "title": "Peter Parley's Wonders of the Earth, Sea, and Sky",
+      "author": "Goodrich, Samuel G. (Samuel Griswold)"
+    },
+    {
+      "id": "13239",
+      "title": "Grain and Chaff from an English Manor",
+      "author": "Savory, Arthur Herbert"
+    },
+    {
+      "id": "23300",
+      "title": "Half-Hours with the Stars: A Plain and Easy Guide to the Knowledge of the Constellations",
+      "author": "Proctor, Richard A. (Richard Anthony)"
+    },
+    {
+      "id": "59663",
+      "title": "Notes on Diseases of Swine, Sheep, Poultry and the Dog: Cause, Symptoms and Treatments",
+      "author": "Korinek, Charles James"
+    },
+    {
+      "id": "62921",
+      "title": "Sweet Clover: Harvesting and Thrashing the Seed Crop",
+      "author": "Coe, H. S."
+    },
+    {
+      "id": "63226",
+      "title": "Flytraps and Their Operation [1921]",
+      "author": "Bishopp, F. C. (Fred Corry)"
+    },
+    {
+      "id": "66153",
+      "title": "The Neptunian, or Water Theory of Creation",
+      "author": "Woodman, J. M."
+    },
+    {
+      "id": "69895",
+      "title": "The farm and the woodlot",
+      "author": "Barton, J. E."
+    },
+    {
+      "id": "7980",
+      "title": "The Sewerage of Sea Coast Towns",
+      "author": "Adams, Henry Charles"
+    },
+    {
+      "id": "38762",
+      "title": "How We Are Fed: A Geographical Reader",
+      "author": "Chamberlain, James Franklin"
+    },
+    {
+      "id": "65091",
+      "title": "Preliminary Report on Gowganda Mining Division District of Nipissing Ontario",
+      "author": "Collins, W. H. (William Henry)"
+    },
+    {
+      "id": "75419",
+      "title": "Poultry for profit",
+      "author": "Power, R. A. (Richard Anderson)"
+    },
+    {
+      "id": "16353",
+      "title": "Scientific American Supplement, No. 421,  January 26, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "18527",
+      "title": "An Assessment of the Consequences and Preparations for a Catastrophic California Earthquake: Findings and Actions Taken",
+      "author": "United States. Federal Emergency Management Agency"
+    },
+    {
+      "id": "53203",
+      "title": "Complete Treatise on the mare and foal at the time of delivery, with illustrations.: Also on cows and calves, with stallion and mare, when diseased by Gonorrhea (clap) or Pox, also Diarrhea and Costiveness in Colts.",
+      "author": "Mitchell, Conrad"
+    },
+    {
+      "id": "59560",
+      "title": "Animal Castration",
+      "author": "Liautard, Alexandre François Augustin"
+    },
+    {
+      "id": "66531",
+      "title": "Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 44, Vol. I, November 1, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "36870",
+      "title": "Cotton, Its Progress from the Field to the Needle: Being a brief sketch of the culture of the plant, its picking, cleaning, packing, shipment, and manufacture",
+      "author": "Anonymous"
+    },
+    {
+      "id": "66364",
+      "title": "Guide to the Norris Geyser Basin",
+      "author": "Algard, George A."
+    },
+    {
+      "id": "36645",
+      "title": "Louisiana Beef Cattle",
+      "author": "Stubbs, William Carter"
+    },
+    {
+      "id": "51106",
+      "title": "The Mentor: The Story of Coal, vol. 6, Num. 6, Serial No. 154, May 1, 1918",
+      "author": "Talman, Charles Fitzhugh"
+    },
+    {
+      "id": "62117",
+      "title": "Water Power for the Farm and Country Home",
+      "author": "Cooper, David R."
+    },
+    {
+      "id": "62676",
+      "title": "Sewage Disposal on the Farm, and Protection of Drinking Water",
+      "author": "Smith, Theobald"
+    },
+    {
+      "id": "28011",
+      "title": "Tomato Culture: A Practical Treatise on the Tomato",
+      "author": "Tracy, W. W. (William Warner)"
+    },
+    {
+      "id": "57530",
+      "title": "Volcanoes of the United States",
+      "author": "Brantley, Steven R."
+    },
+    {
+      "id": "59611",
+      "title": "The Journal of Geology, January-February 1893: A Semi-Quarterly Magazine of Geology and Related Sciences",
+      "author": "Various"
+    },
+    {
+      "id": "59748",
+      "title": "Devils Tower National Monument, Wyoming (1949)",
+      "author": "United States. National Park Service"
+    },
+    {
+      "id": "66575",
+      "title": "Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No. 45, Vol. I, November 8, 1884",
+      "author": "Various"
+    },
+    {
+      "id": "27867",
+      "title": "Scientific American magazine, Vol. 2 Issue 1: The advocate of Industry and Journal of Scientific,; Mechanical and Other Improvements",
+      "author": "Various"
+    },
+    {
+      "id": "57563",
+      "title": "Queensland, the Rich but Sparsely Peopled Country, a Paradise for Willing Workers",
+      "author": "Queensland Government Intelligence and Tourist Bureau"
+    },
+    {
+      "id": "59761",
+      "title": "Natural Bridges National Monument (1954)",
+      "author": "United States. National Park Service"
+    },
+    {
+      "id": "71972",
+      "title": "The Percheron horse",
+      "author": "Du Hays, Charles"
+    },
+    {
+      "id": "17966",
+      "title": "Life History of the Kangaroo Rat",
+      "author": "Vorhies, Charles Taylor"
+    },
+    {
+      "id": "73557",
+      "title": "The principles and objects of geology, with special reference to the geology of Egypt",
+      "author": "Hume, W. F. (William Fraser)"
+    },
+    {
+      "id": "24648",
+      "title": "A Theory of Creation: A Review of 'Vestiges of the Natural History of Creation'",
+      "author": "Bowen, Francis"
+    },
+    {
+      "id": "64499",
+      "title": "Darwinism.  The Noachian Flood: A lecture delivered before the Torquay Natural History Society, Jan. 31st, 1870",
+      "author": "Stebbing, Thomas Roscoe Rede"
+    },
+    {
+      "id": "25675",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the Fourteenth Annual Meeting: Washington D.C.  September 26, 27 and 28 1923",
+      "author": "Unknown"
+    },
+    {
+      "id": "53539",
+      "title": "Road Guide to Lassen Volcanic National Park",
+      "author": "Schulz, Paul E."
+    },
+    {
+      "id": "50704",
+      "title": "The National Geographic Magazine, Vol. I., No. 4, October, 1889",
+      "author": "Various"
+    },
+    {
+      "id": "69134",
+      "title": "Coal and the coal mines",
+      "author": "Greene, Homer"
+    },
+    {
+      "id": "63803",
+      "title": "The Forms of Water in Clouds and Rivers, Ice and Glaciers",
+      "author": "Tyndall, John"
+    },
+    {
+      "id": "73085",
+      "title": "Up from Methodism",
+      "author": "Asbury, Herbert"
+    },
+    {
+      "id": "4962",
+      "title": "The Story of Germ Life",
+      "author": "Conn, H. W. (Herbert William)"
+    },
+    {
+      "id": "37034",
+      "title": "A revised and illustrated treatise on grain stacking",
+      "author": "De Lamater, John N."
+    },
+    {
+      "id": "15468",
+      "title": "Lectures on popular and scientific subjects",
+      "author": "Caithness, James Sinclair, 14th earl of"
+    },
+    {
+      "id": "73427",
+      "title": "Elements of agricultural chemistry and geology",
+      "author": "Johnston, Jas. F. W. (James Finlay Weir)"
+    },
+    {
+      "id": "2922",
+      "title": "The Past Condition of Organic Nature: Lecture II. (of VI.), \"Lectures to Working Men\", at the Museum of Practical Geology, 1863, on Darwin's Work: \"Origin of Species\"",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "74875",
+      "title": "Profitable poultry : $b Their management in health and disease",
+      "author": "Tegetmeier, W. B. (William Bernhard)"
+    },
+    {
+      "id": "12762",
+      "title": "The Story of a Piece of Coal: What It Is, Whence It Comes, and Whither It Goes",
+      "author": "Martin, Edward A. (Edward Alfred)"
+    },
+    {
+      "id": "19878",
+      "title": "The Passaic Flood of 1903",
+      "author": "Leighton, Marshall Ora"
+    },
+    {
+      "id": "25527",
+      "title": "Australia, The Dairy Country",
+      "author": "Australia. Department of External Affairs"
+    },
+    {
+      "id": "76015",
+      "title": "Peppermint",
+      "author": "Henkel, Alice"
+    },
+    {
+      "id": "19395",
+      "title": "The New Heavens",
+      "author": "Hale, George Ellery"
+    },
+    {
+      "id": "20770",
+      "title": "Apple Growing",
+      "author": "Burritt, M. C. (Maurice Chase)"
+    },
+    {
+      "id": "59980",
+      "title": "Comparison of Methods of Sewage Purification",
+      "author": "Phillips, Theodore Clifford"
+    },
+    {
+      "id": "63122",
+      "title": "Geography of the Air",
+      "author": "Greely, A. W. (Adolphus Washington)"
+    },
+    {
+      "id": "2928",
+      "title": "Time and Life: Mr. Darwin's \"Origin of Species\"",
+      "author": "Huxley, Thomas Henry"
+    },
+    {
+      "id": "20653",
+      "title": "Checking the Waste: A Study in Conservation",
+      "author": "Gregory, Mary Huston"
+    },
+    {
+      "id": "72188",
+      "title": "How old are fossils?",
+      "author": "Roy, Sharat Kumar"
+    },
+    {
+      "id": "33972",
+      "title": "Florida: An Ideal Cattle State",
+      "author": "Florida State Live Stock Association"
+    },
+    {
+      "id": "72394",
+      "title": "Home-made cider vinegar",
+      "author": "Sackett, Walter G. (Walter George)"
+    },
+    {
+      "id": "19319",
+      "title": "A Description of the Bar-and-Frame-Hive: With an Abstract of Wildman's Complete Guide for the Management of Bees Throughout the Year",
+      "author": "Munn, William Augustus"
+    },
+    {
+      "id": "15051",
+      "title": "Scientific American Supplement, No. 829, November 21, 1891",
+      "author": "Various"
+    },
+    {
+      "id": "56472",
+      "title": "Nitrogen Bacteria and Legumes: With special reference to red clover, cowpeas, soy beans, alfalfa, and sweet clover, on Illinois soils",
+      "author": "Hopkins, Cyril G. (Cyril George)"
+    },
+    {
+      "id": "59485",
+      "title": "Wintering Bees in Cellars",
+      "author": "Phillips, Everett Franklin"
+    },
+    {
+      "id": "21022",
+      "title": "Lessons on Soil",
+      "author": "Russell, Edward J. (Edward John)"
+    },
+    {
+      "id": "67359",
+      "title": "Comparison of Woods for Butter Boxes",
+      "author": "Turnbow, Grover Dean"
+    },
+    {
+      "id": "69910",
+      "title": "The cranberry",
+      "author": "Bradley Fertilizer Company"
+    },
+    {
+      "id": "59419",
+      "title": "The Journal of Geology, May-June 1893: A Semi-Quarterly Magazone of Geology and Related Sciences",
+      "author": "Various"
+    },
+    {
+      "id": "59630",
+      "title": "Comb Honey",
+      "author": "Demuth, Geo. S. (George S.)"
+    },
+    {
+      "id": "16440",
+      "title": "The Water Supply of the El Paso and Southwestern Railway from Carrizozo to Santa Rosa, N. Mex.: American Society of Civil Engineers: Transactions, No. 1170",
+      "author": "Campbell, John Logan"
+    },
+    {
+      "id": "35258",
+      "title": "Contagious Abortion of Cows",
+      "author": "MacNeal, Ward J."
+    },
+    {
+      "id": "37295",
+      "title": "Soft Candy for Bees",
+      "author": "Gates, Burton N. (Burton Noble)"
+    },
+    {
+      "id": "62605",
+      "title": "Sewage and Garbage Disposal on the Farm",
+      "author": "Rockey, J. W. (John Wesley)"
+    },
+    {
+      "id": "57576",
+      "title": "A Method of Tanning without Bark",
+      "author": "Maple, William"
+    },
+    {
+      "id": "58138",
+      "title": "The Anatomy of Vegetables Begun: With a General Account of Vegetation founded thereon",
+      "author": "Grew, Nehemiah"
+    },
+    {
+      "id": "17039",
+      "title": "The Salmon Fishery of Penobscot Bay and River in 1895-96",
+      "author": "Smith, Hugh M. (Hugh McCormick)"
+    },
+    {
+      "id": "27548",
+      "title": "The art of promoting the growth of the cucumber and melon: in a series of directions for the best means to be adopted; in bringing them to a complete state of perfection",
+      "author": "Watkins, Thomas"
+    },
+    {
+      "id": "71955",
+      "title": "Remarks on the management, or rather, the mis-management of woods, plantations, and hedge-row timber",
+      "author": "West, J."
+    },
+    {
+      "id": "29281",
+      "title": "Remarks Concerning Stones Said to Have Fallen from the Clouds, Both in These Days, and in Antient Times",
+      "author": "King, Edward"
+    },
+    {
+      "id": "16744",
+      "title": "Pratt's Practical Pointers on the Care of Livestock and Poultry",
+      "author": "Pratt Food Company"
+    },
+    {
+      "id": "34446",
+      "title": "Cottontail Rabbits in Relation to Trees and Farm Crops",
+      "author": "Lantz, David E. (David Ernest)"
+    },
+    {
+      "id": "38096",
+      "title": "Humboldt: From 'The Gods and Other Lectures'",
+      "author": "Ingersoll, Robert Green"
+    },
+    {
+      "id": "57443",
+      "title": "The Aviator and the Weather Bureau",
+      "author": "Carpenter, Ford A. (Ford Ashman)"
+    },
+    {
+      "id": "33630",
+      "title": "Geological Report on Asbestos and its Indications, in the Province of Quebec, Canada",
+      "author": "Boyd, Lucius J."
+    },
+    {
+      "id": "71501",
+      "title": "The Kansas University science bulletin, Vol. I, No. 7,  September 1902",
+      "author": "Unknown"
+    },
+    {
+      "id": "27305",
+      "title": "The Rural Life Problem of the United States: Notes of an Irish Observer",
+      "author": "Plunkett, Horace Curzon, Sir"
+    },
+    {
+      "id": "73852",
+      "title": "A study of some factors influencing fertility and sterility in the bull",
+      "author": "Gilman, Herbert Lester"
+    },
+    {
+      "id": "73863",
+      "title": "On the improved beet root, as winter food for cattle",
+      "author": "Simpson, Pinder"
+    },
+    {
+      "id": "39357",
+      "title": "Texas Honey Plants",
+      "author": "Sanborn, Charles Emerson"
+    },
+    {
+      "id": "17776",
+      "title": "Transactions of the American Society of Civil Engineers, vol. LXX, Dec. 1910: Tests of Creosoted Timber, Paper No. 1168",
+      "author": "Gregory, W. B. (William Benjamin)"
+    },
+    {
+      "id": "56637",
+      "title": "Natural & Artificial Sewage Treatment",
+      "author": "Jones, Alfred Stowell"
+    },
+    {
+      "id": "18680",
+      "title": "Practical Forestry in the Pacific Northwest: Protecting Existing Forests and Growing New Ones, from the Standpoint of the Public and That of the Lumberman, with an Outline of Technical Methods",
+      "author": "Allen, E. T. (Edward Tyson)"
+    },
+    {
+      "id": "75965",
+      "title": "Carrots, mangold wurtzels and sugar beets : $b How to raise them, how to keep them and how to feed them",
+      "author": "Gregory, James J. H. (James John Howard)"
+    },
+    {
+      "id": "18534",
+      "title": "The Hurricane Guide: Being an Attempt to Connect the Rotary Gale or Revolving Storm with Atmospheric Waves.",
+      "author": "Birt, William Radcliff"
+    },
+    {
+      "id": "19038",
+      "title": "English walnuts : $b What you need to know about planting, cultivating and harvesting this most delicious of nuts",
+      "author": "Unknown"
+    },
+    {
+      "id": "73366",
+      "title": "Baharia Oasis : $b Its topography and geology",
+      "author": "Beadnell, H. J. L. (Hugh John Llewellyn)"
+    },
+    {
+      "id": "22199",
+      "title": "Chambers's Edinburgh Journal, No. 453: Volume 18, New Series, September 4, 1852",
+      "author": "Various"
+    },
+    {
+      "id": "27065",
+      "title": "A Manual or an Easy Method of Managing Bees",
+      "author": "Weeks, John M. (John Moseley)"
+    },
+    {
+      "id": "71693",
+      "title": "The Cambridge natural history, Vol. 03 (of 10)",
+      "author": "Cooke, A. H. (Alfred Hands)"
+    },
+    {
+      "id": "26139",
+      "title": "Ontario Teachers' Manuals: Nature Study",
+      "author": "Ontario. Department of Education"
+    },
+    {
+      "id": "59131",
+      "title": "The Natural History of Pliny, Volume 3 (of 6)",
+      "author": "Pliny, the Elder"
+    },
+    {
+      "id": "31591",
+      "title": "Language of Flowers",
+      "author": "Greenaway, Kate"
+    },
+    {
+      "id": "2440",
+      "title": "The Naturalist on the River Amazons",
+      "author": "Bates, Henry Walter"
+    },
+    {
+      "id": "21973",
+      "title": "Anecdotes of the Habits and Instinct of Animals",
+      "author": "Lee, R., Mrs."
+    },
+    {
+      "id": "58984",
+      "title": "Audubon the Naturalist: A History of His Life and Time. Vol. 2 (of 2)",
+      "author": "Herrick, Francis Hobart"
+    },
+    {
+      "id": "60688",
+      "title": "The Natural History of Pliny, Volume 5 (of 6)",
+      "author": "Pliny, the Elder"
+    },
+    {
+      "id": "6478",
+      "title": "Himalayan Journals — Complete: Or, Notes of a Naturalist in Bengal, the Sikkim and Nepal Himalayas, the Khasia Mountains, etc.",
+      "author": "Hooker, Joseph Dalton"
+    },
+    {
+      "id": "72936",
+      "title": "The life of Jean Henri Fabre, the entomologist, 1823-1910",
+      "author": "Fabre, Augustin"
+    },
+    {
+      "id": "13249",
+      "title": "Our Vanishing Wild Life: Its Extermination and Preservation",
+      "author": "Hornaday, William T. (William Temple)"
+    },
+    {
+      "id": "41625",
+      "title": "Curious Facts in the History of Insects; Including Spiders and Scorpions.: A Complete Collection of the Legends, Superstitions, Beliefs, and Ominous Signs Connected with Insects; Together with Their Uses in Medicine, Art, and as Food; and a Summary of Their Remarkable Injuries and Appearances.",
+      "author": "Cowan, Frank"
+    },
+    {
+      "id": "26500",
+      "title": "Anecdotes of Dogs",
+      "author": "Jesse, Edward"
+    },
+    {
+      "id": "62704",
+      "title": "The Natural History of Pliny, Volume 6 (of 6)",
+      "author": "Pliny, the Elder"
+    },
+    {
+      "id": "72233",
+      "title": "The Cambridge natural history, Vol. 04 (of 10)",
+      "author": "Warburton, Cecil"
+    },
+    {
+      "id": "76057",
+      "title": "London parks and gardens",
+      "author": "Cecil, Evelyn, Mrs."
+    },
+    {
+      "id": "26393",
+      "title": "The Medicinal Plants of the Philippines",
+      "author": "Pardo de Tavera, T. H. (Trinidad Hermenegildo)"
+    },
+    {
+      "id": "43429",
+      "title": "Cats: Their Points and Characteristics: With Curiosities of Cat Life, and a Chapter on Feline Ailments",
+      "author": "Stables, Gordon"
+    },
+    {
+      "id": "59512",
+      "title": "In the Wilds of South America",
+      "author": "Miller, Leo E. (Leo Edward)"
+    },
+    {
+      "id": "47500",
+      "title": "Bird-Lore, Volume I—1899",
+      "author": "Various"
+    },
+    {
+      "id": "47367",
+      "title": "British Pomology: Or, the History, Description, Classification, and Synonymes, of the Fruits and Fruit Trees of Great Britain",
+      "author": "Hogg, Robert"
+    },
+    {
+      "id": "29024",
+      "title": "Across Mongolian Plains: A Naturalist's Account of China's 'Great Northwest'",
+      "author": "Andrews, Roy Chapman"
+    },
+    {
+      "id": "71779",
+      "title": "The language of flowers : $b The floral offering ; a token of affection and esteem ; comprising the language and poetry of flowers",
+      "author": "Dumont, Henrietta"
+    },
+    {
+      "id": "62972",
+      "title": "The Horse of America in His Derivation, History, and Development",
+      "author": "Wallace, John Hankins"
+    },
+    {
+      "id": "21111",
+      "title": "Wild Nature Won By Kindness",
+      "author": "Brightwen, Mrs. (Eliza Elder)"
+    },
+    {
+      "id": "58045",
+      "title": "Travels in the Interior of Brazil: Principally through the northern provinces, and the gold and diamond districts, during the years 1836-1841",
+      "author": "Gardner, George"
+    },
+    {
+      "id": "36463",
+      "title": "Glacier National Park [Montana]",
+      "author": "United States. Department of the Interior"
+    },
+    {
+      "id": "6818",
+      "title": "The Arctic Prairies : a Canoe-Journey of 2,000 Miles in Search of the Caribou;: Being the Account of a Voyage to the Region North of Aylemer Lake",
+      "author": "Seton, Ernest Thompson"
+    },
+    {
+      "id": "25918",
+      "title": "Heads and tales : $b or, Anecdotes and stories of quadrupeds and other beasts, chiefly connected with incidents in the histories of more or less distinguished men.",
+      "author": "Unknown"
+    },
+    {
+      "id": "29086",
+      "title": "The Mushroom, Edible and Otherwise: Its Habitat and its Time of Growth",
+      "author": "Hard, Miron Elisha"
+    },
+    {
+      "id": "33654",
+      "title": "The Old English Herbals",
+      "author": "Rohde, Eleanour Sinclair"
+    },
+    {
+      "id": "28407",
+      "title": "The plant-lore & garden-craft of Shakespeare",
+      "author": "Ellacombe, Henry Nicholson"
+    },
+    {
+      "id": "46818",
+      "title": "Rivers of Great Britain. The Thames, from Source to Sea.: Descriptive, Historical, Pictorial",
+      "author": "Various"
+    },
+    {
+      "id": "32540",
+      "title": "My First Summer in the Sierra",
+      "author": "Muir, John"
+    },
+    {
+      "id": "42584",
+      "title": "Extinct Monsters: A Popular Account of Some of the Larger Forms of Ancient Animal Life",
+      "author": "Hutchinson, H. N. (Henry Neville)"
+    },
+    {
+      "id": "75947",
+      "title": "An introduction to the study of mammals living and extinct",
+      "author": "Lydekker, Richard"
+    },
+    {
+      "id": "17748",
+      "title": "The Extermination of the American Bison",
+      "author": "Hornaday, William T. (William Temple)"
+    },
+    {
+      "id": "3031",
+      "title": "Wild Animals I Have Known",
+      "author": "Seton, Ernest Thompson"
+    },
+    {
+      "id": "76311",
+      "title": "The book of the cat",
+      "author": "Simpson, Frances"
+    },
+    {
+      "id": "25773",
+      "title": "On the Portraits of English Authors on Gardening,: with Biographical Notices of Them, 2nd edition, with considerable additions",
+      "author": "Felton, Samuel"
+    },
+    {
+      "id": "4511",
+      "title": "The Life of the Bee",
+      "author": "Maeterlinck, Maurice"
+    },
+    {
+      "id": "26745",
+      "title": "Travels in Peru, on the Coast, in the Sierra, Across the Cordilleras and the Andes, into the Primeval Forests",
+      "author": "Tschudi, Johann Jakob von"
+    },
+    {
+      "id": "48031",
+      "title": "Journal of Entomology and Zoology, Vol. 06, No. 4, December 1914",
+      "author": "Various"
+    },
+    {
+      "id": "13552",
+      "title": "Ceylon; an Account of the Island Physical, Historical, and: Topographical with Notices of Its Natural History, Antiquities and; Productions, Volume 1",
+      "author": "Tennent, James Emerson, Sir"
+    },
+    {
+      "id": "41983",
+      "title": "The Book of Curiosities",
+      "author": "Platts, John"
+    },
+    {
+      "id": "20750",
+      "title": "Journal of the Proceedings of the Linnean Society - Vol. 3: Zoology",
+      "author": "Linnean Society of London"
+    },
+    {
+      "id": "27868",
+      "title": "The Glow-Worm and Other Beetles",
+      "author": "Fabre, Jean-Henri"
+    },
+    {
+      "id": "9550",
+      "title": "Manual of Gardening (Second Edition): A Practical Guide to the Making of Home Grounds and the Growing of Flowers, Fruits, and Vegetables for Home Use",
+      "author": "Bailey, L. H. (Liberty Hyde)"
+    },
+    {
+      "id": "48561",
+      "title": "Berkshire",
+      "author": "Monckton, Horace Woollaston"
+    },
+    {
+      "id": "54639",
+      "title": "The Naturalist's Repository, Volume 1 (of 5): or Monthly Miscellany of Exotic Natural History: etc. etc.",
+      "author": "Donovan, E. (Edward)"
+    },
+    {
+      "id": "2530",
+      "title": "The Malay Archipelago, Volume 1: The Land of the Orang-utan and the Bird of Paradise; A Narrative of Travel, with Studies of Man and Nature",
+      "author": "Wallace, Alfred Russel"
+    },
+    {
+      "id": "38201",
+      "title": "Wild Spain (España agreste): Records of Sport with Rifle, Rod, and Gun, Natural History Exploration",
+      "author": "Chapman, Abel"
+    },
+    {
+      "id": "56795",
+      "title": "The Story-book of Science",
+      "author": "Fabre, Jean-Henri"
+    },
+    {
+      "id": "18183",
+      "title": "Trees, Fruits and Flowers of Minnesota, 1916: Embracing the Transactions of the Minnesota State Horticultural Society,Volume 44, from December 1, 1915, to December 1, 1916, Including the Twelve Numbers of \"The Minnesota Horticulturist\" for 1916",
+      "author": "Unknown"
+    },
+    {
+      "id": "18274",
+      "title": "A Book of Natural History: Young Folks' Library Volume XIV.",
+      "author": "Unknown"
+    },
+    {
+      "id": "53153",
+      "title": "Snakes: Curiosities and Wonders of Serpent Life",
+      "author": "Hopley, Catherine Cooper"
+    },
+    {
+      "id": "67223",
+      "title": "The Strangest Things in the World: A Book About Extraordinary Manifestations of Nature",
+      "author": "Henry, Thomas R. (Thomas Robert)"
+    },
+    {
+      "id": "60000",
+      "title": "The Living Animals of the World, Volume 1 (of 2): A Popular Natural History",
+      "author": "Unknown"
+    },
+    {
+      "id": "40708",
+      "title": "Beast and Man in India: A Popular Sketch of Indian Animals in their Relations with the People",
+      "author": "Kipling, John Lockwood"
+    },
+    {
+      "id": "61195",
+      "title": "Diversions of a Naturalist",
+      "author": "Lankester, E. Ray (Edwin Ray), Sir"
+    },
+    {
+      "id": "44551",
+      "title": "New Zealand Moths and Butterflies (Macro-Lepidoptera)",
+      "author": "Hudson, G. V. (George Vernon)"
+    },
+    {
+      "id": "61597",
+      "title": "Eleanor Ormerod, LL. D., Economic Entomologist : Autobiography and Correspondence",
+      "author": "Ormerod, Eleanor A. (Eleanor Anne)"
+    },
+    {
+      "id": "25775",
+      "title": "Northern Nut Growers Association Report of the Proceedings at the 13th Annual Meeting: Rochester, N.Y. September, 7, 8 and 9, 1922",
+      "author": "Unknown"
+    },
+    {
+      "id": "23259",
+      "title": "Home Taxidermy for Pleasure and Profit: A Guide for Those Who Wish to Prepare and Mount Animals, Birds, Fish, Reptiles, etc., for Home, Den, or Office Decoration",
+      "author": "Farnham, Albert Burton"
+    },
+    {
+      "id": "45930",
+      "title": "The Romance of Plant Life: Interesting Descriptions of the Strange and Curious in the Plant World",
+      "author": "Elliot, G. F. Scott (George Francis Scott)"
+    },
+    {
+      "id": "39049",
+      "title": "Old-Time Gardens, Newly Set Forth",
+      "author": "Earle, Alice Morse"
+    },
+    {
+      "id": "42508",
+      "title": "Curious Creatures in Zoology",
+      "author": "Ashton, John"
+    },
+    {
+      "id": "19550",
+      "title": "Natural History of the Mammalia of India and Ceylon",
+      "author": "Sterndale, Robert Armitage"
+    },
+    {
+      "id": "46543",
+      "title": "Nature Books Popular and Scientific from The Franklin Bookshop, 1910: Catalogue 24, 1910-11 Season",
+      "author": "Rhoads, Samuel N. (Samuel Nicholson)"
+    }
+  ]
+}
