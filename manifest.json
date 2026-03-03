@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "lastUpdated": "2026-01-15T14:29:54.149Z",
+  "lastUpdated": "2026-03-03T18:27:55.163Z",
   "availableLanguages": [
     "ar",
     "en",
@@ -13,8 +13,8 @@
       "id": "basic",
       "name": "Survival Core",
       "description": "Essential knowledge for immediate survival scenarios.",
-      "sizeBytes": 2101965233,
-      "articleCount": 4489,
+      "sizeBytes": 2105175648,
+      "articleCount": 4501,
       "packages": [
         "survival-essentials",
         "first-aid-field",
@@ -27,8 +27,8 @@
       "id": "medium",
       "name": "Knowledge Base",
       "description": "Expanded library with philosophy, history, and deeper scientific texts.",
-      "sizeBytes": 1303918553,
-      "articleCount": 2000,
+      "sizeBytes": 1308827768,
+      "articleCount": 2006,
       "packages": [
         "civic-foundations",
         "scientific-canon"
@@ -64,8 +64,8 @@
       "description": "Core texts on shelter, agriculture, and self-reliance.",
       "category": "survival",
       "icon": "tent",
-      "sizeBytes": 485400809,
-      "articleCount": 1163,
+      "sizeBytes": 486168533,
+      "articleCount": 1166,
       "articleIds": [
         "10060",
         "10251",
@@ -1229,7 +1229,10 @@
         "9550",
         "9666",
         "9687",
-        "987"
+        "987",
+        "gutenberg-18639",
+        "gutenberg-20795",
+        "gutenberg-28255"
       ],
       "articleIdsByLanguage": {
         "es": [
@@ -1296,8 +1299,8 @@
       "description": "Emergency medical procedures with minimal equipment.",
       "category": "survival",
       "icon": "heart-pulse",
-      "sizeBytes": 485400809,
-      "articleCount": 1163,
+      "sizeBytes": 486168533,
+      "articleCount": 1166,
       "articleIds": [
         "10060",
         "10251",
@@ -2461,7 +2464,10 @@
         "9550",
         "9666",
         "9687",
-        "987"
+        "987",
+        "gutenberg-18639",
+        "gutenberg-20795",
+        "gutenberg-28255"
       ],
       "articleIdsByLanguage": {
         "es": [
@@ -2528,8 +2534,8 @@
       "description": "Comprehensive guide to safe water in any environment.",
       "category": "survival",
       "icon": "droplet",
-      "sizeBytes": 485400809,
-      "articleCount": 1163,
+      "sizeBytes": 486168533,
+      "articleCount": 1166,
       "articleIds": [
         "10060",
         "10251",
@@ -3693,7 +3699,10 @@
         "9550",
         "9666",
         "9687",
-        "987"
+        "987",
+        "gutenberg-18639",
+        "gutenberg-20795",
+        "gutenberg-28255"
       ],
       "articleIdsByLanguage": {
         "es": [
@@ -3760,8 +3769,8 @@
       "description": "Timeless philosophy for maintaining resilience in crisis.",
       "category": "philosophy",
       "icon": "scroll",
-      "sizeBytes": 645762806,
-      "articleCount": 1000,
+      "sizeBytes": 646670049,
+      "articleCount": 1003,
       "articleIds": [
         "1",
         "10056",
@@ -4762,7 +4771,10 @@
         "9776",
         "989",
         "990",
-        "992"
+        "992",
+        "gutenberg-2030",
+        "gutenberg-2680",
+        "gutenberg-45109"
       ],
       "articleIdsByLanguage": {
         "ar": [
@@ -5071,8 +5083,8 @@
       "description": "Blueprints for governance, law, and social order.",
       "category": "governance",
       "icon": "columns",
-      "sizeBytes": 635159251,
-      "articleCount": 1000,
+      "sizeBytes": 638104341,
+      "articleCount": 1003,
       "articleIds": [
         "1",
         "10112",
@@ -6073,7 +6085,10 @@
         "9599",
         "9660",
         "989",
-        "9900"
+        "9900",
+        "gutenberg-121",
+        "gutenberg-1404",
+        "gutenberg-1497"
       ],
       "articleIdsByLanguage": {
         "ar": [
@@ -6331,8 +6346,8 @@
       "description": "Foundational works that defined modern science.",
       "category": "science",
       "icon": "flask",
-      "sizeBytes": 668759302,
-      "articleCount": 1000,
+      "sizeBytes": 670723427,
+      "articleCount": 1003,
       "articleIds": [
         "10002",
         "10007",
@@ -7333,7 +7348,10 @@
         "97",
         "987",
         "989",
-        "990"
+        "990",
+        "gutenberg-1228",
+        "gutenberg-1342",
+        "gutenberg-30155"
       ],
       "articleIdsByLanguage": {
         "ar": [
